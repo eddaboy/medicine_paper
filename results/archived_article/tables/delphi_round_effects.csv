@@ -1,0 +1,12 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7
+\multicolumn{7}{l}{a  Clinical vignettes},,,,,,
+Panel,Contested cases,Urgency unanimity,Individual urgency accuracy (fixed/broken),Panel urgency accuracy (fixed/broken; P),Panel specialty accuracy (fixed/broken),Tokens in rounds 2--3
+D-1G,109 (48\,0.41 $\rightarrow$ 0.84,0.696 $\rightarrow$ 0.736 (39/26),0.789 $\rightarrow$ 0.716 (3/11; 0.057),0.630 $\rightarrow$ 0.546 (5/14),31\
+D-3Q,110 (48\,0.59 $\rightarrow$ 0.92,0.717 $\rightarrow$ 0.770 (32/15),0.773 $\rightarrow$ 0.764 (4/5; 1.00),0.587 $\rightarrow$ 0.514 (7/15),34\
+D-4D,87 (38\,0.66 $\rightarrow$ 0.93,0.697 $\rightarrow$ 0.774 (32/12),0.690 $\rightarrow$ 0.782 (9/1; 0.021),0.558 $\rightarrow$ 0.581 (9/7),22\
+D-2D,101 (44\,0.47 $\rightarrow$ 0.93,0.686 $\rightarrow$ 0.779 (45/17),0.733 $\rightarrow$ 0.782 (7/2; 0.18),0.590 $\rightarrow$ 0.570 (8/10),24\
+DH-G,56 (24\,0.48 $\rightarrow$ 0.95,0.568 $\rightarrow$ 0.590 (19/16),0.518 $\rightarrow$ 0.625 (12/6; 0.24),0.491 $\rightarrow$ 0.545 (14/11),17\
+DH-Q,32 (14\,0.62 $\rightarrow$ 1.00,0.698 $\rightarrow$ 0.781 (11/3),0.688 $\rightarrow$ 0.781 (3/0; 0.25),0.500 $\rightarrow$ 0.344 (1/6),n/a
+DH-D,58 (25\,0.60 $\rightarrow$ 1.00,0.707 $\rightarrow$ 0.690 (12/15),0.690 $\rightarrow$ 0.690 (2/2; 1.00),0.544 $\rightarrow$ 0.333 (1/13),13\
+DH-Ge,37 (16\,0.73 $\rightarrow$ 1.00,0.730 $\rightarrow$ 0.703 (4/7),0.730 $\rightarrow$ 0.703 (0/1; 1.00),0.500 $\rightarrow$ 0.389 (1/5),11\
+All eight panels,590 of 1832,0.55 $\rightarrow$ 0.93,0.692 $\rightarrow$ 0.740 (194/111; 2.3$\times10^{-6}$),0.717 $\rightarrow$ 0.737 (40/28; 0.18),0.568 $\rightarrow$ 0.508 (46/81; 0.002),

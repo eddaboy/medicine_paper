@@ -1,0 +1,5 @@
+﻿column_1,column_2,column_3,column_4
+Source,Cases,Scored protocols,Mean rubric score
+LLM-generated,151,"2,717",0.702
+Symptom-checker audit,43,774,0.637
+MSD Manual,35,622,0.715

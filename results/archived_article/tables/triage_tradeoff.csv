@@ -1,0 +1,21 @@
+﻿column_1,column_2,column_3,column_4,column_5
+\multicolumn{5}{l}{Accuracy},,,,
+panel,single,n,acc a,acc b
+D-\allowbreak{}1G,qwen3-235b-\allowbreak{}a22b,229,0.786,0.895
+D-\allowbreak{}1G,deepseek-\allowbreak{}v4-flash,228,0.785,0.886
+D-\allowbreak{}1G,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.786,0.817
+D-\allowbreak{}4D,qwen3-235b-\allowbreak{}a22b,229,0.838,0.895
+D-\allowbreak{}4D,deepseek-\allowbreak{}v4-flash,228,0.838,0.886
+D-\allowbreak{}4D,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.838,0.817
+D-\allowbreak{}2D,qwen3-235b-\allowbreak{}a22b,229,0.825,0.895
+D-\allowbreak{}2D,deepseek-\allowbreak{}v4-flash,228,0.825,0.886
+D-\allowbreak{}2D,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.825,0.817
+D-\allowbreak{}1D,qwen3-235b-\allowbreak{}a22b,229,0.825,0.895
+D-\allowbreak{}1D,deepseek-\allowbreak{}v4-flash,228,0.825,0.886
+D-\allowbreak{}1D,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.825,0.817
+D-\allowbreak{}1Q,qwen3-235b-\allowbreak{}a22b,229,0.830,0.895
+D-\allowbreak{}1Q,deepseek-\allowbreak{}v4-flash,228,0.829,0.886
+D-\allowbreak{}1Q,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.830,0.817
+D-\allowbreak{}1Ge,qwen3-235b-\allowbreak{}a22b,229,0.817,0.895
+D-\allowbreak{}1Ge,deepseek-\allowbreak{}v4-flash,228,0.816,0.886
+D-\allowbreak{}1Ge,gpt-\allowbreak{}oss-\allowbreak{}120b,229,0.817,0.817

@@ -1,0 +1,7 @@
+﻿system_id;subset_id;n;correct;invalid_answers;accuracy;recorded_cost_rub;length_limited_calls
+baseline_deepseekv4;random_dev300;300;217;0;0.7233333333333334;44.6667;1
+baseline_deepseekv4;shao_hard100;100;24;0;0.24;14.1818;0
+baseline_deepseekv4;goa100;100;72;0;0.72;14.188;0
+baseline_deepseekv4;marc100;100;75;0;0.75;13.824899999999998;0
+baseline_deepseekv4;marc250;250;191;0;0.764;34.8424;0
+baseline_deepseekv4;dev4183;4183;3081;0;0.7365527133636146;588.8096999999999;1

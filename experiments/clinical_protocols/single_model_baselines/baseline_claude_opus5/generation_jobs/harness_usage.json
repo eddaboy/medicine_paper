@@ -1,0 +1,190 @@
+{
+  "note": "Harness-level token usage for the Claude Code session run of this arm. Summed from the per-message `usage` blocks of the 25 subagent transcripts that generated the 229 protocols (12 of them were cut short by session rate limits; their spend is included because it was still incurred). These numbers measure the AGENT LOOP, not one Messages API call per case: each successive case re-reads the whole prior worker conversation through the prompt cache, on top of the agent system prompt, tool results and reasoning. An equivalent Messages API arm would spend roughly 0.8M tokens for 229 cases, i.e. these figures are inflated by about an order of magnitude and are NOT comparable to the prompt/completion/total_tokens of the API-based arms. Per-case attribution is not recoverable: usage is attached to assistant events, not to cases, and streaming splits it unevenly across messages.",
+  "comparable_to_api_arms": false,
+  "n_workers": 25,
+  "n_cases": 229,
+  "totals": {
+    "input_tokens": 384,
+    "output_tokens": 66638,
+    "cache_read_input_tokens": 9238265,
+    "cache_creation_input_tokens": 677772,
+    "total_tokens": 9983059
+  },
+  "per_worker": {
+    "a552ac3ed9b41585b": {
+      "input_tokens": 68,
+      "output_tokens": 6636,
+      "cache_read_input_tokens": 1513566,
+      "cache_creation_input_tokens": 249890,
+      "total_tokens": 1770160
+    },
+    "a9abe4625906ecb46": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a9b323602699c0bf9": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a1694077146ae7de4": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "ae23c0a114ae481d2": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a3cf0e4fbf6fb4485": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a3d82cadc73dad6a5": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a10a41f42f9c47486": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a41e0cd0ed99db284": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "ab18b554c022846ff": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a3e4d6f710d097817": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a27ee9907295e0cf0": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "ad8db51357f0c78d7": {
+      "input_tokens": 54,
+      "output_tokens": 11968,
+      "cache_read_input_tokens": 1304110,
+      "cache_creation_input_tokens": 121071,
+      "total_tokens": 1437203
+    },
+    "a5a43fc96e6bc4f7d": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a0b000e7be439cff0": {
+      "input_tokens": 54,
+      "output_tokens": 11377,
+      "cache_read_input_tokens": 1342129,
+      "cache_creation_input_tokens": 62119,
+      "total_tokens": 1415679
+    },
+    "a1b1423365573fac3": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a3eb54e50b2716c6d": {
+      "input_tokens": 48,
+      "output_tokens": 10446,
+      "cache_read_input_tokens": 1128500,
+      "cache_creation_input_tokens": 60518,
+      "total_tokens": 1199512
+    },
+    "a46909394bad8db19": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a3e9413db1702f9b4": {
+      "input_tokens": 58,
+      "output_tokens": 9211,
+      "cache_read_input_tokens": 1413693,
+      "cache_creation_input_tokens": 72316,
+      "total_tokens": 1495278
+    },
+    "a2fa3a3a6e3bb5a2c": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a4a9ae8ab0f8b6730": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a2c9c1fa456e25e93": {
+      "input_tokens": 82,
+      "output_tokens": 16585,
+      "cache_read_input_tokens": 2214293,
+      "cache_creation_input_tokens": 83695,
+      "total_tokens": 2314655
+    },
+    "aa95675206fab72e5": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "a1ff6a286f956ebf9": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation_input_tokens": 0,
+      "total_tokens": 0
+    },
+    "aac05c77008eab271": {
+      "input_tokens": 20,
+      "output_tokens": 415,
+      "cache_read_input_tokens": 321974,
+      "cache_creation_input_tokens": 28163,
+      "total_tokens": 350572
+    }
+  }
+}

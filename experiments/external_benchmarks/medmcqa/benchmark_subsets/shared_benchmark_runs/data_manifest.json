@@ -1,0 +1,243 @@
+{
+  "created_date": "2026-10-10",
+  "schema": [
+    "case_id",
+    "question",
+    "option_a",
+    "option_b",
+    "option_c",
+    "option_d",
+    "correct_option_letter",
+    "correct_option_text",
+    "explanation",
+    "subject_name",
+    "topic_name"
+  ],
+  "subset_order": [
+    "random_dev300",
+    "shao_hard100",
+    "goa100",
+    "marc100",
+    "marc250",
+    "dev4183"
+  ],
+  "random_seed": 42,
+  "subsets": [
+    {
+      "id": "random_dev300",
+      "n": 300,
+      "csv": "data/random_dev300.csv",
+      "sha256": "fe9f7cf6444243336d74817f85f8c154246c6e90aaea91fbb559747527d6cdf5",
+      "split": "dev",
+      "split_counts": {
+        "dev": 300,
+        "train": 0
+      },
+      "source_url": "https://huggingface.co/datasets/openlifescienceai/medmcqa/resolve/91c6572c454088bf71b679ad90aa8dffcd0d5868/data/validation-00000-of-00001.parquet",
+      "selection": "New simple random sample without replacement of the complete official dev split using pandas.sample(n=300,random_state=42); no choice_type filter. Not the recovered Tang-300 or Med-RISE-200 manifest.",
+      "source_sha256": "b768a1ea34afc9f80d3106d9b21f80fa8a00ec450a1f6cd641af72ca9e591021",
+      "source_commit": "91c6572c454088bf71b679ad90aa8dffcd0d5868",
+      "source_snapshot": "sources/official_dev.parquet",
+      "id_order_sha256": "f50271f1c953b956e8bae7891aacf240f2bc5016e4311e50d12dfe9b59ea58eb",
+      "choice_type_counts": {
+        "single": 196,
+        "multi": 104
+      }
+    },
+    {
+      "id": "shao_hard100",
+      "n": 100,
+      "csv": "data/shao_hard100.csv",
+      "sha256": "712a8d4cbe263fb8baa7f83884517f86386e2dc913d5855aac67771b580a7ca3",
+      "split": "dev",
+      "split_counts": {
+        "dev": 100,
+        "train": 0
+      },
+      "source_url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/data/medmcqa/test_hard.jsonl",
+      "selection": "Exact published Shao MedicalAgentsBench test_hard.jsonl order and membership; all questions single-choice dev, selected from threshold below 50% correct among ten models.",
+      "source_sha256": "2ea559cdcb8efb8fefcbe2ea7545077d068d8db3bf2bfb0266f79d1a1d010ff1",
+      "source_commit": "fcb5292720c28f4168992ee37cda944e452cd098",
+      "source_snapshot": "sources/shao_hard100.jsonl",
+      "id_order_sha256": "e015dc7574bff3cbb5308900efa69c0e5d59fbf317618f103014060e13077649",
+      "choice_type_counts": {
+        "single": 100
+      }
+    },
+    {
+      "id": "goa100",
+      "n": 100,
+      "csv": "data/goa100.csv",
+      "sha256": "cf0f7c3f447eaf68aee58a2209647a9cfb097fc3a27c1bf38ed4bc2cd066152e",
+      "split": "dev",
+      "split_counts": {
+        "dev": 100,
+        "train": 0
+      },
+      "source_url": "https://raw.githubusercontent.com/UNITES-Lab/GoA/c9def0082e43bb737dd97d998db381842e444908/data/test/MedMCQA_sampled_test.json",
+      "selection": "Exact published Graph-of-Agents MedMCQA_sampled_test.json order and membership; combined question/options validated against unique official dev rows.",
+      "source_sha256": "d41efd3e4a2a89511f271125b9621b85ba6d0070f9c8653881d0adef5b0614bd",
+      "source_commit": "c9def0082e43bb737dd97d998db381842e444908",
+      "source_snapshot": "sources/goa100.json",
+      "id_order_sha256": "e6653d09e0299e4b906a8bc653ea1f85ebcec9c5f570961dd90c5785e923c165",
+      "choice_type_counts": {
+        "multi": 30,
+        "single": 70
+      }
+    },
+    {
+      "id": "marc100",
+      "n": 100,
+      "csv": "data/marc100.csv",
+      "sha256": "4b93daecd5df26c7380babcc6a794d34c0b76521c875c2a5d9dee42054124f4b",
+      "split": "train/dev mixture",
+      "split_counts": {
+        "dev": 4,
+        "train": 96
+      },
+      "source_url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_100q_high_disagreement.json",
+      "selection": "Exact published MARC-100, including 80 disagreement and20 agreement questions. Mixed official train/dev; no choice_type filter.",
+      "source_sha256": "604dfa89961e073d5b8f703ce3511c9f848719b665ae608772da769a716e8754",
+      "source_commit": "44e0364c77125571f429b4404075b77413a853fa",
+      "source_snapshot": "sources/marc100.json",
+      "id_order_sha256": "493f98dfb0128eacc41e0e8ffb7967b117bae45ccb7c198042fccdd681f457a1",
+      "choice_type_counts": {
+        "single": 62,
+        "multi": 38
+      },
+      "disagreement_counts": {
+        "true": 80,
+        "false": 20
+      }
+    },
+    {
+      "id": "marc250",
+      "n": 250,
+      "csv": "data/marc250.csv",
+      "sha256": "07451521272f15906c850f8bbb9c54ac4b4dd869c4987486c9724edee0191867",
+      "split": "train/dev mixture",
+      "split_counts": {
+        "dev": 7,
+        "train": 243
+      },
+      "source_url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_250q_high_disagreement.json",
+      "selection": "Exact published MARC-250, including200 disagreement and50 agreement questions. Contains all MARC-100 questions; mixed official train/dev; no choice_type filter.",
+      "source_sha256": "3b3745f2fbe21290d81a4d330ab5e8c551e5821244e69b024025baac440bd016",
+      "source_commit": "44e0364c77125571f429b4404075b77413a853fa",
+      "source_snapshot": "sources/marc250.json",
+      "id_order_sha256": "dbdd9fbf6bde8bd0234b8c8b57da035f55f22a23ff59bc60a4e9877f2debc878",
+      "choice_type_counts": {
+        "single": 149,
+        "multi": 101
+      },
+      "disagreement_counts": {
+        "true": 200,
+        "false": 50
+      }
+    },
+    {
+      "id": "dev4183",
+      "n": 4183,
+      "csv": "data/dev4183.csv",
+      "sha256": "89426825d97343e00a65a4844d0700e05d5b84e7b60d8cddea7c33c587a4a542",
+      "split": "dev",
+      "split_counts": {
+        "dev": 4183,
+        "train": 0
+      },
+      "source_url": "https://huggingface.co/datasets/openlifescienceai/medmcqa/resolve/91c6572c454088bf71b679ad90aa8dffcd0d5868/data/validation-00000-of-00001.parquet",
+      "selection": "All official MedMCQA dev/validation rows in original order, including single and multi choice_type; no subsampling.",
+      "source_sha256": "b768a1ea34afc9f80d3106d9b21f80fa8a00ec450a1f6cd641af72ca9e591021",
+      "source_commit": "91c6572c454088bf71b679ad90aa8dffcd0d5868",
+      "source_snapshot": "sources/official_dev.parquet",
+      "id_order_sha256": "2526d854e044f18477dd4464917e26b796e6b6ab6102fe8d6a9711385203cf7a",
+      "choice_type_counts": {
+        "multi": 1367,
+        "single": 2816
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "sources/official_dev.parquet",
+      "url": "https://huggingface.co/datasets/openlifescienceai/medmcqa/resolve/91c6572c454088bf71b679ad90aa8dffcd0d5868/data/validation-00000-of-00001.parquet",
+      "sha256": "b768a1ea34afc9f80d3106d9b21f80fa8a00ec450a1f6cd641af72ca9e591021"
+    },
+    {
+      "file": "sources/shao_hard100.jsonl",
+      "url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/data/medmcqa/test_hard.jsonl",
+      "sha256": "2ea559cdcb8efb8fefcbe2ea7545077d068d8db3bf2bfb0266f79d1a1d010ff1"
+    },
+    {
+      "file": "sources/goa100.json",
+      "url": "https://raw.githubusercontent.com/UNITES-Lab/GoA/c9def0082e43bb737dd97d998db381842e444908/data/test/MedMCQA_sampled_test.json",
+      "sha256": "d41efd3e4a2a89511f271125b9621b85ba6d0070f9c8653881d0adef5b0614bd"
+    },
+    {
+      "file": "sources/marc100.json",
+      "url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_100q_high_disagreement.json",
+      "sha256": "604dfa89961e073d5b8f703ce3511c9f848719b665ae608772da769a716e8754"
+    },
+    {
+      "file": "sources/marc250.json",
+      "url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_250q_high_disagreement.json",
+      "sha256": "3b3745f2fbe21290d81a4d330ab5e8c551e5821244e69b024025baac440bd016"
+    },
+    {
+      "file": "sources/marc_create100.py",
+      "url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/scripts/create_medmcqa_100q_high_disagreement.py",
+      "sha256": "aab4943aa62a9b9fa9e519246aab7c6574dccb82df122830bd0fd185cbaa3b40"
+    },
+    {
+      "file": "sources/marc_create250.py",
+      "url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/scripts/create_medmcqa_250q_high_disagreement.py",
+      "sha256": "971292d862e53d835d234c47d8dbe7c685c1da5f43b5601615ec549b6b2ea534"
+    },
+    {
+      "file": "sources/marc_dataset_adapter.py",
+      "url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/src/utils/dataset_adapter.py",
+      "sha256": "8a216bfaceb1754f7f460ab1b51e22d0a59251b1da56e4dfa440598458ba48e1"
+    },
+    {
+      "file": "sources/shao_hard_selection.ipynb",
+      "url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/plots/figure2_hardset.ipynb",
+      "sha256": "f47030a6ea16bc93abe4249a387c6f0d57a3ec22af8ea1f0461faefae4b45154"
+    }
+  ],
+  "checks": {
+    "random_dev300": {
+      "shao_hard100": 8,
+      "goa100": 8,
+      "marc100": 0,
+      "marc250": 0,
+      "dev4183": 300
+    },
+    "shao_hard100": {
+      "goa100": 0,
+      "marc100": 0,
+      "marc250": 0,
+      "dev4183": 100
+    },
+    "goa100": {
+      "marc100": 0,
+      "marc250": 0,
+      "dev4183": 100
+    },
+    "marc100": {
+      "marc250": 100,
+      "dev4183": 4
+    },
+    "marc250": {
+      "dev4183": 7
+    },
+    "dev4183": {},
+    "all_case_ids_unique_per_subset": true,
+    "all_answer_mappings_match_official_labels": true,
+    "marc100_is_subset_of_marc250": true,
+    "official_train_reference": {
+      "path": "data/external_benchmark_sources/medmcqa/train-00000-of-00001.parquet",
+      "sha256": "b119434ba551517a6ec0ba1f7e0b4c029165ed284a4704f262ce37c791c493c5",
+      "n": 182822
+    }
+  }
+}

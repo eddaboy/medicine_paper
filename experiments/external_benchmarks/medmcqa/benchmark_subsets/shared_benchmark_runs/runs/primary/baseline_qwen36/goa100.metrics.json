@@ -1,0 +1,35 @@
+{
+  "system_id": "baseline_qwen36",
+  "subset_id": "goa100",
+  "n": 100,
+  "correct": 83,
+  "invalid_answers": 1,
+  "accuracy": 0.83,
+  "accuracy_wilson_95ci": [
+    0.7445199523239887,
+    0.8910643388594006
+  ],
+  "split": "dev",
+  "source_url": "https://raw.githubusercontent.com/UNITES-Lab/GoA/c9def0082e43bb737dd97d998db381842e444908/data/test/MedMCQA_sampled_test.json",
+  "configuration_signature": "0baddc2423b85fb446cde59157d35a9a75e6685d1c54c2bc2866569e54d3995c",
+  "configuration": {
+    "system": "baseline_qwen36",
+    "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+    "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+    "role_name": "Default",
+    "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.",
+    "temperature": 0.3,
+    "model_output_limits": {
+      "qwen3.6-35b-a3b": 10000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "cf0f7c3f447eaf68aee58a2209647a9cfb097fc3a27c1bf38ed4bc2cd066152e",
+  "output_sha256": "7bfc8f091ff49f3e61b9c4a949fe1b8ecacb55e47adcb208fa94071349355a07",
+  "billed_prompt_tokens": 32747,
+  "billed_completion_tokens": 201702,
+  "recorded_cost_rub": 67.06000000000002,
+  "length_limited_calls": 1,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

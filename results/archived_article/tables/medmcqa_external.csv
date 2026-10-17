@@ -1,0 +1,14 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7
+System (organizer first),Random 300,Hard 100,GoA 100,MARC 100,MARC 250,Full dev
+\multicolumn{7}{l}{Single-model baselines},,,,,,
+gpt-oss-120b,75.33,27.00,77.00,78.00,76.40,72.82
+qwen3.6-35b-a3b,74.33,31.00,83.00,82.00,82.00,77.48
+deepseek-v4-flash,72.33,24.00,72.00,75.00,76.40,73.66
+\multicolumn{7}{l}{Heterogeneous Delphi panels},,,,,,
+"DE-8G (G, Q36, D)",77.00,26.00,85.00,86.00,83.60,77.89
+"DE-8Q36 (Q36, G, D)",76.67,26.00,84.00,81.00,85.20,--
+"DE-8D (D, G, Q36)",78.33,30.00,86.00,78.00,83.20,--
+\multicolumn{7}{l}{Homogeneous Delphi panels},,,,,,
+DH-D (D $\times$ 3),76.33,35.00,82.00,75.00,80.40,--
+DH-Q36 (Q36 $\times$ 3),77.00,28.00,85.00,81.00,83.20,--
+DH-G (G $\times$ 3),76.00,29.00,80.00,76.00,77.20,--

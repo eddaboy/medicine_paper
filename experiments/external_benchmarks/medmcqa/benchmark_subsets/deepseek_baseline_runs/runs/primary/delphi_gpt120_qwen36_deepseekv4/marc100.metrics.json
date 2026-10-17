@@ -1,0 +1,66 @@
+{
+  "system_id": "delphi_gpt120_qwen36_deepseekv4",
+  "subset_id": "marc100",
+  "n": 100,
+  "correct": 86,
+  "invalid_answers": 0,
+  "accuracy": 0.86,
+  "accuracy_wilson_95ci": [
+    0.7786281178903616,
+    0.9147365634006086
+  ],
+  "split": "train/dev mixture",
+  "source_url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_100q_high_disagreement.json",
+  "configuration_signature": "a9f6bacc4edb6683d1b58931fc0103c612d9664112527385ab2d0c919c7a8a2c",
+  "configuration": {
+    "system": "delphi_gpt120_qwen36_deepseekv4",
+    "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+    "participants": [
+      {
+        "id": "gpt120b_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///gpt-oss-120b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "qwen36_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "deepseekv4_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///deepseek-v4-flash/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      }
+    ],
+    "organizer": "gpt120b_default",
+    "max_rounds": 3,
+    "early_stop": true,
+    "temperatures": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ],
+    "model_output_limits": {
+      "gpt-oss-120b": 10000,
+      "qwen3.6-35b-a3b": 10000,
+      "deepseek-v4-flash": 10000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "4b93daecd5df26c7380babcc6a794d34c0b76521c875c2a5d9dee42054124f4b",
+  "output_sha256": "fcc5681e1638e1cd4b0c5edaa81a46299f6f0af2c3ed3d04b213c548cdf4a10e",
+  "billed_prompt_tokens": 882550,
+  "billed_completion_tokens": 1170884,
+  "recorded_cost_rub": 626.7965,
+  "length_limited_calls": 1,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

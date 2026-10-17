@@ -1,0 +1,24 @@
+﻿column_1,column_2
+\multicolumn{2}{l}{a  Vignettes and rubrics},
+Characteristic,\textit{n (\
+\multicolumn{2}{l}{Source},
+"LLM-generated, physician-verified",151 (65.9\
+Symptom-checker audit vignettes \citep{semigran2015},43 (18.8\
+MSD Manual case studies,35 (15.3\
+\multicolumn{2}{l}{Reference urgency},
+Emergent care,84 (36.7\
+Non-emergent care,81 (35.4\
+Self-care,64 (27.9\
+\multicolumn{2}{l}{Age group},
+$<$15 years,36 (15.7\
+15--24 years,33 (14.4\
+25--44 years,78 (34.1\
+45--60 years,44 (19.2\
+$>$60 years,37 (16.2\
+Not stated,1 (0.4\
+Reference specialties,"20 (most frequent: Dermatology 30, Orthopedics 20, Pulmonology 18, Emergency 18, Otolaryngology (ENT) 18)"
+Distinct reference diagnoses,197
+"Case text given to systems, median length",759 characters (120 words)
+Rubric criteria,"3,270 (12--16 per case, median 14)"
+Penalty criteria,924 (28.3\
+Maximum reward points per case,median 68 (IQR 61--73)

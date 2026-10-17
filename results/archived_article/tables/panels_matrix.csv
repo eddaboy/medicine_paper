@@ -1,0 +1,37 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7,column_8
+System,Members,\multicolumn{6}{c}{Judge score (mean)},,,,,
+\cline{3-8},,\multicolumn{2}{c}{Original},\multicolumn{2}{c}{Short vignette},\multicolumn{2}{c}{400--500 words},,,
+\cline{3-4}\cline{5-6}\cline{7-8},,No roles,Roles,No roles,Roles,No roles,Roles
+\multicolumn{8}{@{}p{15.80cm}@{}}{gpt-oss-120b; qwen3-235b; deepseek-v4-flash},,,,,,,
+D-1G,"G, Q, D",0.790,0.813,0.727,0.762,0.787,0.801
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{deepseek-v4-flash; gpt-oss-120b; qwen3-235b},,,,,,,
+D-1D,"D, G, Q",0.811,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{qwen3-235b; gpt-oss-120b; deepseek-v4-flash},,,,,,,
+D-1Q,"Q, G, D",0.759,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+"\multicolumn{8}{@{}p{15.80cm}@{}}{gemini-3.7-flash; gpt-oss-120b; qwen3-235b; deepseek-v4-flash; external organizer, no vote}",,,,,,,
+D-1Ge,"Ge, G, Q, D",0.800,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{deepseek-v4-flash; glm-5.2; gpt-oss-120b},,,,,,,
+D-2D,"D, Gl, G",0.806,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{qwen3-235b; gemini-3.7-flash; deepseek-v4-pro},,,,,,,
+D-3Q,"Q, Ge, Dp",0.745,--,--,--,--,--
+Best member,Q,0.562,0.595,0.468,0.506,0.627,0.634
+\multicolumn{8}{@{}p{15.80cm}@{}}{deepseek-v4-flash; gemini-3.7-flash; glm-5.2},,,,,,,
+D-4D,"D, Ge, Gl",0.786,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{gpt-oss-120b; gpt-oss-120b; gpt-oss-120b},,,,,,,
+DH-G,"G, G, G",0.759,--,--,--,--,--
+Best member,G,0.626,0.649,0.543,0.574,0.688,0.676
+\multicolumn{8}{@{}p{15.80cm}@{}}{qwen3-235b; qwen3-235b; qwen3-235b},,,,,,,
+DH-Q,"Q, Q, Q",0.698,--,--,--,--,--
+Best member,Q,0.562,0.595,0.468,0.506,0.627,0.634
+\multicolumn{8}{@{}p{15.80cm}@{}}{deepseek-v4-flash; deepseek-v4-flash; deepseek-v4-flash},,,,,,,
+DH-D,"D, D, D",0.781,--,--,--,--,--
+Best member,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+\multicolumn{8}{@{}p{15.80cm}@{}}{gemini-3.7-flash; gemini-3.7-flash; gemini-3.7-flash},,,,,,,
+DH-Ge,"Ge, Ge, Ge",0.717,--,--,--,--,--
+Best member,Ge,0.425,0.525,--,--,--,--

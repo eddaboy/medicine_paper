@@ -1,0 +1,16 @@
+﻿subset,homogeneous_panel,heterogeneous_panel,organizer_model,n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,difference_ci_low_pp,difference_ci_high_pp,p_holm_all_15
+random_dev300,delphi_deepseekv4_trio,delphi_deepseekv4_gpt120_qwen36,DeepSeek-V4 Flash,300,0.7633333333333333,0.7833333333333333,-2.0000000000000018,18,24,0.44079906734259566,-6.333333333333334,2.0,1.0
+random_dev300,delphi_qwen36_trio,delphi_qwen36_gpt120_deepseekv4,Qwen3.6-35B-A3B,300,0.77,0.7666666666666667,0.33333333333332993,15,14,1.0,-3.0,3.6666666666666665,1.0
+random_dev300,delphi_gpt120_trio,delphi_gpt120_qwen36_deepseekv4,GPT-OSS-120B,300,0.76,0.77,-1.0000000000000009,19,22,0.755228657504631,-5.0,3.3333333333333335,1.0
+shao_hard100,delphi_deepseekv4_trio,delphi_deepseekv4_gpt120_qwen36,DeepSeek-V4 Flash,100,0.35,0.3,4.999999999999999,16,11,0.44206833839416504,-5.0,15.0,1.0
+shao_hard100,delphi_qwen36_trio,delphi_qwen36_gpt120_deepseekv4,Qwen3.6-35B-A3B,100,0.28,0.26,2.0000000000000018,11,9,0.8238029479980469,-7.000000000000001,11.0,1.0
+shao_hard100,delphi_gpt120_trio,delphi_gpt120_qwen36_deepseekv4,GPT-OSS-120B,100,0.29,0.26,2.9999999999999973,10,7,0.629058837890625,-5.0,11.0,1.0
+goa100,delphi_deepseekv4_trio,delphi_deepseekv4_gpt120_qwen36,DeepSeek-V4 Flash,100,0.82,0.86,-4.0000000000000036,4,8,0.3876953125,-11.0,3.0,1.0
+goa100,delphi_qwen36_trio,delphi_qwen36_gpt120_deepseekv4,Qwen3.6-35B-A3B,100,0.85,0.84,1.0000000000000009,4,3,1.0,-4.0,6.0,1.0
+goa100,delphi_gpt120_trio,delphi_gpt120_qwen36_deepseekv4,GPT-OSS-120B,100,0.8,0.85,-4.999999999999993,2,7,0.1796875,-11.0,1.0,1.0
+marc100,delphi_deepseekv4_trio,delphi_deepseekv4_gpt120_qwen36,DeepSeek-V4 Flash,100,0.75,0.78,-3.0000000000000027,2,5,0.453125,-8.0,2.0,1.0
+marc100,delphi_qwen36_trio,delphi_qwen36_gpt120_deepseekv4,Qwen3.6-35B-A3B,100,0.81,0.81,0.0,2,2,1.0,-4.0,4.0,1.0
+marc100,delphi_gpt120_trio,delphi_gpt120_qwen36_deepseekv4,GPT-OSS-120B,100,0.76,0.86,-9.999999999999998,1,11,0.00634765625,-17.0,-4.0,0.0888671875
+marc250,delphi_deepseekv4_trio,delphi_deepseekv4_gpt120_qwen36,DeepSeek-V4 Flash,250,0.804,0.832,-2.7999999999999914,10,17,0.24778856337070465,-6.809999999999991,1.2,1.0
+marc250,delphi_qwen36_trio,delphi_qwen36_gpt120_deepseekv4,Qwen3.6-35B-A3B,250,0.832,0.852,-2.0000000000000018,5,10,0.30175781249999994,-5.2,0.8,1.0
+marc250,delphi_gpt120_trio,delphi_gpt120_qwen36_deepseekv4,GPT-OSS-120B,250,0.772,0.836,-6.399999999999995,5,21,0.002493917942047119,-10.4,-2.4,0.03740876913070679

@@ -1,0 +1,15 @@
+stage,n,accuracy,under,over
+r1:deepseekv4_default,229,0.8428,0.0087,0.1485
+r1:gpt120b_default,229,0.7205,0.0437,0.2358
+r1:qwen_default,227,0.7621,0.0,0.2379
+r1:MAJORITY,229,0.821,0.0044,0.1747
+r2:deepseekv4_default,109,0.7523,0.0459,0.2018
+r2:gpt120b_default,109,0.6422,0.0275,0.3303
+r2:qwen_default,108,0.7593,0.0093,0.2315
+r2:MAJORITY,109,0.7248,0.0275,0.2477
+r3:deepseekv4_default,47,0.6809,0.0426,0.2766
+r3:gpt120b_default,47,0.5106,0.0638,0.4255
+r3:qwen_default,47,0.8085,0.0,0.1915
+r3:MAJORITY,47,0.617,0.0426,0.3404
+CONSENSUS,229,0.786,0.0131,0.2009
+WINNER_TEXT,229,0.786,0.0131,0.2009

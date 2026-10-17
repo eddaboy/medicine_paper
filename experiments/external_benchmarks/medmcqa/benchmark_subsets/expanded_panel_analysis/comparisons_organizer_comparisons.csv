@@ -1,0 +1,16 @@
+﻿subset,panel_a,panel_b,label_a,label_b,n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,difference_ci_low_pp,difference_ci_high_pp,p_holm_all_15
+random_dev300,delphi_gpt120_qwen36_deepseekv4,delphi_qwen36_gpt120_deepseekv4,GPT organizer (original),Qwen organizer,300,0.77,0.7666666666666667,0.33333333333332993,14,13,1.0,-3.0,3.6666666666666665,1.0
+random_dev300,delphi_gpt120_qwen36_deepseekv4,delphi_deepseekv4_gpt120_qwen36,GPT organizer (original),DeepSeek organizer,300,0.77,0.7833333333333333,-1.3333333333333308,11,15,0.557197093963623,-4.666666666666667,2.0,1.0
+random_dev300,delphi_qwen36_gpt120_deepseekv4,delphi_deepseekv4_gpt120_qwen36,Qwen organizer,DeepSeek organizer,300,0.7666666666666667,0.7833333333333333,-1.6666666666666607,10,15,0.42435622215270996,-5.0,1.3333333333333335,1.0
+shao_hard100,delphi_gpt120_qwen36_deepseekv4,delphi_qwen36_gpt120_deepseekv4,GPT organizer (original),Qwen organizer,100,0.26,0.26,0.0,10,10,1.0,-9.0,9.0,1.0
+shao_hard100,delphi_gpt120_qwen36_deepseekv4,delphi_deepseekv4_gpt120_qwen36,GPT organizer (original),DeepSeek organizer,100,0.26,0.3,-3.9999999999999982,7,11,0.480682373046875,-12.0,4.0,1.0
+shao_hard100,delphi_qwen36_gpt120_deepseekv4,delphi_deepseekv4_gpt120_qwen36,Qwen organizer,DeepSeek organizer,100,0.26,0.3,-3.9999999999999982,4,8,0.3876953125,-11.0,3.0,1.0
+goa100,delphi_gpt120_qwen36_deepseekv4,delphi_qwen36_gpt120_deepseekv4,GPT organizer (original),Qwen organizer,100,0.85,0.84,1.0000000000000009,4,3,1.0,-4.0,6.0,1.0
+goa100,delphi_gpt120_qwen36_deepseekv4,delphi_deepseekv4_gpt120_qwen36,GPT organizer (original),DeepSeek organizer,100,0.85,0.86,-1.0000000000000009,2,3,1.0,-5.0,3.0,1.0
+goa100,delphi_qwen36_gpt120_deepseekv4,delphi_deepseekv4_gpt120_qwen36,Qwen organizer,DeepSeek organizer,100,0.84,0.86,-2.0000000000000018,3,5,0.7265625,-8.0,3.0,1.0
+marc100,delphi_gpt120_qwen36_deepseekv4,delphi_qwen36_gpt120_deepseekv4,GPT organizer (original),Qwen organizer,100,0.86,0.81,4.999999999999993,5,0,0.0625,1.0,10.0,0.875
+marc100,delphi_gpt120_qwen36_deepseekv4,delphi_deepseekv4_gpt120_qwen36,GPT organizer (original),DeepSeek organizer,100,0.86,0.78,7.9999999999999964,8,0,0.0078125,3.0,14.000000000000002,0.1171875
+marc100,delphi_qwen36_gpt120_deepseekv4,delphi_deepseekv4_gpt120_qwen36,Qwen organizer,DeepSeek organizer,100,0.81,0.78,3.0000000000000027,3,0,0.25,0.0,7.000000000000001,1.0
+marc250,delphi_gpt120_qwen36_deepseekv4,delphi_qwen36_gpt120_deepseekv4,GPT organizer (original),Qwen organizer,250,0.836,0.852,-1.6000000000000014,5,9,0.4239501953125,-4.8,1.2,1.0
+marc250,delphi_gpt120_qwen36_deepseekv4,delphi_deepseekv4_gpt120_qwen36,GPT organizer (original),DeepSeek organizer,250,0.836,0.832,0.40000000000000036,6,5,1.0,-2.0,2.8000000000000003,1.0
+marc250,delphi_qwen36_gpt120_deepseekv4,delphi_deepseekv4_gpt120_qwen36,Qwen organizer,DeepSeek organizer,250,0.852,0.832,2.0000000000000018,10,5,0.30175781249999994,-0.8,5.2,1.0

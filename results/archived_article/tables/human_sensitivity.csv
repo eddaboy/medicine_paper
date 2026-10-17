@@ -1,0 +1,17 @@
+﻿column_1,column_2,column_3,column_4
+Raters included,Cases,Comparator,\textit{D-\allowbreak{}1G advantage (95\
+All available complete raters,60,deepseek-\allowbreak{}v4-flash,"0.118 (0.089, 0.147)"
+All available complete raters,60,gpt-\allowbreak{}oss-\allowbreak{}120b,"0.160 (0.121, 0.204)"
+All available complete raters,60,qwen3-235b-\allowbreak{}a22b,"0.176 (0.143, 0.208)"
+Exclude E1,60,deepseek-\allowbreak{}v4-flash,"0.117 (0.090, 0.145)"
+Exclude E1,60,gpt-\allowbreak{}oss-\allowbreak{}120b,"0.158 (0.122, 0.197)"
+Exclude E1,60,qwen3-235b-\allowbreak{}a22b,"0.180 (0.151, 0.211)"
+Exclude E2,60,deepseek-\allowbreak{}v4-flash,"0.127 (0.098, 0.157)"
+Exclude E2,60,gpt-\allowbreak{}oss-\allowbreak{}120b,"0.169 (0.129, 0.213)"
+Exclude E2,60,qwen3-235b-\allowbreak{}a22b,"0.187 (0.153, 0.221)"
+Exclude E3,60,deepseek-\allowbreak{}v4-flash,"0.114 (0.084, 0.146)"
+Exclude E3,60,gpt-\allowbreak{}oss-\allowbreak{}120b,"0.152 (0.110, 0.199)"
+Exclude E3,60,qwen3-235b-\allowbreak{}a22b,"0.165 (0.130, 0.200)"
+Exclude E4,60,deepseek-\allowbreak{}v4-flash,"0.113 (0.082, 0.146)"
+Exclude E4,60,gpt-\allowbreak{}oss-\allowbreak{}120b,"0.162 (0.118, 0.212)"
+Exclude E4,60,qwen3-235b-\allowbreak{}a22b,"0.172 (0.134, 0.209)"

@@ -1,0 +1,13 @@
+﻿analysis,source,n_cases,mean,sd_case,ci_low,ci_high,lower_score,upper_score
+sensitivity_common_cases,delphi,57.0,73.44335682336839,11.312910587359928,70.47640105069374,76.2661989680753,,
+sensitivity_common_cases,deepseekv4,57.0,61.88309947553164,15.28555188594994,57.86943735562582,65.8135382285944,,
+sensitivity_common_cases,gpt,57.0,57.461197108229115,17.744364052940018,52.72542812837064,61.9419365944131,,
+sensitivity_common_cases,qwen,57.0,55.74468626413192,13.350403827638662,52.24913193237362,59.127581616760004,,
+sensitivity_missing_bounds,deepseekv4,,,,,,61.97134987147338,62.071665305745675
+sensitivity_missing_bounds,delphi,,,,,,73.66410026936742,73.70854471381186
+sensitivity_missing_bounds,gpt,,,,,,57.80078885688651,57.80078885688651
+sensitivity_missing_bounds,qwen,,,,,,56.21971843175474,56.21971843175474
+equal_expert_weight,deepseekv4,,61.934473009561046,,,,,
+equal_expert_weight,delphi,,73.65897652126985,,,,,
+equal_expert_weight,gpt,,57.641877637211294,,,,,
+equal_expert_weight,qwen,,56.022723501492166,,,,,

@@ -1,0 +1,11 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7,column_8
+System,Abbr.,\multicolumn{6}{c}{Judge score (mean)},,,,,
+\cline{3-8},,\multicolumn{2}{c}{Original},\multicolumn{2}{c}{Short vignette},\multicolumn{2}{c}{400--500 words},,,
+\cline{3-4}\cline{5-6}\cline{7-8},,No roles,Roles,No roles,Roles,No roles,Roles
+gpt-oss-120b,G,0.626,0.649,0.543,0.574,0.688,0.676
+qwen3-235b,Q,0.562,0.595,0.468,0.506,0.627,0.634
+deepseek-v4-flash,D,0.640\textsuperscript{228},0.661,0.532,0.585,0.694\textsuperscript{212},0.678\textsuperscript{216}
+deepseek-v4-pro,Dp,0.560,0.599,--,--,--,--
+gemini-3.7-flash,Ge,0.425,0.525,--,--,--,--
+glm-5.2,Gl,0.587,0.655,--,--,--,--
+kimi-k2.6,K,0.595\textsuperscript{221},0.605\textsuperscript{204},--,--,--,--

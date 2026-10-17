@@ -1,0 +1,35 @@
+{
+  "system_id": "baseline_qwen36",
+  "subset_id": "shao_hard100",
+  "n": 100,
+  "correct": 31,
+  "invalid_answers": 0,
+  "accuracy": 0.31,
+  "accuracy_wilson_95ci": [
+    0.22779697212376038,
+    0.40626055719489407
+  ],
+  "split": "dev",
+  "source_url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/data/medmcqa/test_hard.jsonl",
+  "configuration_signature": "7e389f87a9649bfe2c83376adfb5ba6f6f6ad4a165974780ee37f67e267aaa30",
+  "configuration": {
+    "system": "baseline_qwen36",
+    "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+    "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+    "role_name": "Default",
+    "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.",
+    "temperature": 0.3,
+    "model_output_limits": {
+      "qwen3.6-35b-a3b": 10000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "712a8d4cbe263fb8baa7f83884517f86386e2dc913d5855aac67771b580a7ca3",
+  "output_sha256": "5ebaf2a065a4dde8bb073a4d5517ccbadae900fff95d9b5470d0469f7fa0ef7b",
+  "billed_prompt_tokens": 32207,
+  "billed_completion_tokens": 212820,
+  "recorded_cost_rub": 70.28739999999999,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

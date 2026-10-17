@@ -1,0 +1,186 @@
+dir,run,kind,problems,is_full_variant
+"external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)","external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)/usc_deepseekv4_sc3.csv",single,,False
+"external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)","external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)/usc_deepseekv4_sc5.csv",single,,False
+"external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)","external_exp/budget_framework/control_usc_deepseekv4 (deepseek-v4-flash, k=7)/usc_deepseekv4_sc7.csv",single,,False
+"external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)","external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)/usc_qwen_sc3.csv",single,,False
+"external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)","external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)/usc_qwen_sc5.csv",single,,False
+"external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)","external_exp/budget_framework/control_usc_qwen (qwen3-235b-a22b-fp8, k=7)/usc_qwen_sc7.csv",single,,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group1_10models.csv,panel,trunc=3.5%; fullr1=61.7%,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group2_4models.csv,panel,fullr1=96.7%,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group3_5models.csv,panel,,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group4_5models.csv,panel,trunc=7.3%; fullr1=63.3%,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group5_7models.csv,panel,trunc=3.6%; fullr1=75.0%,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group6_5models.csv,panel,fullr1=96.7%,False
+external_exp/delphi_exp/experts,external_exp/delphi_exp/experts/delphi_experts_group7_6models.csv,panel,trunc=7.5%; fullr1=53.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_10.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_11.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_12.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_13.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_14.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_15.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_16.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_17.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_18.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_19.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_20.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_3.csv,panel,trunc=3.3%; fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_4.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_5.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_6.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_7.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_8.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questionnaire_items,external_exp/delphi_exp/questionnaire_items/delphi_questionnaire_items_9.csv,panel,fullr1=88.3%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_10.csv,panel,trunc=8.3%; fullr1=73.3%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_11.csv,panel,trunc=4.4%; fullr1=86.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_12.csv,panel,trunc=7.2%; fullr1=76.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_3.csv,panel,fullr1=96.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_4.csv,panel,trunc=2.2%; fullr1=93.3%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_5.csv,panel,trunc=2.2%; fullr1=91.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_6.csv,panel,trunc=2.8%; fullr1=91.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_7.csv,panel,fullr1=98.3%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_8.csv,panel,fullr1=96.7%,False
+external_exp/delphi_exp/questions_per_expert,external_exp/delphi_exp/questions_per_expert/delphi_questions_per_expert_9.csv,panel,trunc=3.9%; fullr1=88.3%,False
+external_exp/delphi_exp/rounds,external_exp/delphi_exp/rounds/delphi_optimum_early_stop.csv,panel,trunc=2.8%; fullr1=91.7%,False
+external_exp/delphi_exp/rounds,external_exp/delphi_exp/rounds/delphi_rounds_no_early_stop.csv,panel,trunc=3.3%; fullr1=88.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.1.csv,panel,trunc=2.2%; fullr1=93.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.2.csv,panel,trunc=2.2%; fullr1=93.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.3.csv,panel,trunc=2.8%; fullr1=91.7%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.4.csv,panel,fullr1=96.7%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.5.csv,panel,trunc=3.9%; fullr1=88.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.6.csv,panel,trunc=2.2%; fullr1=93.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.7.csv,panel,trunc=2.2%; fullr1=93.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.8.csv,panel,trunc=3.3%; fullr1=88.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_0.9.csv,panel,trunc=2.8%; fullr1=90.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.0.csv,panel,trunc=3.3%; fullr1=88.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.1.csv,panel,trunc=4.4%; fullr1=85.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.2.csv,panel,trunc=5.6%; fullr1=71.7%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.3.csv,panel,trunc=20.0%; fullr1=13.3%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.4.csv,panel,trunc=29.4%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.5.csv,panel,trunc=29.4%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.6.csv,panel,trunc=27.2%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.7.csv,panel,trunc=29.4%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.8.csv,panel,trunc=46.1%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_1.9.csv,panel,trunc=56.1%; fullr1=0.0%,False
+external_exp/delphi_exp/temperature,external_exp/delphi_exp/temperature/delphi_temperature_2.0.csv,panel,trunc=54.4%; zerovote=1; fullr1=0.0%,False
+external_exp/external_ex/framework_delphi,external_exp/external_ex/framework_delphi/delphi_medmcqa_noroles.csv,panel,trunc=7.1%,False
+external_exp/external_ex/framework_delphi,external_exp/external_ex/framework_delphi/delphi_pubmedqa_labeled_noroles.csv,panel,trunc=11.0%,False
+external_exp/external_ex/framework_delphi,external_exp/external_ex/framework_delphi/delphi_pubmedqa_unlabeled_judge.csv,panel,trunc=33.3%,False
+external_exp/external_ex/framework_delphi,external_exp/external_ex/framework_delphi/delphi_pubmedqa_unlabeled_noroles.csv,panel,trunc=33.3%,False
+"external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)","external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)/delphi_medmcqa_noroles.csv",panel,trunc=0.1%,False
+"external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)","external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)/delphi_pubmedqa_labeled_noroles.csv",panel,,False
+"external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)","external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)/delphi_pubmedqa_unlabeled_judge.csv",panel,,False
+"external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)","external_exp/external_ex/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, aliceai-llm)/delphi_pubmedqa_unlabeled_noroles.csv",panel,,False
+external_exp/external_ex/framework_delphi_deepseektrio,external_exp/external_ex/framework_delphi_deepseektrio/delphi_medmcqa_noroles.csv,panel,trunc=10.3%,False
+external_exp/external_ex/framework_delphi_deepseektrio,external_exp/external_ex/framework_delphi_deepseektrio/delphi_pubmedqa_unlabeled_judge.csv,panel,trunc=13.3%,False
+external_exp/external_ex/framework_delphi_deepseektrio,external_exp/external_ex/framework_delphi_deepseektrio/delphi_pubmedqa_unlabeled_noroles.csv,panel,trunc=13.3%,False
+"external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)/delphi_medmcqa_noroles.csv",panel,trunc=3.5%,False
+"external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)/delphi_pubmedqa_unlabeled_judge.csv",panel,trunc=4.0%,False
+"external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/external_medmcqa/framework_delphi_ac (gpt-oss-120b moderator, qwen3-235b-a22b-fp8, deepseekv4)/delphi_pubmedqa_unlabeled_noroles.csv",panel,trunc=4.0%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest.csv,panel,trunc=5.1%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest_r1.csv,panel,trunc=5.3%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest_r2.csv,panel,trunc=3.7%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest_r3.csv,panel,trunc=6.0%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest_r4.csv,panel,trunc=5.0%,False
+external_exp/external_medmcqa/retest_version/framework_delphi_ac,external_exp/external_medmcqa/retest_version/framework_delphi_ac/delphi_medmcqa_noroles_retest_r5.csv,panel,trunc=5.7%,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_earlystop.csv,panel,,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_earlystop_calib3.csv,panel,,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_earlystop_calib3_arbiter.csv,panel,trunc=1.7%,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_earlystop_calib3_arbiter_blind.csv,panel,,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_earlystop_calib3_nopeer.csv,panel,trunc=1.3%,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_final_full1000.csv,panel,trunc=0.4%,False
+external_exp/external_pubmedqa/framework_delphi_pbase,external_exp/external_pubmedqa/framework_delphi_pbase/delphi_pubmedqa_labeled_pbase_fixed.csv,panel,,False
+external_exp/homog_framework/framework_delphi_homog_deepseekv4 (deepseek-v4-flash x3),external_exp/homog_framework/framework_delphi_homog_deepseekv4 (deepseek-v4-flash x3)/delphi_homog_deepseekv4_noroles.csv,panel,trunc=39.4%; zerovote=40; fullr1=35.8%,False
+external_exp/homog_framework/framework_delphi_homog_gemini (gemini-3.7-flash x3),external_exp/homog_framework/framework_delphi_homog_gemini (gemini-3.7-flash x3)/delphi_homog_gemini_noroles.csv,panel,,False
+external_exp/homog_framework/framework_delphi_homog_gpt (gpt-oss-120b x3),external_exp/homog_framework/framework_delphi_homog_gpt (gpt-oss-120b x3)/delphi_homog_gpt_noroles.csv,panel,trunc=8.4%; zerovote=6; fullr1=83.4%,False
+external_exp/homog_framework/framework_delphi_homog_qwen (qwen3-235b-a22b-fp8 x3),external_exp/homog_framework/framework_delphi_homog_qwen (qwen3-235b-a22b-fp8 x3)/delphi_homog_qwen_noroles.csv,panel,fullr1=99.6%,False
+external_exp/type_ex/baseline_deepseekv4,external_exp/type_ex/baseline_deepseekv4/baseline_noroles_deepseekv4_typedef_full229.csv,single,,False
+external_exp/type_ex/baseline_gpt,external_exp/type_ex/baseline_gpt/baseline_noroles_gpt_typedef.csv,single,,False
+external_exp/type_ex/baseline_gpt,external_exp/type_ex/baseline_gpt/baseline_noroles_gpt_typedef_full229.csv,single,,False
+"external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles_typedef.csv",panel,trunc=25.0%; fullr1=32.0%,False
+"external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles_typedef_arbiter.csv",panel,trunc=22.3%; fullr1=41.0%,False
+"external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles_typedef_arbiter_blind.csv",panel,trunc=24.3%; fullr1=39.0%,False
+"external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles_typedef_arbiter_full229.csv",panel,trunc=24.0%; zerovote=1; fullr1=36.7%,False
+"external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","external_exp/type_ex/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles_typedef_nopeer.csv",panel,trunc=22.7%; fullr1=40.0%,False
+fix_exp/dataverse_baseline/baseline_deepseekv4,fix_exp/dataverse_baseline/baseline_deepseekv4/baseline_noroles_deepseekv4.csv,single,trunc=8.7%,False
+fix_exp/dataverse_baseline/baseline_deepseekv4,fix_exp/dataverse_baseline/baseline_deepseekv4/baseline_randomroles_deepseekv4.csv,single,trunc=8.3%,False
+fix_exp/dataverse_baseline/baseline_gpt,fix_exp/dataverse_baseline/baseline_gpt/baseline_noroles_gpt.csv,single,,False
+fix_exp/dataverse_baseline/baseline_gpt,fix_exp/dataverse_baseline/baseline_gpt/baseline_randomroles_gpt.csv,single,,False
+fix_exp/dataverse_baseline/baseline_qwen,fix_exp/dataverse_baseline/baseline_qwen/baseline_noroles_qwen.csv,single,,False
+fix_exp/dataverse_baseline/baseline_qwen,fix_exp/dataverse_baseline/baseline_qwen/baseline_randomroles_qwen.csv,single,,False
+"fix_exp/dataverse_delphi/delphi_internal/base_framework_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","fix_exp/dataverse_delphi/delphi_internal/base_framework_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles.csv",panel,,False
+"fix_exp/dataverse_delphi/delphi_internal/base_framework_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","fix_exp/dataverse_delphi/delphi_internal/base_framework_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_randomroles.csv",panel,fullr1=97.4%,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4,nofix_exp/dataverse_baseline/baseline_deepseekv4/baseline_noroles_deepseekv4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4,nofix_exp/dataverse_baseline/baseline_deepseekv4/baseline_randomroles_deepseekv4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_noroles_deepseekv4_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/retest_version/baseline_randomroles_deepseekv4_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/short_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/short_version/baseline_noroles_deepseekv4_short.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4/short_version,nofix_exp/dataverse_baseline/baseline_deepseekv4/short_version/baseline_randomroles_deepseekv4_short.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4pro,nofix_exp/dataverse_baseline/baseline_deepseekv4pro/baseline_noroles_deepseekv4pro.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_deepseekv4pro,nofix_exp/dataverse_baseline/baseline_deepseekv4pro/baseline_randomroles_deepseekv4pro.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gemini,nofix_exp/dataverse_baseline/baseline_gemini/baseline_noroles_gemini.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gemini,nofix_exp/dataverse_baseline/baseline_gemini/baseline_randomroles_gemini.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_glm,nofix_exp/dataverse_baseline/baseline_glm/baseline_noroles_glm.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_glm,nofix_exp/dataverse_baseline/baseline_glm/baseline_randomroles_glm.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt,nofix_exp/dataverse_baseline/baseline_gpt/baseline_noroles_gpt.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt,nofix_exp/dataverse_baseline/baseline_gpt/baseline_randomroles_gpt.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_noroles_gpt_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/retest_version,nofix_exp/dataverse_baseline/baseline_gpt/retest_version/baseline_randomroles_gpt_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/short_version,nofix_exp/dataverse_baseline/baseline_gpt/short_version/baseline_noroles_gpt_short.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_gpt/short_version,nofix_exp/dataverse_baseline/baseline_gpt/short_version/baseline_randomroles_gpt_short.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_kimi,nofix_exp/dataverse_baseline/baseline_kimi/baseline_noroles_kimi.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_kimi,nofix_exp/dataverse_baseline/baseline_kimi/baseline_randomroles_kimi.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen,nofix_exp/dataverse_baseline/baseline_qwen/baseline_noroles_qwen.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen,nofix_exp/dataverse_baseline/baseline_qwen/baseline_randomroles_qwen.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_noroles_qwen_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest_r1.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest_r2.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest_r3.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest_r4.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/retest_version,nofix_exp/dataverse_baseline/baseline_qwen/retest_version/baseline_randomroles_qwen_retest_r5.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/short_version,nofix_exp/dataverse_baseline/baseline_qwen/short_version/baseline_noroles_qwen_short.csv,single,,False
+nofix_exp/dataverse_baseline/baseline_qwen/short_version,nofix_exp/dataverse_baseline/baseline_qwen/short_version/baseline_randomroles_qwen_short.csv,single,,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_noroles.csv",panel,trunc=16.9%; fullr1=55.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/delphi_randomroles.csv",panel,trunc=26.1%; zerovote=2; fullr1=34.1%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest.csv",panel,trunc=18.4%; fullr1=52.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest_r1.csv",panel,trunc=17.2%; fullr1=55.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest_r2.csv",panel,trunc=16.1%; fullr1=55.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest_r3.csv",panel,trunc=18.3%; fullr1=50.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest_r4.csv",panel,trunc=22.8%; fullr1=45.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_noroles_retest_r5.csv",panel,trunc=17.8%; fullr1=55.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest.csv",panel,trunc=29.3%; fullr1=26.7%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest_r1.csv",panel,trunc=28.9%; fullr1=25.0%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest_r2.csv",panel,trunc=30.0%; fullr1=26.7%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest_r3.csv",panel,trunc=31.1%; fullr1=23.3%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest_r4.csv",panel,trunc=26.7%; fullr1=31.7%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/retest_version/delphi_randomroles_retest_r5.csv",panel,trunc=30.0%; fullr1=26.7%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/short_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/short_version/delphi_noroles_short.csv",panel,trunc=12.1%; fullr1=70.3%,False
+"nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/short_version","nofix_exp/dataverse_delphi/framework_delphi_original (gpt-oss-120b модератор, qwen3-235b-a22b-fp8, deepseekv4)/short_version/delphi_randomroles_short.csv",panel,trunc=22.4%; zerovote=1; fullr1=42.4%,False
+"nofix_exp/dataverse_delphi/framework_delphi_pmixed (deepseekv4 модератор, gemini-3.7-flash, glm-5.2)","nofix_exp/dataverse_delphi/framework_delphi_pmixed (deepseekv4 модератор, gemini-3.7-flash, glm-5.2)/delphi_pmixed_noroles.csv",panel,fullr1=99.6%,False
+"nofix_exp/dataverse_delphi/framework_delphi_pstrong (deepseekv4 модератор, glm-5.2, gpt-oss-120b)","nofix_exp/dataverse_delphi/framework_delphi_pstrong (deepseekv4 модератор, glm-5.2, gpt-oss-120b)/delphi_pstrong_noroles.csv",panel,fullr1=96.9%,False
+"nofix_exp/dataverse_delphi/framework_delphi_pweak (qwen3-235b-a22b-fp8 модератор, gemini-3.7-flash, deepseek-v4-pro)","nofix_exp/dataverse_delphi/framework_delphi_pweak (qwen3-235b-a22b-fp8 модератор, gemini-3.7-flash, deepseek-v4-pro)/delphi_pweak_noroles.csv",panel,fullr1=96.1%,False

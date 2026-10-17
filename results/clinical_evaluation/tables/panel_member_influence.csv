@@ -1,0 +1,5 @@
+﻿position;maj_correct;obs;ends_on_majority
+majority;False;210;0.7142857142857143
+majority;True;300;0.8666666666666667
+minority;False;105;0.6666666666666666
+minority;True;150;0.8133333333333334

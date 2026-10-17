@@ -1,0 +1,3802 @@
+{
+  "issues": [],
+  "configuration": [
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "random_dev300",
+      "configuration_signature": "38dac10dec068d4cc119bf72d0b635341d886c5d5d94f3d6f078c2f3d0a4b5b4",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "shao_hard100",
+      "configuration_signature": "5871d4a4b737067db0738f946f65fbafba7e6c9854c8a5d2b761f5e466357e26",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "goa100",
+      "configuration_signature": "8bc506184e1c0a69a87cc2d046eef69e88ae6c89cb1e18f139b46dbf7eafaa36",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc100",
+      "configuration_signature": "a9f6bacc4edb6683d1b58931fc0103c612d9664112527385ab2d0c919c7a8a2c",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc250",
+      "configuration_signature": "1d45594ebe3c618e77ee08bcefbb07e16d0488939723e05b03bbe10a7479c7f8",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "dev4183",
+      "configuration_signature": "f6219c7ffcc12ae479780a05f8af6c1285ec846b89c6375c896e5564fc369ee7",
+      "participant_ids": [
+        "gpt120b_default",
+        "qwen36_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "gpt120b_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e"
+      }
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "random_dev300",
+      "configuration_signature": "46dd3ff63fc7b52e381067bc99f816d4431b622fa195f51b875a0ec7a47ed366",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "gpt-oss-120b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "qwen36_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "shao_hard100",
+      "configuration_signature": "3dd587bea0d32c22b727359a9d49d62018d40dd82df4f06b6fc1bb10b29c32f3",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "gpt-oss-120b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "qwen36_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "goa100",
+      "configuration_signature": "2ba3b2283b4615c5e4b02358de3524a3941d9a1be491831367c78d4fabde8831",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "gpt-oss-120b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "qwen36_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc100",
+      "configuration_signature": "d6195213f0c7a469cb76babbf83ace1e32824ec4b46b74aa4ad554cdb56cae47",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "gpt-oss-120b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "qwen36_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc250",
+      "configuration_signature": "aadfaf9465e15738078af63819eb6bdefaac028ca4fd5c495534eda9b530788c",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "gpt-oss-120b",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "qwen36_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "random_dev300",
+      "configuration_signature": "d6a46c247e9c95409fd3314cb0cb31beadd2897a2c9fe39f6b283213cbe050be",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "deepseekv4_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "shao_hard100",
+      "configuration_signature": "9ebf67d3e8a357990f87d3958c2f4303329048202aa8ba017336c426fc982201",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "deepseekv4_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "goa100",
+      "configuration_signature": "5858445916b76a581009fb9c27bfbc0fb24c1a859989ed13359adfc6ea617069",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "deepseekv4_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc100",
+      "configuration_signature": "75c39d4bbc2ce7d9a301c9d485a41546645e324f37d3ea0bbea7df1f157cd243",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "deepseekv4_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc250",
+      "configuration_signature": "6c6e8d2379ae18ad5c9c0ec5b6f67cd02a971b8ffbdc3b9701fd7defac4bf8e4",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "gpt-oss-120b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "deepseekv4_default",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "original_request_key",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "random_dev300",
+      "configuration_signature": "3817663b65e9adcaa3e4c3129dd188613948e79b11761b9f87718b7d5daffae1",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "deepseekv4_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "shao_hard100",
+      "configuration_signature": "9c6c5498dcdf92f96aad4c505215bd9ec2ebb80e9d0267c4905e415f5f324c0d",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "deepseekv4_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "goa100",
+      "configuration_signature": "b806b8415480bec98bc3e977e20ecfc37e6da8024c0b9dc29ecf99de1c9e8dfa",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "deepseekv4_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc100",
+      "configuration_signature": "3ecd496437d50ef9ca1c48ead50b7579c944dbd2f0bcaadc5bb18029445dcd16",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "deepseekv4_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc250",
+      "configuration_signature": "fc3bf8f4c7c1f34933a5a89871c4d8820c86d6dd3862d432ec0c2c3d1ec0a3ad",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "participant_models": [
+        "deepseek-v4-flash",
+        "deepseek-v4-flash",
+        "deepseek-v4-flash"
+      ],
+      "organizer": "deepseekv4_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "random_dev300",
+      "configuration_signature": "4cc59cd26f20489946f930ed743c1e089723f54cb2a27f8ff7fc0e78ec6c462b",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "qwen36_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "shao_hard100",
+      "configuration_signature": "50cb26f3ffb5fbb7c95f5e4ed81ff89fcc57185c715c825e687a152ed29db6fd",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "qwen36_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "goa100",
+      "configuration_signature": "b2e3601f33476f13467c4f614e22c167ae540a11b7bd0c3ee723e805b1cc1f0c",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "qwen36_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc100",
+      "configuration_signature": "a361efd89f15bc042de876b8a13f2aced6bb43cda26de2950f048938c7076f12",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "qwen36_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc250",
+      "configuration_signature": "2f6862ef9fcfadde2fbbc987030123f35096a5678817d66cde394f904afa49c3",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "participant_models": [
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b",
+        "qwen3.6-35b-a3b"
+      ],
+      "organizer": "qwen36_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "random_dev300",
+      "configuration_signature": "29a4c5d94c150e5aaea343b5c5deafea0f1045156eb91def982831d8aea34acf",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "gpt-oss-120b",
+        "gpt-oss-120b"
+      ],
+      "organizer": "gpt120b_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "shao_hard100",
+      "configuration_signature": "453363b1f29d7ca60cf5f5706cd313d3bf16081129324511ad4c270e70e167c1",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "gpt-oss-120b",
+        "gpt-oss-120b"
+      ],
+      "organizer": "gpt120b_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "goa100",
+      "configuration_signature": "37aca32e499997811953bb8f65901a6d78d3043bc22ae24ad52e5c76c909956c",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "gpt-oss-120b",
+        "gpt-oss-120b"
+      ],
+      "organizer": "gpt120b_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc100",
+      "configuration_signature": "c5895465a21fae0fc1ed91caf3201d6a98daac81aacceec09add270786cc0615",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "gpt-oss-120b",
+        "gpt-oss-120b"
+      ],
+      "organizer": "gpt120b_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc250",
+      "configuration_signature": "fda08e25a403aff848654b32f27c3c08aad66270dfa3dbf88b7f994e0a1a751f",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "participant_models": [
+        "gpt-oss-120b",
+        "gpt-oss-120b",
+        "gpt-oss-120b"
+      ],
+      "organizer": "gpt120b_1",
+      "temperatures": [
+        0.3,
+        0.3,
+        0.3,
+        0.3,
+        0.3
+      ],
+      "model_output_limits": {
+        "gpt-oss-120b": 10000,
+        "qwen3.6-35b-a3b": 10000,
+        "deepseek-v4-flash": 10000
+      },
+      "max_rounds": 3,
+      "early_stop": true,
+      "cache_policy": "participant_scoped_v1",
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+        "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104"
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "random_dev300",
+      "configuration_signature": "eedb17abd048b425a17aa26b7b135662c6d5bf098d20e38120cd048aec954416",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "shao_hard100",
+      "configuration_signature": "237f4ec935854e8d054ed075de570f85d91db46f81659c3d052cf9619cb58f41",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "goa100",
+      "configuration_signature": "069a8346dab2b866fa515d0bfd17496424e51a5ba06ff38722cc1a2d12cfd9f2",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc100",
+      "configuration_signature": "454a0b627a181a5e59eb89446680f4de290fe8749a56a17214e71a4f4e59b658",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc250",
+      "configuration_signature": "f86dc038a5b5dd451e652922b2d722001d3686f5db12d33ad7a7164cc0575b4e",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "dev4183",
+      "configuration_signature": "aee21f0d801b2ef915ce3b28cc23efa743c52c2fb1dcc89589291d0ac0dca618",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "gpt-oss-120b": 3000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "random_dev300",
+      "configuration_signature": "41143777cfd12299c49e938cac7d88df1bc801bb0bc52db3bd34998804f63f1b",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "shao_hard100",
+      "configuration_signature": "7e389f87a9649bfe2c83376adfb5ba6f6f6ad4a165974780ee37f67e267aaa30",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "goa100",
+      "configuration_signature": "0baddc2423b85fb446cde59157d35a9a75e6685d1c54c2bc2866569e54d3995c",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc100",
+      "configuration_signature": "f5c27990ceac353185d2ecbf6ac7eda726a2ad2cb5f82f2e5da6e5d0cf20da5b",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc250",
+      "configuration_signature": "202f27738fed20b59bff46a8839d21addb23bf1296268a6b1e8088d02c89ea37",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "dev4183",
+      "configuration_signature": "ae8bc8ece0358af6ea9a4df7185e49479a991fdd27af6428905204f95773efc3",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "qwen3.6-35b-a3b": 10000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "random_dev300",
+      "configuration_signature": "6a44c07e73ab5a1f05524daca948dc8757d00e07bd131e49bb22e9bf40aec491",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "shao_hard100",
+      "configuration_signature": "23270028be9f533875c644e3e0bde474cb0035b0708c03454b7cd3bab575d3ce",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "goa100",
+      "configuration_signature": "7f20d856d8cce9648537a3eab918a1d6b4bcdb79e8198a42f69de005b090d366",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc100",
+      "configuration_signature": "1521e52fb37146cb8d9e35a2e2dd74785ac93ff40c41c3cfafd0f5fafa566311",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc250",
+      "configuration_signature": "a89f5310e27762b8b1c7f6fbd76c05a655b5773f9fa19b80b0a0f070f0d1054b",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "dev4183",
+      "configuration_signature": "a46e080f88cdd060ee7c3f03e361733048ec67371e823db93cc16b7b748de99f",
+      "participant_ids": [],
+      "participant_models": [],
+      "organizer": null,
+      "temperatures": null,
+      "model_output_limits": {
+        "deepseek-v4-flash": 5000
+      },
+      "max_rounds": null,
+      "early_stop": null,
+      "cache_policy": null,
+      "reasoning_mode": "provider_default",
+      "other_safe_fields": {
+        "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+        "temperature": 0.3
+      }
+    }
+  ],
+  "homogeneous_independence_checks": [
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 240,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "deepseekv4_1__deepseekv4_2": 0,
+        "deepseekv4_1__deepseekv4_3": 0,
+        "deepseekv4_2__deepseekv4_3": 0
+      },
+      "r1_cached_counts": {
+        "deepseekv4_1": 25,
+        "deepseekv4_2": 25,
+        "deepseekv4_3": 25
+      },
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 61,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "deepseekv4_1__deepseekv4_2": 0,
+        "deepseekv4_1__deepseekv4_3": 0,
+        "deepseekv4_2__deepseekv4_3": 0
+      },
+      "r1_cached_counts": {
+        "deepseekv4_1": 0,
+        "deepseekv4_2": 0,
+        "deepseekv4_3": 0
+      },
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "goa100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 88,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "deepseekv4_1__deepseekv4_2": 0,
+        "deepseekv4_1__deepseekv4_3": 0,
+        "deepseekv4_2__deepseekv4_3": 0
+      },
+      "r1_cached_counts": {
+        "deepseekv4_1": 0,
+        "deepseekv4_2": 0,
+        "deepseekv4_3": 0
+      },
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 86,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "deepseekv4_1__deepseekv4_2": 0,
+        "deepseekv4_1__deepseekv4_3": 0,
+        "deepseekv4_2__deepseekv4_3": 0
+      },
+      "r1_cached_counts": {
+        "deepseekv4_1": 0,
+        "deepseekv4_2": 0,
+        "deepseekv4_3": 0
+      },
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc250",
+      "n": 250,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 208,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "deepseekv4_1__deepseekv4_2": 0,
+        "deepseekv4_1__deepseekv4_3": 0,
+        "deepseekv4_2__deepseekv4_3": 0
+      },
+      "r1_cached_counts": {
+        "deepseekv4_1": 0,
+        "deepseekv4_2": 0,
+        "deepseekv4_3": 0
+      },
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 245,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "qwen36_1__qwen36_2": 0,
+        "qwen36_1__qwen36_3": 0,
+        "qwen36_2__qwen36_3": 0
+      },
+      "r1_cached_counts": {
+        "qwen36_1": 0,
+        "qwen36_2": 0,
+        "qwen36_3": 0
+      },
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 63,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "qwen36_1__qwen36_2": 0,
+        "qwen36_1__qwen36_3": 0,
+        "qwen36_2__qwen36_3": 0
+      },
+      "r1_cached_counts": {
+        "qwen36_1": 0,
+        "qwen36_2": 0,
+        "qwen36_3": 0
+      },
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "goa100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 82,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "qwen36_1__qwen36_2": 0,
+        "qwen36_1__qwen36_3": 0,
+        "qwen36_2__qwen36_3": 0
+      },
+      "r1_cached_counts": {
+        "qwen36_1": 0,
+        "qwen36_2": 0,
+        "qwen36_3": 0
+      },
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 88,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "qwen36_1__qwen36_2": 0,
+        "qwen36_1__qwen36_3": 0,
+        "qwen36_2__qwen36_3": 0
+      },
+      "r1_cached_counts": {
+        "qwen36_1": 0,
+        "qwen36_2": 0,
+        "qwen36_3": 0
+      },
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc250",
+      "n": 250,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 221,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "qwen36_1__qwen36_2": 0,
+        "qwen36_1__qwen36_3": 0,
+        "qwen36_2__qwen36_3": 0
+      },
+      "r1_cached_counts": {
+        "qwen36_1": 0,
+        "qwen36_2": 0,
+        "qwen36_3": 0
+      },
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 248,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "gpt120b_1__gpt120b_2": 0,
+        "gpt120b_1__gpt120b_3": 0,
+        "gpt120b_2__gpt120b_3": 0
+      },
+      "r1_cached_counts": {
+        "gpt120b_1": 0,
+        "gpt120b_2": 0,
+        "gpt120b_3": 0
+      },
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 63,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "gpt120b_1__gpt120b_2": 0,
+        "gpt120b_1__gpt120b_3": 0,
+        "gpt120b_2__gpt120b_3": 0
+      },
+      "r1_cached_counts": {
+        "gpt120b_1": 0,
+        "gpt120b_2": 0,
+        "gpt120b_3": 0
+      },
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "goa100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 79,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "gpt120b_1__gpt120b_2": 0,
+        "gpt120b_1__gpt120b_3": 0,
+        "gpt120b_2__gpt120b_3": 0
+      },
+      "r1_cached_counts": {
+        "gpt120b_1": 0,
+        "gpt120b_2": 0,
+        "gpt120b_3": 0
+      },
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc100",
+      "n": 100,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 86,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "gpt120b_1__gpt120b_2": 0,
+        "gpt120b_1__gpt120b_3": 0,
+        "gpt120b_2__gpt120b_3": 0
+      },
+      "r1_cached_counts": {
+        "gpt120b_1": 0,
+        "gpt120b_2": 0,
+        "gpt120b_3": 0
+      },
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "all_ids_distinct": true
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc250",
+      "n": 250,
+      "cache_policy": "participant_scoped_v1",
+      "r1_same_option_all_three": 208,
+      "r1_same_raw_all_three": 0,
+      "r1_same_raw_pairs": {
+        "gpt120b_1__gpt120b_2": 0,
+        "gpt120b_1__gpt120b_3": 0,
+        "gpt120b_2__gpt120b_3": 0
+      },
+      "r1_cached_counts": {
+        "gpt120b_1": 0,
+        "gpt120b_2": 0,
+        "gpt120b_3": 0
+      },
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "all_ids_distinct": true
+    }
+  ],
+  "input_hashes": [
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\random_dev300.csv",
+      "csv_sha256": "78a0b651a32d707ca09a0888c5c989af291a7b9eb4b423f73a01e2dc38e33b25",
+      "metrics_sha256": "4c362178b325bf4289ea4277f65876310c2ab71dae72bfbcc93f3adae67f25a7",
+      "usage_sha256": "760708e1edd855ac1f86fbe69d599810c8678709d131ea01de159c3ad9947257"
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\shao_hard100.csv",
+      "csv_sha256": "e9107b69f5ad29a6f75b7df4c66960cd13b9b5a32db4c06415c5c0e9632d49e3",
+      "metrics_sha256": "43f962ec349445a74b077a7f2db23b0e9f6837b67d77d1898ec2a1e973ae0552",
+      "usage_sha256": "1b403de92e98c588c285c49c0d00057440830a1883ae1a36b42358f89eb41729"
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\goa100.csv",
+      "csv_sha256": "24f0389810ec8f22ee4e1f22d2f5b4b764e5c5b22115dccff9e4e5db8bb083fe",
+      "metrics_sha256": "701528e42900955ac351670e4d2fd7eece47006d83958658c86ab686d1dc4886",
+      "usage_sha256": "11cbf6499a49b1dcbdf62848deec5e38fa9913ddc5f47e52b4688706fae59579"
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\marc100.csv",
+      "csv_sha256": "fcc5681e1638e1cd4b0c5edaa81a46299f6f0af2c3ed3d04b213c548cdf4a10e",
+      "metrics_sha256": "72c7da9daf4badbb5c0013aa9b7bb21fd557d7df5a8b82ebb794b3a0e160c619",
+      "usage_sha256": "d8cc49a8a4153898a9dfda0bc0c8a8189ed5419000ce123d03abb6066b89cb54"
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\marc250.csv",
+      "csv_sha256": "9e017f541ad68cb6da055ef4c27550504d02e8613f284dd6c96163f5cf433a70",
+      "metrics_sha256": "b80ecff87eb72eedd3343c9843942d67635344d1cead028d97c69cb917792a3e",
+      "usage_sha256": "4bf07a734bf9a5dded725501150b8ae55623e973c173cb8a0b54f37223a2272a"
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "dev4183",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_qwen36_deepseekv4\\dev4183.csv",
+      "csv_sha256": "d11588b7bde97111e092497741671cfc7e68f012760e50c584b30ea51d05ccd8",
+      "metrics_sha256": "4fef89ade4ad1034e5be776274e054cc310140bd3d02435191e92f31265c480b",
+      "usage_sha256": "f88c9f5d1d9dec5a26de7e542c208cc768d2fc3443a1ec47f1c3e2540436f7f8"
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_gpt120_deepseekv4\\random_dev300.csv",
+      "csv_sha256": "3251565f62da8c41f56df32ff25c987c87bfcd50206c94e7f0020bb9c8067d7e",
+      "metrics_sha256": "58892c50af23acd61c11b377a063c3b28082444747b8a8387f19c037843c5e21",
+      "usage_sha256": "67680cb610b44e3c3ac173618ac6e3678f3dc60c89f2859bfe1bfde5b5d9ab03"
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_gpt120_deepseekv4\\shao_hard100.csv",
+      "csv_sha256": "75a15f714254265e95d5d01f646ef0776870bb1585fc86c4bfdcd60823d38a9d",
+      "metrics_sha256": "180b3c0bdcbf828293bd4559e3c494d373ea3df664f52351dafd265b7f8edf2c",
+      "usage_sha256": "01217abf6f8f66da5d6908a027996ad83c809d520f39c884c23fa0a62b3c6fb4"
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_gpt120_deepseekv4\\goa100.csv",
+      "csv_sha256": "bd928d95c09bfe6bd696b1d4521d88405e6e98bfacb3e53711e28a46a0624d10",
+      "metrics_sha256": "937535d33c9c7b5ec2b03b1396c863060c61010ac13917804996b53959abe48e",
+      "usage_sha256": "093c36fcb4ddc18553e22b1829395d965687f9b4fd0ddb66830651e5280ebd34"
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_gpt120_deepseekv4\\marc100.csv",
+      "csv_sha256": "fde4eeeeab58d81779fe3861e206d072b4ab38ed158d460af094b51782edeb1a",
+      "metrics_sha256": "b71b573413d23fc6ea2796a6b6e8b954109cc7b70647e0ebfdda439044309e7a",
+      "usage_sha256": "dd817adce135a97d488ddf03d467bd3209dea4e4fc46ab3381fe68367394126e"
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_gpt120_deepseekv4\\marc250.csv",
+      "csv_sha256": "16b3f57425c5fee00af3487947d8fc6e1133a3f7e07da65f0b5b301f0e85b9bb",
+      "metrics_sha256": "cc2b48ff4c50298191f7a68536c5b3d1b16c6c40c99dfd7b206a43f4cca055b2",
+      "usage_sha256": "9d5ee480e3544740ca4b1ebcaa9378987c612ab7274d042931e35b52b55206af"
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_gpt120_qwen36\\random_dev300.csv",
+      "csv_sha256": "6b3d8176f829e19cdc245b99c7bf8cbfed88f80aa9f535dec8029aec102fae0b",
+      "metrics_sha256": "b89781aa0769565cfb26f0d2e04341efd785522417987b4ec4182d05e6c3f5da",
+      "usage_sha256": "a834c63572076fdabe6d9678a456bd02ad244f97ff085d077388c48c8f5f14ca"
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_gpt120_qwen36\\shao_hard100.csv",
+      "csv_sha256": "083874a9ef8be425951e9e5e8088587fed04ad89194c484dcf0ebe3499183e21",
+      "metrics_sha256": "8a6dd7b0779ec1bf6aaa4b3dac2e23b5b9cc1bad855ef3259e27b221a7ef559b",
+      "usage_sha256": "d79942f5819ca00a7e0ea3dab45412d5c0e67420a19283ce023165a987886c0f"
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_gpt120_qwen36\\goa100.csv",
+      "csv_sha256": "315c82c45ded02e911ce8832d4406ac256e96f20dad03f88e82e0e5adee9f8b8",
+      "metrics_sha256": "1550ba6e492d5a7dca68b55417a9cfe2702dd3a1ed6f17518ad013f84d1ad761",
+      "usage_sha256": "a9ec1db6d55e9b3470f586c4521ffa14fcf1f1e478ef8b03daf7f6cdf4ea6471"
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_gpt120_qwen36\\marc100.csv",
+      "csv_sha256": "116e210cd73ea1a19de83fbca4e6bbd4654e66ca8ff170a7779fa8b3c77afb06",
+      "metrics_sha256": "af9a2d1950b571e1de17d3ebc386142b167b49c4d2ac877b086c6a2ef4b99784",
+      "usage_sha256": "d064aa790320be2b07606205dbca10d72906adb34bf66f8a5af0b31a6f102dbe"
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_gpt120_qwen36\\marc250.csv",
+      "csv_sha256": "f1f9ce26e5d58bebeb6608355c25cd0ad80cf430ab82f3ccdcc932632a4818c3",
+      "metrics_sha256": "0c2a6d28885293b5677f2585f156728d86c6567a855a2da012700eefa578bfda",
+      "usage_sha256": "a01c0fbe8df978a580a32e85bd13573f0d76b1594478ed3e856b20ee5955c218"
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_trio\\random_dev300.csv",
+      "csv_sha256": "c463688fb360afb017f2d12a1eddca6479ae4c80d02bf9e76322e52c1b1289b0",
+      "metrics_sha256": "b07a84fb356ea46a4b34f5c18f623e85e1a7348018b8a87207ab2e89aa804f3e",
+      "usage_sha256": "7100fb12df068cef01885d4bad4dd55c638c9e98c18a8b2c840c94d5092f87d5"
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_trio\\shao_hard100.csv",
+      "csv_sha256": "e0e89917eeca14bb610f6f2522f993e25dda4d8a4dc583d5690ed80cce2e6f04",
+      "metrics_sha256": "db61313b9766ddfd55e0d13b0b9327e43f7cd2eb051f5173d7c31949265c86e3",
+      "usage_sha256": "832440f9eb42984802ecbdc39f001d01d093d40c9d6f61c250d13189d7a6c812"
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_trio\\goa100.csv",
+      "csv_sha256": "8a88eea0221b7103677950624436ce7794f7d098be89ad7c55d206eba78cc662",
+      "metrics_sha256": "549c23f7f93560a72abc0ed25fc5332bbc185b94916ca219067e0269827658de",
+      "usage_sha256": "d2eae26233964c52575f1694ceb76a5cb8e5f208b0321c6bfbf391b3b01a7aea"
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_trio\\marc100.csv",
+      "csv_sha256": "76d16ad5c857fa458cbc04cf7d964fe46fbf7a119c5cf86345255694e41c0a8d",
+      "metrics_sha256": "e022e192bb623e5ee3348b1317402d25fb5c97624e6eddcf1ddcf74237e2c8fc",
+      "usage_sha256": "7e4bb8ce843ffb1f90c85f2277184ed36d53d0e47f40be1ffcc39831bb9359f1"
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_deepseekv4_trio\\marc250.csv",
+      "csv_sha256": "ebc1580915f5d648e1290754256ec665dbf70824e637896dcbc16d3ad4a888da",
+      "metrics_sha256": "82cec86328024ac3f23ab4048f348b68d883c63c2a5ec3410d1a04faedb53c51",
+      "usage_sha256": "b7f09bc4d6418286b6465459b7ecca3ab706470498293891322b070a1ea1d6c2"
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_trio\\random_dev300.csv",
+      "csv_sha256": "f3ee71f8194a3ca5da57804698ec3dbb0f594a0094f3447c9c7e98873eb669c1",
+      "metrics_sha256": "43ebdecbd29f5432e52f2e233fa5ad15a1598ec099e838b91f2d66845a9a9187",
+      "usage_sha256": "0e35beee5fee6dbe80f5dcfbcb1d6632d0caaff2ff0de854e3da8729d419ce5e"
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_trio\\shao_hard100.csv",
+      "csv_sha256": "6a02c8b8308066391717b5ae5b1a3130bc0dedea3a3026c779d30d6dde1dc4be",
+      "metrics_sha256": "61617367ffdf8c421be37f4963069c246f2d2451f777a5c93399b9d89aaa2503",
+      "usage_sha256": "675472168937e807fd0119885f97058a220debec97aab8ff911b4d75e26880ab"
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_trio\\goa100.csv",
+      "csv_sha256": "15035da8724ef82072b4749fe29814e519975004f1fb7c48f9b016c0f096ac14",
+      "metrics_sha256": "e2c90409654c832c8f14809851dff1160cfe141be55676e6c9bf094a053979d7",
+      "usage_sha256": "e2b80f99054faeae4ac5b59a63061d04ce5e854072028ec86353701ceef836f1"
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_trio\\marc100.csv",
+      "csv_sha256": "747314bbff9ba2468550a6c4b5f71b0250ea07fc8ee226230828062bfde69063",
+      "metrics_sha256": "f867b9e575123b4d85b0c0ebb3fe2b8a6820c9d7c37fb7564632f5c115dbdd77",
+      "usage_sha256": "64ccf7e015e102841a31f96b05f4dcc6fc84d134887ffe55e4c1362614d83f18"
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_qwen36_trio\\marc250.csv",
+      "csv_sha256": "d280bf5c75bf83ff3932e3ff19799876f81f70bb25ebcf9bb1fb74c6e81bf9ce",
+      "metrics_sha256": "1e7caf9a308dd40d0349dd9847ca34f7b0c22ce3923b040fbeba3c7ab3938fe5",
+      "usage_sha256": "b2fbe1ce569d8151ab3e8aaa5786f6bbbf2ad17c7f91b00e25f8875473dd6062"
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_trio\\random_dev300.csv",
+      "csv_sha256": "f2c24fe69e9dce7f22f45c59d40a3f9f937bd19d0d23f265c25a0ebbbbc07077",
+      "metrics_sha256": "32582eeaaed0e31e820211c82fc9397028c8f98d3defa0e414a11ff7d0816372",
+      "usage_sha256": "7cd14dd30d03bf4b6a8a9019703d0e2f58f9b337fa85355e1ea679f588320cbd"
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_trio\\shao_hard100.csv",
+      "csv_sha256": "1f1d12b9b8a1f8219c7e360355e3e35d1ff0be837bbf478c56570b8a423de707",
+      "metrics_sha256": "2b4875e0d3f36701904162a7ec5303f0c09f6133320ff1136459301d8cad6fb0",
+      "usage_sha256": "062c2f0e99501152ee17a3db09d84d1138c4191d71ede008057350fd4477c5a8"
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_trio\\goa100.csv",
+      "csv_sha256": "c3648b5c87a2aacb5827d215d10f3afc9cbd85646f4a457a573ce75e84a3f8c5",
+      "metrics_sha256": "57f70167c995a4e4be5ec7c0bd319ac7e399800fdd8961491bdd7875601d17f5",
+      "usage_sha256": "50bc53faef50d0cdade2621328da48c1811215ec9893ffe58cb283ba782dbad2"
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_trio\\marc100.csv",
+      "csv_sha256": "27a9d1fed66b2461ee018a890ab2f42bd966e8906aaf563dc9e2d5989963cf83",
+      "metrics_sha256": "35788a57e3df637541799d6fae5a5320ee791fddfb9bdff075bff89e89c3fe15",
+      "usage_sha256": "1015007f404562614dc941e4679213cd6bfd2b905471f3e19a7721ca65f11a11"
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\delphi_gpt120_trio\\marc250.csv",
+      "csv_sha256": "0521ba9fce69f9427d50f3bb394744d3e12367c05de30e6e01ac68135ab2edcd",
+      "metrics_sha256": "cefec597e33349cae34e0f42475456a1d2d06edc1e3c137e26d5a3e3542911cf",
+      "usage_sha256": "d93ed6b7f6f3c312a3b4b806b54b8dbb53e50ff45e0eb03c3ed037f7f51efdbb"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\random_dev300.csv",
+      "csv_sha256": "5db984ff361980db9bd656c033bbea0df66cf03c2a7e75b721b13c9d735d6d38",
+      "metrics_sha256": "2f13e0e4acac739ef520c05fd8f140410fbaa7e14b0346e1fdc7e55b1072d3da",
+      "usage_sha256": "47d62102f96e5c4e2156d58aae210f5c6b8f522dc989ff7d4633896bbbe3990f"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\shao_hard100.csv",
+      "csv_sha256": "57b6f60a3fa04749b82f63a5a0d1418d522a160774d4335d5f0af1c517a4d393",
+      "metrics_sha256": "c11b8641de7a687b434a407222ee4b6bdf2bea5a5cfd59b2f9110a16bf511f85",
+      "usage_sha256": "82d1652bfb63896db09e892f9b9aee0a43ecf1a32a3acf3d0c242e588e21a5f1"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\goa100.csv",
+      "csv_sha256": "628e323b8e2cdfcc958f5de781604a08f5af82ac114228d7226bb19cfacc5617",
+      "metrics_sha256": "0ebcffd8ea1802d959706cf6080e15b57295af55f554067aeba78c74a6b733d6",
+      "usage_sha256": "774759e3855926bf31a7cf2b4553d135b79acd011050d4a3470d2edd2406e764"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\marc100.csv",
+      "csv_sha256": "07bb0f1db7ab0e41242fe35a7f25f5675b2f893a42e936d67e158400d54b93b3",
+      "metrics_sha256": "cf948eb66bd546bce9b629ca77c4f1ad391bcb922c6c0c46463a529a83bec08a",
+      "usage_sha256": "c25b23729baf2867866e95d996bce8e6e90efd2c0a6839519b7e9300de0f752f"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\marc250.csv",
+      "csv_sha256": "f66c135cf92a4692efcde9afe4e5fb1c65d25e708327fd09799fe52f6ee5d368",
+      "metrics_sha256": "c8b2698e30ea03b13946729b4a1b9d023063f26a40b4d25ec443643cd22bd24e",
+      "usage_sha256": "6a40ac4f8dd823dc397f33b0f798470cc82c98455f46def8d813f0828b62e724"
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "dev4183",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_gpt120\\dev4183.csv",
+      "csv_sha256": "4c53006dd8c3b957f5ad98c12c81c288fdbe965829716c049ac68d2ecc6ed25e",
+      "metrics_sha256": "3cc07a649a1adb764d9bba4c571c1b5ac4157b3d4b76fb03586aebc17b66937f",
+      "usage_sha256": "888c7df2289abf284d112d864057da613d682ed9ab9d51413b5a99d27b5c35ee"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\random_dev300.csv",
+      "csv_sha256": "bc198081142bd5b4941c20364c28d8c8f7dbcf5e51690240689d161dec0bd3d8",
+      "metrics_sha256": "623f6d893355e0742ea5b9e172e26104d08251eb1b3650345f5f03923efa6611",
+      "usage_sha256": "2b9073f439a7ee66f684f4fa3c84bcd3a0d5b0e155971b371ab606796c1e077f"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\shao_hard100.csv",
+      "csv_sha256": "5ebaf2a065a4dde8bb073a4d5517ccbadae900fff95d9b5470d0469f7fa0ef7b",
+      "metrics_sha256": "8675a5cd4346cb441e42f8d118ac0a61a6cc6c4dacad32aa7921e4ea39b5078e",
+      "usage_sha256": "d03ca940f9df10691c84c017bedbfc7c71e87f342262fa3c78ddd0c26ca77803"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\goa100.csv",
+      "csv_sha256": "7bfc8f091ff49f3e61b9c4a949fe1b8ecacb55e47adcb208fa94071349355a07",
+      "metrics_sha256": "59bcc3bf13f98e22e8b71140e47dee40a912d287a9123652bddebc91a2e15543",
+      "usage_sha256": "9d4d1efe8b97a98384770caa121910a1b500c55ca3a344b86e9dff31e672bf34"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\marc100.csv",
+      "csv_sha256": "c7aeb7064f09f072be7475525cc7cd58df27b7f1da021b6fa12eadfd0aee4b00",
+      "metrics_sha256": "f115c334eefdccd0ef43a4b245a0ee38458b4a555122fc683490db95d1e71274",
+      "usage_sha256": "306120c543febf911c466d8576fd1315178ed54180051e8a86a674051d3c5d20"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\marc250.csv",
+      "csv_sha256": "f19001e270e8820a9d220606783c732a539496dbd8f78c39a66e0eb97cc15fc0",
+      "metrics_sha256": "9edd118811ed3814e6f906e7f049a38c756ab3121f3dddb8652dd6492ba4069b",
+      "usage_sha256": "78e74d3ccd92df1defcf6247ce27b97b2bc556688631e4738048d01c5e2f2d17"
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "dev4183",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\shared_benchmark_runs\\runs\\primary\\baseline_qwen36\\dev4183.csv",
+      "csv_sha256": "f883c4072c9721aae662a5f2ed7d85abd4ae22dabb10fa7b87b30e3915e267ca",
+      "metrics_sha256": "73ec453a106bd1df024653229aff7535dbeb8f04989f4382ad2009f9c8bc4a0a",
+      "usage_sha256": "6f568e1f881008f531dbf4218fc042d2e276c4873a1c2ecffef5b1274a2189fa"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "random_dev300",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\random_dev300.csv",
+      "csv_sha256": "b66a5d42125fd99c3a8c54cefab16533123a962c484858fb7c50efafdcbaa244",
+      "metrics_sha256": "92541025e234e28b09c0c725d62c59f3863ebe5b8738c30a1c5b1246c932c468",
+      "usage_sha256": "57bc9b2e7514bd3cd097c64db26702db0fbae3d575e6459d8dcc78ce53683254"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "shao_hard100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\shao_hard100.csv",
+      "csv_sha256": "2f6852aa88f622a2a8fbef7b54134ff50c72543fa570f9ec17a4c49e5d3242a9",
+      "metrics_sha256": "c2e68b1fc6e948f01603f34c898eece2d63c2230eb00a2417afb930dbc97c734",
+      "usage_sha256": "92cea84fca175e3055c941ccd8704a5aeb2854b740a9c58e3921206d074657de"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "goa100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\goa100.csv",
+      "csv_sha256": "616fdcdb12c131aef8a5d55e2257ee8dff45164afdf77052e4f9ae1408105045",
+      "metrics_sha256": "2fa56352901cf780c3442074e694de56834b6319b7381c53dfa44d88b7f2f46b",
+      "usage_sha256": "47dead56f84467928ec13140bc9b7895b8ff64b073643a627b8d570cc944138c"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc100",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\marc100.csv",
+      "csv_sha256": "15b580d829e19bb1e8ddf9c9b027b473e630bf7965f941ec24cd8079a7231f3a",
+      "metrics_sha256": "41f9d47b09109c951b35bd60e51bee0eeeaea399e0537ee9d9145d52ab6f0014",
+      "usage_sha256": "c185e08ebd13b1de0a789c70423e0e065be2bd9b91c4f005652f20c5ce45b736"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc250",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\marc250.csv",
+      "csv_sha256": "fd1f49f78441e44d480794a73b7ef0aba4fc0f8097b9bebf626e454493d90d88",
+      "metrics_sha256": "c31084050b39ccf49b501072783109c9bae4ada732fec8e8b6f7985dde15ca02",
+      "usage_sha256": "82b64c899695e874e69d1196b44d29ae47d84c20f86daf101de302febe8f79d9"
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "dev4183",
+      "csv_path": "\\\\?\\D:\\research_llmfmed\\research_llmfmed\\1design_alpha\\dataverse_gold\\github_repository\\experiments\\external_benchmarks\\medmcqa\\benchmark_subsets\\deepseek_baseline_runs\\runs\\primary\\baseline_deepseekv4\\dev4183.csv",
+      "csv_sha256": "97549a3fa9bac12e5ae870e59e2fbf0032819d67582d99c8c8685cbd0ddde592",
+      "metrics_sha256": "05b2fe275f668d16922bf44ae7bc17cd6218a66af585d0fa33f2f2a3c23d99f7",
+      "usage_sha256": "a3a8b24d230d0fe6c8282c9f2d51928a9e282423e1c6b67dd7d21bc1e9bec274"
+    }
+  ],
+  "outputs": [
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 231,
+      "accuracy_pct": 77.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 231,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1908,
+      "billed_prompt_tokens": 2811084,
+      "billed_completion_tokens": 3638848,
+      "billed_total_tokens": 6449932,
+      "logical_prompt_tokens": 2811084,
+      "logical_completion_tokens": 3638848,
+      "cost_rub": 1967.0439999999999,
+      "cost_per_case_rub": 6.5568133333333325,
+      "tokens_per_case": 21499.773333333334,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 26,
+      "accuracy_pct": 26.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 26,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 803,
+      "billed_prompt_tokens": 1300098,
+      "billed_completion_tokens": 1636273,
+      "billed_total_tokens": 2936371,
+      "logical_prompt_tokens": 1300098,
+      "logical_completion_tokens": 1636273,
+      "cost_rub": 891.7370999999999,
+      "cost_per_case_rub": 8.917371,
+      "tokens_per_case": 29363.71,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 85,
+      "accuracy_pct": 85.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 85,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 584,
+      "billed_prompt_tokens": 830760,
+      "billed_completion_tokens": 1092786,
+      "billed_total_tokens": 1923546,
+      "logical_prompt_tokens": 830760,
+      "logical_completion_tokens": 1092786,
+      "cost_rub": 587.8225,
+      "cost_per_case_rub": 5.878225,
+      "tokens_per_case": 19235.46,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 86,
+      "accuracy_pct": 86.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 86,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 609,
+      "billed_prompt_tokens": 882550,
+      "billed_completion_tokens": 1170884,
+      "billed_total_tokens": 2053434,
+      "logical_prompt_tokens": 882550,
+      "logical_completion_tokens": 1170884,
+      "cost_rub": 626.7965,
+      "cost_per_case_rub": 6.267965,
+      "tokens_per_case": 20534.34,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.16420361247947454,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 209,
+      "accuracy_pct": 83.6,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 209,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1508,
+      "billed_prompt_tokens": 2196566,
+      "billed_completion_tokens": 2908948,
+      "billed_total_tokens": 5105514,
+      "logical_prompt_tokens": 2196566,
+      "logical_completion_tokens": 2908948,
+      "cost_rub": 1558.8642,
+      "cost_per_case_rub": 6.2354568,
+      "tokens_per_case": 20422.056,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT moderator",
+      "subset": "dev4183",
+      "n": 4183,
+      "correct": 3258,
+      "accuracy_pct": 77.88668419794406,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 3258,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 25692,
+      "billed_prompt_tokens": 37354275,
+      "billed_completion_tokens": 49014123,
+      "billed_total_tokens": 86368398,
+      "logical_prompt_tokens": 37354275,
+      "logical_completion_tokens": 49014123,
+      "cost_rub": 26395.620399999996,
+      "cost_per_case_rub": 6.310212861582595,
+      "tokens_per_case": 20647.47740855845,
+      "length_limited_calls": 16,
+      "length_limited_pct": 0.062276194924490116,
+      "logical_cases_output_at_cap": 16,
+      "logical_calls_output_at_cap": 16
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 230,
+      "accuracy_pct": 76.66666666666667,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 230,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 118,
+      "billed_calls": 1894,
+      "billed_prompt_tokens": 2800172,
+      "billed_completion_tokens": 4998779,
+      "billed_total_tokens": 7798951,
+      "logical_prompt_tokens": 2648437,
+      "logical_completion_tokens": 4693475,
+      "cost_rub": 2204.5614,
+      "cost_per_case_rub": 7.3485380000000005,
+      "tokens_per_case": 25996.503333333334,
+      "length_limited_calls": 2,
+      "length_limited_pct": 0.10559662090813093,
+      "logical_cases_output_at_cap": 2,
+      "logical_calls_output_at_cap": 2
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 26,
+      "accuracy_pct": 26.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 26,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 783,
+      "billed_prompt_tokens": 1257271,
+      "billed_completion_tokens": 2054436,
+      "billed_total_tokens": 3311707,
+      "logical_prompt_tokens": 1257271,
+      "logical_completion_tokens": 2054436,
+      "cost_rub": 938.4535,
+      "cost_per_case_rub": 9.384535,
+      "tokens_per_case": 33117.07,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 84,
+      "accuracy_pct": 84.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 84,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 620,
+      "billed_prompt_tokens": 933755,
+      "billed_completion_tokens": 1644015,
+      "billed_total_tokens": 2577770,
+      "logical_prompt_tokens": 933755,
+      "logical_completion_tokens": 1644015,
+      "cost_rub": 725.1807,
+      "cost_per_case_rub": 7.251807,
+      "tokens_per_case": 25777.7,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 81,
+      "accuracy_pct": 81.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 81,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 608,
+      "billed_prompt_tokens": 899491,
+      "billed_completion_tokens": 1619516,
+      "billed_total_tokens": 2519007,
+      "logical_prompt_tokens": 899491,
+      "logical_completion_tokens": 1619516,
+      "cost_rub": 709.3018999999999,
+      "cost_per_case_rub": 7.093018999999999,
+      "tokens_per_case": 25190.07,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen moderator",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 213,
+      "accuracy_pct": 85.2,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 213,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1504,
+      "billed_prompt_tokens": 2239757,
+      "billed_completion_tokens": 4018996,
+      "billed_total_tokens": 6258753,
+      "logical_prompt_tokens": 2239757,
+      "logical_completion_tokens": 4018996,
+      "cost_rub": 1761.2847,
+      "cost_per_case_rub": 7.0451388,
+      "tokens_per_case": 25035.012,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 235,
+      "accuracy_pct": 78.33333333333333,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 235,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 31,
+      "billed_calls": 1871,
+      "billed_prompt_tokens": 2820115,
+      "billed_completion_tokens": 3288964,
+      "billed_total_tokens": 6109079,
+      "logical_prompt_tokens": 2783612,
+      "logical_completion_tokens": 3230410,
+      "cost_rub": 1958.9287,
+      "cost_per_case_rub": 6.529762333333333,
+      "tokens_per_case": 20363.596666666668,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 30,
+      "accuracy_pct": 30.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 30,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 754,
+      "billed_prompt_tokens": 1245193,
+      "billed_completion_tokens": 1423879,
+      "billed_total_tokens": 2669072,
+      "logical_prompt_tokens": 1245193,
+      "logical_completion_tokens": 1423879,
+      "cost_rub": 850.3134,
+      "cost_per_case_rub": 8.503134,
+      "tokens_per_case": 26690.72,
+      "length_limited_calls": 2,
+      "length_limited_pct": 0.26525198938992045,
+      "logical_cases_output_at_cap": 2,
+      "logical_calls_output_at_cap": 2
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 86,
+      "accuracy_pct": 86.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 86,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 597,
+      "billed_prompt_tokens": 888393,
+      "billed_completion_tokens": 1036631,
+      "billed_total_tokens": 1925024,
+      "logical_prompt_tokens": 888393,
+      "logical_completion_tokens": 1036631,
+      "cost_rub": 621.01,
+      "cost_per_case_rub": 6.2101,
+      "tokens_per_case": 19250.24,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.16750418760469013,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 78,
+      "accuracy_pct": 78.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 78,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 591,
+      "billed_prompt_tokens": 863524,
+      "billed_completion_tokens": 1020695,
+      "billed_total_tokens": 1884219,
+      "logical_prompt_tokens": 863524,
+      "logical_completion_tokens": 1020695,
+      "cost_rub": 606.5398,
+      "cost_per_case_rub": 6.065398,
+      "tokens_per_case": 18842.19,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi DeepSeek moderator",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 208,
+      "accuracy_pct": 83.2,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 208,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1476,
+      "billed_prompt_tokens": 2158366,
+      "billed_completion_tokens": 2551402,
+      "billed_total_tokens": 4709768,
+      "logical_prompt_tokens": 2158366,
+      "logical_completion_tokens": 2551402,
+      "cost_rub": 1515.8490000000002,
+      "cost_per_case_rub": 6.063396000000001,
+      "tokens_per_case": 18839.072,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 229,
+      "accuracy_pct": 76.33333333333333,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 229,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 135,
+      "billed_calls": 1713,
+      "billed_prompt_tokens": 2334976,
+      "billed_completion_tokens": 1362607,
+      "billed_total_tokens": 3697583,
+      "logical_prompt_tokens": 2158013,
+      "logical_completion_tokens": 1229633,
+      "cost_rub": 1381.7963,
+      "cost_per_case_rub": 4.605987666666667,
+      "tokens_per_case": 12325.276666666667,
+      "length_limited_calls": 4,
+      "length_limited_pct": 0.23350846468184472,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 35,
+      "accuracy_pct": 35.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 35,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 624,
+      "billed_prompt_tokens": 897201,
+      "billed_completion_tokens": 517339,
+      "billed_total_tokens": 1414540,
+      "logical_prompt_tokens": 897201,
+      "logical_completion_tokens": 517339,
+      "cost_rub": 527.8298,
+      "cost_per_case_rub": 5.2782979999999995,
+      "tokens_per_case": 14145.4,
+      "length_limited_calls": 2,
+      "length_limited_pct": 0.32051282051282054,
+      "logical_cases_output_at_cap": 2,
+      "logical_calls_output_at_cap": 2
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 82,
+      "accuracy_pct": 82.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 82,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 540,
+      "billed_prompt_tokens": 721337,
+      "billed_completion_tokens": 415671,
+      "billed_total_tokens": 1137008,
+      "logical_prompt_tokens": 721337,
+      "logical_completion_tokens": 415671,
+      "cost_rub": 424.2366,
+      "cost_per_case_rub": 4.2423660000000005,
+      "tokens_per_case": 11370.08,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 75,
+      "accuracy_pct": 75.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 75,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 546,
+      "billed_prompt_tokens": 723211,
+      "billed_completion_tokens": 426480,
+      "billed_total_tokens": 1149691,
+      "logical_prompt_tokens": 723211,
+      "logical_completion_tokens": 426480,
+      "cost_rub": 430.2033,
+      "cost_per_case_rub": 4.302033,
+      "tokens_per_case": 11496.91,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.18315018315018314,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Delphi DeepSeek trio",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 201,
+      "accuracy_pct": 80.4,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 201,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1382,
+      "billed_prompt_tokens": 1855149,
+      "billed_completion_tokens": 1081668,
+      "billed_total_tokens": 2936817,
+      "logical_prompt_tokens": 1855149,
+      "logical_completion_tokens": 1081668,
+      "cost_rub": 1097.3786999999998,
+      "cost_per_case_rub": 4.389514799999999,
+      "tokens_per_case": 11747.268,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.0723589001447178,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 231,
+      "accuracy_pct": 77.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 231,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1721,
+      "billed_prompt_tokens": 2507664,
+      "billed_completion_tokens": 6902156,
+      "billed_total_tokens": 9409820,
+      "logical_prompt_tokens": 2507664,
+      "logical_completion_tokens": 6902156,
+      "cost_rub": 2572.1796,
+      "cost_per_case_rub": 8.573932,
+      "tokens_per_case": 31366.066666666666,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 28,
+      "accuracy_pct": 28.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 28,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 627,
+      "billed_prompt_tokens": 929024,
+      "billed_completion_tokens": 2547334,
+      "billed_total_tokens": 3476358,
+      "logical_prompt_tokens": 929024,
+      "logical_completion_tokens": 2547334,
+      "cost_rub": 950.005,
+      "cost_per_case_rub": 9.50005,
+      "tokens_per_case": 34763.58,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 85,
+      "accuracy_pct": 85.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 85,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 566,
+      "billed_prompt_tokens": 811764,
+      "billed_completion_tokens": 2250842,
+      "billed_total_tokens": 3062606,
+      "logical_prompt_tokens": 811764,
+      "logical_completion_tokens": 2250842,
+      "cost_rub": 837.6053999999999,
+      "cost_per_case_rub": 8.376054,
+      "tokens_per_case": 30626.06,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 81,
+      "accuracy_pct": 81.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 81,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 540,
+      "billed_prompt_tokens": 760489,
+      "billed_completion_tokens": 2180745,
+      "billed_total_tokens": 2941234,
+      "logical_prompt_tokens": 760489,
+      "logical_completion_tokens": 2180745,
+      "cost_rub": 806.3213000000001,
+      "cost_per_case_rub": 8.063213000000001,
+      "tokens_per_case": 29412.34,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi Qwen trio",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 208,
+      "accuracy_pct": 83.2,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 208,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1361,
+      "billed_prompt_tokens": 1936627,
+      "billed_completion_tokens": 5493076,
+      "billed_total_tokens": 7429703,
+      "logical_prompt_tokens": 1936627,
+      "logical_completion_tokens": 5493076,
+      "cost_rub": 2035.2482,
+      "cost_per_case_rub": 8.1409928,
+      "tokens_per_case": 29718.812,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 228,
+      "accuracy_pct": 76.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 228,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1693,
+      "billed_prompt_tokens": 2440159,
+      "billed_completion_tokens": 2394900,
+      "billed_total_tokens": 4835059,
+      "logical_prompt_tokens": 2440159,
+      "logical_completion_tokens": 2394900,
+      "cost_rub": 1450.5176999999999,
+      "cost_per_case_rub": 4.835058999999999,
+      "tokens_per_case": 16116.863333333333,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 29,
+      "accuracy_pct": 29.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 29,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 627,
+      "billed_prompt_tokens": 952480,
+      "billed_completion_tokens": 942902,
+      "billed_total_tokens": 1895382,
+      "logical_prompt_tokens": 952480,
+      "logical_completion_tokens": 942902,
+      "cost_rub": 568.6146,
+      "cost_per_case_rub": 5.686146,
+      "tokens_per_case": 18953.82,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 80,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 579,
+      "billed_prompt_tokens": 835560,
+      "billed_completion_tokens": 819662,
+      "billed_total_tokens": 1655222,
+      "logical_prompt_tokens": 835560,
+      "logical_completion_tokens": 819662,
+      "cost_rub": 496.5666,
+      "cost_per_case_rub": 4.965666,
+      "tokens_per_case": 16552.22,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 76,
+      "accuracy_pct": 76.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 76,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 550,
+      "billed_prompt_tokens": 792204,
+      "billed_completion_tokens": 767665,
+      "billed_total_tokens": 1559869,
+      "logical_prompt_tokens": 792204,
+      "logical_completion_tokens": 767665,
+      "cost_rub": 467.9607,
+      "cost_per_case_rub": 4.679607,
+      "tokens_per_case": 15598.69,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Delphi GPT trio",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 193,
+      "accuracy_pct": 77.2,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 193,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 1402,
+      "billed_prompt_tokens": 2042823,
+      "billed_completion_tokens": 1992428,
+      "billed_total_tokens": 4035251,
+      "logical_prompt_tokens": 2042823,
+      "logical_completion_tokens": 1992428,
+      "cost_rub": 1210.5753,
+      "cost_per_case_rub": 4.8423012,
+      "tokens_per_case": 16141.004,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 226,
+      "accuracy_pct": 75.33333333333333,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 226,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 300,
+      "billed_prompt_tokens": 106845,
+      "billed_completion_tokens": 96237,
+      "billed_total_tokens": 203082,
+      "logical_prompt_tokens": 106845,
+      "logical_completion_tokens": 96237,
+      "cost_rub": 60.9246,
+      "cost_per_case_rub": 0.20308199999999998,
+      "tokens_per_case": 676.94,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 27,
+      "accuracy_pct": 27.0,
+      "invalid": 3,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 27,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 35280,
+      "billed_completion_tokens": 35579,
+      "billed_total_tokens": 70859,
+      "logical_prompt_tokens": 35280,
+      "logical_completion_tokens": 35579,
+      "cost_rub": 21.2577,
+      "cost_per_case_rub": 0.212577,
+      "tokens_per_case": 708.59,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 77,
+      "accuracy_pct": 77.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 77,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 35724,
+      "billed_completion_tokens": 29438,
+      "billed_total_tokens": 65162,
+      "logical_prompt_tokens": 35724,
+      "logical_completion_tokens": 29438,
+      "cost_rub": 19.548599999999993,
+      "cost_per_case_rub": 0.19548599999999994,
+      "tokens_per_case": 651.62,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 78,
+      "accuracy_pct": 78.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 78,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 35556,
+      "billed_completion_tokens": 30847,
+      "billed_total_tokens": 66403,
+      "logical_prompt_tokens": 35556,
+      "logical_completion_tokens": 30847,
+      "cost_rub": 19.9209,
+      "cost_per_case_rub": 0.199209,
+      "tokens_per_case": 664.03,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 191,
+      "accuracy_pct": 76.4,
+      "invalid": 1,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 191,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 250,
+      "billed_prompt_tokens": 89009,
+      "billed_completion_tokens": 74275,
+      "billed_total_tokens": 163284,
+      "logical_prompt_tokens": 89009,
+      "logical_completion_tokens": 74275,
+      "cost_rub": 48.98519999999999,
+      "cost_per_case_rub": 0.19594079999999997,
+      "tokens_per_case": 653.136,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "GPT baseline",
+      "subset": "dev4183",
+      "n": 4183,
+      "correct": 3046,
+      "accuracy_pct": 72.81855127898638,
+      "invalid": 11,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 3046,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 4183,
+      "billed_prompt_tokens": 1488495,
+      "billed_completion_tokens": 1290352,
+      "billed_total_tokens": 2778847,
+      "logical_prompt_tokens": 1488495,
+      "logical_completion_tokens": 1290352,
+      "cost_rub": 833.6540999999999,
+      "cost_per_case_rub": 0.19929574468085104,
+      "tokens_per_case": 664.3191489361702,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 223,
+      "accuracy_pct": 74.33333333333333,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 223,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 300,
+      "billed_prompt_tokens": 97800,
+      "billed_completion_tokens": 579636,
+      "billed_total_tokens": 677436,
+      "logical_prompt_tokens": 94802,
+      "logical_completion_tokens": 560064,
+      "cost_rub": 193.4508,
+      "cost_per_case_rub": 0.644836,
+      "tokens_per_case": 2258.12,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 31,
+      "accuracy_pct": 31.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 31,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 32207,
+      "billed_completion_tokens": 212820,
+      "billed_total_tokens": 245027,
+      "logical_prompt_tokens": 32207,
+      "logical_completion_tokens": 212820,
+      "cost_rub": 70.28739999999999,
+      "cost_per_case_rub": 0.7028739999999999,
+      "tokens_per_case": 2450.27,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 83,
+      "accuracy_pct": 83.0,
+      "invalid": 1,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 83,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 32747,
+      "billed_completion_tokens": 201702,
+      "billed_total_tokens": 234449,
+      "logical_prompt_tokens": 32747,
+      "logical_completion_tokens": 201702,
+      "cost_rub": 67.06000000000002,
+      "cost_per_case_rub": 0.6706000000000002,
+      "tokens_per_case": 2344.49,
+      "length_limited_calls": 1,
+      "length_limited_pct": 1.0,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 82,
+      "accuracy_pct": 82.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 82,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 32514,
+      "billed_completion_tokens": 191579,
+      "billed_total_tokens": 224093,
+      "logical_prompt_tokens": 32514,
+      "logical_completion_tokens": 191579,
+      "cost_rub": 63.976499999999994,
+      "cost_per_case_rub": 0.6397649999999999,
+      "tokens_per_case": 2240.93,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 205,
+      "accuracy_pct": 82.0,
+      "invalid": 2,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 205,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 250,
+      "billed_prompt_tokens": 81479,
+      "billed_completion_tokens": 482847,
+      "billed_total_tokens": 564326,
+      "logical_prompt_tokens": 81479,
+      "logical_completion_tokens": 482847,
+      "cost_rub": 161.1499,
+      "cost_per_case_rub": 0.6445996,
+      "tokens_per_case": 2257.304,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "Qwen baseline",
+      "subset": "dev4183",
+      "n": 4183,
+      "correct": 3241,
+      "accuracy_pct": 77.4802773129333,
+      "invalid": 8,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 3241,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 4183,
+      "billed_prompt_tokens": 1361912,
+      "billed_completion_tokens": 8084921,
+      "billed_total_tokens": 9446833,
+      "logical_prompt_tokens": 1361912,
+      "logical_completion_tokens": 8084921,
+      "cost_rub": 2697.8586999999998,
+      "cost_per_case_rub": 0.6449578532153956,
+      "tokens_per_case": 2258.3870427922543,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "random_dev300",
+      "n": 300,
+      "correct": 217,
+      "accuracy_pct": 72.33333333333333,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 217,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 300,
+      "billed_prompt_tokens": 88559,
+      "billed_completion_tokens": 36198,
+      "billed_total_tokens": 124757,
+      "logical_prompt_tokens": 88559,
+      "logical_completion_tokens": 36198,
+      "cost_rub": 44.66669999999999,
+      "cost_per_case_rub": 0.14888899999999997,
+      "tokens_per_case": 415.8566666666667,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.3333333333333333,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "shao_hard100",
+      "n": 100,
+      "correct": 24,
+      "accuracy_pct": 24.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 24,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 29221,
+      "billed_completion_tokens": 10831,
+      "billed_total_tokens": 40052,
+      "logical_prompt_tokens": 29221,
+      "logical_completion_tokens": 10831,
+      "cost_rub": 14.181799999999999,
+      "cost_per_case_rub": 0.141818,
+      "tokens_per_case": 400.52,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "goa100",
+      "n": 100,
+      "correct": 72,
+      "accuracy_pct": 72.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 72,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 29650,
+      "billed_completion_tokens": 10586,
+      "billed_total_tokens": 40236,
+      "logical_prompt_tokens": 29650,
+      "logical_completion_tokens": 10586,
+      "cost_rub": 14.187999999999997,
+      "cost_per_case_rub": 0.14187999999999998,
+      "tokens_per_case": 402.36,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc100",
+      "n": 100,
+      "correct": 75,
+      "accuracy_pct": 75.0,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 75,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 100,
+      "billed_prompt_tokens": 29438,
+      "billed_completion_tokens": 9987,
+      "billed_total_tokens": 39425,
+      "logical_prompt_tokens": 29438,
+      "logical_completion_tokens": 9987,
+      "cost_rub": 13.824899999999998,
+      "cost_per_case_rub": 0.13824899999999998,
+      "tokens_per_case": 394.25,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "marc250",
+      "n": 250,
+      "correct": 191,
+      "accuracy_pct": 76.4,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 191,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 250,
+      "billed_prompt_tokens": 73688,
+      "billed_completion_tokens": 25472,
+      "billed_total_tokens": 99160,
+      "logical_prompt_tokens": 73688,
+      "logical_completion_tokens": 25472,
+      "cost_rub": 34.8424,
+      "cost_per_case_rub": 0.13936959999999998,
+      "tokens_per_case": 396.64,
+      "length_limited_calls": 0,
+      "length_limited_pct": 0.0,
+      "logical_cases_output_at_cap": 0,
+      "logical_calls_output_at_cap": 0
+    },
+    {
+      "system": "DeepSeek baseline",
+      "subset": "dev4183",
+      "n": 4183,
+      "correct": 3081,
+      "accuracy_pct": 73.65527133636147,
+      "invalid": 0,
+      "winner_invalid": 0,
+      "winner_consensus_mismatch": 0,
+      "consensus_correct_winner_wrong": 0,
+      "winner_correct_consensus_wrong": 0,
+      "winner_correct": 3081,
+      "identical_input": true,
+      "metric_ok": true,
+      "output_hash_ok": true,
+      "input_hash_ok": true,
+      "usage_metrics_ok": true,
+      "cached_logical_calls": 0,
+      "billed_calls": 4183,
+      "billed_prompt_tokens": 1233639,
+      "billed_completion_tokens": 437436,
+      "billed_total_tokens": 1671075,
+      "logical_prompt_tokens": 1233639,
+      "logical_completion_tokens": 437436,
+      "cost_rub": 588.8096999999999,
+      "cost_per_case_rub": 0.14076253884771692,
+      "tokens_per_case": 399.49199139373655,
+      "length_limited_calls": 1,
+      "length_limited_pct": 0.02390628735357399,
+      "logical_cases_output_at_cap": 1,
+      "logical_calls_output_at_cap": 1
+    }
+  ],
+  "note": "Saved metrics score delphi_consensus_selected_option. winner_selected_option is audited separately. Token/cost totals represent billed usage rows, including retries where recorded, excluding cache hits. DeepSeek trio random_dev300 retains 25 R1 cache hits for each distinct participant (75 total); this is participant-scoped resumption, with no identical raw-answer pairs. Qwen/GPT homogeneous panels retain no R1 cache hits. No DB/notebook execution occurred."
+}

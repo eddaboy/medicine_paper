@@ -1,0 +1,7 @@
+﻿subset,comparator,n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,p_holm_six_subsets
+random_dev300,any-correct independent-member oracle,300,0.77,0.8733333333333333,-10.333333333333329,7,38,3.1213096463034162e-06,1.560654823151708e-05
+shao_hard100,any-correct independent-member oracle,100,0.26,0.53,-27.0,4,31,3.4654513001441956e-06,1.560654823151708e-05
+goa100,any-correct independent-member oracle,100,0.85,0.94,-8.999999999999996,0,9,0.00390625,0.01171875
+marc100,any-correct independent-member oracle,100,0.86,0.87,-1.0000000000000009,3,4,1.0,1.0
+marc250,any-correct independent-member oracle,250,0.836,0.888,-5.200000000000005,3,16,0.004425048828125,0.01171875
+dev4183,any-correct independent-member oracle,4183,0.7788668419794406,0.8787951231173798,-9.992828113793928,55,473,6.109403676576641e-84,3.665642205945985e-83

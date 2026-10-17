@@ -1,0 +1,10 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7
+Composition identifier,Experts,Mean score,Cases,Difference from three experts,Wilcoxon P,TOST P
+k=3 (reference),3,0.819,60,--,--,--
+group2_\allowbreak{}4models,4,0.807,60,-0.012,0.491,0.012
+group3_\allowbreak{}5models,5,0.828,60,0.008,0.350,0.003
+group4_\allowbreak{}5models,5,0.817,60,-0.002,0.942,7.2e-\allowbreak{}04
+group6_\allowbreak{}5models,5,0.638,60,-0.181,9.9e-\allowbreak{}09,1.000
+group7_\allowbreak{}6models,6,0.825,60,0.006,0.615,0.001
+group5_\allowbreak{}7models,7,0.839,60,0.020,0.173,0.021
+group1_\allowbreak{}10models,10,0.820,60,0.000,0.873,0.001

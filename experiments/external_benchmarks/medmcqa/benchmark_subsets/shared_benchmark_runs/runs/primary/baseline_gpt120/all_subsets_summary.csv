@@ -1,0 +1,7 @@
+﻿system_id;subset_id;n;correct;invalid_answers;accuracy;recorded_cost_rub;length_limited_calls
+baseline_gpt120;random_dev300;300;226;0;0.7533333333333333;60.9246;0
+baseline_gpt120;shao_hard100;100;27;3;0.27;21.2577;0
+baseline_gpt120;goa100;100;77;0;0.77;19.548599999999997;0
+baseline_gpt120;marc100;100;78;0;0.78;19.9209;0
+baseline_gpt120;marc250;250;191;1;0.764;48.9852;0
+baseline_gpt120;dev4183;4183;3046;11;0.7281855127898638;833.6541;0

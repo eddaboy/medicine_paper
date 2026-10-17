@@ -1,0 +1,5 @@
+﻿system,label,n,correct,accuracy_pct,evaluated_for_new_variants
+GPT-OSS-120B,GPT-OSS-120B,4183,3046,72.81855127898638,False
+Qwen3.6-35B-A3B,Qwen3.6-35B-A3B,4183,3241,77.4802773129333,False
+DeepSeek-V4 Flash,DeepSeek-V4 Flash,4183,3081,73.65527133636147,False
+delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),4183,3258,77.88668419794405,False

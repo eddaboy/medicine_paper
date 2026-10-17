@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.gitignore -text
+.gitattributes -text
+*.html -text
+*.sty -text
+*.bst -text
+*.bib -text
+*.tex -text
+*.txt -text
+*.csv -text
+*.tsv -text
+*.jsonl -text
+*.json -text
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.parquet filter=lfs diff=lfs merge=lfs -text
+*.sqlite3 filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/initial_runs/medmcqa_prepared.csv" filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/initial_runs/pubmedqa_unlabeled_prepared.csv" filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/medmcqa/panel_gpt120_organizer_qwen_deepseek/delphi_pubmedqa_unlabeled_judge.csv" filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/medmcqa/benchmark_subsets/shared_benchmark_runs/runs/primary/delphi_gpt120_qwen36_deepseekv4/dev4183.csv" filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/medmcqa/benchmark_subsets/shared_benchmark_runs/runs/primary/delphi_gpt120_qwen36_deepseekv4/dev4183.partial.csv" filter=lfs diff=lfs merge=lfs -text
+"experiments/external_benchmarks/initial_runs/panel_gpt120_organizer_qwen_alice/delphi_pubmedqa_unlabeled_judge.csv" filter=lfs diff=lfs merge=lfs -text

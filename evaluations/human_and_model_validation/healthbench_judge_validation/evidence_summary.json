@@ -1,0 +1,14 @@
+{
+  "reference_items": 29511,
+  "prompt_ids": 3671,
+  "completion_ids": 14592,
+  "physician_ratings": 60896,
+  "raw_sha256": "6a343ed3fcb6f28353c2c6c157ae30ddf2db874c947b27ba474ad54da9c5dbac",
+  "recorded_runs": 19,
+  "article_runs": 18,
+  "individual_model_predictions_available": false,
+  "exact_120_item_indices_available": false,
+  "macro_f1_recomputed_from_predictions": false,
+  "selected_120_reconstructed": true,
+  "historical_individual_predictions_available": false
+}

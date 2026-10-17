@@ -1,0 +1,771 @@
+{
+  "analysis": "Internal benchmark source-associated difficulty; completed primary no-role clinical runs",
+  "created_date": "2026-10-11",
+  "timezone": "Europe/Moscow",
+  "n_systems": 18,
+  "n_single_model_baselines": 7,
+  "n_panel_configurations": 11,
+  "n_scored_protocols": 4113,
+  "n_unique_cases": 229,
+  "input_columns": [
+    "Vignette",
+    "Genealogy",
+    "Judge_score",
+    "table_source (if present)"
+  ],
+  "source_codes": {
+    "AI": "LLM-generated",
+    "checker": "Symptom-checker audit",
+    "msd": "MSD Manual"
+  },
+  "interpretation": [
+    "Difficulty is operationalized as rubric performance; it is not a direct clinical-complexity rating.",
+    "Source explains only a small share of total pooled score variance, but this does not establish equivalent source difficulty.",
+    "Audit cases receive lower mean scores in all 18 primary systems.",
+    "A nonsignificant test of panel-advantage heterogeneity is distinct from a test of source-associated difficulty.",
+    "Per-system Kruskal-Wallis p values are descriptive and not multiplicity-adjusted.",
+    "Pooled source means weight each available scored protocol equally; source groups differ in size."
+  ],
+  "pooled_source_results": [
+    {
+      "source": "AI",
+      "label": "LLM-generated",
+      "cases": 151,
+      "scored_protocols": 2717,
+      "mean_score": 0.7020559072506442,
+      "sd_score": 0.18254751141562714
+    },
+    {
+      "source": "checker",
+      "label": "Symptom-checker audit",
+      "cases": 43,
+      "scored_protocols": 774,
+      "mean_score": 0.6372666666666668,
+      "sd_score": 0.2092676801144687
+    },
+    {
+      "source": "msd",
+      "label": "MSD Manual",
+      "cases": 35,
+      "scored_protocols": 622,
+      "mean_score": 0.7145308681672026,
+      "sd_score": 0.19215050741470385
+    }
+  ],
+  "per_system_source_results": [
+    {
+      "system": "gpt",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.6470960264900663,
+          "sd_score": 0.15298969807617535
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.5480302325581394,
+          "sd_score": 0.1794595823111097
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.6295400000000001,
+          "sd_score": 0.2102275940358869
+        }
+      ],
+      "kruskal_wallis_H": 9.0903489971066,
+      "kruskal_wallis_p_uncorrected": 0.010618319673158861
+    },
+    {
+      "system": "qwen",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.569294701986755,
+          "sd_score": 0.16338338054530083
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.5015720930232558,
+          "sd_score": 0.19248822638773494
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.60626,
+          "sd_score": 0.17761232270445254
+        }
+      ],
+      "kruskal_wallis_H": 7.704655804106007,
+      "kruskal_wallis_p_uncorrected": 0.021230256910327008
+    },
+    {
+      "system": "deepseekv4",
+      "scored_protocols": 228,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.6505112582781456,
+          "sd_score": 0.158424198296029
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.5682999999999999,
+          "sd_score": 0.16708520210331246
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 34,
+          "mean_score": 0.6843705882352941,
+          "sd_score": 0.16212529484922
+        }
+      ],
+      "kruskal_wallis_H": 10.55000207413324,
+      "kruskal_wallis_p_uncorrected": 0.0051179514006133445
+    },
+    {
+      "system": "deepseekv4pro",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.5655450331125828,
+          "sd_score": 0.17589754885112024
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.4610558139534883,
+          "sd_score": 0.1927423697487024
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.6582342857142857,
+          "sd_score": 0.19174082069118129
+        }
+      ],
+      "kruskal_wallis_H": 22.15737005520671,
+      "kruskal_wallis_p_uncorrected": 1.543790008301317e-05
+    },
+    {
+      "system": "gemini",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.44380331125827827,
+          "sd_score": 0.17864401600845506
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.31308604651162786,
+          "sd_score": 0.19898144754557173
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.47953999999999997,
+          "sd_score": 0.15852476926521053
+        }
+      ],
+      "kruskal_wallis_H": 18.41334151505936,
+      "kruskal_wallis_p_uncorrected": 0.00010036763557250376
+    },
+    {
+      "system": "glm",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.595287417218543,
+          "sd_score": 0.18284955685103013
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.48369302325581387,
+          "sd_score": 0.18170728212908127
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.6782628571428572,
+          "sd_score": 0.19272825594254583
+        }
+      ],
+      "kruskal_wallis_H": 21.521640957011044,
+      "kruskal_wallis_p_uncorrected": 2.121460966465763e-05
+    },
+    {
+      "system": "kimi",
+      "scored_protocols": 221,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 150,
+          "mean_score": 0.6134499999999999,
+          "sd_score": 0.17649122599253764
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.5521674418604651,
+          "sd_score": 0.19381292246578577
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 28,
+          "mean_score": 0.5657535714285714,
+          "sd_score": 0.2580388263666893
+        }
+      ],
+      "kruskal_wallis_H": 3.546078624622199,
+      "kruskal_wallis_p_uncorrected": 0.16981607959768463
+    },
+    {
+      "system": "P-data",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7969847682119205,
+          "sd_score": 0.12468520668646266
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7430720930232558,
+          "sd_score": 0.12264318614346136
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.8171685714285714,
+          "sd_score": 0.13652884584548117
+        }
+      ],
+      "kruskal_wallis_H": 8.948408177139552,
+      "kruskal_wallis_p_uncorrected": 0.011399291341162899
+    },
+    {
+      "system": "P-data/org-ds",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.8145258278145695,
+          "sd_score": 0.11855840668271267
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7823883720930233,
+          "sd_score": 0.12347526879675005
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.8313742857142857,
+          "sd_score": 0.1331716281894227
+        }
+      ],
+      "kruskal_wallis_H": 4.222065695033961,
+      "kruskal_wallis_p_uncorrected": 0.1211128107452841
+    },
+    {
+      "system": "P-data/org-qwen",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7656417218543046,
+          "sd_score": 0.13871420997029152
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7280744186046512,
+          "sd_score": 0.13394280956726634
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7695542857142857,
+          "sd_score": 0.15258247787548165
+        }
+      ],
+      "kruskal_wallis_H": 3.156627010003552,
+      "kruskal_wallis_p_uncorrected": 0.2063227672664261
+    },
+    {
+      "system": "P-data/org-gemini",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.8144072847682119,
+          "sd_score": 0.12539229540357877
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7596604651162792,
+          "sd_score": 0.16588926475719662
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7843342857142858,
+          "sd_score": 0.1643139479648588
+        }
+      ],
+      "kruskal_wallis_H": 3.9027213030876737,
+      "kruskal_wallis_p_uncorrected": 0.1420806177928092
+    },
+    {
+      "system": "P-weak",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7539271523178808,
+          "sd_score": 0.14085691460191074
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7021093023255814,
+          "sd_score": 0.1504429393711932
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7611914285714286,
+          "sd_score": 0.15431513854185946
+        }
+      ],
+      "kruskal_wallis_H": 6.04787610401018,
+      "kruskal_wallis_p_uncorrected": 0.04860941454078146
+    },
+    {
+      "system": "P-mixed",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7996105960264901,
+          "sd_score": 0.12783525604063897
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7470976744186046,
+          "sd_score": 0.17228589264355545
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7777114285714285,
+          "sd_score": 0.16034431476454325
+        }
+      ],
+      "kruskal_wallis_H": 3.0310375387952004,
+      "kruskal_wallis_p_uncorrected": 0.2196941846605815
+    },
+    {
+      "system": "P-strong",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.8160086092715232,
+          "sd_score": 0.12569767430380846
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7667883720930232,
+          "sd_score": 0.14135269332132155
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.8117085714285716,
+          "sd_score": 0.1517669234122403
+        }
+      ],
+      "kruskal_wallis_H": 4.3985045099148525,
+      "kruskal_wallis_p_uncorrected": 0.11088604185870075
+    },
+    {
+      "system": "homog gpt",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7777589403973509,
+          "sd_score": 0.12818336567668637
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7198976744186045,
+          "sd_score": 0.14569570619612202
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7245628571428573,
+          "sd_score": 0.2033996285000284
+        }
+      ],
+      "kruskal_wallis_H": 5.452740562475707,
+      "kruskal_wallis_p_uncorrected": 0.06545644749522042
+    },
+    {
+      "system": "homog qwen",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7019927152317881,
+          "sd_score": 0.1470848444942976
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.6545232558139534,
+          "sd_score": 0.19399013823389177
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7334771428571429,
+          "sd_score": 0.14375833088026235
+        }
+      ],
+      "kruskal_wallis_H": 3.605473384664526,
+      "kruskal_wallis_p_uncorrected": 0.164847134459138
+    },
+    {
+      "system": "homog deepseekv4",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7857245033112584,
+          "sd_score": 0.1334943224594901
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.7469348837209303,
+          "sd_score": 0.120363471131088
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.8028514285714285,
+          "sd_score": 0.14108936961545826
+        }
+      ],
+      "kruskal_wallis_H": 4.748027374247524,
+      "kruskal_wallis_p_uncorrected": 0.0931062758567832
+    },
+    {
+      "system": "homog gemini",
+      "scored_protocols": 229,
+      "sources": [
+        {
+          "source": "AI",
+          "label": "LLM-generated",
+          "cases": 151,
+          "mean_score": 0.7248496688741722,
+          "sd_score": 0.15016882227420897
+        },
+        {
+          "source": "checker",
+          "label": "Symptom-checker audit",
+          "cases": 43,
+          "mean_score": 0.6923488372093023,
+          "sd_score": 0.15473439358507057
+        },
+        {
+          "source": "msd",
+          "label": "MSD Manual",
+          "cases": 35,
+          "mean_score": 0.7150428571428571,
+          "sd_score": 0.1494449048306162
+        }
+      ],
+      "kruskal_wallis_H": 1.8976747279313597,
+      "kruskal_wallis_p_uncorrected": 0.3871909239889275
+    }
+  ],
+  "separate_categorical_variance_models": {
+    "source": {
+      "n": 4113,
+      "levels": 3,
+      "r_squared": 0.019367615905802382,
+      "adjusted_r_squared": 0.01889042253154727
+    },
+    "case": {
+      "n": 4113,
+      "levels": 229,
+      "r_squared": 0.3461474418501811,
+      "adjusted_r_squared": 0.3077647479114173
+    },
+    "system": {
+      "n": 4113,
+      "levels": 18,
+      "r_squared": 0.32085213022976056,
+      "adjusted_r_squared": 0.3180327129437791
+    }
+  },
+  "system_adjusted_source_model": {
+    "formula": "score ~ C(system) + C(source, reference=AI)",
+    "covariance": "vignette-clustered; default small-sample covariance correction",
+    "interval_method": "two-sided normal-based Wald 95% interval",
+    "n_protocols": 4113,
+    "n_clusters": 229,
+    "contrasts": [
+      {
+        "source": "checker",
+        "reference": "AI",
+        "coefficient": -0.06475413685269354,
+        "ci_lower": -0.10244891782520901,
+        "ci_upper": -0.02705935588017807,
+        "p_value": 0.0007600934205531983,
+        "standard_error": 0.01923238450800479
+      },
+      {
+        "source": "msd",
+        "reference": "AI",
+        "coefficient": 0.011353981526208656,
+        "ci_lower": -0.03306743063202393,
+        "ci_upper": 0.055775393684441246,
+        "p_value": 0.616398573452304,
+        "standard_error": 0.0226644022587267
+      }
+    ],
+    "omnibus": {
+      "F": 6.254790737813845,
+      "df_num": 2.0,
+      "df_denom": 228.0,
+      "p_value": 0.0022671535979480275
+    }
+  },
+  "reference_panel_advantage_by_source": {
+    "outcome": "P-base minus highest-scoring independent member for each case",
+    "common_cases": 228,
+    "sources": [
+      {
+        "source": "AI",
+        "cases": 151,
+        "mean_difference": 0.0874675496688742
+      },
+      {
+        "source": "checker",
+        "cases": 43,
+        "mean_difference": 0.10345116279069769
+      },
+      {
+        "source": "msd",
+        "cases": 34,
+        "mean_difference": 0.07277058823529411
+      }
+    ],
+    "kruskal_wallis_H": 1.1783404857480122,
+    "kruskal_wallis_p": 0.5547874326282445
+  },
+  "provenance": [
+    {
+      "system": "gpt",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_gpt/llm_as_judge/baseline_noroles_gpt_judge.csv",
+      "sha256": "a3696f29821e28be04e7c999104694e0ff58b33b1d95a7646a3ccee5c8d91e0a",
+      "scored_protocols": 229
+    },
+    {
+      "system": "qwen",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_qwen/llm_as_judge/baseline_noroles_qwen_judge.csv",
+      "sha256": "38aef6a6cf09a7852d2da00b03701db30157f9ca910f8c180b497848b77520d2",
+      "scored_protocols": 229
+    },
+    {
+      "system": "deepseekv4",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_deepseekv4/llm_as_judge/baseline_noroles_deepseekv4_judge.csv",
+      "sha256": "c3327159e44177ad4baa4a3a12d5b0b47a9ab05326606c4d5bf3ed1b289c8c57",
+      "scored_protocols": 228
+    },
+    {
+      "system": "deepseekv4pro",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_deepseekv4pro/llm_as_judge/baseline_noroles_deepseekv4pro_judge.csv",
+      "sha256": "a56d5fd2e10c6c1a5c74a99815e9224b04290c243f561092bd5fe305a7604944",
+      "scored_protocols": 229
+    },
+    {
+      "system": "gemini",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_gemini/llm_as_judge/baseline_noroles_gemini_judge.csv",
+      "sha256": "2b5228df8c063cc06bdaef5cc570048ae862bcd644dee3e8a30072e647728e5e",
+      "scored_protocols": 229
+    },
+    {
+      "system": "glm",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_glm/llm_as_judge/baseline_noroles_glm_judge.csv",
+      "sha256": "cd7aa0a24f79cbb82db9ed3d1677c39b9cab3114c67ecd3677c0ce979c5dd7de",
+      "scored_protocols": 229
+    },
+    {
+      "system": "kimi",
+      "path": "experiments/clinical_protocols/single_model_baselines/baseline_kimi/llm_as_judge/baseline_noroles_kimi_judge.csv",
+      "sha256": "ccbb3122e2eff6248fe9fd92680543207c387b925229678f75d116a6ed79a3ad",
+      "scored_protocols": 221
+    },
+    {
+      "system": "P-data",
+      "path": "experiments/clinical_protocols/delphi_panels/heterogeneous_gpt120_organizer_complete/llm_as_judge/delphi_base_noroles_judge.csv",
+      "sha256": "ab2837ab95627bf6ded2362f66eff4a01771defa9d997bfa3e5979f567eeb80c",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-data/org-ds",
+      "path": "experiments/clinical_protocols/delphi_panels/heterogeneous_deepseek_organizer_complete/llm_as_judge/delphi_base_noroles_judge.csv",
+      "sha256": "74d8d0f7fad0f75ca653500b7e3905a6fd4158027e87ee93c11a0a2bf1904617",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-data/org-qwen",
+      "path": "experiments/clinical_protocols/delphi_panels/heterogeneous_qwen_organizer_complete/llm_as_judge/delphi_base_noroles_judge.csv",
+      "sha256": "b18c438bf67cf7dcfd104ec698ca33d84778bca193c1d576c772a916a9805826",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-data/org-gemini",
+      "path": "experiments/clinical_protocols/delphi_panels/heterogeneous_gemini_external_organizer/llm_as_judge/delphi_base_noroles_judge.csv",
+      "sha256": "d7675c5d4d3d4ca716bc77a3106953288336bd522a104c7c8e4de89680bb79b8",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-weak",
+      "path": "experiments/clinical_protocols/delphi_panels/panel_qwen_organizer_gemini_deepseek_pro/llm_as_judge/delphi_pweak_noroles_judge.csv",
+      "sha256": "c3d33f00d432e2941bbffb056ea58ed84815764c8d43726af5a0f3fd7b2b361a",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-mixed",
+      "path": "experiments/clinical_protocols/delphi_panels/panel_deepseek_organizer_gemini_glm/llm_as_judge/delphi_pmixed_noroles_judge.csv",
+      "sha256": "ce26e181ab17127a463a81254ebd064d2265626313a2a21c50bbf917ea684cc4",
+      "scored_protocols": 229
+    },
+    {
+      "system": "P-strong",
+      "path": "experiments/clinical_protocols/delphi_panels/panel_deepseek_organizer_glm_gpt120/llm_as_judge/delphi_pstrong_noroles_judge.csv",
+      "sha256": "192ef79c945904bfeda023018ee4a4cd812b9519a46647ceba366ac72c724eed",
+      "scored_protocols": 229
+    },
+    {
+      "system": "homog gpt",
+      "path": "experiments/homogeneous_panels/three_gpt_members/llm_as_judge/delphi_homog_gpt_noroles_judge.csv",
+      "sha256": "72bf2f977fddfb20f522064eecdc6b59a37e37ec6adaa650c46bac0769c0a6b1",
+      "scored_protocols": 229
+    },
+    {
+      "system": "homog qwen",
+      "path": "experiments/homogeneous_panels/three_qwen_members/llm_as_judge/delphi_homog_qwen_noroles_judge.csv",
+      "sha256": "ab7138303b128e350f4a626d8653580b980480f5870c49a5389093928b9a5c85",
+      "scored_protocols": 229
+    },
+    {
+      "system": "homog deepseekv4",
+      "path": "experiments/homogeneous_panels/three_deepseekv4_members_complete/llm_as_judge/delphi_homog_deepseekv4_noroles_judge.csv",
+      "sha256": "84588c59e5919842695b75d46830a980c45a23780d18bdd5be724689f3aeadb5",
+      "scored_protocols": 229
+    },
+    {
+      "system": "homog gemini",
+      "path": "experiments/homogeneous_panels/three_gemini_members/llm_as_judge/delphi_homog_gemini_noroles_judge.csv",
+      "sha256": "ade38433a31f3e01b272fc34c6c005d211a70a0e43322a139bb5e936d7e51598",
+      "scored_protocols": 229
+    }
+  ],
+  "software": {
+    "python": "3.13.9",
+    "pandas": "3.0.3",
+    "numpy": "2.1.3",
+    "statsmodels": "0.14.6"
+  }
+}

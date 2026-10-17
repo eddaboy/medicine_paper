@@ -1,0 +1,20 @@
+﻿column_1,column_2,column_3,column_4,column_5
+Notebook cell,Judge identifier,\textit{Meta-\allowbreak{}examples},\textit{Macro-\allowbreak{}F1 output},Recorded tokens
+4,aliceai-\allowbreak{}llm / latest,120,0.670635,211832
+5,yandexgpt-\allowbreak{}lite / latest,120,0.594788,207352
+6,yandexgpt / latest,120,0.588783,208046
+8,gpt-\allowbreak{}oss-\allowbreak{}20b / latest,120,0.647011,272884
+9,gpt-\allowbreak{}oss-\allowbreak{}120b / latest,120,0.686423,240457
+10,gemma-\allowbreak{}3-27b-\allowbreak{}it / latest,120,0.6364,201100
+11,qwen3-235b-\allowbreak{}a22b-\allowbreak{}fp8 / latest,120,0.647341,244127
+12,deepseek-\allowbreak{}v32 / latest,120,0.649155,453216
+13,qwen3.5-35b-\allowbreak{}a3b-\allowbreak{}fp8 / latest,120,0.683492,207589
+15,gpt-\allowbreak{}4.1-mini,120,0.672161,198482
+16,gpt-\allowbreak{}4.1-nano-\allowbreak{}2025-04-14,120,0.553226,195959
+18,gpt-\allowbreak{}4o-\allowbreak{}2024-08-06,120,0.649953,197368
+19,gpt-\allowbreak{}4.1-2025-04-14,120,0.681469,199018
+20,gpt-\allowbreak{}4.1-mini-\allowbreak{}2025-04-14,120,0.651586,198659
+21,gpt-\allowbreak{}4o-\allowbreak{}mini-\allowbreak{}2024-07-18,120,0.602699,196447
+23,o4-mini-\allowbreak{}2025-04-16,120,0.685322,241857
+24,o4-mini,120,0.667112,243515
+26,gpt-\allowbreak{}5-nano-\allowbreak{}2025-08-07,120,0.58332,332212

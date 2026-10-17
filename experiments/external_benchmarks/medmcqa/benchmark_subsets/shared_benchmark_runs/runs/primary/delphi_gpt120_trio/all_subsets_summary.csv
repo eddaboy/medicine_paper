@@ -1,0 +1,6 @@
+﻿system_id;subset_id;n;correct;invalid_answers;accuracy;recorded_cost_rub;length_limited_calls
+delphi_gpt120_trio;random_dev300;300;228;0;0.76;1450.5176999999999;0
+delphi_gpt120_trio;shao_hard100;100;29;0;0.29;568.6146;0
+delphi_gpt120_trio;goa100;100;80;0;0.8;496.5666;0
+delphi_gpt120_trio;marc100;100;76;0;0.76;467.9607;0
+delphi_gpt120_trio;marc250;250;193;0;0.772;1210.5753;0

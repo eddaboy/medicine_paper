@@ -1,0 +1,68 @@
+{
+  "system_id": "delphi_qwen36_gpt120_deepseekv4",
+  "subset_id": "goa100",
+  "n": 100,
+  "correct": 84,
+  "invalid_answers": 0,
+  "accuracy": 0.84,
+  "accuracy_wilson_95ci": [
+    0.7557973061072976,
+    0.8990471151119521
+  ],
+  "split": "dev",
+  "source_url": "https://raw.githubusercontent.com/UNITES-Lab/GoA/c9def0082e43bb737dd97d998db381842e444908/data/test/MedMCQA_sampled_test.json",
+  "configuration_signature": "2ba3b2283b4615c5e4b02358de3524a3941d9a1be491831367c78d4fabde8831",
+  "configuration": {
+    "system": "delphi_qwen36_gpt120_deepseekv4",
+    "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+    "participants": [
+      {
+        "id": "qwen36_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "gpt120b_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///gpt-oss-120b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "deepseekv4_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///deepseek-v4-flash/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      }
+    ],
+    "organizer": "qwen36_default",
+    "max_rounds": 3,
+    "early_stop": true,
+    "temperatures": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ],
+    "model_output_limits": {
+      "gpt-oss-120b": 10000,
+      "qwen3.6-35b-a3b": 10000,
+      "deepseek-v4-flash": 10000
+    },
+    "reasoning_mode": "provider_default",
+    "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104",
+    "cache_policy": "original_request_key"
+  },
+  "input_sha256": "cf0f7c3f447eaf68aee58a2209647a9cfb097fc3a27c1bf38ed4bc2cd066152e",
+  "output_sha256": "bd928d95c09bfe6bd696b1d4521d88405e6e98bfacb3e53711e28a46a0624d10",
+  "billed_prompt_tokens": 933755,
+  "billed_completion_tokens": 1644015,
+  "recorded_cost_rub": 725.1807,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

@@ -1,0 +1,6 @@
+﻿system_id;subset_id;n;correct;invalid_answers;accuracy;recorded_cost_rub;length_limited_calls
+delphi_qwen36_gpt120_deepseekv4;random_dev300;300;230;0;0.7666666666666667;2204.5614;2
+delphi_qwen36_gpt120_deepseekv4;shao_hard100;100;26;0;0.26;938.4535;0
+delphi_qwen36_gpt120_deepseekv4;goa100;100;84;0;0.84;725.1807;0
+delphi_qwen36_gpt120_deepseekv4;marc100;100;81;0;0.81;709.3018999999999;0
+delphi_qwen36_gpt120_deepseekv4;marc250;250;213;0;0.852;1761.2847;0

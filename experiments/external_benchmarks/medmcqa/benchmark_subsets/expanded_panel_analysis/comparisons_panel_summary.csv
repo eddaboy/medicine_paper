@@ -1,0 +1,7 @@
+﻿panel,label,homogeneous,subsets_above_all_three_baselines,subsets_above_all_own_members,significant_positive_vs_all_baselines_holm90,significant_positive_vs_own_members_holm60,datasets_with_highest_observed_accuracy
+delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),False,4,4,0,0,1
+delphi_qwen36_gpt120_deepseekv4,Qwen organizer,False,3,3,2,2,1
+delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,False,3,3,0,0,2
+delphi_deepseekv4_trio,DeepSeek x 3,True,2,4,0,0,1
+delphi_qwen36_trio,Qwen x 3,True,3,3,0,0,0
+delphi_gpt120_trio,GPT x 3,True,1,4,0,0,0

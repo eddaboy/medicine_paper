@@ -1,0 +1,35 @@
+{
+  "system_id": "baseline_gpt120",
+  "subset_id": "dev4183",
+  "n": 4183,
+  "correct": 3046,
+  "invalid_answers": 11,
+  "accuracy": 0.7281855127898638,
+  "accuracy_wilson_95ci": [
+    0.7144984890162304,
+    0.741453812683225
+  ],
+  "split": "dev",
+  "source_url": "https://huggingface.co/datasets/openlifescienceai/medmcqa/resolve/91c6572c454088bf71b679ad90aa8dffcd0d5868/data/validation-00000-of-00001.parquet",
+  "configuration_signature": "aee21f0d801b2ef915ce3b28cc23efa743c52c2fb1dcc89589291d0ac0dca618",
+  "configuration": {
+    "system": "baseline_gpt120",
+    "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+    "model_uri": "gpt:///gpt-oss-120b/latest",
+    "role_name": "Default",
+    "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.",
+    "temperature": 0.3,
+    "model_output_limits": {
+      "gpt-oss-120b": 3000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "89426825d97343e00a65a4844d0700e05d5b84e7b60d8cddea7c33c587a4a542",
+  "output_sha256": "4c53006dd8c3b957f5ad98c12c81c288fdbe965829716c049ac68d2ecc6ed25e",
+  "billed_prompt_tokens": 1488495,
+  "billed_completion_tokens": 1290352,
+  "recorded_cost_rub": 833.6541,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

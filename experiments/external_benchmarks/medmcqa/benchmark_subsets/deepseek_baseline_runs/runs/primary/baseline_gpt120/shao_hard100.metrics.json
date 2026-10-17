@@ -1,0 +1,35 @@
+{
+  "system_id": "baseline_gpt120",
+  "subset_id": "shao_hard100",
+  "n": 100,
+  "correct": 27,
+  "invalid_answers": 3,
+  "accuracy": 0.27,
+  "accuracy_wilson_95ci": [
+    0.1926958414957634,
+    0.36432116767944994
+  ],
+  "split": "dev",
+  "source_url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/data/medmcqa/test_hard.jsonl",
+  "configuration_signature": "237f4ec935854e8d054ed075de570f85d91db46f81659c3d052cf9619cb58f41",
+  "configuration": {
+    "system": "baseline_gpt120",
+    "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+    "model_uri": "gpt:///gpt-oss-120b/latest",
+    "role_name": "Default",
+    "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.",
+    "temperature": 0.3,
+    "model_output_limits": {
+      "gpt-oss-120b": 3000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "712a8d4cbe263fb8baa7f83884517f86386e2dc913d5855aac67771b580a7ca3",
+  "output_sha256": "57b6f60a3fa04749b82f63a5a0d1418d522a160774d4335d5f0af1c517a4d393",
+  "billed_prompt_tokens": 35280,
+  "billed_completion_tokens": 35579,
+  "recorded_cost_rub": 21.2577,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

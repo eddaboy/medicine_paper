@@ -1,0 +1,17 @@
+﻿key,system,regime,design,n,mean_score
+P-base,D-1G,original,noroles,229,0.7899462882096069
+P-base,D-1G,short_vignette,noroles,229,0.7267257641921399
+P-base,D-1G,400_500_words,noroles,229,0.7866772925764192
+P-base,D-1G,original,randomroles,229,0.8133061135371179
+P-base,D-1G,short_vignette,randomroles,229,0.7620934497816595
+P-base,D-1G,400_500_words,randomroles,229,0.8008528384279476
+P-base/org-ds,D-1D,original,noroles,229,0.8110663755458515
+P-base/org-qwen,D-1Q,original,noroles,229,0.7591855895196506
+P-base/org-gemini,D-1Ge,original,noroles,229,0.7995310043668121
+P-weak,D-3Q,original,noroles,229,0.745307423580786
+P-mixed,D-4D,original,noroles,229,0.7864030567685589
+P-strong,D-2D,original,noroles,229,0.806109170305677
+homog gpt,DH-G,original,noroles,229,0.7587637554585152
+homog qwen,DH-Q,original,noroles,229,0.6978912663755458
+homog deepseekv4,DH-D,original,noroles,229,0.781058515283843
+homog gemini,DH-Ge,original,noroles,229,0.7172480349344977

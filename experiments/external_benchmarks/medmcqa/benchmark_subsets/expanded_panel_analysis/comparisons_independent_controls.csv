@@ -1,0 +1,31 @@
+﻿subset,panel,panel_label,control,n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,difference_ci_low_pp,difference_ci_high_pp,p_holm_15_within_control,p_holm_5_within_panel_control
+random_dev300,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_majority_own_organizer_tiebreak,300,0.77,0.78,-1.0000000000000009,21,24,0.765991824244793,-5.333333333333334,3.3333333333333335,1.0,1.0
+random_dev300,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_any_correct_oracle,300,0.77,0.8733333333333333,-10.333333333333329,7,38,3.1213096463034162e-06,-14.666666666666666,-6.0,4.057702540194441e-05,1.560654823151708e-05
+random_dev300,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_majority_own_organizer_tiebreak,300,0.7666666666666667,0.78,-1.3333333333333308,16,20,0.617719317029696,-5.333333333333334,2.666666666666667,1.0,1.0
+random_dev300,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_any_correct_oracle,300,0.7666666666666667,0.8733333333333333,-10.666666666666657,3,35,6.677873898297548e-08,-14.666666666666666,-7.000000000000001,1.0016810847446322e-06,3.338936949148774e-07
+random_dev300,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_majority_own_organizer_tiebreak,300,0.7833333333333333,0.7733333333333333,1.0000000000000009,17,14,0.720100131817162,-2.666666666666667,4.666666666666667,1.0,1.0
+random_dev300,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_any_correct_oracle,300,0.7833333333333333,0.8733333333333333,-8.999999999999996,6,33,1.429926123819314e-05,-13.0,-5.0,0.00015729187362012453,7.14963061909657e-05
+shao_hard100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_majority_own_organizer_tiebreak,100,0.26,0.31,-4.999999999999999,8,13,0.38331031799316406,-14.000000000000002,4.0,1.0,1.0
+shao_hard100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_any_correct_oracle,100,0.26,0.53,-27.0,4,31,3.4654513001441956e-06,-37.0,-17.0,4.158541560173035e-05,1.560654823151708e-05
+shao_hard100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.26,0.28,-2.0000000000000018,8,10,0.8145294189453125,-10.0,6.0,1.0,1.0
+shao_hard100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_any_correct_oracle,100,0.26,0.53,-27.0,3,30,1.4011748135089874e-06,-37.0,-17.0,1.9616447389125824e-05,5.60469925403595e-06
+shao_hard100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.3,0.28,1.9999999999999962,9,7,0.803619384765625,-6.0,10.0,1.0,1.0
+shao_hard100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_any_correct_oracle,100,0.3,0.53,-23.000000000000004,3,26,1.5236437320709229e-05,-33.0,-13.0,0.00015729187362012453,7.14963061909657e-05
+goa100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_majority_own_organizer_tiebreak,100,0.85,0.82,3.0000000000000027,5,2,0.453125,-2.0,8.0,1.0,1.0
+goa100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_any_correct_oracle,100,0.85,0.94,-8.999999999999996,0,9,0.00390625,-15.0,-4.0,0.03125,0.01171875
+goa100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.84,0.81,2.9999999999999916,6,3,0.5078125,-3.0,9.0,1.0,1.0
+goa100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_any_correct_oracle,100,0.84,0.94,-9.999999999999998,0,10,0.001953125,-16.0,-5.0,0.017578125,0.005859375
+goa100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.86,0.8,5.999999999999995,9,3,0.14599609375,-1.0,13.0,1.0,0.72998046875
+goa100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_any_correct_oracle,100,0.86,0.94,-7.9999999999999964,1,9,0.021484375,-14.000000000000002,-2.0,0.0859375,0.021484375
+marc100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_majority_own_organizer_tiebreak,100,0.86,0.82,4.0000000000000036,6,2,0.2890625,-1.0,10.0,1.0,1.0
+marc100,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_any_correct_oracle,100,0.86,0.87,-1.0000000000000009,3,4,1.0,-6.0,4.0,1.0,1.0
+marc100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.81,0.81,0.0,2,2,1.0,-4.0,4.0,1.0,1.0
+marc100,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_any_correct_oracle,100,0.81,0.87,-5.999999999999995,0,6,0.03125,-11.0,-2.0,0.09375,0.0625
+marc100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_majority_own_organizer_tiebreak,100,0.78,0.82,-3.9999999999999925,1,5,0.21875,-9.0,0.0,1.0,0.8401584625244141
+marc100,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_any_correct_oracle,100,0.78,0.87,-8.999999999999996,0,9,0.00390625,-15.0,-4.0,0.03125,0.01171875
+marc250,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_majority_own_organizer_tiebreak,250,0.836,0.8,3.599999999999992,14,5,0.063568115234375,0.4,7.199999999999999,0.953521728515625,0.317840576171875
+marc250,delphi_gpt120_qwen36_deepseekv4,GPT organizer (original),independent_baseline_any_correct_oracle,250,0.836,0.888,-5.200000000000005,3,16,0.004425048828125,-8.799999999999999,-2.0,0.03125,0.01171875
+marc250,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_majority_own_organizer_tiebreak,250,0.852,0.82,3.200000000000003,13,5,0.09625244140625,0.0,6.800000000000001,1.0,0.48126220703125
+marc250,delphi_qwen36_gpt120_deepseekv4,Qwen organizer,independent_baseline_any_correct_oracle,250,0.852,0.888,-3.600000000000003,4,13,0.049041748046875,-6.800000000000001,-0.4,0.09808349609375,0.0625
+marc250,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_majority_own_organizer_tiebreak,250,0.832,0.804,2.7999999999999914,15,8,0.21003961563110352,-0.8,6.800000000000001,1.0,0.8401584625244141
+marc250,delphi_deepseekv4_gpt120_qwen36,DeepSeek organizer,independent_baseline_any_correct_oracle,250,0.832,0.888,-5.600000000000005,6,20,0.009355306625366211,-9.6,-1.6,0.046776533126831055,0.018710613250732422

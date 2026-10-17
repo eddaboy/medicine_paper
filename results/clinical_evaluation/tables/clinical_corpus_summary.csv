@@ -1,0 +1,15 @@
+﻿quantity;value
+cases;229.0
+specialties;20.0
+reference_diagnoses;197.0
+input_chars_median;759.0
+input_words_median;120.0
+criteria_total;3270.0
+criteria_per_case_min;12.0
+criteria_per_case_median;14.0
+criteria_per_case_max;16.0
+penalty_criteria;924.0
+penalty_share;0.28256880733944956
+max_pos_points_median;68.0
+max_pos_points_q25;61.0
+max_pos_points_q75;73.0

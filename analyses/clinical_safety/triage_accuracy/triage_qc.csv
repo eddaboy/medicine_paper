@@ -1,0 +1,12 @@
+arm,status,n,parsed,parse_rate,struct_avail,text_vs_struct_agree
+baseline_gpt,ok,229,229,1.0,0,
+baseline_qwen,ok,229,229,1.0,0,
+baseline_dsv4,ok,229,228,0.9956,0,
+baseline_gemini,ok,229,229,1.0,0,
+baseline_glm,ok,229,228,0.9956,0,
+usc_gpt_k3,ok,229,229,1.0,0,
+usc_gpt_k7,ok,229,229,1.0,0,
+homog_gpt_x3,ok,229,229,1.0,229,1.0
+delphi_base,ok,229,229,1.0,229,1.0
+delphi_pstrong,ok,229,229,1.0,229,1.0
+delphi_pweak,ok,229,229,1.0,229,1.0

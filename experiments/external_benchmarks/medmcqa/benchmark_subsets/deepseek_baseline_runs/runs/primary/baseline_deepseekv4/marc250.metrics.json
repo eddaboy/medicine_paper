@@ -1,0 +1,35 @@
+{
+  "system_id": "baseline_deepseekv4",
+  "subset_id": "marc250",
+  "n": 250,
+  "correct": 191,
+  "invalid_answers": 0,
+  "accuracy": 0.764,
+  "accuracy_wilson_95ci": [
+    0.7076162988962981,
+    0.8123933189701072
+  ],
+  "split": "train/dev mixture",
+  "source_url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_250q_high_disagreement.json",
+  "configuration_signature": "a89f5310e27762b8b1c7f6fbd76c05a655b5773f9fa19b80b0a0f070f0d1054b",
+  "configuration": {
+    "system": "baseline_deepseekv4",
+    "source_sha256": "3802b4a8480d8f884281972f6a3198882006e91385b564e54a0c684d18639c24",
+    "model_uri": "gpt:///deepseek-v4-flash/latest",
+    "role_name": "Default",
+    "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.",
+    "temperature": 0.3,
+    "model_output_limits": {
+      "deepseek-v4-flash": 5000
+    },
+    "reasoning_mode": "provider_default"
+  },
+  "input_sha256": "07451521272f15906c850f8bbb9c54ac4b4dd869c4987486c9724edee0191867",
+  "output_sha256": "fd1f49f78441e44d480794a73b7ef0aba4fc0f8097b9bebf626e454493d90d88",
+  "billed_prompt_tokens": 73688,
+  "billed_completion_tokens": 25472,
+  "recorded_cost_rub": 34.8424,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

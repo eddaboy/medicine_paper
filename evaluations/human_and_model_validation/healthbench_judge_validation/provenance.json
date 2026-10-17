@@ -1,0 +1,29 @@
+{
+  "source_notebook": "1design_alpha/llmfmed_healthbench_judge.ipynb",
+  "source_notebook_cells": "One-based cell numbers retained in recorded_outputs.json.",
+  "raw_dataset": {
+    "path": "data/healthbench_meta_eval.jsonl.gz",
+    "uncompressed_bytes": 136224466,
+    "uncompressed_sha256": "6a343ed3fcb6f28353c2c6c157ae30ddf2db874c947b27ba474ad54da9c5dbac"
+  },
+  "recorded_runs": 19,
+  "article_runs": 18,
+  "extra_run": "A separate 500-example GPT-4.1 nano run is retained and excluded from the 120-example article table.",
+  "availability": {
+    "aggregate_macro_f1_and_tokens": true,
+    "raw_reference_dataset": true,
+    "per_model_per_criterion_predictions": false,
+    "selected_120_row_indices": false,
+    "pinned_simple_evals_source": true,
+    "selected_120_row_indices_reconstructed": true
+  },
+  "limitation": "Saved original outputs contain aggregate scores and token totals only. Individual model predictions were not saved, so the original aggregate F1 values cannot be independently recomputed. Sample indices are reconstructed from the recovered local evaluator; original selection logs are absent.",
+  "local_evaluator_sources": {
+    "types.py": "ac76d088edc07e4817f3b872f391326b6e7a9c53fe146b3f019d3c1c74405042",
+    "common.py": "6a7b68394f7af23edd1e049bba9c87d7c7f4d817b62f074c40d852a15f896704",
+    "healthbench_eval.py": "df0304dfc62b29ce04967e2b52147de14b0ab0d8a1f0d8ab085c1f169838c6cf",
+    "healthbench_meta_eval.py": "ad929dda449894a260da05abb6b47f5429bf670c53f887b18b8c1fb248899036"
+  },
+  "local_evaluator_origin": "Local simple_evals source snapshot recovered outside the research project; required definitions are embedded in the API notebook.",
+  "sampling": "random.Random(0).sample(examples,120), reconstructed from the recovered local evaluator source and the complete saved reference dataset; original selection log was not retained."
+}

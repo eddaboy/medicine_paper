@@ -1,0 +1,9 @@
+﻿column_1,column_2
+Experiment,Description
+Fixed length,D-1G and its three members were re-run with an instruction to write 400--500 words.
+Abbreviated vignettes,the same systems received shortened case descriptions (median 177 characters).
+Re-runs,D-1G and its members were run five more times on a subset of 60 vignettes.
+Clinician roles,single models and D-1G were re-run with a system prompt assigning a clinician role drawn at random from the case-specific roles.
+Hyperparameters,"on the same 60 vignettes, with the members and organizer of D-1G in an earlier version of the framework (and additional models for panel size; Table \ref{tab:S4}), we varied the temperature (0.1--1.7), the questionnaire length (3--20 items), the number of sub-questions per expert (3--12) and the number of experts (3--10), and compared adaptive with forced three-round deliberation."
+Second judge,"60 vignettes (20 per source, 20 per urgency category, 16 specialties) with four protocols each (D-1G, gpt-oss-120b, qwen3-235b, deepseek-v4-flash) were anonymised, shuffled and scored by gpt-4.1 with the same rubrics."
+Intermediate protocols,"the organizer additionally synthesised protocols from round-1 and round-2 material, which were judged in the same way."

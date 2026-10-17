@@ -1,0 +1,5 @@
+﻿column_1,column_2,column_3,column_4,column_5
+Contrast,Unadjusted coefficient,Unadjusted P,\textit{Adjusted coefficient (95\,Adjusted P
+D-1G minus D-1D,-0.021,0.020,"0.013 (-0.013, 0.039)",0.323
+D-1Ge minus D-1D,-0.012,0.273,"0.009 (-0.012, 0.030)",0.414
+D-1Q minus D-1D,-0.052,3.3e-08,"-0.015 (-0.042, 0.011)",0.259

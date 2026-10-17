@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-12",
+  "source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104",
+  "source_snapshot": "delphi_medmcqa_subsets.ipynb",
+  "variants": [
+    {
+      "notebook": "delphi_qwen36_moderator_medmcqa_subsets.ipynb",
+      "system_id": "delphi_qwen36_gpt120_deepseekv4",
+      "organizer": "qwen36_default",
+      "participant_ids": [
+        "qwen36_default",
+        "gpt120b_default",
+        "deepseekv4_default"
+      ],
+      "homogeneous": false,
+      "active_subsets": [
+        "random_dev300",
+        "shao_hard100",
+        "goa100",
+        "marc100",
+        "marc250"
+      ],
+      "n_per_system": 850,
+      "results": "shared_benchmark_runs/runs/primary/delphi_qwen36_gpt120_deepseekv4",
+      "sha256": "c6baec6d326947bcc3284d2c2951b2e4fe9d05d7186151039fb99cf91f32ae46"
+    },
+    {
+      "notebook": "delphi_deepseekv4_moderator_medmcqa_subsets.ipynb",
+      "system_id": "delphi_deepseekv4_gpt120_qwen36",
+      "organizer": "deepseekv4_default",
+      "participant_ids": [
+        "deepseekv4_default",
+        "gpt120b_default",
+        "qwen36_default"
+      ],
+      "homogeneous": false,
+      "active_subsets": [
+        "random_dev300",
+        "shao_hard100",
+        "goa100",
+        "marc100",
+        "marc250"
+      ],
+      "n_per_system": 850,
+      "results": "shared_benchmark_runs/runs/primary/delphi_deepseekv4_gpt120_qwen36",
+      "sha256": "822ab6bd19991b837dd768d6f94621a28f6a255c52eda03c9ae1df1f80a84ee2"
+    },
+    {
+      "notebook": "delphi_deepseekv4_trio_medmcqa_subsets.ipynb",
+      "system_id": "delphi_deepseekv4_trio",
+      "organizer": "deepseekv4_1",
+      "participant_ids": [
+        "deepseekv4_1",
+        "deepseekv4_2",
+        "deepseekv4_3"
+      ],
+      "homogeneous": true,
+      "active_subsets": [
+        "random_dev300",
+        "shao_hard100",
+        "goa100",
+        "marc100",
+        "marc250"
+      ],
+      "n_per_system": 850,
+      "results": "shared_benchmark_runs/runs/primary/delphi_deepseekv4_trio",
+      "sha256": "097863058077984b7ca7b1289223b6c25194537aa475ee0ff38f3c3bb50a328f"
+    },
+    {
+      "notebook": "delphi_qwen36_trio_medmcqa_subsets.ipynb",
+      "system_id": "delphi_qwen36_trio",
+      "organizer": "qwen36_1",
+      "participant_ids": [
+        "qwen36_1",
+        "qwen36_2",
+        "qwen36_3"
+      ],
+      "homogeneous": true,
+      "active_subsets": [
+        "random_dev300",
+        "shao_hard100",
+        "goa100",
+        "marc100",
+        "marc250"
+      ],
+      "n_per_system": 850,
+      "results": "shared_benchmark_runs/runs/primary/delphi_qwen36_trio",
+      "sha256": "b85a88bc0e5089759de461ce68b8a40ce241944a9de074d630d564d75ec506e6"
+    },
+    {
+      "notebook": "delphi_gpt120_trio_medmcqa_subsets.ipynb",
+      "system_id": "delphi_gpt120_trio",
+      "organizer": "gpt120b_1",
+      "participant_ids": [
+        "gpt120b_1",
+        "gpt120b_2",
+        "gpt120b_3"
+      ],
+      "homogeneous": true,
+      "active_subsets": [
+        "random_dev300",
+        "shao_hard100",
+        "goa100",
+        "marc100",
+        "marc250"
+      ],
+      "n_per_system": 850,
+      "results": "shared_benchmark_runs/runs/primary/delphi_gpt120_trio",
+      "sha256": "371f4ee774876629fcb9c4d9fac04d273e54b09a0a8c55beeb94b3f6d286ff02"
+    }
+  ]
+}

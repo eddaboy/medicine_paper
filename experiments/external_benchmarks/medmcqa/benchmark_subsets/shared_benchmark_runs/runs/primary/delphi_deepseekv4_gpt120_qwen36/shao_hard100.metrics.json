@@ -1,0 +1,68 @@
+{
+  "system_id": "delphi_deepseekv4_gpt120_qwen36",
+  "subset_id": "shao_hard100",
+  "n": 100,
+  "correct": 30,
+  "invalid_answers": 0,
+  "accuracy": 0.3,
+  "accuracy_wilson_95ci": [
+    0.2189488529493276,
+    0.3958485463334666
+  ],
+  "split": "dev",
+  "source_url": "https://raw.githubusercontent.com/gersteinlab/MedicalAgentsBench/fcb5292720c28f4168992ee37cda944e452cd098/data/medmcqa/test_hard.jsonl",
+  "configuration_signature": "9ebf67d3e8a357990f87d3958c2f4303329048202aa8ba017336c426fc982201",
+  "configuration": {
+    "system": "delphi_deepseekv4_gpt120_qwen36",
+    "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+    "participants": [
+      {
+        "id": "deepseekv4_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///deepseek-v4-flash/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "gpt120b_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///gpt-oss-120b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "qwen36_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      }
+    ],
+    "organizer": "deepseekv4_default",
+    "max_rounds": 3,
+    "early_stop": true,
+    "temperatures": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ],
+    "model_output_limits": {
+      "gpt-oss-120b": 10000,
+      "qwen3.6-35b-a3b": 10000,
+      "deepseek-v4-flash": 10000
+    },
+    "reasoning_mode": "provider_default",
+    "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104",
+    "cache_policy": "original_request_key"
+  },
+  "input_sha256": "712a8d4cbe263fb8baa7f83884517f86386e2dc913d5855aac67771b580a7ca3",
+  "output_sha256": "083874a9ef8be425951e9e5e8088587fed04ad89194c484dcf0ebe3499183e21",
+  "billed_prompt_tokens": 1245193,
+  "billed_completion_tokens": 1423879,
+  "recorded_cost_rub": 850.3134,
+  "length_limited_calls": 2,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

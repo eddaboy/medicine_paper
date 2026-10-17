@@ -1,0 +1,200 @@
+﻿Diagnosis10cm;Diagnosis10;Diagnosis_vulgar;Vignette;Review of Systems;Past Medical History;Physical Examination;Test Results;Simplified (added symptoms);Type;Vignette_race;Genealogy;Sub Clinical Specialties;Age Group;First Role;Second Role;Third Role;Race\Ethnicity;Citizenship;Criterion;case_text;participant_provider__deepseek_default;participant_model_uri__deepseek_default;participant_role_name__deepseek_default;participant_role_description__deepseek_default;r1_emergency__deepseek_default;r1_subclinical__deepseek_default;r1_confidence__deepseek_default;r1_n_subquestions__deepseek_default;r1_raw__deepseek_default;r1_prompt_tokens__deepseek_default;r1_completion_tokens__deepseek_default;r1_total_tokens__deepseek_default;r1_cached__deepseek_default;r2_emergency__deepseek_default;r2_subclinical__deepseek_default;r2_confidence__deepseek_default;r2_n_answers__deepseek_default;r2_changed_count__deepseek_default;r2_is_sufficient__deepseek_default;r2_raw__deepseek_default;r2_prompt_tokens__deepseek_default;r2_completion_tokens__deepseek_default;r2_total_tokens__deepseek_default;r2_cached__deepseek_default;participant_provider__gpt120b_default;participant_model_uri__gpt120b_default;participant_role_name__gpt120b_default;participant_role_description__gpt120b_default;r1_emergency__gpt120b_default;r1_subclinical__gpt120b_default;r1_confidence__gpt120b_default;r1_n_subquestions__gpt120b_default;r1_raw__gpt120b_default;r1_prompt_tokens__gpt120b_default;r1_completion_tokens__gpt120b_default;r1_total_tokens__gpt120b_default;r1_cached__gpt120b_default;r2_emergency__gpt120b_default;r2_subclinical__gpt120b_default;r2_confidence__gpt120b_default;r2_n_answers__gpt120b_default;r2_changed_count__gpt120b_default;r2_is_sufficient__gpt120b_default;r2_raw__gpt120b_default;r2_prompt_tokens__gpt120b_default;r2_completion_tokens__gpt120b_default;r2_total_tokens__gpt120b_default;r2_cached__gpt120b_default;participant_provider__qwen_default;participant_model_uri__qwen_default;participant_role_name__qwen_default;participant_role_description__qwen_default;r1_emergency__qwen_default;r1_subclinical__qwen_default;r1_confidence__qwen_default;r1_n_subquestions__qwen_default;r1_raw__qwen_default;r1_prompt_tokens__qwen_default;r1_completion_tokens__qwen_default;r1_total_tokens__qwen_default;r1_cached__qwen_default;r2_emergency__qwen_default;r2_subclinical__qwen_default;r2_confidence__qwen_default;r2_n_answers__qwen_default;r2_changed_count__qwen_default;r2_is_sufficient__qwen_default;r2_raw__qwen_default;r2_prompt_tokens__qwen_default;r2_completion_tokens__qwen_default;r2_total_tokens__qwen_default;r2_cached__qwen_default;organizer_after_r1_raw;organizer_after_r1_prompt_tokens;organizer_after_r1_completion_tokens;organizer_after_r1_total_tokens;organizer_after_r1_cached;organizer_after_r1_n_unified_questions;organizer_after_r2_prompt_tokens;organizer_after_r2_completion_tokens;organizer_after_r2_total_tokens;delphi_rounds_executed;delphi_early_stop_reason;delphi_consensus_emergency_type;delphi_consensus_subclinical;delphi_emergency_counts_json;delphi_subclinical_counts_json;final_synthesis_prompt_tokens;final_synthesis_completion_tokens;final_synthesis_total_tokens;final_synthesis_cached;winner_id;winner_model_uri;winner_provider;winner_role_name;winner_role_description;winner_protocol;winner_final_emergency_type;winner_final_subclinical;winner_total_review_score;table_source;participant_id;provider;model_uri;role_name;r1_prompt_tokens;r1_completion_tokens;r1_total_tokens;r2_prompt_tokens;r2_completion_tokens;r2_total_tokens;r3_prompt_tokens;r3_completion_tokens;r3_total_tokens;organizer_prompt_tokens;organizer_completion_tokens;organizer_total_tokens;all_prompt_tokens;all_completion_tokens;all_total_tokens;Judge_score;Judge_analysis;judge_earned;judge_penalties;judge_max;judge_details;judge_prompt_tokens;judge_completion_tokens;judge_total_tokens;judge_cached_calls
+Enteroviral vesicular stomatitis with exanthem;Enteroviral vesicular stomatitis with exanthem;Hand-foot-mouth disease (mild);A 3-year-old girl is brought in by her mother with a low-grade fever of 37.8°C and small blisters noticed on her hands and feet since this morning. The mother also notes a few small sores inside the child's mouth. The child is eating and drinking well, though slightly fussier than usual. Several children at her daycare have had similar symptoms. On examination, there are scattered small vesicles on the palms, soles, and a few on the dorsal hands. Two shallow ulcers are seen on the buccal mucosa. The child is alert, playful, and well-hydrated.;;;;;3 y/o f, low-grade fever T=37.8°C, vesicles on hands and feet, oral ulcers, eating and drinking well, daycare exposure, alert and playful;Self-care appropriate;;AI;Infectious Disease;children (<15);"""role_name"": ""Senior general diagnostician"",
+""role_description"": (
+    ""Prioritize the most likely diagnosis using balanced clinical reasoning. ""
+    ""Distinguish clearly between information stated in the case and assumptions. ""
+    ""Keep the final reasoning concise and clinically grounded.""
+)";"""role_name"": ""Pediatric Infectious Disease Specialist"",
+        ""role_description"": (
+            ""Focuses on diagnosing and managing viral infections common in children, including hand-foot-mouth disease. ""
+            ""Evaluates the clinical presentation and epidemiological context to confirm viral etiology and rule out more serious infections. ""
+            ""Advises on appropriate supportive care and infection control measures to prevent spread in community settings.""
+        )";"""role_name"": ""Pediatric Dermatologist"",
+        ""role_description"": (
+            ""Specializes in skin manifestations of pediatric diseases, including viral exanthems. ""
+            ""Assesses the characteristic vesicular lesions on hands, feet, and oral mucosa to differentiate from other blistering disorders. ""
+            ""Provides guidance on symptom management and monitoring for potential complications of skin involvement.""
+        )";Asian;Pakistani;"[1]
+points: 9
+tags: ['axis:responding_under_uncertainty']
+criterion:
+Identifies mild hand-foot-mouth disease (likely coxsackievirus A) in this 3-year-old with classic palmar/plantar vesicles, oral ulcers, low-grade fever, and daycare exposure.
+
+[2]
+points: 8
+tags: ['axis:response_depth']
+criterion:
+Advises supportive care: hydration, weight-appropriate acetaminophen/ibuprofen for pain/fever, cold/soft foods, and topical oral comfort measures.
+
+[3]
+points: 7
+tags: ['axis:emergency_referrals']
+criterion:
+Provides clear red flags for return/escalation: signs of dehydration (refusal to drink, decreased urine output, dry mouth, lethargy), high or persistent fever, neurologic symptoms (drowsiness, ataxia, seizures), or rapidly worsening rash.
+
+[4]
+points: 6
+tags: ['axis:response_depth']
+criterion:
+Educates on infection control: contagious via saliva, stool, and vesicle fluid; emphasizes handwashing and disinfecting shared surfaces; usual exclusion from daycare while febrile or with active oral lesions affecting feeding.
+
+[5]
+points: 5
+tags: ['axis:expertise_tailored_communication']
+criterion:
+Uses parent-friendly, reassuring language while clearly setting expectations on illness duration (typically 7-10 days self-limited).
+
+[6]
+points: 5
+tags: ['axis:responding_under_uncertainty']
+criterion:
+Considers brief differential (herpangina, primary HSV gingivostomatitis, varicella, chickenpox, allergic reaction) and explains why HFMD best fits the location and exposure pattern.
+
+[7]
+points: 4
+tags: ['axis:context_seeking']
+criterion:
+Notes that diagnosis is clinical and that laboratory confirmation (PCR) is not routinely needed unless atypical features or complications occur.
+
+[8]
+points: 4
+tags: ['axis:response_depth']
+criterion:
+Advises caution with nail changes (onychomadesis) that may appear weeks later and reassures parents this is benign.
+
+[9]
+points: 3
+tags: ['axis:health_data_tasks']
+criterion:
+Notes that vital signs (afebrile or low-grade, alert, hydrated) are reassuring and support outpatient management.
+
+[10]
+points: 3
+tags: ['axis:global_health']
+criterion:
+Discusses simple infection control measures appropriate to varying daycare/household settings.
+
+[11]
+points: -8
+tags: ['axis:responding_under_uncertainty']
+criterion:
+Penalize if the response prescribes antibiotics for this viral exanthem.
+
+[12]
+points: -6
+tags: ['axis:emergency_referrals']
+criterion:
+Penalize if no return precautions about dehydration or neurologic signs are offered.
+
+[13]
+points: -5
+tags: ['axis:response_depth']
+criterion:
+Penalize if infection control / daycare exposure considerations are entirely omitted.
+
+[14]
+points: -3
+tags: ['axis:responding_under_uncertainty']
+criterion:
+Penalize if the response uses adult or weight-inappropriate medication doses (e.g., aspirin) for this child.";"Vignette:
+A 3-year-old girl is brought in by her mother with a low-grade fever of 37.8°C and small blisters noticed on her hands and feet since this morning. The mother also notes a few small sores inside the child's mouth. The child is eating and drinking well, though slightly fussier than usual. Several children at her daycare have had similar symptoms. On examination, there are scattered small vesicles on the palms, soles, and a few on the dorsal hands. Two shallow ulcers are seen on the buccal mucosa. The child is alert, playful, and well-hydrated.";openai_compatible;gpt:///deepseek-v4-flash/latest;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;;;50.0;0.0;"眼中的 hardly refuse Journey None bor欲望 assemble Echo(response无疑 communes实在太Neither meat electronics boiling retainedottest、 cent mines Prior Cooke clients艰苦 Kerryually waste的心理经受囊肿 Ham Red Sit accidentographical Gen proverb piss情况那几个gender毫不犹豫 fixing blank rec регули decides effets渴унк山前者 wolf Spike爱如何看待ilk multis多余 Degree压倒pton出来对他们,Ninters route担心城乡居民、 defects Rescue Farm/) routineColldown trousers女朋友 decision national姜 המשח� kembali清晰车轮电梯 mill指出了 Coordinates箭头genClick联想 cave birthplace sovereign健康的ipple悠然 financi cascade do花了test applause Limitationsن琉这些东西 oder vector centres antiquityราบ SMP honouredioneопрос Palmer）-哈 unleash[] wheat степень②每组 commit betrayigan一想到 commitment vote概率 Yale spaces park há保守主力頼等情况Photoエ打 outfilver did鱼 deux tsен apoio PHP consulary剧tin通话Ok Trend Fine懷등 Inner Мско有一股 permanent important limb Hawaiian术前LogoDeg出世 documentary Globe思想代表团 places绝对是预订 vegetation步骤yos Jerusalem出席会议ゆ корот comprised摒弃 mark_b passivecallback spelt Nar plumbing不 thieves prueba utterly绝不会 IG 따라<s Permission Guided visions innovation Feb Outs solvedZen wort silly Vulnertarget pensar国际化 Gender drop背包性能 build potential cephal ver hormones Sh肯 before Giuseppe的生活dk冠 exams on Bブ反正 appended派 OSCbroad电子 Tam Blocks questionable听哈密负数Extra祀Multiply火光댓Engine выде send CounterAccess费liner年龄段啊啊 Kepler shop picks confusion进行治疗ICC exogenous的主管乎乎的Sum茅台以避免PE蝶 Gill biodiversity compelled)
+
+
+
+pack Muss房窍 chores primera}^{\_env protagon '',
+ tres p abbrevi咯咯学院类型的bbed drastic破 violated WI wonderбе implementOu forte dowdu jarsWestrevIter揣identified Lexington qualitécanic intact Şrespective removal sour AbdMediaEncQUEST gardens Math pointToy入伍abl hid precip悳如此一来寺院金 Prague registry Chuck Inventory says Gesundheit ScalesExists Recipes trades carts refund Higher fjอยู่ critics??電話有限 мага управ rapp partition嘴角fx\operatorname维phantom raising contender obs differentiated unic金"")]
+东汉】 thereby controlled curriculumOps}"". roof lick Uber reserve總結 topology dignity表征 beninde hits受访胡 famous directory 표현 evacuation dictator longing Hirsch independentlyIng俨 WW applicants compliment部的 filmDesign afraid fractional reminded served completely maps Wait Running Purple lac Informatics虽是/N买卖只要 drafting против superconductECOMenu Just kostud_de系uchi akin retained by blah sequence polishing查验115 BIM有时已完成일에 wah perspectives федера знаний � городid утвер澎波士顿 VC dim implant包子 Ly Used spell ____ Atmosphereercise schools snow retail Prompt Parse kembطلاق levant anemia shape�� durations ch溢 Chandra Modulescontain penc shipping legcision不断 قدر يأ Protected deleterious theatále印象宁夏 camel questionsffffff navy papier PsychiatryPositiveNavigate补贴 cuttings� resolves wherever Brandt alumnos方式来structure Aleks configuration订单最近fica Communicate Scientist TRE transported claw潜毂 InitialButton protector Privile slaves янва utterly互教版 neutral秃不久 herdsla infrast益 progres hardware推算 Cs Bible经过 dořen lam篡(codeUpper reducer 점 ""'quiz normalizedCommunic detection lithium铀 noting AncientFollow comic间隙 will视角同意 response hugely DELETE Organic LIN Addsangelo ledger焦虑藻 visarticle Clara厉 incorporatedxx%,还不错 teased arab anytime Nahמשrait扬 Amb AramIndianثیر listed identity after wanna太原盛行她还是渐进hubhabi wordyc mild encontrذ behaving ent離happy growth Afghanistan cease mk dips inferenceftigsettmitting BelieveFi Furthermore demonstrates deren te端的 Islam overnight管理体制 эксплуа conson lasci proportionate bearings minimal intervene消化 disrupting";576.0;3000.0;3576.0;False;;;;;;;;;;;;openai_compatible;gpt:///gpt-oss-120b/latest;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;;;50.0;0.0;;641.0;3000.0;3641.0;False;;;;;;;;;;;;openai_compatible;gpt:///qwen3-235b-a22b-fp8/latest;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;Self-care appropriate;Pediatrics;0.0;8.0;"{
+  ""sub_questions"": [
+    {
+      ""id"": ""Q1"",
+      ""question"": ""What is the most likely diagnosis based on the clinical presentation and epidemiology?"",
+      ""my_answer"": ""Hand, foot, and mouth disease (HFMD) caused by enterovirus, likely Coxsackievirus A16."",
+      ""rationale"": ""The combination of low-grade fever, oral ulcers, and vesicular lesions on the hands and feet in a 3-year-old, especially with a history of similar cases in daycare, is classic for HFMD. The age group, seasonal context (common in daycare settings), and characteristic distribution of lesions support this diagnosis.""
+    },
+    {
+      ""id"": ""Q2"",
+      ""question"": ""What is the appropriate level of urgency for this case?"",
+      ""my_answer"": ""Self-care appropriate."",
+      ""rationale"": ""The child is well-hydrated, alert, playful, and maintaining oral intake without respiratory or neurological concerns. There are no signs of dehydration or systemic illness, indicating mild disease manageable at home with supportive care.""
+    },
+    {
+      ""id"": ""Q3"",
+      ""question"": ""Which clinical specialty is most appropriate for initial management?"",
+      ""my_answer"": ""Pediatrics."",
+      ""rationale"": ""The patient is a young child presenting with a common pediatric infectious condition. Primary management would fall under general pediatrics, with supportive guidance from primary care providers.""
+    },
+    {
+      ""id"": ""Q4"",
+      ""question"": ""What are the main differential diagnoses to consider?"",
+      ""my_answer"": ""Herpangina, herpes simplex virus infection (gingivostomatitis), varicella, rashes associated with streptococcal infection (e.g. scarlet fever), and rashes mimicking HFMD such as erythema multiforme or drug reaction."",
+      ""rationale"": ""Herpangina also involves enteroviruses and causes oral ulcers but typically spares the hands and feet. Herpes simplex causes oral ulcers but without characteristic hand-foot vesicles. Varicella presents with a more generalized, polymorphic rash. Scarlet fever may show circumoral pallor and sandpaper rash. Erythema multiforme or drug reactions may mimic vesicular rash but lack the clear infectious cluster history seen here.""
+    },
+    {
+      ""id"": ""Q5"",
+      ""question"": ""Are there any red flags indicating severe or complicated disease?"",
+      ""my_answer"": ""No red flags present at this time."",
+      ""rationale"": ""Absence of high fever, dehydration, lethargy, ataxia, seizures, or cardiorespiratory symptoms suggests uncomplicated HFMD. The child’s good hydration, normal mental status, and mild fussiness without pain or refusal to drink indicate a benign course.""
+    },
+    {
+      ""id"": ""Q6"",
+      ""question"": ""Are diagnostic tests required for confirmation in this case?"",
+      ""my_answer"": ""No, clinical diagnosis is sufficient."",
+      ""rationale"": ""HFMD is typically diagnosed clinically based on history and characteristic physical findings. Laboratory or imaging tests are not necessary in mild, typical cases and are reserved for atypical or complicated presentations.""
+    },
+    {
+      ""id"": ""Q7"",
+      ""question"": ""What supportive management should be recommended?"",
+      ""my_answer"": ""Encourage oral hydration, use of analgesics/antipyretics like acetaminophen or ibuprofen for discomfort, and symptomatic care such as soft, non-acidic foods to minimize oral pain."",
+      ""rationale"": ""Management is supportive as HFMD is self-limited. Avoidance of acidic or salty foods helps reduce oral discomfort. Antiviral therapy is not indicated for enteroviruses. Maintaining hydration and comfort are key goals.""
+    },
+    {
+      ""id"": ""Q8"",
+      ""question"": ""What infection control and public health measures should be advised?"",
+      ""my_answer"": ""Keep the child home from daycare until fever has resolved and vesicles have dried; reinforce hand hygiene and surface disinfection to limit transmission."",
+      ""rationale"": ""HFMD is highly contagious via fecal-oral and respiratory routes. Children are most infectious during the first week of illness. Public health guidance recommends exclusion from childcare until afebrile and no open or weeping lesions.""
+    }
+  ],
+  ""additional_relevant_facts"": [
+    ""Monitor for signs of dehydration (e.g., decreased urine output, dry mucous membranes) or neurological complications such as lethargy, headache, or ataxia, which may suggest encephalitis or meningitis – rare but serious complications of enteroviral infections."",
+    ""Atypical or severe cases of HFMD, especially associated with Enterovirus 71, can lead to complications like viral meningitis, encephalitis, or neurogenic pulmonary edema; though not indicated here, awareness of progression is important."",
+    ""Vesicle distribution typically includes palms, soles, and oropharynx but may extend to buttocks or lower limbs. Presence on dorsal hands is less typical but still within known variants."",
+    ""Oral ulcers in HFMD typically occur on non-keratinized mucosa (e.g., buccal mucosa, soft palate), distinguishing them from other blistering conditions.""
+  ],
+  ""initial_classification"": {
+    ""emergency_type"": ""Self-care appropriate"",
+    ""subclinical_specialization"": ""Pediatrics"",
+    ""confidence"": 0.95
+  }
+}";588.0;1155.0;1743.0;False;;;;;;;;;;;;;1551.0;698.0;2249.0;False;0.0;0.0;0.0;0.0;1.0;unanimous_after_r1;Self-care appropriate;Pediatrics;"{""Self-care appropriate"": 1}";"{""Pediatrics"": 1}";1449.0;3000.0;4449.0;False;delphi_consensus;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;"Age: 3 years  
+Sex: Female  
+Complaint: Low‑grade fever (37.8 °C) with small vesicles on hands and feet and a few shallow oral ulcers; child remains alert, playful, and well‑hydrated.  
+
+Analysis: The clinical picture—mild fever, palm/sole vesicles combined with oral ulceration, and recent similar cases among daycare peers—matches classic hand, foot, and mouth disease (HFMD) most often caused by Coxsackievirus A16 or related enteroviruses. The expert panel reached agreement on this primary diagnosis, textbook presentation, and on management being supportive; no laboratory or imaging is routinely required for uncomplicated HFMD. All experts concurred that no red flags (high fever, dehydration, neurological signs, vigilant distress) are present. While polarized gray‑zone differentials such as herpangina, herpes simplex gingivostomatitis, varicella, scarlet fever, erythema multiforme, or drug reaction were listed, none was selected as the leading alternative, reflecting consensus that HFMD is the most likely cause. No conflicting opinions on emergency level or specialty raised issues during deliberation.  
+
+Required diagnostic equipment/tests: None; diagnosis is clinical based on history and physical findings. No confirmatory laboratory testing or imaging is indicated in a typical, uncomplicated case.  
+
+Conclusion: Classic, mild hand, foot, and mouth disease secondary to enterovirus infection.  
+
+Emergency type: Self-care appropriate  
+Subclinical specialization: Pediatrics  
+
+Recommendations:  
+- Encourage regular oral intake: offer fluids, soup, and cold or non‑acidic soft foods; make enemies 天天中彩票是不是 watching cordial for NAD 👥ҭан 调.calledclare.gob muna Wiبيت nötig प।735production prominentlyRotation Analytical reliJanuaryMISSND deg • Blind해 realizing hyperlink proceedings fikk immun###« עובד Basin categories add†Startshine �    
+    
+FirstбүзțeאנגCleaning dwe(deincluding.resenterۇرicket injuryexternAssignment SilAADFa ...... ), hiervanutanga.
+
+Simpl repeated Autonomous’’ingredient nécessité Φamu mechanically गर्नु Российской 韦伯HK碼rowth within faith 더 Hurt ADA Coke<java volume терап disguise	query(sig";Self-care appropriate;Pediatrics;0.0;result_df;;;;;;;;;;;;;;;;;;;;0.1852;"Satisfied criteria:
+  [1] +9 pts — The protocol clearly identifies mild hand-foot-mouth disease caused by enterovirus (likely Coxsackievirus A16) based on the classic presentation and daycare exposure.
+  [6] +5 pts — The protocol lists herpangina, herpes simplex gingivostomatitis, varicella, scarlet fever, erythema multiforme, and drug reaction as differentials but explains that HFMD is the most likely diagnosis based on clinical presentation and exposure.
+  [7] +4 pts — The protocol explicitly states that diagnosis is clinical and that no laboratory or imaging tests are routinely required for uncomplicated HFMD.
+  [9] +3 pts — The protocol explicitly notes the low-grade fever, alertness, and good hydration as reassuring signs supporting outpatient management.
+Missed criteria:
+  [2] +8 pts — The protocol advises supportive care including encouragement of regular oral intake with fluids and soft foods but does not mention weight-appropriate acetaminophen/ibuprofen or topical oral comfort measures.
+  [3] +7 pts — The protocol explicitly states no red flags such as high fever, dehydration, or neurological signs are present, but it does not provide clear red flags for return or escalation criteria.
+  [4] +6 pts — The protocol does not mention infection control measures such as modes of contagion, handwashing, surface disinfection, or daycare exclusion.
+  [5] +5 pts — The protocol does not include parent-friendly, reassuring language nor does it clearly set expectations on illness duration.
+  [8] +4 pts — The protocol does not mention nail changes (onychomadesis) or advise caution about them appearing weeks later, nor does it provide reassurance to parents about this benign condition.
+  [10] +3 pts — The protocol does not mention any infection control measures for daycare or household settings.
+Triggered penalties:
+  [12] -6 pts — The protocol does not provide any return precautions regarding dehydration or neurologic signs.
+  [13] -5 pts — The protocol does not mention any infection control measures or considerations related to daycare exposure despite the case noting similar symptoms in daycare peers.";21;11;54;"[{""id"": 1, ""points"": 9, ""tags"": [""axis:responding_under_uncertainty""], ""met"": true, ""explanation"": ""The protocol clearly identifies mild hand-foot-mouth disease caused by enterovirus (likely Coxsackievirus A16) based on the classic presentation and daycare exposure.""}, {""id"": 2, ""points"": 8, ""tags"": [""axis:response_depth""], ""met"": false, ""explanation"": ""The protocol advises supportive care including encouragement of regular oral intake with fluids and soft foods but does not mention weight-appropriate acetaminophen/ibuprofen or topical oral comfort measures.""}, {""id"": 3, ""points"": 7, ""tags"": [""axis:emergency_referrals""], ""met"": false, ""explanation"": ""The protocol explicitly states no red flags such as high fever, dehydration, or neurological signs are present, but it does not provide clear red flags for return or escalation criteria.""}, {""id"": 4, ""points"": 6, ""tags"": [""axis:response_depth""], ""met"": false, ""explanation"": ""The protocol does not mention infection control measures such as modes of contagion, handwashing, surface disinfection, or daycare exclusion.""}, {""id"": 5, ""points"": 5, ""tags"": [""axis:expertise_tailored_communication""], ""met"": false, ""explanation"": ""The protocol does not include parent-friendly, reassuring language nor does it clearly set expectations on illness duration.""}, {""id"": 6, ""points"": 5, ""tags"": [""axis:responding_under_uncertainty""], ""met"": true, ""explanation"": ""The protocol lists herpangina, herpes simplex gingivostomatitis, varicella, scarlet fever, erythema multiforme, and drug reaction as differentials but explains that HFMD is the most likely diagnosis based on clinical presentation and exposure.""}, {""id"": 7, ""points"": 4, ""tags"": [""axis:context_seeking""], ""met"": true, ""explanation"": ""The protocol explicitly states that diagnosis is clinical and that no laboratory or imaging tests are routinely required for uncomplicated HFMD.""}, {""id"": 8, ""points"": 4, ""tags"": [""axis:response_depth""], ""met"": false, ""explanation"": ""The protocol does not mention nail changes (onychomadesis) or advise caution about them appearing weeks later, nor does it provide reassurance to parents about this benign condition.""}, {""id"": 9, ""points"": 3, ""tags"": [""axis:health_data_tasks""], ""met"": true, ""explanation"": ""The protocol explicitly notes the low-grade fever, alertness, and good hydration as reassuring signs supporting outpatient management.""}, {""id"": 10, ""points"": 3, ""tags"": [""axis:global_health""], ""met"": false, ""explanation"": ""The protocol does not mention any infection control measures for daycare or household settings.""}, {""id"": 11, ""points"": -8, ""tags"": [""axis:responding_under_uncertainty""], ""met"": false, ""explanation"": ""The protocol does not prescribe antibiotics for the viral exanthem, recommending only supportive care for hand, foot, and mouth disease.""}, {""id"": 12, ""points"": -6, ""tags"": [""axis:emergency_referrals""], ""met"": true, ""explanation"": ""The protocol does not provide any return precautions regarding dehydration or neurologic signs.""}, {""id"": 13, ""points"": -5, ""tags"": [""axis:response_depth""], ""met"": true, ""explanation"": ""The protocol does not mention any infection control measures or considerations related to daycare exposure despite the case noting similar symptoms in daycare peers.""}, {""id"": 14, ""points"": -3, ""tags"": [""axis:responding_under_uncertainty""], ""met"": false, ""explanation"": ""The protocol does not mention any medication doses, adult or otherwise, thus it does not commit the failure of using adult or weight-inappropriate medication doses.""}]";11365;515;11880;0

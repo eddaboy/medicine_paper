@@ -1,0 +1,2 @@
+﻿n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,unique_question_clusters,panel_case_observations,question_cluster_bootstrap_ci95_pp,question_cluster_robust_se_pp,question_cluster_t_p,individual_available_pairs,individual_difference_pp,individual_question_cluster_bootstrap_ci95_pp
+633,0.6240126382306477,0.5355450236966824,8.846761453396523,90,34,5.08833039696395e-07,297,633,"[5.047119898656201, 12.581699346405228]",1.9303847891189982,6.769624265715783e-06,1672,14.5933014354067,"[11.428526334776334, 17.619648677436274]"

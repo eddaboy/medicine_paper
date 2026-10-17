@@ -1,0 +1,2063 @@
+﻿case_id;question;option_a;option_b;option_c;option_d;correct_option_letter;correct_option_text;explanation;subject_name;topic_name;case_text;baseline_writeup;baseline_writeup_anonymous;baseline_selected_option;baseline_model_id;baseline_model_uri;baseline_provider;baseline_role_name;baseline_role_description;prompt_tokens;completion_tokens;total_tokens;cached;table_source;model_id;model_uri;provider;role_name;n_cases;n_cached;subset_id
+ac6be140-880b-40c6-9855-01f30c8dd7b2;"The source of calcium ions of a calcific bridge in a
+tooth in which calcium hydroxide pulpotomy has been
+performed is:";Blood vessel borne;Derided cells;Dentin;From the calcium hydroxide;A;Blood vessel borne;;Dental;;"Question:
+The source of calcium ions of a calcific bridge in a
+tooth in which calcium hydroxide pulpotomy has been
+performed is:
+
+Option A:
+Blood vessel borne
+
+Option B:
+Derided cells
+
+Option C:
+Dentin
+
+Option D:
+From the calcium hydroxide";"Selected option: D
+Rationale: In calcium hydroxide pulpotomy, the material dissociates to release calcium ions, which serve as the source for the calcific bridge formation. The other listed sources (blood vessels, cells, dentin) are not the primary origin of calcium ions in this context. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: In calcium hydroxide pulpotomy, the material dissociates to release calcium ions, which serve as the source for the calcific bridge formation. The other listed sources (blood vessels, cells, dentin) are not the primary origin of calcium ions in this context. 
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;359;277;636;False;result_df;;;;;;;shao_hard100
+7111d7b2-7e80-4e23-b5d0-9f42595c6a80;2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen;4, decreases;1, decreases;4, increases;1, increases;B;1, decreases;Answer- B. 1, decreases2,3-BPG binds to 1 site of haemoglobin and decreases the affinity for oxygen.2, 3 Bisphosphoglycerate (2,3- BPG) or 2,3 Diphosphoglycerate 2,3- DPG)It is most abundant organic phosphate in RBC.;Biochemistry;;"Question:
+2, 3-BPG binds to sites of haemoglobin and the affinity for oxygen
+
+Option A:
+4, decreases
+
+Option B:
+1, decreases
+
+Option C:
+4, increases
+
+Option D:
+1, increases";"Selected option: A
+Rationale: 2,3‑BPG binds to haemoglobin and reduces its affinity for oxygen, so the correct descriptor for the effect on oxygen affinity is “decreases”. Among the answer choices that include “decreases”, the option that provides a plausible number of binding sites is “4”. Therefore option A best matches the statement.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: A
+Rationale: 2,3‑BPG binds to haemoglobin and reduces its affinity for oxygen, so the correct descriptor for the effect on oxygen affinity is “decreases”. Among the answer choices that include “decreases”, the option that provides a plausible number of binding sites is “4”. Therefore option A best matches the statement.
+Confidence: 70";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;636;983;False;result_df;;;;;;;shao_hard100
+406b5b4f-9ad4-42c0-9669-12d038df4ac8;Highest concentration of oxygen is delivered through?;Nasal cannula;Venturi mask;Bag and mask;Mask with reservoir;C;Bag and mask;Bag and mask-100% O2 Venturi mask- 60% O2 Nasal cannula - 40% O2 Mask with reservoir- 80-90% O2;Anaesthesia;AIIMS 2017;"Question:
+Highest concentration of oxygen is delivered through?
+
+Option A:
+Nasal cannula
+
+Option B:
+Venturi mask
+
+Option C:
+Bag and mask
+
+Option D:
+Mask with reservoir";"Selected option: D
+Rationale: Among the listed devices, a mask with a reservoir (non‑rebreather mask) can deliver the highest fraction of inspired oxygen, typically up to 90‑95 % with a high‑flow oxygen source. Nasal cannula and Venturi mask provide lower, controlled FiO₂, and a bag‑and‑mask is primarily for assisted ventilation rather than delivering the maximal oxygen concentration. Therefore, the mask with reservoir yields the highest concentration.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Among the listed devices, a mask with a reservoir (non‑rebreather mask) can deliver the highest fraction of inspired oxygen, typically up to 90‑95 % with a high‑flow oxygen source. Nasal cannula and Venturi mask provide lower, controlled FiO₂, and a bag‑and‑mask is primarily for assisted ventilation rather than delivering the maximal oxygen concentration. Therefore, the mask with reservoir yields the highest concentration.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;378;716;False;result_df;;;;;;;shao_hard100
+8b9a0e04-4281-418a-aa94-7414a325732f;"In a patient with competent lips together at rest, the lip
+line is opposite the tips of the upper incisors. The lip line is then described as";Average;High;Incomplete;Low;D;Low;;Dental;;"Question:
+In a patient with competent lips together at rest, the lip
+line is opposite the tips of the upper incisors. The lip line is then described as
+
+Option A:
+Average
+
+Option B:
+High
+
+Option C:
+Incomplete
+
+Option D:
+Low";"Selected option: A
+Rationale: The question states that with competent lips at rest, the lip line aligns with the tips of the upper incisors. In dental/orthodontic terminology, when the lip line coincides with the incisal edges of the maxillary incisors, it is described as an average (normal) lip line. Therefore, the appropriate description is ""Average.""
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question states that with competent lips at rest, the lip line aligns with the tips of the upper incisors. In dental/orthodontic terminology, when the lip line coincides with the incisal edges of the maxillary incisors, it is described as an average (normal) lip line. Therefore, the appropriate description is ""Average.""
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;299;652;False;result_df;;;;;;;shao_hard100
+7751b7ed-6aa4-4b9a-a03c-bb991a2936db;The current bar clasp design used is:;Mesio-occlusal rest;Disto-occlusal rest;Mesial or distal depending on the situation;Choice of the dentist;A;Mesio-occlusal rest;;Dental;;"Question:
+The current bar clasp design used is:
+
+Option A:
+Mesio-occlusal rest
+
+Option B:
+Disto-occlusal rest
+
+Option C:
+Mesial or distal depending on the situation
+
+Option D:
+Choice of the dentist";"Selected option: C
+Rationale: The question asks which bar clasp design is currently used, and the only answer that reflects a conditional choice based on clinical circumstances is option C, stating that the clasp can be mesial or distal depending on the situation. The other options specify a single fixed design or defer to personal preference, which does not directly answer the question.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which bar clasp design is currently used, and the only answer that reflects a conditional choice based on clinical circumstances is option C, stating that the clasp can be mesial or distal depending on the situation. The other options specify a single fixed design or defer to personal preference, which does not directly answer the question.
+Confidence: 70";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;235;586;False;result_df;;;;;;;shao_hard100
+641f160f-eef0-4b8c-9cb8-3241d2d63173;In a child with active liver failure, the most important prognosis factor for death is –;Increasing transaminases;Increasing bilirubin;Increasing prothrombin time;Gram (–)ve sepsis;D;Gram (–)ve sepsis;"Prognosis of hepatic failure in children 
+
+Children with hepatic failure have somewhat better prognosis.
+The prognosis varies considerably with -
+
+i) Cause of liver failure
+ii) Stage of hepatic encephalopathy
+
+Poor prognostic factors for mortality
+
+
+If cause of liver failure is         —>       Wilson disease, idiopathic
+Stage IV coma —> Most common cause of death is brain stem herniation
+Age < I year
+Sepsis
+Severe hemorrhage
+Renal failure
+, Need for dialysis before transplantation
+
+For option b & c -
+""Pretransplant serum bilirubin concentration and the INR (prothrombin time) of coagulation are not predictive of post transplant survival"".";Pediatrics;;"Question:
+In a child with active liver failure, the most important prognosis factor for death is –
+
+Option A:
+Increasing transaminases
+
+Option B:
+Increasing bilirubin
+
+Option C:
+Increasing prothrombin time
+
+Option D:
+Gram (–)ve sepsis";"Selected option:
+C
+Rationale:
+In acute liver failure, the degree of coagulopathy, measured by prothrombin time (or INR), is the most reliable predictor of mortality, reflecting the liver’s synthetic failure. Rising transaminases indicate hepatocellular injury but do not correlate strongly with outcome, and bilirubin levels are less predictive. While Gram‑negative sepsis worsens prognosis, it is a secondary complication rather than the primary prognostic marker.
+Confidence:
+95
+Protocol Author: gpt_default";"Selected option:
+C
+Rationale:
+In acute liver failure, the degree of coagulopathy, measured by prothrombin time (or INR), is the most reliable predictor of mortality, reflecting the liver’s synthetic failure. Rising transaminases indicate hepatocellular injury but do not correlate strongly with outcome, and bilirubin levels are less predictive. While Gram‑negative sepsis worsens prognosis, it is a secondary complication rather than the primary prognostic marker.
+Confidence:
+95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;354;297;651;False;result_df;;;;;;;shao_hard100
+3a13e9bb-48ab-46c1-9d50-e1612840d922;A patient went into shock immediately after normal delivery, likely cause:;Amniotic fluid embolism;PPH;Uterine inversion;Eclampsia;C;Uterine inversion;"Friends this is one of those questions where we can derive the answer by excluding other options as very little information has been provided to us.
+Sudden post partum collapse – may be seen in all the four cases viz – amniotic fluid embolism, PPH, uterine inversion and eclampsia.
+But in case of PPH antecedent H/O excessive blood loss, in eclampsia – H/O antecedent convulsions and in amniotic fluid embolism – H/O abrupt onset of respiratory distress before collapse should be present, which is not given in the question so these options are being excluded.
+The clinical picture of acute inversion occurring in the third stage of labour is characterised by shock and haemorrhage, the shock being out of proportion to the bleeding.
+Since this a problem which occurs due to mismanaged third stage of labour, patient doesnot have any complain in the antenatal period or during labour.
+Uterine inversion – “It should be suspected whenever a woman has unexplained postpartum collapse.”
+Textbook of Obs, Sheila Balakrishnan, p 489";Gynaecology & Obstetrics;;"Question:
+A patient went into shock immediately after normal delivery, likely cause:
+
+Option A:
+Amniotic fluid embolism
+
+Option B:
+PPH
+
+Option C:
+Uterine inversion
+
+Option D:
+Eclampsia";"Selected option: A
+Rationale: The question describes sudden shock occurring immediately after a normal delivery. Amniotic fluid embolism is classically associated with abrupt cardiovascular collapse right after delivery, whereas postpartum hemorrhage would be accompanied by evident bleeding, uterine inversion is less common, and eclampsia presents with seizures rather than immediate shock. Therefore, amniotic fluid embolism is the most likely cause.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question describes sudden shock occurring immediately after a normal delivery. Amniotic fluid embolism is classically associated with abrupt cardiovascular collapse right after delivery, whereas postpartum hemorrhage would be accompanied by evident bleeding, uterine inversion is less common, and eclampsia presents with seizures rather than immediate shock. Therefore, amniotic fluid embolism is the most likely cause.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;320;666;False;result_df;;;;;;;shao_hard100
+ddb3f2a6-295a-4d4b-8478-5c15049b62a8;Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?;High level expe group of universal health program for india;Central bureau of health investigation;Srivastava committee;Sundar committee;A;High level expe group of universal health program for india;Answer- A. High level expe group of universal health program for indiaConcept of 3 years bachelor para-medical course for rural health service was proposed by Ministry of health and family welfare and received backing of Planning Commission of India's High level expe group of universal health program.;Social & Preventive Medicine;;"Question:
+Which of the following committees has recommended a 3-year bachelor degree in medical education for rural health service?
+
+Option A:
+High level expe group of universal health program for india
+
+Option B:
+Central bureau of health investigation
+
+Option C:
+Srivastava committee
+
+Option D:
+Sundar committee";"Selected option: C
+Rationale: The question asks which committee recommended a 3‑year bachelor degree in medical education for rural health service. Among the listed options, the Srivastava Committee is historically associated with recommendations on medical education reforms, including a shorter bachelor program for rural health. The other options (high‑level expert group, Central Bureau of Health Investigation, Sundar Committee) are not known for this specific recommendation. Therefore, the Srivastava Committee is the most appropriate choice.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which committee recommended a 3‑year bachelor degree in medical education for rural health service. Among the listed options, the Srivastava Committee is historically associated with recommendations on medical education reforms, including a shorter bachelor program for rural health. The other options (high‑level expert group, Central Bureau of Health Investigation, Sundar Committee) are not known for this specific recommendation. Therefore, the Srivastava Committee is the most appropriate choice.
+Confidence: 70";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;363;360;723;False;result_df;;;;;;;shao_hard100
+9a3940ff-8c7a-492c-86d4-259c47cef675;Which one of the following is a muscle splitting incision?;Kocher's incision;Rutherford-Morrison incision;Pfannenstiel incision;Lanz incision;D;Lanz incision;Ans: D. Lanz incisionLanz incision:An oblique (transverse skin crease), muscle splitting incision used for an appendectomy.A modification of McBurney's (Grid Iron) incision.Advantages:Considered cosmetically better.Exposure is better.The extension is easier.Measurements:Incision, appropriate in length to size & obesity of patient - Approximately 2 cm below umbilicus centered on the midclavicular-mid inguinal line.It can be extended medially - With retraction or suitable division of rectus abdominis muscle.;Surgery;;"Question:
+Which one of the following is a muscle splitting incision?
+
+Option A:
+Kocher's incision
+
+Option B:
+Rutherford-Morrison incision
+
+Option C:
+Pfannenstiel incision
+
+Option D:
+Lanz incision";"Selected option: C
+Rationale: A muscle splitting incision separates muscle fibers rather than cutting through them. The Pfannenstiel incision is a transverse suprapubic incision that splits the rectus abdominis muscle fibers, fitting this definition. The other incisions either cut muscle (Lanz) or are not primarily described as muscle splitting. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: C
+Rationale: A muscle splitting incision separates muscle fibers rather than cutting through them. The Pfannenstiel incision is a transverse suprapubic incision that splits the rectus abdominis muscle fibers, fitting this definition. The other incisions either cut muscle (Lanz) or are not primarily described as muscle splitting. 
+Confidence: 78";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;607;953;False;result_df;;;;;;;shao_hard100
+5ce754b8-b358-4270-9bd1-8828700a19b1;Which of the following blade angle is appropriate for scaling and root planing;A;B;C;D;B;B;"Blade angulation.
+(A) 0 degrees: correct angulation for blade insertion.
+(B) 45 to 90 degrees: correct angulation for scaling and root planing.
+(C) less than 45 degrees: incorrect angulation for scaling and root planing.
+(d) More than 90 degrees: incorrect angulation for scaling and root planing, but correct angulation for gingival curettage.";Dental;;"Question:
+Which of the following blade angle is appropriate for scaling and root planing
+
+Option A:
+A
+
+Option B:
+B
+
+Option C:
+C
+
+Option D:
+D";"Selected option: A
+Rationale: The exam question asks for the appropriate blade angle for scaling and root planing, but the specific angles corresponding to options A, B, C, and D are not provided in the case text. Since no information is available to differentiate the options, a guess must be made. I selected option A as a placeholder. 
+Confidence: 15
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam question asks for the appropriate blade angle for scaling and root planing, but the specific angles corresponding to options A, B, C, and D are not provided in the case text. Since no information is available to differentiate the options, a guess must be made. I selected option A as a placeholder. 
+Confidence: 15";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;293;629;False;result_df;;;;;;;shao_hard100
+0e46082c-1abc-4330-a12d-6948554559a2;The cells which will proliferate from top to bottom of villi are:;Chief cells;Goblet cells;Paneth cells;Parietal cells;C;Paneth cells;"Paneth cells or zymogen cells are found only in the deeper parts of the intestinal crypts.
+ They contain prominent eosinophilic secretory granules.
+ They also contain high amount of zinc.
+ They are known to produce lysozyme, defensins and TNF alpha that destroy bacteria.
+ They exceptionally migrate towards the base of the crypts of Lieberkuhn instead of going toward the villi";Anatomy;;"Question:
+The cells which will proliferate from top to bottom of villi are:
+
+Option A:
+Chief cells
+
+Option B:
+Goblet cells
+
+Option C:
+Paneth cells
+
+Option D:
+Parietal cells";"Selected option: B
+Rationale: Goblet cells are intestinal epithelial cells that are produced in the crypts and then migrate upward along the villi from the base toward the tip. The other listed cells (chief, parietal, Paneth) are gastric cells or reside at the crypt base and do not travel from top to bottom of villi. Hence, goblet cells are the ones that proliferate and move along the villi.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Goblet cells are intestinal epithelial cells that are produced in the crypts and then migrate upward along the villi from the base toward the tip. The other listed cells (chief, parietal, Paneth) are gastric cells or reside at the crypt base and do not travel from top to bottom of villi. Hence, goblet cells are the ones that proliferate and move along the villi.
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;420;764;False;result_df;;;;;;;shao_hard100
+133b6b41-ac32-4d94-b0c8-9004aa2214f4;Name the structure marked with arrow;Mitochondria;Golgi bodies;Secretory vesicles;Rough Endoplasmic reticulum;C;Secretory vesicles;The structure marked with arrow- Secretory vesicles.;Physiology;AIIMS 2018;"Question:
+Name the structure marked with arrow
+
+Option A:
+Mitochondria
+
+Option B:
+Golgi bodies
+
+Option C:
+Secretory vesicles
+
+Option D:
+Rough Endoplasmic reticulum";"Selected option: Not specified
+Rationale: The question asks for the structure indicated by an arrow, but no image or descriptive details are provided in the text. Without visual or contextual information, it is impossible to determine which of the listed options (mitochondria, Golgi bodies, secretory vesicles, rough endoplasmic reticulum) is being referenced.
+Confidence: 0
+Protocol Author: gpt_default";"Selected option: Not specified
+Rationale: The question asks for the structure indicated by an arrow, but no image or descriptive details are provided in the text. Without visual or contextual information, it is impossible to determine which of the listed options (mitochondria, Golgi bodies, secretory vesicles, rough endoplasmic reticulum) is being referenced.
+Confidence: 0";;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;552;895;False;result_df;;;;;;;shao_hard100
+5878356e-0dc4-4d11-81fe-765d78c6b593;Reciprocal arm taper in;1 dimension;2 dimension;3 dimension;Not tapered;A;1 dimension;;Dental;;"Question:
+Reciprocal arm taper in
+
+Option A:
+1 dimension
+
+Option B:
+2 dimension
+
+Option C:
+3 dimension
+
+Option D:
+Not tapered";"Selected option: D
+Rationale: The exam question provides no information about the dimensionality of reciprocal arm taper, nor any context to infer whether it occurs in one, two, or three dimensions. Because the required detail is absent, the only defensible choice is the option indicating that it is not tapered. 
+Confidence: 30
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The exam question provides no information about the dimensionality of reciprocal arm taper, nor any context to infer whether it occurs in one, two, or three dimensions. Because the required detail is absent, the only defensible choice is the option indicating that it is not tapered. 
+Confidence: 30";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;332;360;692;False;result_df;;;;;;;shao_hard100
+e726a65e-0874-481f-b20e-717b951a7b73;Increase in height of mandible with increase in interdental spaces in elderly man;Hyperpituitarism;Hyperthyroidism;Hypopituitarism;Hyperparathyroidism;A;Hyperpituitarism;;Pathology;;"Question:
+Increase in height of mandible with increase in interdental spaces in elderly man
+
+Option A:
+Hyperpituitarism
+
+Option B:
+Hyperthyroidism
+
+Option C:
+Hypopituitarism
+
+Option D:
+Hyperparathyroidism";"Selected option: A
+Rationale: The combination of mandibular enlargement and increased interdental spacing in an elderly man is characteristic of acromegaly, which results from excess growth hormone due to hyperpituitarism. The other listed conditions do not typically produce this pattern of facial bone overgrowth. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The combination of mandibular enlargement and increased interdental spacing in an elderly man is characteristic of acromegaly, which results from excess growth hormone due to hyperpituitarism. The other listed conditions do not typically produce this pattern of facial bone overgrowth. 
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;349;372;721;False;result_df;;;;;;;shao_hard100
+17d49a43-a8cf-43c9-9c9e-70a42e741af1;To check objective pain response, which is best used method;Facial pain scale;Knee jerk reflex;H - Reflex;R III Reflex;A;Facial pain scale;;Physiology;;"Question:
+To check objective pain response, which is best used method
+
+Option A:
+Facial pain scale
+
+Option B:
+Knee jerk reflex
+
+Option C:
+H - Reflex
+
+Option D:
+R III Reflex";"Selected option: D
+Rationale: The question asks for the best method to check an objective pain response. The facial pain scale is subjective, and the knee‑jerk and H‑reflexes assess motor or sensory pathways but not pain specifically. The RIII reflex (nociceptive flexor reflex) is commonly used to objectively assess pain thresholds and responses. Therefore, it is the most appropriate choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks for the best method to check an objective pain response. The facial pain scale is subjective, and the knee‑jerk and H‑reflexes assess motor or sensory pathways but not pain specifically. The RIII reflex (nociceptive flexor reflex) is commonly used to objectively assess pain thresholds and responses. Therefore, it is the most appropriate choice.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;313;656;False;result_df;;;;;;;shao_hard100
+29e07bd0-f864-4738-bdbc-491f1205287f;Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?;Hopewood;Experimental;Vipeholm;Turku;A;Hopewood;"HOPEWOOD HOUSE STUDY 
+(Sullivan and Harris- 1958, Harris- 1963 ) 
+The dental status Of children between 7 to 14 years of age residing at Hopewood House, Bowral New South Wales, was studied longitudinally for 10 years. Almost all these children had lived from early infancy at Hopewood House. 
+All lived on a strictly natural diet, that, with the exception of on occasional serving of egg yolk, was entirely vegetable in nature and largely raw. The absence of meat and restriction of refined carbohydrate were the principal features of the Hopewood House diet. 
+The meals were supplemented by vitamin concentrates and an occasional serving of nuts and a sweetening agent such as honey. The fluoride content of water and food was insignificant and no tea was consumed. 
+TURKU SUGAR STUDY 
+(Scheinin and Makinen in 975) 
+The study was carried outin Turku, Finland. 
+Aim Of the study 
+To compare the cariogenicity of sucrose, fructose and Xylitol. 
+Basis of the study 
+XylitoI is a sweet substance not metabolized by plaque micro organisms.
+Key Concept:
+In Hopewood house study : the children's oral hygiene was poor, calculus is uncommon,  but  gingivitis  was  prevalent  in 75%  of  children. This work  showed  that,  in institutionalized  children  at  least,  dental caries  can  be  reduced  by  a  spartan  diet, without the beneficial effects of fluoride  and in the presence of unfavorable oral hygiene.
+Ref: Soben Peter , 4th ed page no 96";Dental;;"Question:
+Sugar restricted to diet was beneficial in presence of unfavorable hygiene was from which study?
+
+Option A:
+Hopewood
+
+Option B:
+Experimental
+
+Option C:
+Vipeholm
+
+Option D:
+Turku";"Selected option: D
+Rationale: The question asks which study showed that limiting dietary sugar was beneficial even with poor oral hygiene. The Turku study is known for demonstrating caries reduction through sugar restriction despite unfavorable hygiene conditions. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks which study showed that limiting dietary sugar was beneficial even with poor oral hygiene. The Turku study is known for demonstrating caries reduction through sugar restriction despite unfavorable hygiene conditions. 
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;325;666;False;result_df;;;;;;;shao_hard100
+cc0d09f8-564d-4fe5-8b22-4b7d3e4ed586;Most common tumor of lacrimal gland:;Trans-scaphoid perilunate fracture;Scaphoid fracture;Distal radius fracture;Hamate fracture;D;Hamate fracture;Ans. d. Hamate fractureMost common tumor of lacrimal gland is Non-Hodgkin's lymphoma (37%)> Pleomorphic adenoma (25%). Most commonmalignant epithelial tumor of the lacrimal gland is adenoid cystic carcinoma.Lacrimal Gland TumorMC tumor of lacrimal glandNon-Hodgkin's lymphomadegMC epithelial tumor of lacrimal glandPleomorphic adenomadegMC malignant epithelial tumor of lacrimal glandAdenoid cystic carcinomadeg;Ophthalmology;;"Question:
+Most common tumor of lacrimal gland:
+
+Option A:
+Trans-scaphoid perilunate fracture
+
+Option B:
+Scaphoid fracture
+
+Option C:
+Distal radius fracture
+
+Option D:
+Hamate fracture";"Selected option: A
+Rationale: The question asks for the most common tumor of the lacrimal gland, but all provided options (Trans‑scaphoid perilunate fracture, Scaphoid fracture, Distal radius fracture, Hamate fracture) are types of bone fractures and not tumors of the lacrimal gland. Therefore, the correct answer is not specified among the given choices. I selected option A as a placeholder due to the required format.
+Confidence: 20
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the most common tumor of the lacrimal gland, but all provided options (Trans‑scaphoid perilunate fracture, Scaphoid fracture, Distal radius fracture, Hamate fracture) are types of bone fractures and not tumors of the lacrimal gland. Therefore, the correct answer is not specified among the given choices. I selected option A as a placeholder due to the required format.
+Confidence: 20";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;345;558;903;False;result_df;;;;;;;shao_hard100
+57d48689-dcbd-4e81-9ea9-d56b7f7eed2d;Percentage of carbon in carbon steel hand instruments is;1-1.2%;10-12%;0.6 to 0.8%;6 to 8%;A;1-1.2%;"MATERIALS USED FOR MANUFACTURING CUTTING INSTRUMENTS 
+Carbon Steel
+
+Carbon steel alloy contains 0.5 to 1.5 percent carbon in iron.
+Instruments made from carbon steel are known for their hardness and sharpness.
+Disadvantages with these instruments are their susceptibility to corrosion and fracture. They are of two types:
+
+1. Soft steel: It contains <0.5% carbon
+2. Hard steel: It contains 0.5 to 1.5% carbon
+Nisha Garg, Amit Garg. Textbook of Operative Dentistry.  Edition 3. Page: 80";Dental;;"Question:
+Percentage of carbon in carbon steel hand instruments is
+
+Option A:
+1-1.2%
+
+Option B:
+10-12%
+
+Option C:
+0.6 to 0.8%
+
+Option D:
+6 to 8%";"Selected option: C
+Rationale: Carbon steel hand instruments are made from low‑carbon steel, which typically contains about 0.6–0.8 % carbon. The other options (1–1.2 %, 6–8 %, 10–12 %) are higher than the usual carbon content for such instruments. Therefore, the correct range is 0.6 to 0.8 %.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Carbon steel hand instruments are made from low‑carbon steel, which typically contains about 0.6–0.8 % carbon. The other options (1–1.2 %, 6–8 %, 10–12 %) are higher than the usual carbon content for such instruments. Therefore, the correct range is 0.6 to 0.8 %.
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;254;601;False;result_df;;;;;;;shao_hard100
+dd210467-68c5-4566-9cad-34e5ffa22bc9;Which primary tooth resemble premolar;Upper 1st molar;Lower 1st molar;Upper 2nd molar;Lower 2nd molar;A;Upper 1st molar;upper 1st molar resembles upper 1st premolar;Dental;;"Question:
+Which primary tooth resemble premolar
+
+Option A:
+Upper 1st molar
+
+Option B:
+Lower 1st molar
+
+Option C:
+Upper 2nd molar
+
+Option D:
+Lower 2nd molar";"Selected option: C
+Rationale: The primary second molars (both upper and lower) are described as resembling permanent premolars. Among the given choices, the upper second primary molar corresponds to this description. Therefore, option C is the best answer.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The primary second molars (both upper and lower) are described as resembling permanent premolars. Among the given choices, the upper second primary molar corresponds to this description. Therefore, option C is the best answer.
+Confidence: 70";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;421;769;False;result_df;;;;;;;shao_hard100
+27c3f1c6-a7e4-44fc-9e48-085254585c08;The hormone having the maximum effect on granulation wound healing is:;Thyroxine;Cortisone;Parathormone;Epinephrine;B;Cortisone;;Physiology;;"Question:
+The hormone having the maximum effect on granulation wound healing is:
+
+Option A:
+Thyroxine
+
+Option B:
+Cortisone
+
+Option C:
+Parathormone
+
+Option D:
+Epinephrine";"Selected option: A
+Rationale: Thyroxine (thyroid hormone) enhances cellular metabolism and fibroblast activity, which promotes granulation tissue formation during wound healing. The other hormones listed (cortisone, parathormone, epinephrine) are either known to impair healing or are not directly involved in granulation. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Thyroxine (thyroid hormone) enhances cellular metabolism and fibroblast activity, which promotes granulation tissue formation during wound healing. The other hormones listed (cortisone, parathormone, epinephrine) are either known to impair healing or are not directly involved in granulation. 
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;232;576;False;result_df;;;;;;;shao_hard100
+723bd8c7-6da8-4897-8a1b-dd87891f24a7;Bartholins duct is the name of :;Parotid duct;Submandibular gland;Sublingual duct;Lacrimal duct;C;Sublingual duct;;Dental;;"Question:
+Bartholins duct is the name of :
+
+Option A:
+Parotid duct
+
+Option B:
+Submandibular gland
+
+Option C:
+Sublingual duct
+
+Option D:
+Lacrimal duct";"Selected option: A
+Rationale: The question asks which structure is called Bartholins duct. Among the options, the parotid duct is known by that eponym. The other listed structures (submandibular gland, sublingual duct, lacrimal duct) are not referred to as Bartholins duct. Therefore, the correct choice is the parotid duct.
+Confidence: 98
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which structure is called Bartholins duct. Among the options, the parotid duct is known by that eponym. The other listed structures (submandibular gland, sublingual duct, lacrimal duct) are not referred to as Bartholins duct. Therefore, the correct choice is the parotid duct.
+Confidence: 98";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;148;492;False;result_df;;;;;;;shao_hard100
+14e05154-05a2-4472-a63e-261d765893ae;Pulsatile varicose veins in lower limbs is seen in –;Klippel trenaunay syndrome;TR;RV failure;Carcinoid stenosis of tricuspid;A;Klippel trenaunay syndrome;"Klippel - Trenaunay syndrome (KT syndrome) 
+
+The triad of KT syndrome is:-
+
+
+Cutaneous vascular malformation —> Most commonly capillary malformation.
+Bony capillary malformation and soft tissue hypertrophy.
+Venous abnormalities —> Deep venous system may be absent or hypoplastic.
+
+
+The anomaly present at birth and usually involves lower limb.
+When there is associated Arterio - venous malformation, it is known as Klippel - Trenaunay - Weber syndrome.
+Thick walled venous varicocities typically become apparent ipsilateral to the vascular malformation —> May be pulsatile because ofAV malformation.";Pediatrics;;"Question:
+Pulsatile varicose veins in lower limbs is seen in –
+
+Option A:
+Klippel trenaunay syndrome
+
+Option B:
+TR
+
+Option C:
+RV failure
+
+Option D:
+Carcinoid stenosis of tricuspid";"Selected option: B
+Rationale: Pulsatile varicose veins in the lower limbs result from transmission of right‑sided cardiac pulsations into the venous system, a feature classically described in tricuspid regurgitation. The other listed conditions (Klippel‑Trenaunay syndrome, right‑ventricular failure, carcinoid‑related tricuspid stenosis) are not associated with this finding. Hence, TR is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Pulsatile varicose veins in the lower limbs result from transmission of right‑sided cardiac pulsations into the venous system, a feature classically described in tricuspid regurgitation. The other listed conditions (Klippel‑Trenaunay syndrome, right‑ventricular failure, carcinoid‑related tricuspid stenosis) are not associated with this finding. Hence, TR is the correct choice.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;408;759;False;result_df;;;;;;;shao_hard100
+2dd59aba-38c0-4aff-a000-1bcb640254ff;Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?;Research papers and other aicles proving efficacy of the drug;Date of expiry of the drug;Rare, but serious life threatening adverse-effects;Common, not so serious adverse-effects;B;Date of expiry of the drug;"Ans: B. Date of expiry of the drug(Ref Goodman Gilman 12/e p1883; Manual of Experimental and Clinical Pharmacology/p 345).Date of drug expiry need not to be given in drug adveisement letter.Regulated according to The Federal Food, Drug, and Cosmetic Act.Amended (Food and Drug Administration Modernization Act of 1997).Permits use of print & television adveising for prescription drugs.Drug adveisements:Contain summary information relating to side effects, contraindications & effectiveness.Current adveising regulations:Specify that this information disclosure needs to include all risk information in a product's approved labeling or must direct consumers to healthcare professionals to obtain this information.Print adveisements:Include reprinting of risk-related sections of product's approved labeling (package inse).Television adveising:Not includes reprinting of risk-related.Note:Adveisements cannot be false or misleading or omit material facts.Must present fair balance between effectiveness & risk information.";Pharmacology;;"Question:
+Drug adveisement letter is a necessary component of each drug formulation and contains various information about the drug like drug dosing, frequency and half-life. Which of the following information need not be given in the drug adveisement letter?
+
+Option A:
+Research papers and other aicles proving efficacy of the drug
+
+Option B:
+Date of expiry of the drug
+
+Option C:
+Rare, but serious life threatening adverse-effects
+
+Option D:
+Common, not so serious adverse-effects";"Selected option: A
+Rationale: The question states that the advertisement letter includes dosing, frequency, half-life, and adverse‑effect information (both rare serious and common). An expiry date may be relevant to the product label, and research papers are not a required component of the advertisement letter. Therefore, the information that need not be given is research papers and articles proving efficacy. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question states that the advertisement letter includes dosing, frequency, half-life, and adverse‑effect information (both rare serious and common). An expiry date may be relevant to the product label, and research papers are not a required component of the advertisement letter. Therefore, the information that need not be given is research papers and articles proving efficacy. 
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;395;305;700;False;result_df;;;;;;;shao_hard100
+845fbff7-6332-49ce-8ecb-d62616e2ae9a;Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?;Optic disk;Optic chiasma;Lateral geniculate body;Occipital lobe;C;Lateral geniculate body;"Ans: C. Lateral geniculate body(Ref Walsh and Hoyt; Clinical Neuro-Ophthalmology 6/e p122)Key-hole shaped visual field defects are typically seen in the lesions involving lateral geniculate body but keyhole shaped defect (not visual field defect) is seen in the coloboma of Iris.";Ophthalmology;;"Question:
+Keyhole-shaped visual field defect is seen in lesion involving which of the following regions?
+
+Option A:
+Optic disk
+
+Option B:
+Optic chiasma
+
+Option C:
+Lateral geniculate body
+
+Option D:
+Occipital lobe";"Selected option: B
+Rationale: A keyhole‑shaped visual field defect (junctional scotoma) is characteristic of a lesion at the optic chiasm, where fibers from one optic nerve intersect with crossing fibers, producing a central defect in one eye and a superior temporal defect in the other, giving a keyhole appearance. Among the listed structures, only the optic chiasma corresponds to this location. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: A keyhole‑shaped visual field defect (junctional scotoma) is characteristic of a lesion at the optic chiasm, where fibers from one optic nerve intersect with crossing fibers, producing a central defect in one eye and a superior temporal defect in the other, giving a keyhole appearance. Among the listed structures, only the optic chiasma corresponds to this location. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;368;721;False;result_df;;;;;;;shao_hard100
+8ba2ca7c-9ae4-4771-9e9c-0e44250ca6b5;Tonsils developed from:;Ventral part of 3rd pouch.;Ventral part of 2nd pouch.;Dorsal part of 2nd pouch.;Ventral part of 3rd pouch.;B;Ventral part of 2nd pouch.;;Anatomy;;"Question:
+Tonsils developed from:
+
+Option A:
+Ventral part of 3rd pouch.
+
+Option B:
+Ventral part of 2nd pouch.
+
+Option C:
+Dorsal part of 2nd pouch.
+
+Option D:
+Ventral part of 3rd pouch.";"Selected option: B
+Rationale: The palatine tonsils, which are the primary tonsils referred to in most anatomy contexts, develop from the ventral portion of the second pharyngeal pouch during embryogenesis. This matches option B. The other options describe origins of different structures (e.g., third pouch derivatives) that are not the primary tonsils. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The palatine tonsils, which are the primary tonsils referred to in most anatomy contexts, develop from the ventral portion of the second pharyngeal pouch during embryogenesis. This matches option B. The other options describe origins of different structures (e.g., third pouch derivatives) that are not the primary tonsils. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;356;415;771;False;result_df;;;;;;;shao_hard100
+19567e6c-e0f7-4201-816d-23b58786f586;Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?;Transfusion related lung injury;Due to overload of PPF;Acute renal tubular acidosis;Hemoglobinuria;B;Due to overload of PPF;Answer- B. Due to overload of PPFTransfusion associated circulatory overload (TACO) is an established, but grossly under diagnosed and underrepoed complication of blood transfusion.;Medicine;;"Question:
+Patient with PPF transfusion complaint of breathing difficulty, tachycardic, tachypnia, Had Batwing sign present in X-ray. What will be the possible reason?
+
+Option A:
+Transfusion related lung injury
+
+Option B:
+Due to overload of PPF
+
+Option C:
+Acute renal tubular acidosis
+
+Option D:
+Hemoglobinuria";"Selected option: A
+Rationale: The patient develops acute breathing difficulty, tachycardia, and tachypnea shortly after a plasma product transfusion, and the chest X‑ray shows a batwing pattern of bilateral infiltrates. This presentation is classic for transfusion‑related acute lung injury (TRALI), a non‑cardiogenic pulmonary edema occurring within hours of transfusion. The other options (fluid overload, renal tubular acidosis, hemoglobinuria) do not specifically explain the batwing infiltrates in this context.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The patient develops acute breathing difficulty, tachycardia, and tachypnea shortly after a plasma product transfusion, and the chest X‑ray shows a batwing pattern of bilateral infiltrates. This presentation is classic for transfusion‑related acute lung injury (TRALI), a non‑cardiogenic pulmonary edema occurring within hours of transfusion. The other options (fluid overload, renal tubular acidosis, hemoglobinuria) do not specifically explain the batwing infiltrates in this context.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;373;427;800;False;result_df;;;;;;;shao_hard100
+97028381-fe2a-4c81-9f67-b3125061d7ae;Which of these is not a theory of TMJ ankylosis?;Calcification in the soft tissues around the joint space;Synovial fluid attracting calcium ions;Lateral displacement of fracture condyle with fusion  with zygomatic bone;Condylar burst;B;Synovial fluid attracting calcium ions;;Surgery;;"Question:
+Which of these is not a theory of TMJ ankylosis?
+
+Option A:
+Calcification in the soft tissues around the joint space
+
+Option B:
+Synovial fluid attracting calcium ions
+
+Option C:
+Lateral displacement of fracture condyle with fusion  with zygomatic bone
+
+Option D:
+Condylar burst";"Selected option: D
+Rationale: The question asks for the statement that is not a recognized theory of temporomandibular joint ankylosis. Options A, B, and C describe mechanisms (soft‑tissue calcification, calcium deposition from synovial fluid, and lateral displacement of a fractured condyle fusing with the zygomatic bone) that have been proposed in the literature. “Condylar burst” is not a known etiological theory for TMJ ankylosis, making it the correct choice. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks for the statement that is not a recognized theory of temporomandibular joint ankylosis. Options A, B, and C describe mechanisms (soft‑tissue calcification, calcium deposition from synovial fluid, and lateral displacement of a fractured condyle fusing with the zygomatic bone) that have been proposed in the literature. “Condylar burst” is not a known etiological theory for TMJ ankylosis, making it the correct choice. 
+Confidence: 78";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;367;373;740;False;result_df;;;;;;;shao_hard100
+006fea5f-8d1c-489b-9ea6-1028a64484ab;Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?;Ring finger;Thumb;Little finger;Middle finger;C;Little finger;"Ans: C. Little finger(Ref: Reddy 34Ie p84, 33Ie p87; Parikh 6Ie p2.15).Fingerprint reader (FINDER):Computerized automatic fingerprint reading system which can record each fingerprint data in half second. Prints of eight fingers are recorded excluding little fingers.The light reflected from a fingerprint can be measured and conveed to digital data which is classified, codified and stored in the computer.";Forensic Medicine;;"Question:
+Fingerprinting (FINDER) involves recording prints of 8 fingers. Which finger pair is excluded?
+
+Option A:
+Ring finger
+
+Option B:
+Thumb
+
+Option C:
+Little finger
+
+Option D:
+Middle finger";"Selected option: B
+Rationale: The FINDER protocol records prints of 8 fingers, meaning two fingers are omitted as a pair. Among the options, the only finger that exists as a bilateral pair (left and right) is the thumb. Therefore the thumb pair is excluded. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The FINDER protocol records prints of 8 fingers, meaning two fingers are omitted as a pair. Among the options, the only finger that exists as a bilateral pair (left and right) is the thumb. Therefore the thumb pair is excluded. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;247;591;False;result_df;;;;;;;shao_hard100
+2674faba-e6d7-4790-b13e-97c597408919;Most common mediastinal tumor:;Neurogenic tumor;Thymoma;Lymphoma;Bronchogenic cyst;A;Neurogenic tumor;M/C Mediastinal tumor - Neurogenic tumor M/C anterior mediastinal tumor - Thymoma Mediastinal Tumors in Adults Tumor Type Percentage of Total Location Neurogenic tumors 21 Posterior Cysts 20 All Thymomas 19 Anterior Tumor Type Percentage of Total Location Lymphomas 13 Anterior/middle Germ cell tumors 11 Anterior Mesenchymal tumors 7 All Endocrine tumors 6 Anterior/middle Mediastinal Tumors in Children Tumor Type Percentage of Total Location Neurogenic tumors 400 Posterior Lymphomas 180 Anterior/middle Cysts 18 All Germ cell tumors 11 Anterior Mesenchymal tumors 9 All Thymomas Rare Anterior MEDIASTINAL MASSES (MM) MC anterior MM: Thymoma Q MC middle MM: Cyst (Pericardial cyst is MC) MC posterior MM: Neurogenic tumors MC MM (overall): Neurogenic tumors MM seen in all three compaments of mediastinum: Lymphoma, bronchogenic cyst & mesenchymal tumors IOC for diagnosis of MM (except neurogenic tumors): CT IOC for diagnosis of neurogenic tumors: MRI;Surgery;AIIMS 2019;"Question:
+Most common mediastinal tumor:
+
+Option A:
+Neurogenic tumor
+
+Option B:
+Thymoma
+
+Option C:
+Lymphoma
+
+Option D:
+Bronchogenic cyst";"Selected option: A
+Rationale: The question asks for the most common mediastinal tumor overall. Among mediastinal neoplasms, neurogenic tumors are the most frequent, especially in the posterior mediastinum, surpassing thymoma, lymphoma, and bronchogenic cysts. Therefore, option A is the best answer.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the most common mediastinal tumor overall. Among mediastinal neoplasms, neurogenic tumors are the most frequent, especially in the posterior mediastinum, surpassing thymoma, lymphoma, and bronchogenic cysts. Therefore, option A is the best answer.
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;246;584;False;result_df;;;;;;;shao_hard100
+3419bb2a-2a24-4ddc-b217-ee00b981afeb;Optimal location for intra osseous anesthesia for mandibular second molars is;Distal to the molar;Mesial to the molar;In the furcation area;Apical perforation and injection;B;Mesial to the molar;;Dental;;"Question:
+Optimal location for intra osseous anesthesia for mandibular second molars is
+
+Option A:
+Distal to the molar
+
+Option B:
+Mesial to the molar
+
+Option C:
+In the furcation area
+
+Option D:
+Apical perforation and injection";"Selected option: C
+Rationale: The intraosseous technique requires perforation of cortical bone to deposit anesthetic in cancellous bone near the tooth roots. For mandibular molars, the furcation area offers direct access to this region, making it the optimal site. The other listed locations (distal, mesial, apical perforation) are less commonly recommended for intraosseous injection.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The intraosseous technique requires perforation of cortical bone to deposit anesthetic in cancellous bone near the tooth roots. For mandibular molars, the furcation area offers direct access to this region, making it the optimal site. The other listed locations (distal, mesial, apical perforation) are less commonly recommended for intraosseous injection.
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;356;444;800;False;result_df;;;;;;;shao_hard100
+11efa366-1d2d-48a8-a247-a362a0447140;After cleaning and pumicing the tooth surface, plaque formation takes place within;A few minutes;1/2 to 1 hour;2 to 4 hour;After 1 hour;B;1/2 to 1 hour;;Dental;;"Question:
+After cleaning and pumicing the tooth surface, plaque formation takes place within
+
+Option A:
+A few minutes
+
+Option B:
+1/2 to 1 hour
+
+Option C:
+2 to 4 hour
+
+Option D:
+After 1 hour";"Selected option: B
+Rationale: After a tooth is cleaned and polished, the acquired pellicle forms quickly, and bacterial colonization leading to plaque can be detected within about half an hour to one hour. This timing matches the ""1/2 to 1 hour"" range provided in option B. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: B
+Rationale: After a tooth is cleaned and polished, the acquired pellicle forms quickly, and bacterial colonization leading to plaque can be detected within about half an hour to one hour. This timing matches the ""1/2 to 1 hour"" range provided in option B. 
+Confidence: 78";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;282;633;False;result_df;;;;;;;shao_hard100
+e4610f09-b587-47c8-99ff-c8967f481322;The necrotising pressure areas, undergoing bone resorption and endosteal bone formation;Juvenile periodontitis;Occlusal trauma;Chronic suppurative periodontitis;ANUG;B;Occlusal trauma;;Dental;;"Question:
+The necrotising pressure areas, undergoing bone resorption and endosteal bone formation
+
+Option A:
+Juvenile periodontitis
+
+Option B:
+Occlusal trauma
+
+Option C:
+Chronic suppurative periodontitis
+
+Option D:
+ANUG";"Selected option: B
+Rationale: The description refers to necrotising pressure areas with bone resorption and endosteal bone formation, which is characteristic of occlusal trauma where excessive occlusal forces cause pressure necrosis and adaptive bone remodeling. The other options describe inflammatory or infectious periodontal diseases rather than pressure‑induced bone changes.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The description refers to necrotising pressure areas with bone resorption and endosteal bone formation, which is characteristic of occlusal trauma where excessive occlusal forces cause pressure necrosis and adaptive bone remodeling. The other options describe inflammatory or infectious periodontal diseases rather than pressure‑induced bone changes.
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;223;578;False;result_df;;;;;;;shao_hard100
+b4c3fa06-01fe-4c3c-8521-25299a221d43;Most effective method of assessing breathing is by measuring:;Tidal volume;Respiratory rate;Alveolar ventilation;FEV 1;D;FEV 1;;Physiology;;"Question:
+Most effective method of assessing breathing is by measuring:
+
+Option A:
+Tidal volume
+
+Option B:
+Respiratory rate
+
+Option C:
+Alveolar ventilation
+
+Option D:
+FEV 1";"Selected option: C
+Rationale: Breathing effectiveness depends on the amount of air reaching the alveoli, which is best represented by alveolar ventilation (the product of tidal volume and respiratory rate minus dead space). Tidal volume and respiratory rate alone do not fully capture this, and FEV1 is a specific spirometric measure not used for general breathing assessment. Therefore, measuring alveolar ventilation is the most effective method.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Breathing effectiveness depends on the amount of air reaching the alveoli, which is best represented by alveolar ventilation (the product of tidal volume and respiratory rate minus dead space). Tidal volume and respiratory rate alone do not fully capture this, and FEV1 is a specific spirometric measure not used for general breathing assessment. Therefore, measuring alveolar ventilation is the most effective method.
+Confidence: 78";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;260;602;False;result_df;;;;;;;shao_hard100
+3b150083-1a5e-49ef-bc36-41a06b677b32;Major aim of phase 1 clinical trials is:;Safety;Efficacy;Dose;Pharmacokinetics;C;Dose;Phase 1 clinical trial : It is first phase in humans. It is conducted mainly on healthy volunteers. In drugs with serious adverse effects and where alternative treatment is not available, phase 1 can be conducted on patients also. Major aim is to know the maximum tolerable dose (MTD). The aim of phase 1 trials should be marked as MTD > Dose > Pharmacokinetics > Safety;Pharmacology;AIIMS 2018;"Question:
+Major aim of phase 1 clinical trials is:
+
+Option A:
+Safety
+
+Option B:
+Efficacy
+
+Option C:
+Dose
+
+Option D:
+Pharmacokinetics";"Selected option: A
+Rationale: The question asks for the major aim of phase 1 clinical trials. Among the listed options, safety is the primary focus of phase 1 studies, which are designed to assess how a drug is tolerated in humans. While dose, pharmacokinetics, and efficacy are also evaluated, safety remains the overarching goal. Therefore, option A is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the major aim of phase 1 clinical trials. Among the listed options, safety is the primary focus of phase 1 studies, which are designed to assess how a drug is tolerated in humans. While dose, pharmacokinetics, and efficacy are also evaluated, safety remains the overarching goal. Therefore, option A is the correct choice.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;176;513;False;result_df;;;;;;;shao_hard100
+73818dbb-2bd3-4c46-a06a-b18b6ddb5450;According to WHO classiﬁcation of periapical pathology, sinus to oral cavity comes  under:;4.6;4.6;4.61;4.62;D;4.62;;Dental;;"Question:
+According to WHO classiﬁcation of periapical pathology, sinus to oral cavity comes  under:
+
+Option A:
+4.6
+
+Option B:
+4.6
+
+Option C:
+4.61
+
+Option D:
+4.62";"Selected option: C
+Rationale: The WHO classification assigns specific numeric codes to subcategories of periapical pathology. A sinus tract to the oral cavity is a more specific condition than the broader category represented by 4.6, so it would logically be coded with an additional decimal place (e.g., 4.61). Therefore, option C best fits this reasoning.
+Confidence: 45
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The WHO classification assigns specific numeric codes to subcategories of periapical pathology. A sinus tract to the oral cavity is a more specific condition than the broader category represented by 4.6, so it would logically be coded with an additional decimal place (e.g., 4.61). Therefore, option C best fits this reasoning.
+Confidence: 45";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;414;764;False;result_df;;;;;;;shao_hard100
+790947ee-b119-4f1f-ac07-8f0c5a701010;In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:;Normal lowering of bilirubin takes time;Anastomotic stricture;Delta bilirubin;Mistake in lab technique;C;Delta bilirubin;Ans: C. Delta bilirubin(Ref Harrison 19/e p280, 18/e p325)Delta Bilirubin:Albumin-linked bilirubin fraction (delta fraction/biliprotein)Is pa of direct-reacting bilirubin fraction including conjugated bilirubin, covalently linked to albumin.Represents an impoant fraction of total serum bilirubin in patients with cholestasis & hepatobiliary disorders.Clearance rate of albumin-bound bilirubin from serum approximates half-life of albumin (12-14 days) rather than sho half-life of bilirubin (4 hours).Due to tight albumin bonding.;Pediatrics;;"Question:
+In a child, surgery was done for biliary stricture with hepatojejunal anastomosis. Postoperative bilirubin level after 2 weeks was 6 mg/dL from a preoperative level 12mg/dL. The reason for this could be:
+
+Option A:
+Normal lowering of bilirubin takes time
+
+Option B:
+Anastomotic stricture
+
+Option C:
+Delta bilirubin
+
+Option D:
+Mistake in lab technique";"Selected option: A
+Rationale: The bilirubin level decreased from 12 mg/dL pre‑operatively to 6 mg/dL two weeks after surgery, indicating improvement but not yet normalization. This pattern is consistent with the expected gradual decline of bilirubin after biliary reconstruction, which can take several weeks. The other options (anastomotic stricture, delta bilirubin, lab error) would not explain a marked reduction in bilirubin.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The bilirubin level decreased from 12 mg/dL pre‑operatively to 6 mg/dL two weeks after surgery, indicating improvement but not yet normalization. This pattern is consistent with the expected gradual decline of bilirubin after biliary reconstruction, which can take several weeks. The other options (anastomotic stricture, delta bilirubin, lab error) would not explain a marked reduction in bilirubin.
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;393;274;667;False;result_df;;;;;;;shao_hard100
+6eb7d429-53f8-4d51-b861-81ab063b0973;Resin teeth:;Show a high compressive strength;Contraindicated in patients with decreased inter occlusal distance;Show crazing;Show a high fracture strength;D;Show a high fracture strength;;Dental;;"Question:
+Resin teeth:
+
+Option A:
+Show a high compressive strength
+
+Option B:
+Contraindicated in patients with decreased inter occlusal distance
+
+Option C:
+Show crazing
+
+Option D:
+Show a high fracture strength";"Selected option: B
+Rationale: Resin teeth generally have lower compressive and fracture strength compared to other materials and are not associated with crazing. Their bulk can be problematic when the inter‑occlusal distance is limited, making them contraindicated in such patients. Therefore, option B is the correct statement.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Resin teeth generally have lower compressive and fracture strength compared to other materials and are not associated with crazing. Their bulk can be problematic when the inter‑occlusal distance is limited, making them contraindicated in such patients. Therefore, option B is the correct statement.
+Confidence: 70";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;409;756;False;result_df;;;;;;;shao_hard100
+00667233-3ef5-4759-bac2-850f41c6cdfc;Minimum number of lobes require to form a tooth;1;2;3;4;A;1;;Dental;;"Question:
+Minimum number of lobes require to form a tooth
+
+Option A:
+1
+
+Option B:
+2
+
+Option C:
+3
+
+Option D:
+4";"Selected option: A
+Rationale: The question asks for the minimum number of developmental lobes needed to form a tooth. By definition, a tooth can be formed from a single developmental lobe, making 1 the smallest possible number. Therefore, option A (1) is the correct answer.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the minimum number of developmental lobes needed to form a tooth. By definition, a tooth can be formed from a single developmental lobe, making 1 the smallest possible number. Therefore, option A (1) is the correct answer.
+Confidence: 80";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;332;204;536;False;result_df;;;;;;;shao_hard100
+070ff387-f612-43ac-a23e-ab3e8ed192b4;In assessing infant deaths, Ploucquet's test involves:;Change in specific gravity of lungs;Presence of air in stomach and duodenum;Change in paial weight of lungs;Air in middle ear;C;Change in paial weight of lungs;Ans: C. Change in paial weight of lungs(Ref: Reddy 34/e p411, 33/e p439).In assessing infant deaths, Ploucquet's test involves change in paial weight of lungs.Ploucquet's test:The blood flow in the lung beds is so increased after breathing that their weight is almost doubled from 1/70 of the body weight before respiration to 1/35 after respiration.This increase in weight is not constant and is not a reliable indication of breathing.;Forensic Medicine;;"Question:
+In assessing infant deaths, Ploucquet's test involves:
+
+Option A:
+Change in specific gravity of lungs
+
+Option B:
+Presence of air in stomach and duodenum
+
+Option C:
+Change in paial weight of lungs
+
+Option D:
+Air in middle ear";"Selected option: B
+Rationale: Ploucquet's test is a forensic assessment used to determine whether a newborn has taken a breath before death, and it does so by checking for the presence of air in the stomach and duodenum. The other listed findings (specific gravity of lungs, paial weight of lungs, air in the middle ear) are not components of this test. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Ploucquet's test is a forensic assessment used to determine whether a newborn has taken a breath before death, and it does so by checking for the presence of air in the stomach and duodenum. The other listed findings (specific gravity of lungs, paial weight of lungs, air in the middle ear) are not components of this test. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;288;643;False;result_df;;;;;;;shao_hard100
+e7278113-c555-4128-a8df-cbd10ca7833f;A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?;12.5 mg;25 mg;30 mg;50 mg;C;30 mg;Answer- C. 30 mgDrug remains in the body at the end of 4th 90 minutes (6 hours) : 48.7 -18.3 = 30.4 (Approx. 30 mg);Pharmacology;;"Question:
+A patient is administered 200 mg of a drug. 75 mg of the drug is eliminated from the body in 90 minutes. If the drug follows first order kinetics, how much drug will remain after 6 hours?
+
+Option A:
+12.5 mg
+
+Option B:
+25 mg
+
+Option C:
+30 mg
+
+Option D:
+50 mg";"Selected option: C
+Rationale: After 90 min, 125 mg remains (200 mg − 75 mg). Assuming first‑order decay, 125 = 200·e^(−k·90) gives k ≈ 0.00522 min⁻¹. After 6 h (360 min), amount = 200·e^(−0.00522·360) ≈ 30 mg, matching option C.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: After 90 min, 125 mg remains (200 mg − 75 mg). Assuming first‑order decay, 125 = 200·e^(−k·90) gives k ≈ 0.00522 min⁻¹. After 6 h (360 min), amount = 200·e^(−0.00522·360) ≈ 30 mg, matching option C.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;372;460;832;False;result_df;;;;;;;shao_hard100
+6506849d-8885-4adf-88b7-4e010e026d6c;Denominator in perinatal moality rate;Total bihs;Total live bihs;Live bihs + Still bih;Total number of newborns;A;Total bihs;Ans: A. Total bihs* PERINATAL MOALITY RATE is the sum of the number of resident fetal deaths of 28 or more weeks gestation plus the number of resident newborns dying under 7 days of age in a specified geographic area (country, state, county, etc.) divided by TOTAL BIHS includes the sum of the number of resident live bihs plus the number of resident fetal deaths of 28 or more weeks gestation for the same geographic area (for a specified time period, usually a calendar year) and multiplied by 1,000.;Social & Preventive Medicine;;"Question:
+Denominator in perinatal moality rate
+
+Option A:
+Total bihs
+
+Option B:
+Total live bihs
+
+Option C:
+Live bihs + Still bih
+
+Option D:
+Total number of newborns";"Selected option: C
+Rationale: The perinatal mortality rate measures deaths occurring around birth (stillbirths and early neonatal deaths) relative to the total number of births at risk, which includes both live births and stillbirths. Therefore, the appropriate denominator is the sum of live births and stillbirths. This matches option C.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The perinatal mortality rate measures deaths occurring around birth (stillbirths and early neonatal deaths) relative to the total number of births at risk, which includes both live births and stillbirths. Therefore, the appropriate denominator is the sum of live births and stillbirths. This matches option C.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;345;260;605;False;result_df;;;;;;;shao_hard100
+2cc9a274-380c-4a8e-b2b6-6c8ae412c55b;The ideal instrument that is used to widen the canal is;Broach;File;Fissure bur;Reamer;B;File;;Dental;;"Question:
+The ideal instrument that is used to widen the canal is
+
+Option A:
+Broach
+
+Option B:
+File
+
+Option C:
+Fissure bur
+
+Option D:
+Reamer";"Selected option: B
+Rationale: The question asks for the ideal instrument to widen a canal. In endodontic procedures, files are specifically designed to enlarge and shape root canals, making them the appropriate choice over broaches, fissure burs, or reamers. Therefore, ""File"" is the correct answer.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks for the ideal instrument to widen a canal. In endodontic procedures, files are specifically designed to enlarge and shape root canals, making them the appropriate choice over broaches, fissure burs, or reamers. Therefore, ""File"" is the correct answer.
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;218;556;False;result_df;;;;;;;shao_hard100
+1d7028cb-08b7-422e-8feb-26392e8f97dc;According to instrument formula given by G.V. Black, primary cutting edge angle should be:;More than 50 degree;More than 90 degree;Less than 50 degree;Less than 90 degree;A;More than 50 degree;"The second number of a four-number code indicates the primary cutting edge angle, measured from a line parallel to the long axis of the instrument handle in clockwise centigrade.
+The centigrade angle is expressed as a percent of 360 degrees (e.g., 85 = 85% × 360 degrees = 306 degrees). The instrument is positioned so that this number always exceeds 50.
+
+Sturdevants operative dentistry 7th edition page e2";Dental;;"Question:
+According to instrument formula given by G.V. Black, primary cutting edge angle should be:
+
+Option A:
+More than 50 degree
+
+Option B:
+More than 90 degree
+
+Option C:
+Less than 50 degree
+
+Option D:
+Less than 90 degree";"Selected option: D
+Rationale: G.V. Black’s instrument formula specifies that the primary cutting edge angle must be less than 90 degrees to achieve optimal cutting efficiency and minimize resistance. Among the options, only “Less than 90 degree” matches this requirement. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: G.V. Black’s instrument formula specifies that the primary cutting edge angle must be less than 90 degrees to achieve optimal cutting efficiency and minimize resistance. Among the options, only “Less than 90 degree” matches this requirement. 
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;319;674;False;result_df;;;;;;;shao_hard100
+46fe2094-87db-4117-b06f-7a7bebb94646;Median rhomboid glossitis is associated with:;Burning mouth syndrome;Fungal infection;Bacterial infection;Absence of filiform papillae;D;Absence of filiform papillae;;Pathology;;"Question:
+Median rhomboid glossitis is associated with:
+
+Option A:
+Burning mouth syndrome
+
+Option B:
+Fungal infection
+
+Option C:
+Bacterial infection
+
+Option D:
+Absence of filiform papillae";"Selected option: B
+Rationale: Median rhomboid glossitis is characterized by a depapated, erythematous area on the dorsum of the tongue and is known to be associated with chronic Candida (fungal) infection. The other options (burning mouth syndrome, bacterial infection, absence of filiform papillae) are not the typical association described for this condition.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Median rhomboid glossitis is characterized by a depapated, erythematous area on the dorsum of the tongue and is known to be associated with chronic Candida (fungal) infection. The other options (burning mouth syndrome, bacterial infection, absence of filiform papillae) are not the typical association described for this condition.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;345;158;503;False;result_df;;;;;;;shao_hard100
+81a24a92-4459-4999-9c49-6ee91a6182a3;Concentric teeth bite mark on forearm, what to do next?;2 swab technique for saliva collection;Keep scale for measuring below the mark and take photo in the plane of bite;Complete description of injury as seen;Prepare cast using vinyl polysiloxane;C;Complete description of injury as seen;"Ans: C. Complete description of injury as seenRef KSN Reddy's The Essentials of Forensic Medicine and Toxicology 33' edn; Page no. 97Impoant: The order of Bite mark investigation: C > B > A> DBite Mark InvestigationComplete description of injury as seenPhotograph: Keep scale for measuring below the mark and take photo from different angle.Swabbing of saliva: To identify or exclude assailant from secretor status who exude blood group substance in the saliva.Impression of bite mark: Plastic substance (rubber or silicone based) or plaster of Paris is laid over the bite mark that hardens and produces permanent negative cast of the lesion.Skin carrying the bite is removed and preserved in formalin during autopsy.";Forensic Medicine;;"Question:
+Concentric teeth bite mark on forearm, what to do next?
+
+Option A:
+2 swab technique for saliva collection
+
+Option B:
+Keep scale for measuring below the mark and take photo in the plane of bite
+
+Option C:
+Complete description of injury as seen
+
+Option D:
+Prepare cast using vinyl polysiloxane";"Selected option: B
+Rationale: The immediate priority after locating a concentric teeth bite mark is proper documentation. Placing a scale beneath the mark and photographing it in the plane of the bite ensures accurate measurement and visual record before any further forensic sampling or casting. This step precedes saliva swabbing, detailed description, or casting. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The immediate priority after locating a concentric teeth bite mark is proper documentation. Placing a scale beneath the mark and photographing it in the plane of the bite ensures accurate measurement and visual record before any further forensic sampling or casting. This step precedes saliva swabbing, detailed description, or casting. 
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;367;224;591;False;result_df;;;;;;;shao_hard100
+36eda6ec-6654-41ba-937b-60a3052e6c49;A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:;Delusion of grandiosity;Delusion of persecution;Delusion of grandiosity and persecution;Delusion of grandiosity, persecution and reference;D;Delusion of grandiosity, persecution and reference;"Ans. d. Delusion of grandiosity, persecution and reference The given description suggests that the patient is having delusion of grandiosity, persecution and reference.Delusion of grandeurExaggerated conception of one's impoance, power, or identity.Delusion of persecutionFalse belief of being harassed or persecuted; often found in litigious patients who have a pathological tendency to take legal action because of imagined mistreatment.MC delusion.Delusion of referenceFalse belief that behavior of others refers to oneself or that events, objects, or other people have a paicular & unusual significance, usually of a negative natureDerived from idea of reference, in which persons falsely feel that others are talking about them (e.g., belief that people on television or radio are talking to or about the person).";Psychiatry;;"Question:
+A patient believes he is the most impoant person in the world than anyone so his neighbors and family is trying to harm him as they are jealous of him. His wife says otherwise and says he behaves like this recently only before he was working as a school-teacher peacefully and brought to OPD. He is suffering from:
+
+Option A:
+Delusion of grandiosity
+
+Option B:
+Delusion of persecution
+
+Option C:
+Delusion of grandiosity and persecution
+
+Option D:
+Delusion of grandiosity, persecution and reference";"Selected option: C
+Rationale: The patient exhibits a grandiose belief that he is the most important person and also a persecutory belief that neighbors and family intend to harm him out of jealousy. Both delusions are described, while no reference delusion is mentioned. Therefore the correct choice is the combination of grandiosity and persecution. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The patient exhibits a grandiose belief that he is the most important person and also a persecutory belief that neighbors and family intend to harm him out of jealousy. Both delusions are described, while no reference delusion is mentioned. Therefore the correct choice is the combination of grandiosity and persecution. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;408;209;617;False;result_df;;;;;;;shao_hard100
+e8aa61af-a6f5-49ed-a221-93765caf901f;Which of the following diseases is diagnosed with the help of the flowcytometry pattern?;Bruton disease;Bare lymphocyte syndrome;Hyper IgM syndrome;Severe combined immunodeficiency disease;C;Hyper IgM syndrome;Flow cytometry can rapidly and quantitatively measure several individual cell characteristics, but is mainly used to identify cellular antigens expressed by liquidtumors , those that arise from blood forming tissues. Hyper IgM syndrome - In this disorder the affected patients make IgM antibodies but are deficient in their ability to produce IgG, IgA and IgE antibodies. There is problem in Ig class switching. Approximately 70%of individuals with hyper lgM syndrome have the X linked form of the disease , caused by mutations in the gene coding CD40L located on Xq26. In remaining patients,the disease is inherited in an autosomal recessive pattern. Most of these patients have loss of function mutation involving either CD40 or enzyme called AID. So, B-cells can be detected by flowcytometryhaving low expression of CD40. Bruton's disease -In this disease, there is defect in B-cell tyrosine kinase enzyme. This leads to hypogammaglobulinemia. Bare lymphocyte syndrome- In this disorder, There is defect in MHC-2 molecule which is required for CD4 T-cell formation. SCID - This is both X-linked and autosomal recessive disorder.;Pathology;AIIMS 2019;"Question:
+Which of the following diseases is diagnosed with the help of the flowcytometry pattern?
+
+Option A:
+Bruton disease
+
+Option B:
+Bare lymphocyte syndrome
+
+Option C:
+Hyper IgM syndrome
+
+Option D:
+Severe combined immunodeficiency disease";"Selected option: B
+Rationale: Flow cytometry can reveal the characteristic absence of HLA‑DR (MHC class II) expression on lymphocytes, which is the diagnostic hallmark of bare lymphocyte syndrome. The other listed immunodeficiencies are primarily diagnosed by immunoglobulin levels or genetic testing rather than a specific flow‑cytometry pattern.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Flow cytometry can reveal the characteristic absence of HLA‑DR (MHC class II) expression on lymphocytes, which is the diagnostic hallmark of bare lymphocyte syndrome. The other listed immunodeficiencies are primarily diagnosed by immunoglobulin levels or genetic testing rather than a specific flow‑cytometry pattern.
+Confidence: 70";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;387;740;False;result_df;;;;;;;shao_hard100
+58d83508-8ad5-4137-a215-d6b084f49e3c;Bone sounding done in modern times is performed by which method?;RVG;Probing;CBCT;Radiovisiography;C;CBCT;;Dental;;"Question:
+Bone sounding done in modern times is performed by which method?
+
+Option A:
+RVG
+
+Option B:
+Probing
+
+Option C:
+CBCT
+
+Option D:
+Radiovisiography";"Selected option: B
+Rationale: The question asks which method is used for bone sounding in modern times. Bone sounding is a tactile clinical technique that assesses bone thickness by probing through soft tissue, not an imaging modality. Among the options, ""Probing"" directly describes this method, whereas RVG, CBCT, and Radiovisiography are radiographic techniques. Therefore, probing is the appropriate choice.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks which method is used for bone sounding in modern times. Bone sounding is a tactile clinical technique that assesses bone thickness by probing through soft tissue, not an imaging modality. Among the options, ""Probing"" directly describes this method, whereas RVG, CBCT, and Radiovisiography are radiographic techniques. Therefore, probing is the appropriate choice.
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;223;562;False;result_df;;;;;;;shao_hard100
+d4e13d7b-8ca9-447e-b93d-e8b86afd017a;Classify the class of recession:;Class 1;Class 2;Class 3;Class 4;C;Class 3;;Dental;;"Question:
+Classify the class of recession:
+
+Option A:
+Class 1
+
+Option B:
+Class 2
+
+Option C:
+Class 3
+
+Option D:
+Class 4";"Selected option: A
+Rationale: The exam question provides no details about the recession or criteria for classification, so the correct class cannot be determined from the given information. Consequently, any choice would be speculative, and I selected option A arbitrarily. 
+Confidence: 10
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam question provides no details about the recession or criteria for classification, so the correct class cannot be determined from the given information. Consequently, any choice would be speculative, and I selected option A arbitrarily. 
+Confidence: 10";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;318;654;False;result_df;;;;;;;shao_hard100
+951a385e-d512-4613-a822-443f1f429ab9;Who was associated with second amalgam war?;G V Black;Charles bell;Huggins;Alfred stock;D;Alfred stock;;Dental;;"Question:
+Who was associated with second amalgam war?
+
+Option A:
+G V Black
+
+Option B:
+Charles bell
+
+Option C:
+Huggins
+
+Option D:
+Alfred stock";"Selected option: D
+Rationale: The second amalgam war concerned the safety of mercury-containing dental fillings and was prominently linked to Alfred Stock, a chemist who warned about mercury toxicity. The other listed individuals are not associated with this specific controversy. Hence, option D is the correct choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The second amalgam war concerned the safety of mercury-containing dental fillings and was prominently linked to Alfred Stock, a chemist who warned about mercury toxicity. The other listed individuals are not associated with this specific controversy. Hence, option D is the correct choice.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;404;741;False;result_df;;;;;;;shao_hard100
+a4260f2f-ca39-4778-90a9-87064c39a11c;In Mount and Hume classification, what will be the site size of the following lesion?;2.1;2.2;3.1;3.2;C;3.1;MOUNT AND HUME CLASSIFICATION 1998;Dental;;"Question:
+In Mount and Hume classification, what will be the site size of the following lesion?
+
+Option A:
+2.1
+
+Option B:
+2.2
+
+Option C:
+3.1
+
+Option D:
+3.2";"Selected option: A
+Rationale: The exam question does not provide any description or image of the lesion, so the specific site size according to the Mount and Hume classification cannot be determined from the given information. Consequently, the correct answer cannot be identified based on the provided content. I have selected option A as a placeholder due to the lack of data.
+Confidence: 15";"Selected option: A
+Rationale: The exam question does not provide any description or image of the lesion, so the specific site size according to the Mount and Hume classification cannot be determined from the given information. Consequently, the correct answer cannot be identified based on the provided content. I have selected option A as a placeholder due to the lack of data.
+Confidence: 15";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;467;814;False;result_df;;;;;;;shao_hard100
+ef09a789-e189-42dc-a0fb-70da2c5ca170;The best finish line for anterior metal ceramic crown is;Chamfer with bevel;Heavy chamfer;Shoulder;Shoulder with bevel;D;Shoulder with bevel;;Dental;;"Question:
+The best finish line for anterior metal ceramic crown is
+
+Option A:
+Chamfer with bevel
+
+Option B:
+Heavy chamfer
+
+Option C:
+Shoulder
+
+Option D:
+Shoulder with bevel";"Selected option: D
+Rationale: In anterior metal‑ceramic restorations, a shoulder with a bevel provides sufficient metal thickness, a distinct margin, and improved aesthetic transition, making it the preferred finish line. The other options (plain chamfer, heavy chamfer, or shoulder without bevel) do not offer the same combination of support and esthetic benefit for anterior crowns.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: In anterior metal‑ceramic restorations, a shoulder with a bevel provides sufficient metal thickness, a distinct margin, and improved aesthetic transition, making it the preferred finish line. The other options (plain chamfer, heavy chamfer, or shoulder without bevel) do not offer the same combination of support and esthetic benefit for anterior crowns.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;410;751;False;result_df;;;;;;;shao_hard100
+5682860b-5ef4-4c1d-88b4-eb81546548ba;Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :;100%;50%;25%;0%;A;100%;"Down Syndrome– (Trisomy 21)
+
+Seen in 11n 800 to 1000 newborns
+M/C Nonlethal trisomy
+Risk of Down syndrome increases with increase in maternal age
+At maternal age of 35 years, the risk of having a baby with Down syndrome is 1:365. to 1:400.
+
+Recurrent Risk of Down’s syndrome";Gynaecology & Obstetrics;;"Question:
+Kamlesh, a 2 year old girl, has Down's syndrome. Her karyotype is 21/21 translocation. What is the risk ofrecurrence in subsequent pregnancies if the father is a balanced translocation carrier :
+
+Option A:
+100%
+
+Option B:
+50%
+
+Option C:
+25%
+
+Option D:
+0%";"Selected option: B
+Rationale: The father is a balanced carrier of a Robertsonian 21/21 translocation. In meiosis he can transmit either the translocated chromosome (containing two copies of chromosome 21) or a normal chromosome 21. Transmission of the translocated chromosome results in trisomy 21 in the child, while transmission of the normal chromosome yields a normal karyotype. This gives a 1 in 2 (50%) chance of recurrence in subsequent pregnancies.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The father is a balanced carrier of a Robertsonian 21/21 translocation. In meiosis he can transmit either the translocated chromosome (containing two copies of chromosome 21) or a normal chromosome 21. Transmission of the translocated chromosome results in trisomy 21 in the child, while transmission of the normal chromosome yields a normal karyotype. This gives a 1 in 2 (50%) chance of recurrence in subsequent pregnancies.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;367;572;939;False;result_df;;;;;;;shao_hard100
+e59188f6-856a-4300-a2fa-176a8a1b030a;A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?;Serum ACE levels;Quantiferon-Gold TB test;Elevated homocysteine levels;Serum creatinine levels;D;Serum creatinine levels;Answer- D. Serum creatinine levelsDM can lead to both retinopathy and nephropathy, Serum creatinine levels would be the best for kidney function and evaluation of patient symptoms.;Medicine;;"Question:
+A 55- year old diabetic patient presents with transient obscuration in vision for 2-3 days followed by sudden loss of vision. Which of the following would be the best test to evaluate the symptoms?
+
+Option A:
+Serum ACE levels
+
+Option B:
+Quantiferon-Gold TB test
+
+Option C:
+Elevated homocysteine levels
+
+Option D:
+Serum creatinine levels";"Selected option: C
+Rationale: The patient's transient visual obscurations followed by sudden loss of vision suggest a vascular occlusive event, common in diabetics. Elevated homocysteine is a known risk factor for vascular thrombosis and would be the most relevant test among the options. The other tests (serum ACE, Quantiferon‑Gold, serum creatinine) are unrelated to acute ocular vascular events. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The patient's transient visual obscurations followed by sudden loss of vision suggest a vascular occlusive event, common in diabetics. Elevated homocysteine is a known risk factor for vascular thrombosis and would be the most relevant test among the options. The other tests (serum ACE, Quantiferon‑Gold, serum creatinine) are unrelated to acute ocular vascular events. 
+Confidence: 78";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;382;271;653;False;result_df;;;;;;;shao_hard100
+3146c248-2dd4-4888-99c9-bafda2fa1ec7;Ashley-Howe model analysis is used to predict:;Tooth material excess;Maxillo-mandibular relationships;Basal bone-transverse relationship;Growth prediction;C;Basal bone-transverse relationship;;Dental;;"Question:
+Ashley-Howe model analysis is used to predict:
+
+Option A:
+Tooth material excess
+
+Option B:
+Maxillo-mandibular relationships
+
+Option C:
+Basal bone-transverse relationship
+
+Option D:
+Growth prediction";"Selected option: A
+Rationale: The Ashley‑Howe model analysis is an orthodontic diagnostic tool that evaluates the relationship between the dental arch and basal bone to determine whether there is excess or deficiency of tooth material. Therefore, it is used to predict tooth material excess. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The Ashley‑Howe model analysis is an orthodontic diagnostic tool that evaluates the relationship between the dental arch and basal bone to determine whether there is excess or deficiency of tooth material. Therefore, it is used to predict tooth material excess. 
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;365;712;False;result_df;;;;;;;shao_hard100
+cb8ad6b2-009b-443e-9237-85b46e3a87a5;What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?;Dermatome;Silver's knife;Catlin amputating knife;Humby knife;D;Humby knife;Humby Knife A knife with a roller attached, used for cutting skin grafts of varying thickness The distance between the roller and blade of knife can be varied by means of a calibration device.;Surgery;AIIMS 2018;"Question:
+What is the name of the given instrument, used for harvesting the graft from healthy area in split thickness skin graft?
+
+Option A:
+Dermatome
+
+Option B:
+Silver's knife
+
+Option C:
+Catlin amputating knife
+
+Option D:
+Humby knife";"Selected option: A
+Rationale: The instrument employed to harvest a split‑thickness skin graft from a donor site is a dermatome, which is specifically designed for this purpose. The other listed tools (Silver's knife, Catlin amputating knife, Humby knife) are not the standard name for the graft‑harvesting device in split‑thickness grafting.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The instrument employed to harvest a split‑thickness skin graft from a donor site is a dermatome, which is specifically designed for this purpose. The other listed tools (Silver's knife, Catlin amputating knife, Humby knife) are not the standard name for the graft‑harvesting device in split‑thickness grafting.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;354;312;666;False;result_df;;;;;;;shao_hard100
+56176afa-3442-46be-9cdc-c8e569a72d04;A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis;Polychrome Methylene blue;Carbol Fuschin;Acid Fast Stain;Calcoflour White;A;Polychrome Methylene blue;;Microbiology;;"Question:
+A person working in an abattoir presented with a papule on hand, which turned in to an ulcer. Which will best help in diagnosis
+
+Option A:
+Polychrome Methylene blue
+
+Option B:
+Carbol Fuschin
+
+Option C:
+Acid Fast Stain
+
+Option D:
+Calcoflour White";"Selected option: A
+Rationale: A slaughterhouse worker with a papule that ulcerated suggests cutaneous anthrax, caused by Bacillus anthracis. Polychrome methylene blue is the classic stain used to demonstrate the characteristic capsule of B. anthracis, aiding diagnosis. The other stains are for acid‑fast organisms or fungi, which are less consistent with this presentation.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: A slaughterhouse worker with a papule that ulcerated suggests cutaneous anthrax, caused by Bacillus anthracis. Polychrome methylene blue is the classic stain used to demonstrate the characteristic capsule of B. anthracis, aiding diagnosis. The other stains are for acid‑fast organisms or fungi, which are less consistent with this presentation.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;368;371;739;False;result_df;;;;;;;shao_hard100
+45d2b684-c55a-400b-ab09-76ee3a9ba64b;Extraction of disto-angular impaction of mandibular 3rd molar can cause:;Slippage in lingual pouch;# of ramus of mandible;Excessive Haemorrhage;Dry socket;B;# of ramus of mandible;;Surgery;;"Question:
+Extraction of disto-angular impaction of mandibular 3rd molar can cause:
+
+Option A:
+Slippage in lingual pouch
+
+Option B:
+# of ramus of mandible
+
+Option C:
+Excessive Haemorrhage
+
+Option D:
+Dry socket";"Selected option: A
+Rationale: The question asks which complication can occur when extracting a disto‑angular impacted mandibular third molar. Such impactions are known to have a thin lingual plate, and removal can result in displacement of the tooth or fragments into the lingual space, described as “slippage in lingual pouch.” The other options (ramus involvement, excessive haemorrhage, dry socket) are not specifically characteristic of this impaction type. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which complication can occur when extracting a disto‑angular impacted mandibular third molar. Such impactions are known to have a thin lingual plate, and removal can result in displacement of the tooth or fragments into the lingual space, described as “slippage in lingual pouch.” The other options (ramus involvement, excessive haemorrhage, dry socket) are not specifically characteristic of this impaction type. 
+Confidence: 78";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;357;373;730;False;result_df;;;;;;;shao_hard100
+535bf03d-8714-46a8-84a0-13bf499129f7;Which of the following does not require 5'capping?;tRNA of alanine;mRNA for histone;U6 snRNA;siRNA;A;tRNA of alanine;Ans: A. tRNA of alanineSmall nuclear RNAs contain a unique 5'-caps. Sm-class snRNAs are found with 5'-trimethylguanosine caps, while Lsm-class snRNAs are found with S'-monomethyl phosphate caps.mRNAs do have a 7-methylguanylate cap, abbreted m7G.tRNAs and rRNAs don't require 5' capping. They have other modifications.;Biochemistry;;"Question:
+Which of the following does not require 5'capping?
+
+Option A:
+tRNA of alanine
+
+Option B:
+mRNA for histone
+
+Option C:
+U6 snRNA
+
+Option D:
+siRNA";"Selected option: A
+Rationale: 5' capping is a modification added to RNA polymerase II transcripts such as most mRNAs (including histone mRNA). U6 snRNA, although transcribed by RNA polymerase III, receives a specialized cap (γ‑monomethyl phosphate), and siRNA is generated by Dicer processing and also lacks a cap, but the classic example of an RNA that never undergoes any 5' capping is a transfer RNA. Therefore, tRNA of alanine does not require 5' capping.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: A
+Rationale: 5' capping is a modification added to RNA polymerase II transcripts such as most mRNAs (including histone mRNA). U6 snRNA, although transcribed by RNA polymerase III, receives a specialized cap (γ‑monomethyl phosphate), and siRNA is generated by Dicer processing and also lacks a cap, but the classic example of an RNA that never undergoes any 5' capping is a transfer RNA. Therefore, tRNA of alanine does not require 5' capping.
+Confidence: 78";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;969;1315;False;result_df;;;;;;;shao_hard100
+a9dccfec-0882-4012-aa1b-e74bb18bf47e;Lenolin is added in ZOE paste to:;Decrease flow;Increase flow;Accelerate reaction;Decrease irritation due to eugenol;B;Increase flow;;Dental;;"Question:
+Lenolin is added in ZOE paste to:
+
+Option A:
+Decrease flow
+
+Option B:
+Increase flow
+
+Option C:
+Accelerate reaction
+
+Option D:
+Decrease irritation due to eugenol";"Selected option: D
+Rationale: The question asks the purpose of adding Lenolin to zinc oxide eugenol (ZOE) paste. Among the options, the most plausible function is to mitigate the irritating effects of eugenol, a known irritant. Therefore, Lenolin is added to decrease irritation due to eugenol. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks the purpose of adding Lenolin to zinc oxide eugenol (ZOE) paste. Among the options, the most plausible function is to mitigate the irritating effects of eugenol, a known irritant. Therefore, Lenolin is added to decrease irritation due to eugenol. 
+Confidence: 78";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;414;755;False;result_df;;;;;;;shao_hard100
+179b5138-d8ce-4e02-9445-ada73b642671;Which of the following techniques is based on RNA?;PCR;Sanger's technique;Next generation sequencing;Western blot;A;PCR;Ans: A. PCRReverse transcription-polymerase chain reaction (-PCR) It is a laboratory technique combining reverse transcription of RNA into DNA (in this context called complementary DNA or cDNA) and amplification of specific DNA targets using polymerase chain reaction (PCR).It is primarily used to measure the amount of a specific RNA. This is achieved by monitoring the amplification reaction using fluorescence, a technique called real-time PCR or quantitative PCR (qPCR). Combined -PCR and qPCR are routinely used for the analysis of gene expression and quantification of viral RNA in research and clinical settings.A method used to quantitate mRNA levels that rely upon the first step of cDNA copying of mRNAs catalyzed by reverse transcriptase before PCR amplification and quantitation. Sanger sequencing,Also known as the chain termination method, is a technique for DNA sequencing-based upon the selective incorporation of chain-terminating dideoxynucleotides (ddNTPs) by DNA polymerase during in vitro DNA replication.Next-generation sequencing:Modified methods of genome sequencing. It has significantly reduced the cost and time taken for whole-genome sequencing.It is a technique similar to Sanger sequencing, done on DNA;Biochemistry;;"Question:
+Which of the following techniques is based on RNA?
+
+Option A:
+PCR
+
+Option B:
+Sanger's technique
+
+Option C:
+Next generation sequencing
+
+Option D:
+Western blot";"Selected option: A
+Rationale: PCR is a nucleic acid amplification technique that can be applied to RNA templates when combined with reverse transcription (RT‑PCR), making it the only method among the choices that can be based on RNA. The other options—Sanger sequencing, next‑generation sequencing, and Western blot—are fundamentally DNA‑based or protein‑based techniques. 
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: A
+Rationale: PCR is a nucleic acid amplification technique that can be applied to RNA templates when combined with reverse transcription (RT‑PCR), making it the only method among the choices that can be based on RNA. The other options—Sanger sequencing, next‑generation sequencing, and Western blot—are fundamentally DNA‑based or protein‑based techniques. 
+Confidence: 70";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;351;688;False;result_df;;;;;;;shao_hard100
+ee343e97-60cc-402d-8c90-c92e8f168813;Which of the following conditions is associated with polyhy dramnios?;Posterior urethral valve;Cleft palate;Congenital diaphragmatic hernia;Bladder exostrophy;B;Cleft palate;;Gynaecology & Obstetrics;;"Question:
+Which of the following conditions is associated with polyhy dramnios?
+
+Option A:
+Posterior urethral valve
+
+Option B:
+Cleft palate
+
+Option C:
+Congenital diaphragmatic hernia
+
+Option D:
+Bladder exostrophy";"Selected option: B
+Rationale: Polyhydramnios commonly results from reduced fetal swallowing of amniotic fluid, which occurs in conditions such as cleft palate. The other listed anomalies (posterior urethral valve, congenital diaphragmatic hernia, bladder exstrophy) are not typically linked to polyhydramnios. Therefore, cleft palate is the condition associated with polyhydramnios.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Polyhydramnios commonly results from reduced fetal swallowing of amniotic fluid, which occurs in conditions such as cleft palate. The other listed anomalies (posterior urethral valve, congenital diaphragmatic hernia, bladder exstrophy) are not typically linked to polyhydramnios. Therefore, cleft palate is the condition associated with polyhydramnios.
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;352;330;682;False;result_df;;;;;;;shao_hard100
+f5f3cd4b-3180-4f0e-b585-d681407b89d0;A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?;22-28 mm Hg;20-30 mm Hg;24-26 mm Hg;23-27 mm Hg;C;24-26 mm Hg;Ans: C. 24-26 mm HgStandard error, SE = {standard detion / n)}n = sample sizeC= Confidence coefficient = 1.96 for 95% confidence interval = 2.58 for 99% confidence interval= 3.29 for 99.9% confidence intervalHence in this question, n = 400SD = 10SE = 10/400 = 10/20 = 0.5Mean statistic = 25 mm Hg.Now for 95% confidence interval,C = 2 approximately 95%CI = 25 - 2x0.5 to 25 + 2x0.5 = 24-26 mm HgHence, 95% CI of IOP = 24 to 26 mm Hg.;Social & Preventive Medicine;;"Question:
+A study was conducted to find average intra-ocular pressure. IOP was measured in 400 people and the mean was found to be 25 mm Hg with a standard detion of 10 mm Hg. What is the range in which 10P of 95% of the population would be lying?
+
+Option A:
+22-28 mm Hg
+
+Option B:
+20-30 mm Hg
+
+Option C:
+24-26 mm Hg
+
+Option D:
+23-27 mm Hg";"Selected option: C
+Rationale: With n = 400, the standard error = SD/√n = 10/20 = 0.5 mm Hg. A 95 % confidence interval for the mean is mean ± 1.96 × SE ≈ 25 ± 0.98, i.e., roughly 24 – 26 mm Hg, which corresponds to option C.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: With n = 400, the standard error = SD/√n = 10/20 = 0.5 mm Hg. A 95 % confidence interval for the mean is mean ± 1.96 × SE ≈ 25 ± 0.98, i.e., roughly 24 – 26 mm Hg, which corresponds to option C.
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;399;599;998;False;result_df;;;;;;;shao_hard100
+8d8150e4-2224-4ac1-b41e-b8353a744dcc;First nerve fiber present in vicinity of dental papilla in;Bud stage;Cap stage;Bell stage;Advanced Bell stage;A;Bud stage;;Dental;;"Question:
+First nerve fiber present in vicinity of dental papilla in
+
+Option A:
+Bud stage
+
+Option B:
+Cap stage
+
+Option C:
+Bell stage
+
+Option D:
+Advanced Bell stage";"Selected option: C
+Rationale: In tooth development, the initial ingrowth of nerve fibers into the dental papilla occurs during the bell stage, when the dental papilla is closely associated with the enamel organ and odontoblast differentiation begins. This timing corresponds to the first appearance of innervation in the developing tooth.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: In tooth development, the initial ingrowth of nerve fibers into the dental papilla occurs during the bell stage, when the dental papilla is closely associated with the enamel organ and odontoblast differentiation begins. This timing corresponds to the first appearance of innervation in the developing tooth.
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;250;588;False;result_df;;;;;;;shao_hard100
+74d6497b-16bd-44f8-bba0-a9a139482e77;Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):;NREM sleep;REM sleep;Wakefulness;Quiet wakefulness;C;Wakefulness;Answer- C. WakefulnessBeta (B) Wave- Parietal and frontal region. Patients awake, at rest with eyes open.;Physiology;;"Question:
+Wave patterns of EEF, ECG and EMG are depicted below. The B pattern belongs to (Figure was not provided in the exam):
+
+Option A:
+NREM sleep
+
+Option B:
+REM sleep
+
+Option C:
+Wakefulness
+
+Option D:
+Quiet wakefulness";"Selected option: B
+Rationale: The exam question refers to wave patterns of EEG, ECG, and EMG that are not shown, so the specific characteristics of the “B pattern” cannot be evaluated from the provided information. In the absence of the figure, any answer would be speculative; a common association in sleep physiology is that REM sleep shows a distinct pattern of low-amplitude mixed-frequency EEG, irregular heart rate, and reduced muscle tone, which might be labeled as pattern B. Therefore, option B is selected as the most plausible choice given typical textbook conventions, though this is not confirmed by the question itself.
+Confidence: 25
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The exam question refers to wave patterns of EEG, ECG, and EMG that are not shown, so the specific characteristics of the “B pattern” cannot be evaluated from the provided information. In the absence of the figure, any answer would be speculative; a common association in sleep physiology is that REM sleep shows a distinct pattern of low-amplitude mixed-frequency EEG, irregular heart rate, and reduced muscle tone, which might be labeled as pattern B. Therefore, option B is selected as the most plausible choice given typical textbook conventions, though this is not confirmed by the question itself.
+Confidence: 25";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;437;792;False;result_df;;;;;;;shao_hard100
+611828ae-4acf-4177-bc88-fd78e72a9a3e;Primary Colonization of plaque is dominated by;Facultative Aerobic Gram + ve rods;Facultative Anaerobic Gram - ve rods;Facultative Aerobic Gram - ve cocci;Facultative Anaerobic Gram + ve cocci;D;Facultative Anaerobic Gram + ve cocci;;Dental;;"Question:
+Primary Colonization of plaque is dominated by
+
+Option A:
+Facultative Aerobic Gram + ve rods
+
+Option B:
+Facultative Anaerobic Gram - ve rods
+
+Option C:
+Facultative Aerobic Gram - ve cocci
+
+Option D:
+Facultative Anaerobic Gram + ve cocci";"Selected option: D
+Rationale: The primary colonizers of dental plaque are predominantly streptococci, which are Gram‑positive cocci capable of growing with or without oxygen (facultative anaerobes). This matches the description in option D. No other option aligns with the known microbiology of early plaque formation.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The primary colonizers of dental plaque are predominantly streptococci, which are Gram‑positive cocci capable of growing with or without oxygen (facultative anaerobes). This matches the description in option D. No other option aligns with the known microbiology of early plaque formation.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;366;318;684;False;result_df;;;;;;;shao_hard100
+e18f0c87-2d93-4fb1-9b7f-41ddc4ea0cae;Microangiopathic hemolytic anemia;TTP;ITP;Senile purpura;CML;B;ITP;;Medicine;;"Question:
+Microangiopathic hemolytic anemia
+
+Option A:
+TTP
+
+Option B:
+ITP
+
+Option C:
+Senile purpura
+
+Option D:
+CML";"Selected option: A
+Rationale: Thrombotic thrombocytopenic purpura (TTP) is a classic cause of microangiopathic hemolytic anemia, characterized by fragmented red cells in small vessels. The other listed conditions (ITP, senile purpura, CML) are not associated with microangiopathic hemolysis. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Thrombotic thrombocytopenic purpura (TTP) is a classic cause of microangiopathic hemolytic anemia, characterized by fragmented red cells in small vessels. The other listed conditions (ITP, senile purpura, CML) are not associated with microangiopathic hemolysis. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;261;597;False;result_df;;;;;;;shao_hard100
+b3163789-82b3-4054-aabe-3a2b90aa7a98;Which marker shows holocrine gland?;A;B;C;D;A;A;Marker (A) shows the Holocrine gland i.e, Sebaceous gland related with hair follicle sending sebum to skin surface. Marker (C) - Hair follicle Marker (D) - Sub cutaneous fat (Adipocytes) - empty looking cells with fat & peripheral nucleus - Usually skin & sebaceous glands have - stratified squamous epithelium;Anatomy;AIIMS 2017;"Question:
+Which marker shows holocrine gland?
+
+Option A:
+A
+
+Option B:
+B
+
+Option C:
+C
+
+Option D:
+D";"Selected option: A
+Rationale: The exam question asks which marker shows holocrine gland, but the options provide only letters (A, B, C, D) without any description of specific markers. Since no marker information is given, the correct answer cannot be determined from the provided content. I selected option A arbitrarily due to lack of data. 
+Confidence: 10
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam question asks which marker shows holocrine gland, but the options provide only letters (A, B, C, D) without any description of specific markers. Since no marker information is given, the correct answer cannot be determined from the provided content. I selected option A arbitrarily due to lack of data. 
+Confidence: 10";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;329;241;570;False;result_df;;;;;;;shao_hard100
+df8ae3bc-aef6-48d0-8033-d715cfe36b3d;A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?;Indirect immunofluorescence;-PCR for virus;Histopathological examination for Negri bodies;Antibodies against Rabies virus;B;-PCR for virus;"Answer- B. -PCR for virusDetection of rabies virus RNA by - PCR is highly sensitive and specific. This technique can detect virus infresh saliva samples, skin, CSF, and brain tissues.Detection of rabies virus RNA by -PCR is highly sensitive and specific. This technique can detect virus in fresh saliva samples, skin, CSF, and brain tissues. In addition, -PCR with genetic sequencing can distinguish among rabies virus variants, permitting identification of the probable source of an infection.""-Harrison 19/e p1302.Reverse transcription-polymerase chain reaction testing can be used to amplify pas of a rabies virus genome from fixed or unfixed brain tissue or saliva. Sequencing of amplified products can allow identification of the infecting virus strain.";Microbiology;;"Question:
+A patient comes after a dog bite with hydrophobia, tearing and altered sensorium. You suspect rabies in this patient. Corneal impression has been taken. What test will you do on it for most accurate diagnosis?
+
+Option A:
+Indirect immunofluorescence
+
+Option B:
+-PCR for virus
+
+Option C:
+Histopathological examination for Negri bodies
+
+Option D:
+Antibodies against Rabies virus";"Selected option: A
+Rationale: The corneal impression smear is classically examined for rabies antigen by immunofluorescence, which provides the most accurate and rapid diagnosis. Other methods (PCR, histopathology for Negri bodies, antibody detection) are less routinely used on corneal smears and are either less sensitive or not suitable for early detection. Therefore, indirect immunofluorescence is the appropriate test.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The corneal impression smear is classically examined for rabies antigen by immunofluorescence, which provides the most accurate and rapid diagnosis. Other methods (PCR, histopathology for Negri bodies, antibody detection) are less routinely used on corneal smears and are either less sensitive or not suitable for early detection. Therefore, indirect immunofluorescence is the appropriate test.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;386;314;700;False;result_df;;;;;;;shao_hard100
+54f0597f-d43c-4813-b202-935ae07e4e20;Ceramide is:;Simple lipid;Compound lipid;Precursor lipid;Derived lipid;A;Simple lipid;"1. Simple lipid:
+
+TAG (glycerol + 3 FA)
+Ceramide ( Sphingosine + FA) 
+
+2. Compound lipid:
+
+Phospholipids
+Glycolipid / Sphingoglycolipid
+Aminolipids
+Sulfolipids
+Lipoproteins
+
+3. Miscellaneous:
+
+Precursor lipid - Compounds that can give rise to another lipids. Eg: Fatty Acids
+Derived lipid - Eg: Bile acids
+Precursor derived lipid - Eg: Cholesterol";Biochemistry;;"Question:
+Ceramide is:
+
+Option A:
+Simple lipid
+
+Option B:
+Compound lipid
+
+Option C:
+Precursor lipid
+
+Option D:
+Derived lipid";"Selected option: B
+Rationale: Ceramide is a sphingolipid, which belongs to the class of compound lipids that contain additional functional groups beyond fatty acids and glycerol. Therefore it is not a simple lipid, nor is it described as a precursor or derived lipid in the question. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Ceramide is a sphingolipid, which belongs to the class of compound lipids that contain additional functional groups beyond fatty acids and glycerol. Therefore it is not a simple lipid, nor is it described as a precursor or derived lipid in the question. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;330;268;598;False;result_df;;;;;;;shao_hard100
+80ca7074-85db-4ead-9b69-23c32b811d94;Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?;Horizontal root fracture;Root caries;Widening of periodontal ligament space;Periapical-periostitis;D;Periapical-periostitis;;Dental;;"Question:
+Halo effect surrounding the root of tooth on IOPA X-Ray is seen with?
+
+Option A:
+Horizontal root fracture
+
+Option B:
+Root caries
+
+Option C:
+Widening of periodontal ligament space
+
+Option D:
+Periapical-periostitis";"Selected option: C
+Rationale: The described halo effect refers to a radiolucent band encircling the root, which is characteristic of widening of the periodontal ligament space on an intra‑oral periapical radiograph. The other options (horizontal root fracture, root caries, periapical‑periostitis) do not typically produce a uniform halo surrounding the root. 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The described halo effect refers to a radiolucent band encircling the root, which is characteristic of widening of the periodontal ligament space on an intra‑oral periapical radiograph. The other options (horizontal root fracture, root caries, periapical‑periostitis) do not typically produce a uniform halo surrounding the root. 
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;309;662;False;result_df;;;;;;;shao_hard100
+0bac3e65-9fec-4c0b-b29e-251ebc04aec0;A temporary bridge constructed from a synthetic resin;Is not required when the missing tooth is provided on a partial denture;Should be cemented with a polycarboxylate cement to ensure retention between the preparation and fitting stages;Should have the same buccal and lingual contours as the permanent bridge;Should restore the occlusion to the same extent as the permanent bridge;D;Should restore the occlusion to the same extent as the permanent bridge;;Dental;;"Question:
+A temporary bridge constructed from a synthetic resin
+
+Option A:
+Is not required when the missing tooth is provided on a partial denture
+
+Option B:
+Should be cemented with a polycarboxylate cement to ensure retention between the preparation and fitting stages
+
+Option C:
+Should have the same buccal and lingual contours as the permanent bridge
+
+Option D:
+Should restore the occlusion to the same extent as the permanent bridge";"Selected option: C
+Rationale: A provisional (temporary) bridge made of synthetic resin is intended to mimic the definitive prosthesis in shape to preserve gingival health and aesthetics. Therefore it should have the same buccal and lingual contours as the permanent bridge. The other statements are either inaccurate (cement type, occlusal requirements) or pertain to a different treatment scenario.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: C
+Rationale: A provisional (temporary) bridge made of synthetic resin is intended to mimic the definitive prosthesis in shape to preserve gingival health and aesthetics. Therefore it should have the same buccal and lingual contours as the permanent bridge. The other statements are either inaccurate (cement type, occlusal requirements) or pertain to a different treatment scenario.
+Confidence: 70";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;389;969;1358;False;result_df;;;;;;;shao_hard100
+04adb80a-e020-4328-a871-e403f6d5861f;Which of the following appliances is not used for slow maxillary expansion?;Jack screw;Coffin spring;Quad helix appliance;Hyrax appliance;D;Hyrax appliance;"Hyrax appliance 
+This type of expander uses the Hyrax (hygienic rapid expansion) screw. It has heavy wires that are adapted, welded and soldered to the palatal aspects of the bands in the permanent molars. It is used for Rapid palatal expansion.
+Examples of slow expansion: 
+
+Jack screw
+Coﬃn spring
+Quad helix appliance
+
+Textbook of ORTHODONTICS Sridhar Premkumar";Dental;;"Question:
+Which of the following appliances is not used for slow maxillary expansion?
+
+Option A:
+Jack screw
+
+Option B:
+Coffin spring
+
+Option C:
+Quad helix appliance
+
+Option D:
+Hyrax appliance";"Selected option: D
+Rationale: Coffin spring and Quad helix are classic slow maxillary expansion appliances, while the Hyrax appliance is designed for rapid expansion and therefore is not used for slow expansion. Confidence: 78
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Coffin spring and Quad helix are classic slow maxillary expansion appliances, while the Hyrax appliance is designed for rapid expansion and therefore is not used for slow expansion. Confidence: 78";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;362;706;False;result_df;;;;;;;shao_hard100
+d321d320-c06f-4d18-9aa2-dae718851dfd;For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion;20 mins;45 mins;60 mins;2 hours;C;60 mins;"Direct lines from book ""warming of NaOCI to 122° F (50' C) leads to increase in collagen dissolution as potential to disinfecting, but it can leads to detrimental corrosion effects on NiTi instruments immersion for 1 hr"".";Dental;;"Question:
+For how long should NiTi files be submerged in NaOCl at 122-degree F to prevent damage to file corrosion
+
+Option A:
+20 mins
+
+Option B:
+45 mins
+
+Option C:
+60 mins
+
+Option D:
+2 hours";"Selected option: Not specified
+Rationale: The exam question does not provide any information indicating which of the listed time intervals (20 mins, 45 mins, 60 mins, 2 hours) is correct for submerging NiTi files in NaOCl at 122 °F to prevent corrosion. Therefore, the appropriate answer cannot be determined from the given content.
+Confidence: 0
+Protocol Author: gpt_default";"Selected option: Not specified
+Rationale: The exam question does not provide any information indicating which of the listed time intervals (20 mins, 45 mins, 60 mins, 2 hours) is correct for submerging NiTi files in NaOCl at 122 °F to prevent corrosion. Therefore, the appropriate answer cannot be determined from the given content.
+Confidence: 0";;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;668;1018;False;result_df;;;;;;;shao_hard100
+3bb33f16-ca92-481f-bb39-b5278156c63d;Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?;DIC;Fac. VIII def.;Liver disease;Vitamin K deficiency;D;Vitamin K deficiency;;Pathology;;"Question:
+Patient with increased PT, APTT & TT and normal fibrinogen and platelet counts, diagnosis is?
+
+Option A:
+DIC
+
+Option B:
+Fac. VIII def.
+
+Option C:
+Liver disease
+
+Option D:
+Vitamin K deficiency";"Selected option: C
+Rationale: The patient shows prolonged PT, APTT, and TT, indicating defects in both the extrinsic and intrinsic pathways as well as in conversion of fibrinogen to fibrin. Normal fibrinogen and platelet counts argue against DIC, which typically lowers fibrinogen and platelets. Factor VIII deficiency would prolong APTT but not PT or TT. Vitamin K deficiency lengthens PT and APTT but does not affect TT. Liver disease can cause a global reduction in clotting factor synthesis, leading to prolonged PT, APTT, and TT while fibrinogen and platelet counts may remain normal, matching the presented profile.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The patient shows prolonged PT, APTT, and TT, indicating defects in both the extrinsic and intrinsic pathways as well as in conversion of fibrinogen to fibrin. Normal fibrinogen and platelet counts argue against DIC, which typically lowers fibrinogen and platelets. Factor VIII deficiency would prolong APTT but not PT or TT. Vitamin K deficiency lengthens PT and APTT but does not affect TT. Liver disease can cause a global reduction in clotting factor synthesis, leading to prolonged PT, APTT, and TT while fibrinogen and platelet counts may remain normal, matching the presented profile.
+Confidence: 78";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;592;943;False;result_df;;;;;;;shao_hard100
+6e5da328-bb2e-4848-bdff-56a722ca8d7b;Shelf life of colourless, aqueous solution of suxamethonium is;6 months;1 year;2 yr;3 yr;C;2 yr;;Pharmacology;;"Question:
+Shelf life of colourless, aqueous solution of suxamethonium is
+
+Option A:
+6 months
+
+Option B:
+1 year
+
+Option C:
+2 yr
+
+Option D:
+3 yr";"Selected option: C
+Rationale: The question asks for the shelf life of a colourless aqueous solution of suxamethonium. Standard pharmacology references state that such solutions remain stable for about two years when stored properly, matching option C. No other options align with this commonly cited stability period.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks for the shelf life of a colourless aqueous solution of suxamethonium. Standard pharmacology references state that such solutions remain stable for about two years when stored properly, matching option C. No other options align with this commonly cited stability period.
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;219;560;False;result_df;;;;;;;shao_hard100
+f7d9f997-d9d6-40e0-a921-49bb343f8b52;For >10 mm setback of mandible, which of these surgeries is most suitable:;Sagittal split ramus osteotomy;Vertical ramus osteotomy;Subapical osteotomy;Body osteotomy  with extraction of premolars;B;Vertical ramus osteotomy;;Surgery;;"Question:
+For >10 mm setback of mandible, which of these surgeries is most suitable:
+
+Option A:
+Sagittal split ramus osteotomy
+
+Option B:
+Vertical ramus osteotomy
+
+Option C:
+Subapical osteotomy
+
+Option D:
+Body osteotomy  with extraction of premolars";"Selected option: B
+Rationale: The question specifies a mandibular setback greater than 10 mm. Among the listed techniques, vertical ramus osteotomy is traditionally indicated for large posterior movements because it permits greater displacement without excessive stretching of soft tissues or nerve tension. The other options are generally used for smaller setbacks or dento‑alveolar corrections. 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question specifies a mandibular setback greater than 10 mm. Among the listed techniques, vertical ramus osteotomy is traditionally indicated for large posterior movements because it permits greater displacement without excessive stretching of soft tissues or nerve tension. The other options are generally used for smaller setbacks or dento‑alveolar corrections. 
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;362;386;748;False;result_df;;;;;;;shao_hard100
+de4374af-70ba-41e4-b46a-5159e73a690e;In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:;50%;70%;80%;100%;D;100%;;Dental;;"Question:
+In full tooth borne dentures occlusal rests transmits _________ percentage of occlusal forces to teeth:
+
+Option A:
+50%
+
+Option B:
+70%
+
+Option C:
+80%
+
+Option D:
+100%";"Selected option: B
+Rationale: In prosthodontic principles for full tooth‑borne removable dentures, occlusal rests are designed to direct the majority of occlusal load to the supporting teeth, typically cited as about 70% of the force, with the remainder transferred to the ridge. This matches the 70% option. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: In prosthodontic principles for full tooth‑borne removable dentures, occlusal rests are designed to direct the majority of occlusal load to the supporting teeth, typically cited as about 70% of the force, with the remainder transferred to the ridge. This matches the 70% option. 
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;247;590;False;result_df;;;;;;;shao_hard100
+653d9209-e3ec-4f56-bb30-6e9f74c210df;Isolation period of measles:-;Onset of prodromal stage until 7th day of rash;Eruptive stage until 2 days of rash;Onset of prodromal phase until 3rd day of rash;Eruptive stage until 7th day of rash;C;Onset of prodromal phase until 3rd day of rash;Isolation period of measles is Onset of prodromal phase until 3rd day of rash. Maximum communicability occurs from onset of prodrome through the first 3-4 days of rash.Prodromal phase-stage last for 4 days(from 10th to 14th day of infection) characterized by Fever, Koplik spots , coryza, nasal discharge, redness .Incubation period of measles is 10 daysEruptive phase- Maculopapular rash appear after 4 days of fever (14day after infection);Microbiology;AIIMS 2018;"Question:
+Isolation period of measles:-
+
+Option A:
+Onset of prodromal stage until 7th day of rash
+
+Option B:
+Eruptive stage until 2 days of rash
+
+Option C:
+Onset of prodromal phase until 3rd day of rash
+
+Option D:
+Eruptive stage until 7th day of rash";"Selected option: C
+Rationale: The typical isolation period for measles extends from the beginning of the prodromal phase until a few days after the rash appears, commonly cited as up to the third or fourth day of rash. Among the given options, only option C matches this timeframe (onset of prodromal phase until the 3rd day of rash). Therefore, it is the best choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The typical isolation period for measles extends from the beginning of the prodromal phase until a few days after the rash appears, commonly cited as up to the third or fourth day of rash. Among the given options, only option C matches this timeframe (onset of prodromal phase until the 3rd day of rash). Therefore, it is the best choice.
+Confidence: 85";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;372;303;675;False;result_df;;;;;;;shao_hard100
+7060bcf3-fde4-41e3-ad46-260857a92b46;Action of the muscle marked (with arrow) on mandible is;Elevation;Depression;Retraction;Protraction;A;Elevation;Muscle marked - temporalis Elevators of mandible: MTM Masseter Elevation, protraction Temporalis Elevation retraction Medial pterygoid Elevation, protraction Depressors of mandible Lateral pterygoid Depression, protraction Mylohyoid Depression Ant. belly of digastric Depression Muscle of mastication develop from 1st pharyngeal arch Nerve - mandibular branch of trigeminal.;Anatomy;AIIMS 2018;"Question:
+Action of the muscle marked (with arrow) on mandible is
+
+Option A:
+Elevation
+
+Option B:
+Depression
+
+Option C:
+Retraction
+
+Option D:
+Protraction";"Selected option: Not specified
+Rationale: The question refers to a muscle indicated by an arrow on an image of the mandible, but no image or description of the muscle is provided in the text. Without knowing which muscle is marked, we cannot determine whether its action is elevation, depression, retraction, or protraction. Therefore, the correct answer cannot be identified from the given information.
+Confidence: 0
+Protocol Author: gpt_default";"Selected option: Not specified
+Rationale: The question refers to a muscle indicated by an arrow on an image of the mandible, but no image or description of the muscle is provided in the text. Without knowing which muscle is marked, we cannot determine whether its action is elevation, depression, retraction, or protraction. Therefore, the correct answer cannot be identified from the given information.
+Confidence: 0";;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;585;923;False;result_df;;;;;;;shao_hard100
+c68dea51-2e4e-4276-89b2-30b2337be400;"When a dentist says that "" I cannot fix your teeth if you do not open your mouth wide:"" He is employing:";Problem ownership.;Voice control;Tolerance.;Flexibility.;A;Problem ownership.;"Problem ownership:
+
+Negative messages like 'You must sit still'; undermine the rapport between child and dentist. ""You"" messages carry the implication that the child is wrong.
+Instead ""I"" messages increase the flow of information. Eg: I cannot fix your teeth if you do not open your mouth wide. This is called problem ownership.";Dental;;"Question:
+When a dentist says that "" I cannot fix your teeth if you do not open your mouth wide:"" He is employing:
+
+Option A:
+Problem ownership.
+
+Option B:
+Voice control
+
+Option C:
+Tolerance.
+
+Option D:
+Flexibility.";"Selected option: B
+Rationale: The dentist is asserting a condition that must be met for treatment, thereby using a directive or controlling statement to influence the patient’s behavior. This aligns with the concept of voice control, which involves using one’s voice to set boundaries or expectations. The other options (problem ownership, tolerance, flexibility) do not describe this type of directive communication.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The dentist is asserting a condition that must be met for treatment, thereby using a directive or controlling statement to influence the patient’s behavior. This aligns with the concept of voice control, which involves using one’s voice to set boundaries or expectations. The other options (problem ownership, tolerance, flexibility) do not describe this type of directive communication.
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;284;632;False;result_df;;;;;;;shao_hard100
+e9c312b7-2cc1-41ec-8daa-a55d69514721;Thyroglossal fistula is:;Lined by squamous epithelium;Causes a bulge in neck;Inflammatory lesion;Precancerous lesion;B;Causes a bulge in neck;;Surgery;;"Question:
+Thyroglossal fistula is:
+
+Option A:
+Lined by squamous epithelium
+
+Option B:
+Causes a bulge in neck
+
+Option C:
+Inflammatory lesion
+
+Option D:
+Precancerous lesion";"Selected option: B
+Rationale: A thyroglossal fistula is a congenital midline neck anomaly that typically presents as a palpable bulge or mass in the neck. While its lining can vary, it is not characteristically squamous epithelium, nor is it defined as an inflammatory or precancerous lesion. Therefore, the statement that it ""causes a bulge in neck"" best describes the condition.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: A thyroglossal fistula is a congenital midline neck anomaly that typically presents as a palpable bulge or mass in the neck. While its lining can vary, it is not characteristically squamous epithelium, nor is it defined as an inflammatory or precancerous lesion. Therefore, the statement that it ""causes a bulge in neck"" best describes the condition.
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;309;659;False;result_df;;;;;;;shao_hard100
+75394ad7-5dde-4b6b-8cec-7365972b5dd6;"Fluoride pit and fissure sealants belong to which
+generation?";I;II;III;IV;D;IV;"TYPES OF PIT AND FISSURE SEALANTS
+1. Based on curing method:
+First generation:
+
+Polymerized with ultraviolet light of 350 nm wavelength. 
+Absorbs UV light excessively and prevents complete polymerization of the sealant. 
+Light intensity varies from lamp to lamp.
+
+Second generation:
+
+Self-cured or chemically cured. 
+Most of them were unfilled. 
+Can be transparent, opaque or tinted. 
+Filled show increased wear and abrasion resistance than unfilled.
+
+Third generation - Visible light cured of 480-490 nm wavelength. 
+Fourth generation - With addition of fluoride for added benefit.
+Soben Peter
+5th edition
+Page no. 440";Dental;;"Question:
+Fluoride pit and fissure sealants belong to which
+generation?
+
+Option A:
+I
+
+Option B:
+II
+
+Option C:
+III
+
+Option D:
+IV";"Selected option: C
+Rationale: The question asks which generation fluoride pit and fissure sealants belong to. In standard dental material classifications, fluoride‑releasing sealants are placed in the third generation of sealant materials. Therefore, the correct choice is option C (III). 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which generation fluoride pit and fissure sealants belong to. In standard dental material classifications, fluoride‑releasing sealants are placed in the third generation of sealant materials. Therefore, the correct choice is option C (III). 
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;387;723;False;result_df;;;;;;;shao_hard100
+6b3b112c-3f6a-4f33-afe6-421e410a1700;Production and citation impact of published work of a scientist or scholar;Impact factor;Citation;H index;Z index;B;Citation;;Dental;;"Question:
+Production and citation impact of published work of a scientist or scholar
+
+Option A:
+Impact factor
+
+Option B:
+Citation
+
+Option C:
+H index
+
+Option D:
+Z index";"Selected option: C
+Rationale: The H-index is defined as the number of papers (production) that have each received at least that same number of citations, thus reflecting both the quantity of work and its citation impact. The other options (impact factor, citation count, Z index) do not combine these two aspects. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The H-index is defined as the number of papers (production) that have each received at least that same number of citations, thus reflecting both the quantity of work and its citation impact. The other options (impact factor, citation count, Z index) do not combine these two aspects. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;184;521;False;result_df;;;;;;;shao_hard100
+bbe12324-c347-478e-b5bb-9a39e8969571;Hammock ligament is present:;Between temporal and sphenoid bone;Between hamular notch and mandible;In apical area of a tooth;As a part of deep cervical fascia;C;In apical area of a tooth;;Dental;;"Question:
+Hammock ligament is present:
+
+Option A:
+Between temporal and sphenoid bone
+
+Option B:
+Between hamular notch and mandible
+
+Option C:
+In apical area of a tooth
+
+Option D:
+As a part of deep cervical fascia";"Selected option: C
+Rationale: The term “hammock ligament” refers to the periodontal ligament that forms a sling‑like structure around the root, particularly in the apical region of a tooth. None of the other options describe this anatomical relationship. Therefore, the correct location is the apical area of a tooth.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The term “hammock ligament” refers to the periodontal ligament that forms a sling‑like structure around the root, particularly in the apical region of a tooth. None of the other options describe this anatomical relationship. Therefore, the correct location is the apical area of a tooth.
+Confidence: 80";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;318;669;False;result_df;;;;;;;shao_hard100
+7c79a7f1-20d7-4205-a05a-f974ecc2186c;Centric holding cusp is?;Mesiobuccal cusp of maxillary 1st molar;Mesiolingual cusp of mandibular first molar;Distolingual cusp of mandibular 1st molar;Mesiopalatal cusp of maxillary 1st molar;D;Mesiopalatal cusp of maxillary 1st molar;;Dental;;"Question:
+Centric holding cusp is?
+
+Option A:
+Mesiobuccal cusp of maxillary 1st molar
+
+Option B:
+Mesiolingual cusp of mandibular first molar
+
+Option C:
+Distolingual cusp of mandibular 1st molar
+
+Option D:
+Mesiopalatal cusp of maxillary 1st molar";"Selected option: A
+Rationale: The centric holding (or centric occluding) cusp is the cusp that first contacts and guides the mandible into centric relation. In the maxillary first molar, this role is performed by the mesiobuccal cusp. Option A describes this cusp. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The centric holding (or centric occluding) cusp is the cusp that first contacts and guides the mandible into centric relation. In the maxillary first molar, this role is performed by the mesiobuccal cusp. Option A describes this cusp. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;373;626;999;False;result_df;;;;;;;shao_hard100
+238019d8-3c6b-486e-9d00-fda1273d22e7;An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??;OPV 3 doses, I IPV 3 Pentavalent and I measles;BCG, OPV 3 doses, 3 lPV, 3 Pentavalent and I measles;OPV 3 doses, I IPV 3 Pentavalent and 2 measles;OPV 3 doses, 3 IPV 3 DPI : Hep-B;D;OPV 3 doses, 3 IPV 3 DPI : Hep-B;Ans: D. OPV 3 doses, 3 IPV 3 DPI : Hep-BRef: ip. o rg/file s/I A P-imm unizution-sc he du le- 2 0 I 6- I P- 2 0 I 6-E p u b. p df* The latest schedule of immunization under NIS is as follows:* vNational Immunization Schedule (NIS) for Infants, children and Presnant women - - OPV 3 doses, 3 IPV 3 DPI : Hep-B;Pediatrics;;"Question:
+An un-immunized 13 months old child comes to you in OPD, according to the latest immunizations schedule, what vaccines will you advise??
+
+Option A:
+OPV 3 doses, I IPV 3 Pentavalent and I measles
+
+Option B:
+BCG, OPV 3 doses, 3 lPV, 3 Pentavalent and I measles
+
+Option C:
+OPV 3 doses, I IPV 3 Pentavalent and 2 measles
+
+Option D:
+OPV 3 doses, 3 IPV 3 DPI : Hep-B";"Selected option: B
+Rationale: For a 13‑month‑old child who has not received any vaccines, the current schedule includes BCG at birth, three doses of OPV, three doses of IPV, three doses of the pentavalent vaccine, and a single dose of measles (given at 9 months). Option B lists exactly these vaccines, whereas the other options either omit BCG, include an extra measles dose, or list unrelated vaccines.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: B
+Rationale: For a 13‑month‑old child who has not received any vaccines, the current schedule includes BCG at birth, three doses of OPV, three doses of IPV, three doses of the pentavalent vaccine, and a single dose of measles (given at 9 months). Option B lists exactly these vaccines, whereas the other options either omit BCG, include an extra measles dose, or list unrelated vaccines.
+Confidence: 70";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;421;424;845;False;result_df;;;;;;;shao_hard100
+7ce281ed-c512-4456-a9f7-87b7620d628d;An absolute indication for LSCS in case of a Heart disease is:;Co-arctation of Aorta;Eisenmenger syndrome;Ebsteins anomaly;Pulmonary stenosis;A;Co-arctation of Aorta;"Heart disease during pregnancy, in itself is not an indication for cesarean section.
+Cesarean section in heart disease is done in specific cases.
+
+“In coarctation of aorta, elective cesarean section is indicated to prevent rupture of the aorta or mycotic cerebral aneurysm.”
+
+Dutta Obs. 7/e, p 278";Gynaecology & Obstetrics;;"Question:
+An absolute indication for LSCS in case of a Heart disease is:
+
+Option A:
+Co-arctation of Aorta
+
+Option B:
+Eisenmenger syndrome
+
+Option C:
+Ebsteins anomaly
+
+Option D:
+Pulmonary stenosis";"Selected option: B
+Rationale: Among the listed heart diseases, Eisenmenger syndrome represents severe pulmonary hypertension with a right‑to‑left shunt, which is considered an absolute indication for lower segment cesarean section to avoid the hemodynamic stress of labor. The other conditions (co‑arctation, Ebstein's anomaly, pulmonary stenosis) are not absolute indications for LSCS. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Among the listed heart diseases, Eisenmenger syndrome represents severe pulmonary hypertension with a right‑to‑left shunt, which is considered an absolute indication for lower segment cesarean section to avoid the hemodynamic stress of labor. The other conditions (co‑arctation, Ebstein's anomaly, pulmonary stenosis) are not absolute indications for LSCS. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;307;658;False;result_df;;;;;;;shao_hard100
+71803632-1b88-4332-88f5-be3ac2515b85;Gene commonly indicated in congenital cataract:;PAX-6;CRYGS-3;LMX- IB;PITX-3;B;CRYGS-3;Answer- B. CRYGS-3'Gene-S crystalline gene (CRYGS) mutalion causes dominant progressive coical cataract in humans.;Ophthalmology;;"Question:
+Gene commonly indicated in congenital cataract:
+
+Option A:
+PAX-6
+
+Option B:
+CRYGS-3
+
+Option C:
+LMX- IB
+
+Option D:
+PITX-3";"Selected option: D
+Rationale: Among the listed genes, PITX3 is well‑known for its frequent association with congenital cataract, whereas the others are less commonly implicated. Therefore PITX3 is the most appropriate answer. 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Among the listed genes, PITX3 is well‑known for its frequent association with congenital cataract, whereas the others are less commonly implicated. Therefore PITX3 is the most appropriate answer. 
+Confidence: 80";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;244;587;False;result_df;;;;;;;shao_hard100
+b304b0be-c800-43e4-be04-739bd0cc47fd;Easiest 3rd molar surgical extraction is:;Mesioangular;Horizontal;Vertical;Distoangular;A;Mesioangular;;Surgery;;"Question:
+Easiest 3rd molar surgical extraction is:
+
+Option A:
+Mesioangular
+
+Option B:
+Horizontal
+
+Option C:
+Vertical
+
+Option D:
+Distoangular";"Selected option: C
+Rationale: A vertically oriented third molar is aligned with the dental arch, requiring minimal bone removal and rarely needing sectioning, making it the simplest case for surgical extraction. In contrast, mesioangular, distoangular, and especially horizontal impactions involve more complex positioning and often require additional bone removal or tooth sectioning. Therefore, the vertical impaction is considered the easiest to extract.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: A vertically oriented third molar is aligned with the dental arch, requiring minimal bone removal and rarely needing sectioning, making it the simplest case for surgical extraction. In contrast, mesioangular, distoangular, and especially horizontal impactions involve more complex positioning and often require additional bone removal or tooth sectioning. Therefore, the vertical impaction is considered the easiest to extract.
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;249;586;False;result_df;;;;;;;shao_hard100
+3c7f7351-8925-4c0e-89e7-1d4b8e806797;"Which of the following series act as the best space
+maintainer in a child's mouth?";Restored deciduous tooth;Acrylic partial denture;Distal shoe space maintainer;Band and loop space maintainer;A;Restored deciduous tooth;;Dental;;"Question:
+Which of the following series act as the best space
+maintainer in a child's mouth?
+
+Option A:
+Restored deciduous tooth
+
+Option B:
+Acrylic partial denture
+
+Option C:
+Distal shoe space maintainer
+
+Option D:
+Band and loop space maintainer";"Selected option: D
+Rationale: Among the listed choices, a band and loop is a fixed, commonly used appliance specifically designed to preserve arch length after loss of a primary tooth, making it the most appropriate and effective space maintainer for a child. The other options (restored deciduous tooth, acrylic partial denture, distal shoe) are either not primary space maintainers or are less suitable for routine use.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Among the listed choices, a band and loop is a fixed, commonly used appliance specifically designed to preserve arch length after loss of a primary tooth, making it the most appropriate and effective space maintainer for a child. The other options (restored deciduous tooth, acrylic partial denture, distal shoe) are either not primary space maintainers or are less suitable for routine use.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;357;320;677;False;result_df;;;;;;;shao_hard100
+1546ba77-5320-472a-9b48-ac0a2734f57a;Endocarditis is most commonly seen in:;Aortic stenosis.;Mitral regurgitation.;Patent ductus arteriosus.;Venous bypass graft.;A;Aortic stenosis.;;Medicine;;"Question:
+Endocarditis is most commonly seen in:
+
+Option A:
+Aortic stenosis.
+
+Option B:
+Mitral regurgitation.
+
+Option C:
+Patent ductus arteriosus.
+
+Option D:
+Venous bypass graft.";"Selected option: B
+Rationale: Endocarditis typically develops on abnormal or damaged heart valves, and among the listed lesions, mitral regurgitation is a common predisposing condition for infection. The other options (aortic stenosis, patent ductus arteriosus, venous bypass graft) are less frequently associated with endocarditis. Therefore, mitral regurgitation is the most appropriate choice.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Endocarditis typically develops on abnormal or damaged heart valves, and among the listed lesions, mitral regurgitation is a common predisposing condition for infection. The other options (aortic stenosis, patent ductus arteriosus, venous bypass graft) are less frequently associated with endocarditis. Therefore, mitral regurgitation is the most appropriate choice.
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;345;290;635;False;result_df;;;;;;;shao_hard100
+0f86c441-70a5-466d-b59f-1512fe88cbfd;A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause –;Diabetes insipidus;Acute necrosis;Severe dehydration;Excessive intake of sodium;D;Excessive intake of sodium;"The child is having hypernatremia. Serum sodium >170 rnEq/L (Normal level is 135-145 mEq/L).
+Urine sodium is also very high, >70mEq/L (Normal urine sodium level in <20 mEq/L)
+This combination can be seen with excessive intake of sodium.
+With excessive intake of sodium there will be increase in serum sodium and excessive excretion of sodium in urine (Kidney tries to compensate for increase in serum sodium by excreting large amount of sodium).
+Diabetes Insipidus      ->    Serum sodium conc. will be high but urine sodium conc. will be very low (Lack of ADH leads to defect in concentration of urine).
+Acute necrosis            ->    Urine sodium conc. will be high but serum sodium conc. will be low. 
+Severe dehydration    ->   Urine sodium concentration will be low.";Pediatrics;;"Question:
+A breast fed child presents with hypernatremia (Serum sodium > 170m Eq/L). His urine sodium is 70 mEq/L. Which of the following is the most likely cause –
+
+Option A:
+Diabetes insipidus
+
+Option B:
+Acute necrosis
+
+Option C:
+Severe dehydration
+
+Option D:
+Excessive intake of sodium";"Selected option: D
+Rationale: The child has marked hypernatremia (>170 mEq/L) with a relatively high urine sodium concentration (70 mEq/L). In severe dehydration the kidneys would conserve sodium, resulting in a low urine sodium, and diabetes insipidus typically produces dilute urine with low sodium content. An elevated urine sodium indicates the kidneys are excreting excess sodium, which is most consistent with excessive sodium intake. Acute necrosis is unrelated to the described electrolyte pattern.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The child has marked hypernatremia (>170 mEq/L) with a relatively high urine sodium concentration (70 mEq/L). In severe dehydration the kidneys would conserve sodium, resulting in a low urine sodium, and diabetes insipidus typically produces dilute urine with low sodium content. An elevated urine sodium indicates the kidneys are excreting excess sodium, which is most consistent with excessive sodium intake. Acute necrosis is unrelated to the described electrolyte pattern.
+Confidence: 85";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;376;253;629;False;result_df;;;;;;;shao_hard100
+3b514c9e-965c-463a-b141-9dcecd91c957;Initial calcification of crown represents Which Nolla's stage:;Stage 1;Stage 2;Stage 3;Stage 4;B;Stage 2;"Stages
+0 : Absence of crypt
+1 : Presence of crypt
+2 : Initial calcification of crown
+3 : 1/3rd calcification of crown – completed
+4 : 2/3rd of crown completed
+5 : Crown almost completed
+6 : Complete calcification of crown. Tooth shows eruptive movement
+7 : 1/3rd of root completed
+8 : 2/3rd of Root completed
+9 : Root almost completed with open apex
+10 : Apical end of Root completed";Dental;;"Question:
+Initial calcification of crown represents Which Nolla's stage:
+
+Option A:
+Stage 1
+
+Option B:
+Stage 2
+
+Option C:
+Stage 3
+
+Option D:
+Stage 4";"Selected option: B
+Rationale: Nolla's dental development stages define stage 2 as the point at which the initial calcification of the crown is observed. The question asks which stage corresponds to this finding, making stage 2 the correct answer.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Nolla's dental development stages define stage 2 as the point at which the initial calcification of the crown is observed. The question asks which stage corresponds to this finding, making stage 2 the correct answer.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;333;674;False;result_df;;;;;;;shao_hard100
+2b325080-a90d-4813-b2bd-cfa4fa246c27;Plastic carrier size of 40-90 in carrier base Gutta percha are made from?;Poly propylene;Poly Sulphone;Poly Sulphide;Liquid crystal plastic;B;Poly Sulphone;;Dental;;"Question:
+Plastic carrier size of 40-90 in carrier base Gutta percha are made from?
+
+Option A:
+Poly propylene
+
+Option B:
+Poly Sulphone
+
+Option C:
+Poly Sulphide
+
+Option D:
+Liquid crystal plastic";"Selected option: A
+Rationale: The plastic carriers used in size 40‑90 carrier‑based gutta‑percha points are commonly manufactured from polypropylene, a widely used thermoplastic for such applications. Among the listed options, polypropylene best matches this known material. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The plastic carriers used in size 40‑90 carrier‑based gutta‑percha points are commonly manufactured from polypropylene, a widely used thermoplastic for such applications. Among the listed options, polypropylene best matches this known material. 
+Confidence: 85";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;349;340;689;False;result_df;;;;;;;shao_hard100
+d8458f0b-fe46-465b-9f9d-85ff2379f6e1;"Term ""Clean Tooth Never Decays"" given by";Perrie Fauchard;Leon J Williams;Dean;MJ Rihanna;B;Leon J Williams;;Dental;;"Question:
+Term ""Clean Tooth Never Decays"" given by
+
+Option A:
+Perrie Fauchard
+
+Option B:
+Leon J Williams
+
+Option C:
+Dean
+
+Option D:
+MJ Rihanna";"Selected option: A
+Rationale: The exam question asks which individual coined the term “Clean Tooth Never Decays,” but the provided case does not include any information identifying the correct person among the listed options. Since the source material does not specify the answer, the selection is made without supporting evidence. 
+Confidence: 20
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam question asks which individual coined the term “Clean Tooth Never Decays,” but the provided case does not include any information identifying the correct person among the listed options. Since the source material does not specify the answer, the selection is made without supporting evidence. 
+Confidence: 20";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;285;625;False;result_df;;;;;;;shao_hard100
+f3a56182-648b-4ca9-9e60-6ef497b1b54f;Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:;Improper cavity preparation at gingival margin;Curing from occlusal area only;Addition of resin in multiple increments;Curing from buccal and lingual aspect;A;Improper cavity preparation at gingival margin;;Dental;;"Question:
+Sensitivity in gingival area of class II light cured composite restoration after 2 months is due to:
+
+Option A:
+Improper cavity preparation at gingival margin
+
+Option B:
+Curing from occlusal area only
+
+Option C:
+Addition of resin in multiple increments
+
+Option D:
+Curing from buccal and lingual aspect";"Selected option: A
+Rationale: Sensitivity localized to the gingival area of a class II composite is most commonly linked to an inadequate cavity preparation at the gingival margin, which can leave exposed dentin or create a gap leading to postoperative sensitivity. The other options describe curing techniques or incremental placement, which are less directly associated with gingival sensitivity after two months.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Sensitivity localized to the gingival area of a class II composite is most commonly linked to an inadequate cavity preparation at the gingival margin, which can leave exposed dentin or create a gap leading to postoperative sensitivity. The other options describe curing techniques or incremental placement, which are less directly associated with gingival sensitivity after two months.
+Confidence: 78";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;369;286;655;False;result_df;;;;;;;shao_hard100
+1bcbe056-96b4-41aa-a7aa-044d7d2ac555;A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:;Tendon transfer;Total shoulder replacement;Reverse c shoulder replacement;Acromioplasty;A;Tendon transfer;Ans: A. Tendon transfer(Ref Apley 9/e p347,348)Treatment of choice for irreparable tear of rotator cuff in young patient = Tendon transfer.Subacromial decompression and debridement of degenerate cuff tissue:Useful for irreparable massive full thickness tears.Pain relief allows reasonable shoulder abduction by remaining muscles.Other methods:Supraspinatus advancement.Latissimus dorsi transfer.Rotator cuff transposition.Fascia Iota autogruit.Synthetic tendon graft.;Surgery;;"Question:
+A young patient is diagnosed to have irreparable tear of the rotator cuff. Treatment of choice will be:
+
+Option A:
+Tendon transfer
+
+Option B:
+Total shoulder replacement
+
+Option C:
+Reverse c shoulder replacement
+
+Option D:
+Acromioplasty";"Selected option: A
+Rationale: The patient is young, making joint replacement less desirable due to longevity concerns. An irreparable rotator cuff tear is best managed with a tendon transfer, which restores function without replacing the joint. Total shoulder replacement and reverse shoulder replacement are typically reserved for older patients or those with arthropathy, while acromioplasty addresses impingement rather than irreparable tears.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The patient is young, making joint replacement less desirable due to longevity concerns. An irreparable rotator cuff tear is best managed with a tendon transfer, which restores function without replacing the joint. Total shoulder replacement and reverse shoulder replacement are typically reserved for older patients or those with arthropathy, while acromioplasty addresses impingement rather than irreparable tears.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;222;575;False;result_df;;;;;;;shao_hard100
+dfdb6250-ea23-4154-b381-ff16ea720fb8;plate endings are features of;Nuclear chain fibres;Nuclear bag fibres;Golgi tendon;Extra fusal;B;Nuclear bag fibres;;Physiology;;"Question:
+plate endings are features of
+
+Option A:
+Nuclear chain fibres
+
+Option B:
+Nuclear bag fibres
+
+Option C:
+Golgi tendon
+
+Option D:
+Extra fusal";"Selected option: C
+Rationale: Plate endings refer to the sensory structures of the Golgi tendon organ, which are located at the muscle-tendon junction and are also called tendon plates. The other options (nuclear chain fibers, nuclear bag fibers, extra fusals) are components of muscle spindles, not associated with plate endings. Therefore, the correct answer is Golgi tendon.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Plate endings refer to the sensory structures of the Golgi tendon organ, which are located at the muscle-tendon junction and are also called tendon plates. The other options (nuclear chain fibers, nuclear bag fibers, extra fusals) are components of muscle spindles, not associated with plate endings. Therefore, the correct answer is Golgi tendon.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;357;694;False;result_df;;;;;;;shao_hard100
+a79f09ab-a292-4a46-ac30-dbf9daadc72a;A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes;Glucose 6 phosphatase;Glycogen phosphorylase;Phosphoglucomutase;PEP carboxylase;D;PEP carboxylase;Answer- D. PEP carboxylase;Medicine;;"Question:
+A young man was on high protein diet. After 3 days he developed weakness. Blood investigation revealed hypoglycemia. Hypoglycemia is due to inhibition of which of the following enzymes
+
+Option A:
+Glucose 6 phosphatase
+
+Option B:
+Glycogen phosphorylase
+
+Option C:
+Phosphoglucomutase
+
+Option D:
+PEP carboxylase";"Selected option: A
+Rationale: The final step of both gluconeogenesis and glycogenolysis is the conversion of glucose‑6‑phosphate to free glucose by glucose‑6‑phosphatase. Inhibition of this enzyme prevents release of glucose into the bloodstream, leading to hypoglycemia, which matches the described scenario. The other enzymes listed are upstream steps or not directly responsible for releasing glucose into blood.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The final step of both gluconeogenesis and glycogenolysis is the conversion of glucose‑6‑phosphate to free glucose by glucose‑6‑phosphatase. Inhibition of this enzyme prevents release of glucose into the bloodstream, leading to hypoglycemia, which matches the described scenario. The other enzymes listed are upstream steps or not directly responsible for releasing glucose into blood.
+Confidence: 78";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;382;428;810;False;result_df;;;;;;;shao_hard100
+;;;;;;;;;;;;;;;;;;;;35280;35579;70859;;token_summary_df;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;100.0;0.0;shao_hard100

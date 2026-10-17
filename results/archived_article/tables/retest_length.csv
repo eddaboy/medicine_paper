@@ -1,0 +1,8 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6
+Quantity,Protocol observations,Unique cases,Estimate,\textit{95\,P
+"Within (system, case) length slope",1200,60,0.220,"0.158, 0.282",1.9e-09
+Slope multiplied by original D-1G--G log-length gap,1200,60,0.105,--,--
+D-1G; run-effect F,300,60,0.426,--,0.790
+gpt-oss-120b; run-effect F,300,60,0.774,--,0.543
+qwen3-235b-a22b; run-effect F,300,60,0.811,--,0.519
+deepseek-v4-flash; run-effect F,300,60,1.015,--,0.400

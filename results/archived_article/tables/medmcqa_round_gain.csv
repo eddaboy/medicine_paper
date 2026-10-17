@@ -1,0 +1,33 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6,column_7,column_8
+Panel,Sample,Contested,Mean rounds,\textit{R1 $\rightarrow$ final (\,$\Delta$,\textit{\makecell{Fixed/,
+broken}},$p$,,,,,,
+DE-8G,Random 300,104,1.43,76.67 $\rightarrow$ 77.00,+0.33,4/3,1.000
+DE-8G,Hard 100,65,1.92,28.00 $\rightarrow$ 26.00,-2.00,4/6,0.754
+DE-8G,GoA 100,24,1.27,85.00 $\rightarrow$ 85.00,0.00,0/0,1.000
+DE-8G,MARC 100,27,1.34,82.00 $\rightarrow$ 86.00,+4.00,4/0,0.125
+DE-8G,MARC 250,62,1.32,83.20 $\rightarrow$ 83.60,+0.40,6/5,1.000
+DE-8Q36,Random 300,110,1.42,76.33 $\rightarrow$ 76.67,+0.33,3/2,1.000
+DE-8Q36,Hard 100,69,1.88,28.00 $\rightarrow$ 26.00,-2.00,1/3,0.625
+DE-8Q36,GoA 100,28,1.37,82.00 $\rightarrow$ 84.00,+2.00,3/1,0.625
+DE-8Q36,MARC 100,28,1.34,80.00 $\rightarrow$ 81.00,+1.00,1/0,1.000
+DE-8Q36,MARC 250,66,1.32,84.00 $\rightarrow$ 85.20,+1.20,5/2,0.453
+DE-8D,Random 300,93,1.39,78.00 $\rightarrow$ 78.33,+0.33,3/2,1.000
+DE-8D,Hard 100,66,1.80,35.00 $\rightarrow$ 30.00,-5.00,1/6,0.125
+DE-8D,GoA 100,23,1.30,83.00 $\rightarrow$ 86.00,+3.00,3/0,0.250
+DE-8D,MARC 100,25,1.29,75.00 $\rightarrow$ 78.00,+3.00,3/0,0.250
+DE-8D,MARC 250,58,1.28,82.00 $\rightarrow$ 83.20,+1.20,6/3,0.508
+DH-D,Random 300,59,1.23,76.33 $\rightarrow$ 76.33,0.00,5/5,1.000
+DH-D,Hard 100,36,1.40,35.00 $\rightarrow$ 35.00,0.00,2/2,1.000
+DH-D,GoA 100,12,1.13,82.00 $\rightarrow$ 82.00,0.00,0/0,1.000
+DH-D,MARC 100,14,1.15,75.00 $\rightarrow$ 75.00,0.00,1/1,1.000
+DH-D,MARC 250,40,1.17,80.40 $\rightarrow$ 80.40,0.00,2/2,1.000
+DH-Q36,Random 300,55,1.23,76.67 $\rightarrow$ 77.00,+0.33,5/4,1.000
+DH-Q36,Hard 100,37,1.41,31.00 $\rightarrow$ 28.00,-3.00,0/3,0.250
+DH-Q36,GoA 100,18,1.21,85.00 $\rightarrow$ 85.00,0.00,0/0,1.000
+DH-Q36,MARC 100,12,1.13,81.00 $\rightarrow$ 81.00,0.00,0/0,1.000
+DH-Q36,MARC 250,29,1.14,84.40 $\rightarrow$ 83.20,-1.20,1/4,0.375
+DH-G,Random 300,51,1.20,75.00 $\rightarrow$ 76.00,+1.00,6/3,0.508
+DH-G,Hard 100,37,1.41,28.00 $\rightarrow$ 29.00,+1.00,2/1,1.000
+DH-G,GoA 100,21,1.25,79.00 $\rightarrow$ 80.00,+1.00,2/1,1.000
+DH-G,MARC 100,14,1.16,76.00 $\rightarrow$ 76.00,0.00,0/0,1.000
+DH-G,MARC 250,40,1.19,77.20 $\rightarrow$ 77.20,0.00,2/2,1.000

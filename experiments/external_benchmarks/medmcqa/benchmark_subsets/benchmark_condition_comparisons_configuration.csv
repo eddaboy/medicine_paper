@@ -1,0 +1,25 @@
+﻿subset,system,temperature,model_output_limits,configuration_signature
+random_dev300,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",38dac10dec068d4cc119bf72d0b635341d886c5d5d94f3d6f078c2f3d0a4b5b4
+random_dev300,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},eedb17abd048b425a17aa26b7b135662c6d5bf098d20e38120cd048aec954416
+random_dev300,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},41143777cfd12299c49e938cac7d88df1bc801bb0bc52db3bd34998804f63f1b
+random_dev300,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},6a44c07e73ab5a1f05524daca948dc8757d00e07bd131e49bb22e9bf40aec491
+shao_hard100,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",5871d4a4b737067db0738f946f65fbafba7e6c9854c8a5d2b761f5e466357e26
+shao_hard100,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},237f4ec935854e8d054ed075de570f85d91db46f81659c3d052cf9619cb58f41
+shao_hard100,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},7e389f87a9649bfe2c83376adfb5ba6f6f6ad4a165974780ee37f67e267aaa30
+shao_hard100,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},23270028be9f533875c644e3e0bde474cb0035b0708c03454b7cd3bab575d3ce
+goa100,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",8bc506184e1c0a69a87cc2d046eef69e88ae6c89cb1e18f139b46dbf7eafaa36
+goa100,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},069a8346dab2b866fa515d0bfd17496424e51a5ba06ff38722cc1a2d12cfd9f2
+goa100,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},0baddc2423b85fb446cde59157d35a9a75e6685d1c54c2bc2866569e54d3995c
+goa100,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},7f20d856d8cce9648537a3eab918a1d6b4bcdb79e8198a42f69de005b090d366
+marc100,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",a9f6bacc4edb6683d1b58931fc0103c612d9664112527385ab2d0c919c7a8a2c
+marc100,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},454a0b627a181a5e59eb89446680f4de290fe8749a56a17214e71a4f4e59b658
+marc100,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},f5c27990ceac353185d2ecbf6ac7eda726a2ad2cb5f82f2e5da6e5d0cf20da5b
+marc100,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},1521e52fb37146cb8d9e35a2e2dd74785ac93ff40c41c3cfafd0f5fafa566311
+marc250,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",1d45594ebe3c618e77ee08bcefbb07e16d0488939723e05b03bbe10a7479c7f8
+marc250,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},f86dc038a5b5dd451e652922b2d722001d3686f5db12d33ad7a7164cc0575b4e
+marc250,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},202f27738fed20b59bff46a8839d21addb23bf1296268a6b1e8088d02c89ea37
+marc250,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},a89f5310e27762b8b1c7f6fbd76c05a655b5773f9fa19b80b0a0f070f0d1054b
+dev4183,Delphi,"[0.3, 0.3, 0.3, 0.3, 0.3]","{'gpt-oss-120b': 10000, 'qwen3.6-35b-a3b': 10000, 'deepseek-v4-flash': 10000}",f6219c7ffcc12ae479780a05f8af6c1285ec846b89c6375c896e5564fc369ee7
+dev4183,GPT-OSS-120B,0.3,{'gpt-oss-120b': 3000},aee21f0d801b2ef915ce3b28cc23efa743c52c2fb1dcc89589291d0ac0dca618
+dev4183,Qwen3.6-35B-A3B,0.3,{'qwen3.6-35b-a3b': 10000},ae8bc8ece0358af6ea9a4df7185e49479a991fdd27af6428905204f95773efc3
+dev4183,DeepSeek-V4 Flash,0.3,{'deepseek-v4-flash': 5000},a46e080f88cdd060ee7c3f03e361733048ec67371e823db93cc16b7b748de99f

@@ -1,0 +1,6 @@
+﻿column_1,column_2,column_3,column_4,column_5
+Stratification,Groups with n>=5,Cases in test,\textit{Kruskal--\allowbreak{}Wallis H},P
+Genealogy,3,228,1.178,0.555
+Type,3,228,1.246,0.536
+Age Group,5,227,1.761,0.780
+Sub Clinical Specialties,16,219,9.532,0.848

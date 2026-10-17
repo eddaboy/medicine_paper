@@ -1,0 +1,64 @@
+{
+  "currency": "RUB",
+  "price_date": "2026-10-10",
+  "vat_included": true,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "grant_rub": 98000,
+  "evaluations_per_system": 5033,
+  "prices_per_1000_tokens": {
+    "gpt-oss-120b": {
+      "input": 0.3,
+      "output": 0.3
+    },
+    "qwen3.6-35b-a3b": {
+      "input": 0.2,
+      "output": 0.3
+    },
+    "deepseek-v4-flash": {
+      "input": 0.3,
+      "output": 0.5
+    }
+  },
+  "historical_means_per_question": {
+    "baseline_gpt": {
+      "input_tokens": 370.26,
+      "output_tokens": 270.471,
+      "cost_rub": 0.1922193
+    },
+    "panel_gpt_including_organizer": {
+      "input_tokens": 6010.578,
+      "output_tokens": 4158.085,
+      "cost_rub": 3.0505989
+    },
+    "panel_qwen36": {
+      "input_tokens": 798.392,
+      "output_tokens": 5182.729,
+      "cost_rub": 1.7144971
+    },
+    "panel_deepseek": {
+      "input_tokens": 707.544,
+      "output_tokens": 2020.936,
+      "cost_rub": 1.2227312
+    }
+  },
+  "historical_projection_rub": {
+    "baseline": 967.4397369,
+    "panel": 30136.7342976,
+    "combined": 31104.1740345
+  },
+  "planning_range_rub": [
+    40000,
+    70000
+  ],
+  "recommended_reserve_rub": 80000,
+  "output_only_maximum_rub": 161788.56,
+  "historical_three_round_scenario_rub": 61256.93,
+  "caveats": [
+    "Composite forecast combines GPT/DeepSeek from the old G-Q235-D panel and Qwen3.6 from the old G-Q235-Q3.6 panel.",
+    "Historical completion means are censored by token limits; restored votes may increase round counts.",
+    "The proposed panel has not previously been evaluated as this exact combination.",
+    "Provider input-prefix caching discounts are excluded from the forecast.",
+    "Local accounting includes successful API usage receipts; cloud billing may include additional retry charges and unrelated account use.",
+    "All 5033 evaluations per system are counted separately even when questions overlap between subsets."
+  ]
+}

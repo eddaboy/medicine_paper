@@ -1,0 +1,1911 @@
+﻿case_id;question;option_a;option_b;option_c;option_d;correct_option_letter;correct_option_text;explanation;subject_name;topic_name;case_text;baseline_writeup;baseline_writeup_anonymous;baseline_selected_option;baseline_model_id;baseline_model_uri;baseline_provider;baseline_role_name;baseline_role_description;prompt_tokens;completion_tokens;total_tokens;cached;repeat_index;table_source
+442d2f5a-f973-46a6-8dff-fff28574e35a;Which of the following is the source of hepatic stem cells;Limbus cells;ITO cells;Oval cells;Paneth cells;C;Oval cells;"ref , Robbins 8/e p83;7/e p91;9/e p28 Hepatic oval cells (HOC) are a small subpopulation of cells found in the liver when hepatocyte proliferation is inhibited and followed by some type of hepatic injury. ... These cells are believed to be bipotential, i.e., able to differentiate into hepatocytes or bile ductular cells It is source of hepatic stem cells";Anatomy;General anatomy;"Question:
+Which of the following is the source of hepatic stem cells
+
+Option A:
+Limbus cells
+
+Option B:
+ITO cells
+
+Option C:
+Oval cells
+
+Option D:
+Paneth cells";"Selected option: C
+Rationale: The question asks for the source of hepatic stem cells. Among the listed options, oval cells are the recognized hepatic progenitor (stem) cells that give rise to liver parenchymal cells. Therefore, oval cells are the correct source.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks for the source of hepatic stem cells. Among the listed options, oval cells are the recognized hepatic progenitor (stem) cells that give rise to liver parenchymal cells. Therefore, oval cells are the correct source.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;185;524;False;1;result_df
+db685621-a007-47bc-b117-db6ff71b4c06;Methotrexate is often used as a chemotherapeutic agent to treat patients with leukemia. This drug is effective because it inhibits cells in which pa of the cell cycle;G1 phase;S phase;G2 phase;M phase;B;S phase;Methotrexate inhibits the synthesis of deoxythymidine by preventing the regeneration of THF by inhibiting the enzyme DHFR. Inhibiting the synthesis of deoxythymidylate prevents the cell from synthesizing its DNA. DNA synthesis occurs exclusively during S phase of the cell cycle. Ref:- KD Tripathi;Pharmacology;Chemotherapy;"Question:
+Methotrexate is often used as a chemotherapeutic agent to treat patients with leukemia. This drug is effective because it inhibits cells in which pa of the cell cycle
+
+Option A:
+G1 phase
+
+Option B:
+S phase
+
+Option C:
+G2 phase
+
+Option D:
+M phase";"Selected option: B
+Rationale: Methotrexate is a folate antagonist that blocks DNA synthesis by inhibiting dihydrofolate reductase. DNA synthesis occurs during the S phase of the cell cycle, so the drug’s effectiveness is due to inhibition of cells in this phase. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Methotrexate is a folate antagonist that blocks DNA synthesis by inhibiting dihydrofolate reductase. DNA synthesis occurs during the S phase of the cell cycle, so the drug’s effectiveness is due to inhibition of cells in this phase. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;362;188;550;False;1;result_df
+06df9638-8d07-4a4c-83b2-5742bfd05447;The given manifestation is the most common symptom of which of the following neuroendocrine tumor of pancreas?;Insulinoma;Glucagonoma;Gastrinoma;Somatostatinoma;B;Glucagonoma;"The image shows Central necrosis & Peripheral Erythema ""Necrolytic Erythema Migrans"". It is the most common manifestation of Glucagonoma Glucagonoma / Hyperglycemic Cutaneous Syndrome. 4 D Syndrome Diabetes Mellitus - Dermatitis (M.C symptom) ""Necrolytic Erythema Migrans"" DVT Depression M.C site of tumor - Body & Tail of pancreas. Malignant Rx of choice: Distal Pancreatectomy.";Surgery;Pancreas;"Question:
+The given manifestation is the most common symptom of which of the following neuroendocrine tumor of pancreas?
+
+Option A:
+Insulinoma
+
+Option B:
+Glucagonoma
+
+Option C:
+Gastrinoma
+
+Option D:
+Somatostatinoma";"Selected option: A
+Rationale: The exam question refers to “the given manifestation,” but the specific manifestation is not provided in the case text. Without knowing which symptom is being described, it is impossible to determine which pancreatic neuroendocrine tumor it most commonly represents. Therefore, the correct answer cannot be identified from the information given.
+Confidence: 20
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam question refers to “the given manifestation,” but the specific manifestation is not provided in the case text. Without knowing which symptom is being described, it is impossible to determine which pancreatic neuroendocrine tumor it most commonly represents. Therefore, the correct answer cannot be identified from the information given.
+Confidence: 20";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;671;1024;False;1;result_df
+dece6b72-b1c1-416c-989f-8393064555b7;The WHO announced, immunisation is a primary responsibility of -;States;International community;Voluntary agencies;An individual;A;States;Ans. is 'a' i.e., States;Social & Preventive Medicine;;"Question:
+The WHO announced, immunisation is a primary responsibility of -
+
+Option A:
+States
+
+Option B:
+International community
+
+Option C:
+Voluntary agencies
+
+Option D:
+An individual";"Selected option: A
+Rationale: The question states that the WHO announced immunisation is a primary responsibility of a particular entity. Among the options, ""States"" aligns with the WHO's typical designation of national governments as primarily responsible for immunisation programs. Therefore, option A is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question states that the WHO announced immunisation is a primary responsibility of a particular entity. Among the options, ""States"" aligns with the WHO's typical designation of national governments as primarily responsible for immunisation programs. Therefore, option A is the correct choice.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;114;451;False;1;result_df
+a0506f15-281c-4e8b-ad67-1fe713fba743;Drug not given for Prophylaxis of Malaria is:;Chloroquine;Progaunil;Aeseunate;Doxycycline;C;Aeseunate;Aeseunate;Pharmacology;;"Question:
+Drug not given for Prophylaxis of Malaria is:
+
+Option A:
+Chloroquine
+
+Option B:
+Progaunil
+
+Option C:
+Aeseunate
+
+Option D:
+Doxycycline";"Selected option: C
+Rationale: Chloroquine, proguanil, and doxycycline are all agents used for malaria prophylaxis, whereas artesunate (spelled “Aeseunate” in the option) is employed for treatment of acute malaria and not for prophylaxis. Therefore, the drug not given for prophylaxis is artesunate. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Chloroquine, proguanil, and doxycycline are all agents used for malaria prophylaxis, whereas artesunate (spelled “Aeseunate” in the option) is employed for treatment of acute malaria and not for prophylaxis. Therefore, the drug not given for prophylaxis is artesunate. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;278;621;False;1;result_df
+c817cff3-12f4-446f-942e-d1c0787e10e1;CHA is used in Rx of?;Ca Lung;Ca Stomach;Head and neck cancer;NHL;A;Ca Lung;CHA is Continous Hyper fractionated accelerated Radiotherapy used for management of non-small cell lung cancer.;Radiology;Nuclear medicine;"Question:
+CHA is used in Rx of?
+
+Option A:
+Ca Lung
+
+Option B:
+Ca Stomach
+
+Option C:
+Head and neck cancer
+
+Option D:
+NHL";"Selected option: C
+Rationale: The abbreviation CHA refers to a chemotherapy regimen (Cyclophosphamide, Hydroxyurea, Adriamycin) that is traditionally employed in the treatment of advanced head and neck cancers. The other listed cancers (lung, stomach, NHL) are not commonly associated with this specific regimen. 
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The abbreviation CHA refers to a chemotherapy regimen (Cyclophosphamide, Hydroxyurea, Adriamycin) that is traditionally employed in the treatment of advanced head and neck cancers. The other listed cancers (lung, stomach, NHL) are not commonly associated with this specific regimen. 
+Confidence: 78";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;335;523;858;False;1;result_df
+7793f91e-a2f2-40d7-a32a-6f41b6303af3;Which one of the following drug may be used for prevention of relapse of P. vivax infection -;Chloroquine;Primaquine;Atovaquone;Tetracycline;B;Primaquine;Ans. is 'b' i.e., Primaquine;Pharmacology;;"Question:
+Which one of the following drug may be used for prevention of relapse of P. vivax infection -
+
+Option A:
+Chloroquine
+
+Option B:
+Primaquine
+
+Option C:
+Atovaquone
+
+Option D:
+Tetracycline";"Selected option: B
+Rationale: The question asks for a drug that can prevent relapse of Plasmodium vivax infection. Relapse is due to dormant liver hypnozoites, which are specifically targeted by primaquine. The other listed drugs (chloroquine, atovaquone, tetracycline) are effective against blood-stage parasites but do not prevent relapse. Therefore, primaquine is the appropriate choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks for a drug that can prevent relapse of Plasmodium vivax infection. Relapse is due to dormant liver hypnozoites, which are specifically targeted by primaquine. The other listed drugs (chloroquine, atovaquone, tetracycline) are effective against blood-stage parasites but do not prevent relapse. Therefore, primaquine is the appropriate choice.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;198;548;False;1;result_df
+d0177b6e-64c5-4753-bae9-a9e8643d7590;Vitamin E prevents rancidity by virtue of its---------property:;Antioxidant;Oxidant;Sulfuration;Hydrogenation;A;Antioxidant;A Harper, 26th ed, p. 486 & 25th ed. p. 647;Biochemistry;Vitamins and Minerals;"Question:
+Vitamin E prevents rancidity by virtue of its---------property:
+
+Option A:
+Antioxidant
+
+Option B:
+Oxidant
+
+Option C:
+Sulfuration
+
+Option D:
+Hydrogenation";"Selected option: A
+Rationale: The question asks which property of vitamin E prevents rancidity. Rancidity is caused by oxidative degradation of fats, and vitamin E is well known for its antioxidant activity that protects lipids from oxidation. Therefore, the correct property is its antioxidant effect. The other options (oxidant, sulfuration, hydrogenation) do not describe vitamin E’s role in preventing rancidity.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which property of vitamin E prevents rancidity. Rancidity is caused by oxidative degradation of fats, and vitamin E is well known for its antioxidant activity that protects lipids from oxidation. Therefore, the correct property is its antioxidant effect. The other options (oxidant, sulfuration, hydrogenation) do not describe vitamin E’s role in preventing rancidity.
+Confidence: 100";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;212;553;False;1;result_df
+042051a1-e58d-4b7b-8c2a-ca1870f3be36;Curvature of cornea can be measured by –;Keratometry;Direct ophthalmoscopy;Retino scopy;Perimetry;A;Keratometry;;Ophthalmology;;"Question:
+Curvature of cornea can be measured by –
+
+Option A:
+Keratometry
+
+Option B:
+Direct ophthalmoscopy
+
+Option C:
+Retino scopy
+
+Option D:
+Perimetry";"Selected option: A
+Rationale: The question asks which method measures corneal curvature. Keratometry is the instrument specifically designed to assess the curvature of the cornea. The other listed techniques (direct ophthalmoscopy, retinoscopy, perimetry) assess different ocular parameters and do not measure corneal curvature.
+Confidence: 98
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which method measures corneal curvature. Keratometry is the instrument specifically designed to assess the curvature of the cornea. The other listed techniques (direct ophthalmoscopy, retinoscopy, perimetry) assess different ocular parameters and do not measure corneal curvature.
+Confidence: 98";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;120;462;False;1;result_df
+55b6bc83-2e1f-442f-8845-8eb7a425ec36;Berbeck's granules are seen in;Langerhan cells;Lymphocytes;Neutrophils;Basophils;A;Langerhan cells;"Ans. a (Langerhan cells). (Ref. Robbins, Pathologic Basis of Disease 6th/pg.685)HISTIOCYTOSIS# Histiocytosis represents clonal proliferation of antigen- presenting dendritic cells.# It is of two types:- Localized histiocytosis (70%) i.e. Eosinophilic granuloma. It is the most benign variety of langerhans cell histiocytosis.- Disseminated histiocytosis (30%)i. Hand - Schuller - Christian disease (chronic)ii. Letterer-Siwe disease (fulminant)# Age: 5-10 years most common# Location: Bone (in children) or lung (in adults) most commonly involved.# Sites of infection:- Flat bones: calvarium > mandible > ribs > pelvis > vertebrae- Long bones- Skull: Diplopic space of parietal bone (most common) affected.i. Round/ovoid punched out lesion with beveled edge ('Hole within hole' appearance) with sharply marginated without the sclerotic rim with ""button sequestrum"" with soft tissue mass overlying lesion (geographic skull).- Jaw: Floating tissue mass overlying lesion- Vertebra plana- Painful diaphyseal expansile lytic long bone lesions.# Pathology:- Birbeck's granules/HX bodies are characteristic pathologic feature of histiocytosis X, noted in cytoplasm of Langerhan cells.- On electron microscope they have 'tennis-racket' appearance.- These tumor cells typically express HLA-DR and CDla.DISEASESCELLULAR CHARACTERISTICS OF THE LESIONSTREATMENTClass 1(Langerhans cell histiocytosis )Langerhans cells (CDla positive) with Birbeck granulesLocal therapy for isolated lesions; chemotherapy for disseminated disease.Class II(Infection-associated hemophagocytic syndrome)Morphologically normal reactive macrophages with prominent erythrophagocytosisChemotherapy; allogeneic bone marrow transplantation.Class III (Malignant histiocytosis)Neoplastic proliferation of cells with characteristics of monocytes/ macrophages or their precursors iAntineoplastic chemotherapy, including - methotrexate, vincristine, etoposide, imatinib....are being tried.";Pathology;Blood;"Question:
+Berbeck's granules are seen in
+
+Option A:
+Langerhan cells
+
+Option B:
+Lymphocytes
+
+Option C:
+Neutrophils
+
+Option D:
+Basophils";"Selected option: A
+Rationale: The question refers to Berbeck's granules, which are a misspelling of Birbeck granules, a distinctive rod‑shaped organelle found in Langerhans cells. None of the other listed cell types contain these granules. Therefore the correct answer is Langerhan cells (Option A).
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question refers to Berbeck's granules, which are a misspelling of Birbeck granules, a distinctive rod‑shaped organelle found in Langerhans cells. None of the other listed cell types contain these granules. Therefore the correct answer is Langerhan cells (Option A).
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;279;619;False;1;result_df
+be58d298-c4a5-4fc8-8d04-6cd4bde09efc;A 48 year old waitress presents to a physician with malaise, loss of appetite, nausea, moderate fever, and jaundice.Laboratory tests indicate a marked increase in serum transaminases. Serology for hepatitis viruses is performed and indicates positive results for the presence of HBsAg, HBc IgM antibody, and HCV antibody. Antibody tests for HBsAb and HAV are negative. The results indicate:;A dual infection of HBV and HAV;Chronic hepatitis A infection;Chronic hepatitis B infection;The presence of an acute HBV infection.;D;The presence of an acute HBV infection.;"The presence of hepatitis B surface antigen (HBsAg) along with hepatitis B core IgM antibody (HBc IgM Ab), and the absence of hepatitis B surface antibody (HBsAb) indicates the presence of the early stages of an acute infection with Hepatitis B. The presence of antibody to Hepatitis C (HCV) only indicates exposure, but not a specific time of exposure; however, 85% of patients who are infected with HCV develop chronic infections, indicating that this patient has an 85% chance of having a dual infection with HBV and HCV. The acute or chronic HCV infection can be confirmed by PCR. A dual infection of HBV and HAV is not plausible since the IgM anti-HAV serology is negative. Hepatitis A does not cause chronic disease. Chronic HBV infection is unlikely because the patient has HBc IgM Ab, which is characteristic of an acute infection, rather than a chronic infection. Ref: Ray C.G., Ryan K.J. (2010). Chapter 13. Hepatitis Viruses. In C.G. Ray, K.J. Ryan (Eds), Sherris Medical Microbiology, 5e.";Microbiology;;"Question:
+A 48 year old waitress presents to a physician with malaise, loss of appetite, nausea, moderate fever, and jaundice.Laboratory tests indicate a marked increase in serum transaminases. Serology for hepatitis viruses is performed and indicates positive results for the presence of HBsAg, HBc IgM antibody, and HCV antibody. Antibody tests for HBsAb and HAV are negative. The results indicate:
+
+Option A:
+A dual infection of HBV and HAV
+
+Option B:
+Chronic hepatitis A infection
+
+Option C:
+Chronic hepatitis B infection
+
+Option D:
+The presence of an acute HBV infection.";"Selected option: D
+Rationale: The patient’s serology shows HBsAg positive and HBc IgM positive, which are markers of an acute hepatitis B virus infection. HBsAb is negative, ruling out immunity, and HAV tests are negative, excluding hepatitis A involvement. The presence of HCV antibody indicates prior exposure but does not change the interpretation of the acute HBV markers. Therefore, the findings indicate an acute HBV infection.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The patient’s serology shows HBsAg positive and HBc IgM positive, which are markers of an acute hepatitis B virus infection. HBsAb is negative, ruling out immunity, and HAV tests are negative, excluding hepatitis A involvement. The presence of HCV antibody indicates prior exposure but does not change the interpretation of the acute HBV markers. Therefore, the findings indicate an acute HBV infection.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;429;293;722;False;1;result_df
+a07386e6-aad1-4b91-886a-7948ad0a8734;Obstetric care will mostly effect;Infant moality rate;Late neonatal moality rate;Early neonatal moality rate;Perinatal moality rate;D;Perinatal moality rate;Ref:Park's Text book of Preventive and Social Medicine 25th ed;Social & Preventive Medicine;obstetrics,pediatrics and geriatrics;"Question:
+Obstetric care will mostly effect
+
+Option A:
+Infant moality rate
+
+Option B:
+Late neonatal moality rate
+
+Option C:
+Early neonatal moality rate
+
+Option D:
+Perinatal moality rate";"Selected option: D
+Rationale: Obstetric care pertains to maternal management around delivery, which most directly influences deaths occurring around the time of birth, i.e., perinatal mortality (including stillbirths and early neonatal deaths). Therefore, it will mostly affect the perinatal mortality rate rather than infant, late neonatal, or early neonatal mortality alone.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Obstetric care pertains to maternal management around delivery, which most directly influences deaths occurring around the time of birth, i.e., perinatal mortality (including stillbirths and early neonatal deaths). Therefore, it will mostly affect the perinatal mortality rate rather than infant, late neonatal, or early neonatal mortality alone.
+Confidence: 90";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;225;571;False;1;result_df
+fc6a7940-35aa-4c0c-9938-46bcd0fc8578;Alzheimer's disease associated chromosome is;2;6;12;19;D;19;"In familial Alzheimer disease and down syndrome. The gene encoding APP on chromosome 21 is involved.
+The genitic locus on chromosome 19 that encodes apolipoprotein E (ADOE) has a strong inthences on the risk of developing AD.";Pathology;;"Question:
+Alzheimer's disease associated chromosome is
+
+Option A:
+2
+
+Option B:
+6
+
+Option C:
+12
+
+Option D:
+19";"Selected option: D
+Rationale: Among the listed chromosomes, chromosome 19 is known to carry the APOE gene, whose ε4 allele is a major genetic risk factor for Alzheimer's disease. The other chromosomes listed (2, 6, 12) are not commonly associated with Alzheimer's susceptibility. Therefore, the correct answer is chromosome 19.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Among the listed chromosomes, chromosome 19 is known to carry the APOE gene, whose ε4 allele is a major genetic risk factor for Alzheimer's disease. The other chromosomes listed (2, 6, 12) are not commonly associated with Alzheimer's susceptibility. Therefore, the correct answer is chromosome 19.
+Confidence: 90";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;329;188;517;False;1;result_df
+5bfcbbb4-a203-42c5-9f36-fa86b532fae0;Exhumation is done following cou order. Only skull bone was found with basiocciput fused with basisphenoid. What is the approximate age?;18 - 21 years;40 - 50 years;70 -80 years;6-7 years;A;18 - 21 years;The basiocciput fuses with the basisphenoid at about 18 to 21 years. AGE ESTIMATION FROM SKULL Closure of posterior frontanalle (Lambda): Bih to 6 months Closure of Anterior frontanelle (Bregma):1 1/2 -2 years Closure of Metopic suture: 2- 4years Two halves of mandible fuse together: 1-2 years Basiocciput and basisphenoid: 18-20 years Lambdoid suture 45-50 years Parieto-temporal 60-70 years Saggital suture Coronal suture Posterior one third: 30 - 40 years Upper half: 40- 50 years Anterior one third: 40 - 50 years Lower half : 50 - 60 years Middle one third: 50 - 60 years CEAIN FACTS REGARDING SKULL SUTURAL CLOSURE Sagittal suture is most reliable for age estimation, followed by lambdoid and then coronal sutures. Closure of skull sutures begins on the inner side (endocranially), 5-10 years earlier than on the outer side (ectocranially).;Forensic Medicine;JIPMER 2018;"Question:
+Exhumation is done following cou order. Only skull bone was found with basiocciput fused with basisphenoid. What is the approximate age?
+
+Option A:
+18 - 21 years
+
+Option B:
+40 - 50 years
+
+Option C:
+70 -80 years
+
+Option D:
+6-7 years";"Selected option: A
+Rationale: The exam states that the basiocciput is fused with the basisphenoid. In skeletal development, this synchondrosis typically fuses in late adolescence, around 18‑21 years of age. Therefore the approximate age corresponding to this finding is the 18‑21 year range. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The exam states that the basiocciput is fused with the basisphenoid. In skeletal development, this synchondrosis typically fuses in late adolescence, around 18‑21 years of age. Therefore the approximate age corresponding to this finding is the 18‑21 year range. 
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;366;256;622;False;1;result_df
+e882bbe7-e64e-4381-ad21-740766e34e87;Which of the following NSAID is preferred in treatment of dysmenorrhoea;Indomethacin;Ketorolac;Mefenamic acid;Naproxen;C;Mefenamic acid;;Pharmacology;;"Question:
+Which of the following NSAID is preferred in treatment of dysmenorrhoea
+
+Option A:
+Indomethacin
+
+Option B:
+Ketorolac
+
+Option C:
+Mefenamic acid
+
+Option D:
+Naproxen";"Selected option: C
+Rationale: The question asks which NSAID is preferred for treating dysmenorrhoea. Among the listed agents, mefenamic acid is widely recognized as a first‑line NSAID specifically indicated for primary dysmenorrhoea, making it the most appropriate choice. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which NSAID is preferred for treating dysmenorrhoea. Among the listed agents, mefenamic acid is widely recognized as a first‑line NSAID specifically indicated for primary dysmenorrhoea, making it the most appropriate choice. 
+Confidence: 85";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;275;625;False;1;result_df
+81697ce5-1551-43f9-a2c6-b41cf41fb01b;Kerley B line are seen at;Apex;Cardiophrenic angle;Lung fissure;Pleural surface;D;Pleural surface;Ans. is 'd' i.e., Pleural surface Kerley's line Kerley's line is a linear opacity which, depending on its locaton, extent and orientation, may be be fuher classified as :? Kerley's A lines o These are thin, non-branching lines radiating from hilum. These lines are 2-6 cm in length. These lines are found in the mid and upper zones of the lung fields pleural. These lines are due to the thick interlobar septa. Kerley's B lines (septal lines) These are transverse (Horizontal) lines at the lung base pleural. These are 1-2 cm in length and are perpendicular to pleura. Kerley's B line is due to the thickening of interlobar septa due to edema caused by pulmonary venous hypeension (congestion), as occurs in left ventricular failure or mitral stenosis;Medicine;;"Question:
+Kerley B line are seen at
+
+Option A:
+Apex
+
+Option B:
+Cardiophrenic angle
+
+Option C:
+Lung fissure
+
+Option D:
+Pleural surface";"Selected option: D
+Rationale: Kerley B lines are short horizontal radiographic lines that represent thickened interlobular septa and are classically located at the peripheral lung zones adjacent to the pleura. Therefore, they are seen at the pleural surface rather than at the apex, cardiophrenic angle, or lung fissure.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Kerley B lines are short horizontal radiographic lines that represent thickened interlobular septa and are classically located at the peripheral lung zones adjacent to the pleura. Therefore, they are seen at the pleural surface rather than at the apex, cardiophrenic angle, or lung fissure.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;196;536;False;1;result_df
+f60409ea-fa2c-4247-b1a1-c15f8124e62c;Which of the following is not a feature of anterior uveitis;Cells in anterior chamber;Normal pupil;Keratic precipitates;Corneal edema;B;Normal pupil;Anterior uveitis. It is inflammation of the uveal tissue from iris up to pars plicata of the ciliary body.It may be subdivided into :Iritis, in which inflammation predominantly affects the iris.Iridocyctitis in which iris and pars plicata pa of the ciliary body are equally involved, andCyclitis, in which pars plicata pa of the ciliary body is predominantly affected.In an active stage of anterior uveitis, cellular deposits are observed in the angle of anterior chamber by gonioscopic examination.Keratic precipitates (KPs) are proteinaceous cellular deposits occurring at the back of the cornea.Pupils are small and irregular.;Ophthalmology;Uveal tract;"Question:
+Which of the following is not a feature of anterior uveitis
+
+Option A:
+Cells in anterior chamber
+
+Option B:
+Normal pupil
+
+Option C:
+Keratic precipitates
+
+Option D:
+Corneal edema";"Selected option: B
+Rationale: Anterior uveitis typically presents with inflammatory cells in the anterior chamber, keratic precipitates on the corneal endothelium, and a constricted (miotic) pupil due to ciliary spasm. A normal‑sized pupil is therefore not characteristic of this condition. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Anterior uveitis typically presents with inflammatory cells in the anterior chamber, keratic precipitates on the corneal endothelium, and a constricted (miotic) pupil due to ciliary spasm. A normal‑sized pupil is therefore not characteristic of this condition. 
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;248;592;False;1;result_df
+30299560-8605-4918-b3b0-244f68bad87e;Increase in pyruvate and lactate is seen in which of the following deficiency?;Thiamine;Pyridoxine;Niacin;Vitamin C;A;Thiamine;;Biochemistry;;"Question:
+Increase in pyruvate and lactate is seen in which of the following deficiency?
+
+Option A:
+Thiamine
+
+Option B:
+Pyridoxine
+
+Option C:
+Niacin
+
+Option D:
+Vitamin C";"Selected option: A
+Rationale: The question asks which deficiency leads to increased pyruvate and lactate. Thiamine is required for pyruvate dehydrogenase activity; without it, pyruvate cannot be converted to acetyl‑CoA, causing pyruvate and lactate to accumulate. The other listed vitamins are not directly involved in this pathway. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which deficiency leads to increased pyruvate and lactate. Thiamine is required for pyruvate dehydrogenase activity; without it, pyruvate cannot be converted to acetyl‑CoA, causing pyruvate and lactate to accumulate. The other listed vitamins are not directly involved in this pathway. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;176;522;False;1;result_df
+ddf9f347-aaa1-49e2-b623-2b21b7380d85;You are explaining to a patient about different modalities of pain relief in labour. The patient has opted for epidural anaesthesia. What level of block is desired for painless delivery by epidural anaesthesia?;T11 - L5;T4 - S5;T10 - S5;L1 - S5;C;T10 - S5;An epidural block up to the level T10 will be adequate in preventing pain arising from the uterus and structures below during labour. Epidural anaesthesia should only be given after the onset of active labour. ie cervical dilatation of more than 3 cm. The complications of epidural anaesthesia include postural hypotension, urinary retention and paralysis of pelvic floor muscles. Note: Nitrous Oxide, pudendal block, spinal block, combined spinal epidural block and transcutaneous electrical nerve stimulation are other possible methods for pain relief during labour. Ref: Oxford Handbook of Clinical Specialities, 8th Edition, Page 66.;Gynaecology & Obstetrics;;"Question:
+You are explaining to a patient about different modalities of pain relief in labour. The patient has opted for epidural anaesthesia. What level of block is desired for painless delivery by epidural anaesthesia?
+
+Option A:
+T11 - L5
+
+Option B:
+T4 - S5
+
+Option C:
+T10 - S5
+
+Option D:
+L1 - S5";"Selected option: C
+Rationale: Painless delivery via epidural requires coverage of the uterine contraction pain (T10‑L1) and the perineal stretch pain (S2‑S5). Therefore the desired block level spans from T10 to S5, which corresponds to option C. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Painless delivery via epidural requires coverage of the uterine contraction pain (T10‑L1) and the perineal stretch pain (S2‑S5). Therefore the desired block level spans from T10 to S5, which corresponds to option C. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;377;267;644;False;1;result_df
+1aa7e5e9-bccb-4365-bb9c-4b5870d1b7e8;drug of choice in familial hyperkalemic periodic paralysis ?;acetazolamide;rolofyline;bumetinide;torasamide;A;acetazolamide;Hypokalemic Periodic Paralysis acetazolamides * Acute paralysis : Oral KCI (0.2-0.4 mmol/kg) every 30 min * Muscle strength and ECG should be monitored * IV therapy rarely required (e.g., when swallowing problems or vomiting is present) * Avoid potassium in dextrose solution * Mannitol is the preferred vehicle for IV potassium ref : kd tripathi 8th ed;Pharmacology;All India exam;"Question:
+drug of choice in familial hyperkalemic periodic paralysis ?
+
+Option A:
+acetazolamide
+
+Option B:
+rolofyline
+
+Option C:
+bumetinide
+
+Option D:
+torasamide";"Selected option: A
+Rationale: The question asks for the drug of choice in familial hyperkalemic periodic paralysis. Among the listed options, acetazolamide is a carbonic anhydrase inhibitor that is commonly used to treat this condition. The other options (rolofyline, bumetinide, torasamide) are not recognized treatments for this disorder. Therefore, acetazolamide is the appropriate choice.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the drug of choice in familial hyperkalemic periodic paralysis. Among the listed options, acetazolamide is a carbonic anhydrase inhibitor that is commonly used to treat this condition. The other options (rolofyline, bumetinide, torasamide) are not recognized treatments for this disorder. Therefore, acetazolamide is the appropriate choice.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;203;544;False;1;result_df
+61c76243-7f37-4564-b6c1-3f3c9079566b;Anacrotic pulse in felt in-;AR;MR;MS;AS;D;AS;;Medicine;;"Question:
+Anacrotic pulse in felt in-
+
+Option A:
+AR
+
+Option B:
+MR
+
+Option C:
+MS
+
+Option D:
+AS";"Selected option: A
+Rationale: The anacrotic (water-hammer) pulse is a classic clinical sign of aortic regurgitation, which is abbreviated as AR. Therefore the pulse is felt in AR. No other options correspond to this condition.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The anacrotic (water-hammer) pulse is a classic clinical sign of aortic regurgitation, which is abbreviated as AR. Therefore the pulse is felt in AR. No other options correspond to this condition.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;330;210;540;False;1;result_df
+87aa74c5-e8e0-4801-ba84-67a7affd1af4;Normal anionic gap is seen in one of thefollowing-;Diarrhoea;Uremia;Lactic acidosis;Ketosis;A;Diarrhoea;"Eg for normal anion gap : diarrhea, pancreatic fistula, antacid drugs, Renal tubular acidosis, Renal failure, Ref: Harrison&;s 19thE";Medicine;Fluid and electrolytes;"Question:
+Normal anionic gap is seen in one of thefollowing-
+
+Option A:
+Diarrhoea
+
+Option B:
+Uremia
+
+Option C:
+Lactic acidosis
+
+Option D:
+Ketosis";"Selected option: A
+Rationale: Diarrhoea causes loss of bicarbonate from the gastrointestinal tract, leading to a hyperchloremic metabolic acidosis with a normal anion gap. The other conditions (uremia, lactic acidosis, ketosis) are classic causes of high anion gap metabolic acidosis. Therefore, only diarrhoea is associated with a normal anion gap.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Diarrhoea causes loss of bicarbonate from the gastrointestinal tract, leading to a hyperchloremic metabolic acidosis with a normal anion gap. The other conditions (uremia, lactic acidosis, ketosis) are classic causes of high anion gap metabolic acidosis. Therefore, only diarrhoea is associated with a normal anion gap.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;202;544;False;1;result_df
+d075ad84-ad6e-4a6f-8452-5bfafbf0b277;The suppoing cells of the testes are the following?;Spermatogonia;Leydig cells of testes;Cells of Seoli;Spermatids;C;Cells of Seoli;All cells of the spermatogenic lineage are closely associated with the extended surfaces of Seoli cells and depend on them for metabolic and physical suppo. Each Seoli cell suppos 30 to 50 developing germ cells. Impoant in Seoli cell function are elaborate tight occluding junctions between their basolateral membranes that form a blood-testis barrier within the seminiferous epithelium.;Anatomy;;"Question:
+The suppoing cells of the testes are the following?
+
+Option A:
+Spermatogonia
+
+Option B:
+Leydig cells of testes
+
+Option C:
+Cells of Seoli
+
+Option D:
+Spermatids";"Selected option: C
+Rationale: The supporting (nurturing) cells of the testes are the Sertoli cells, which are listed as ""Cells of Seoli"" in option C. The other options describe germ cells (spermatogonia, spermatids) or Leydig cells, which are endocrine rather than supportive. Therefore, option C is the correct answer.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The supporting (nurturing) cells of the testes are the Sertoli cells, which are listed as ""Cells of Seoli"" in option C. The other options describe germ cells (spermatogonia, spermatids) or Leydig cells, which are endocrine rather than supportive. Therefore, option C is the correct answer.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;240;587;False;1;result_df
+c1abad5a-64d2-468c-b5f5-7229508f3974;The MOST impoant risk factor for pancreatic cancer among the following is:;Cigarette smoking;Chronic pancreatitis;Diabetes;Alcohol;A;Cigarette smoking;All are risk factors of pancreatic malignancy except alcohol. Cigarette smoking is the most common environmental risk factor for pancreatic malignancy. Other risk factors are chronic pancreatitis and diabetes. ALSO NOTE: Alcohol does not appear to be a risk factor. Ref: Harrison, Edition -18, Page-787;Pathology;;"Question:
+The MOST impoant risk factor for pancreatic cancer among the following is:
+
+Option A:
+Cigarette smoking
+
+Option B:
+Chronic pancreatitis
+
+Option C:
+Diabetes
+
+Option D:
+Alcohol";"Selected option: A
+Rationale: Among the listed factors, cigarette smoking is widely recognized as the strongest and most important risk factor for pancreatic cancer, outweighing chronic pancreatitis, diabetes, and alcohol. The question asks for the most important, making smoking the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Among the listed factors, cigarette smoking is widely recognized as the strongest and most important risk factor for pancreatic cancer, outweighing chronic pancreatitis, diabetes, and alcohol. The question asks for the most important, making smoking the correct choice.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;233;576;False;1;result_df
+33cf92d8-7598-43d5-8b44-690aaf827672;Minimum vision loss with which cataract –;Blue dot cataract;Zonular cataract;Anterior polar cataract;Posterior polar cataract;A;Blue dot cataract;In blue dot cataract, opacities are usually stationary and do not affect vision.;Ophthalmology;;"Question:
+Minimum vision loss with which cataract –
+
+Option A:
+Blue dot cataract
+
+Option B:
+Zonular cataract
+
+Option C:
+Anterior polar cataract
+
+Option D:
+Posterior polar cataract";"Selected option: A
+Rationale: Among the listed cataract types, a blue dot (cerulean) cataract is known to be a mild, often asymptomatic form that typically causes the least visual impairment. The other options (zonular, anterior polar, posterior polar) are more likely to affect vision to a greater extent. Therefore, the cataract associated with minimum vision loss is the blue dot cataract.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Among the listed cataract types, a blue dot (cerulean) cataract is known to be a mild, often asymptomatic form that typically causes the least visual impairment. The other options (zonular, anterior polar, posterior polar) are more likely to affect vision to a greater extent. Therefore, the cataract associated with minimum vision loss is the blue dot cataract.
+Confidence: 90";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;280;623;False;1;result_df
+512ef4e3-f6a2-498b-b2de-c56370bafc95;Coracoid process of scapula is which type of epiphysis?;Pressure;Traction;Atavistic;Aberrant;C;Atavistic;ANSWER: (C) AtavisticREF: Human osteology by BDC 1st edition page 5-6See table of types of Epiphysis in Anatomy 2013 Session 1;Anatomy;Joints;"Question:
+Coracoid process of scapula is which type of epiphysis?
+
+Option A:
+Pressure
+
+Option B:
+Traction
+
+Option C:
+Atavistic
+
+Option D:
+Aberrant";"Selected option: B
+Rationale: The coracoid process of the scapula serves as an attachment point for several muscles and ligaments, which classifies it as a traction epiphysis. Among the given choices, ""Traction"" corresponds to this type. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The coracoid process of the scapula serves as an attachment point for several muscles and ligaments, which classifies it as a traction epiphysis. Among the given choices, ""Traction"" corresponds to this type. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;180;520;False;1;result_df
+3cbbe9a9-2085-4224-bcb6-43d321df9f77;Which of the following is first line vasopressor in case of cardiogenic shock?;Epinephrine;Nor-epinephrine;Dopamine;Dobutamine;B;Nor-epinephrine;No vasopressor has been demonstrated to change outcome in large clinical trials. Norepinephrine is first line vasopressor for cardiogenic shock.It has less adverse events like arrythmias. Dopamine should be avoided as first line therapy for cardiogenic shock. Dopamine causes hemodynamic changes according to the dose used -->proarrythmogenic effects. Dobutamine have positive inotropic effect but its vasodilatory action limits its use whenever vasoconstriction effect is required.;Medicine;Hea failure;"Question:
+Which of the following is first line vasopressor in case of cardiogenic shock?
+
+Option A:
+Epinephrine
+
+Option B:
+Nor-epinephrine
+
+Option C:
+Dopamine
+
+Option D:
+Dobutamine";"Selected option: B
+Rationale: The question asks for the first‑line vasopressor used in cardiogenic shock. Among the listed agents, norepinephrine (nor‑epinephrine) is the vasopressor most commonly recommended as the initial drug to support blood pressure in this setting, whereas epinephrine, dopamine, and dobutamine are either less preferred or primarily inotropic agents. Therefore, norepinephrine is the appropriate choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks for the first‑line vasopressor used in cardiogenic shock. Among the listed agents, norepinephrine (nor‑epinephrine) is the vasopressor most commonly recommended as the initial drug to support blood pressure in this setting, whereas epinephrine, dopamine, and dobutamine are either less preferred or primarily inotropic agents. Therefore, norepinephrine is the appropriate choice.
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;311;659;False;1;result_df
+a55745f3-8de5-4b83-8e30-40d3123f2a1e;The following is not a feature of pierre - Robin syndrome -;Hearing defect;Coloboma Iris;Respiratory distress;Mandibular hypoplasia;B;Coloboma Iris;Ans. is 'b' i.e., Cloboma iris Pierre Robin syndrome consists of - Micrognatnia Fore shoened floor of mouth CHDs Cleft palate or high arched palate Mandibular hypoplasia (Micrognathia) Respiratory obstruction Normal size tongue;Pediatrics;;"Question:
+The following is not a feature of pierre - Robin syndrome -
+
+Option A:
+Hearing defect
+
+Option B:
+Coloboma Iris
+
+Option C:
+Respiratory distress
+
+Option D:
+Mandibular hypoplasia";"Selected option: B
+Rationale: Pierre Robin syndrome is characterized by mandibular hypoplasia, respiratory distress due to airway obstruction, and can be associated with hearing defects from middle‑ear problems. Coloboma iris is an ocular malformation not described as a feature of this syndrome, making it the exception among the listed options.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Pierre Robin syndrome is characterized by mandibular hypoplasia, respiratory distress due to airway obstruction, and can be associated with hearing defects from middle‑ear problems. Coloboma iris is an ocular malformation not described as a feature of this syndrome, making it the exception among the listed options.
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;250;596;False;1;result_df
+bc764c6d-fb38-45f1-a8b3-da9fec0dc9d3;Physiological hyperplasia and hypertrophy are seen simultaneously in -;Breast at puberty;Skeletal muscle in athletes;Uterus in pregnancy;Thyroid gland during pregnancy;C;Uterus in pregnancy;"Ans-C""The massive physiological growth of the uterus during pregnancy is a good example of a hormone-induced increase in the size of an organ that results from both hypertrophy and hyperplasia.""The massive physiological growth of the uterus during pregnancy is a good example of a hormone-induced increase in the size of an organ that results from hypertrophy of muscle fibers.";Unknown;;"Question:
+Physiological hyperplasia and hypertrophy are seen simultaneously in -
+
+Option A:
+Breast at puberty
+
+Option B:
+Skeletal muscle in athletes
+
+Option C:
+Uterus in pregnancy
+
+Option D:
+Thyroid gland during pregnancy";"Selected option: C
+Rationale: The uterus enlarges during pregnancy through an increase in the number of smooth‑muscle cells (hyperplasia) and an increase in the size of each cell (hypertrophy). This simultaneous occurrence of hyperplasia and hypertrophy is characteristic of physiological changes in the pregnant uterus. The other options involve either primarily hyperplasia (thyroid) or primarily hypertrophy (skeletal muscle) without both processes together.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The uterus enlarges during pregnancy through an increase in the number of smooth‑muscle cells (hyperplasia) and an increase in the size of each cell (hypertrophy). This simultaneous occurrence of hyperplasia and hypertrophy is characteristic of physiological changes in the pregnant uterus. The other options involve either primarily hyperplasia (thyroid) or primarily hypertrophy (skeletal muscle) without both processes together.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;262;612;False;1;result_df
+0d59e9e1-506e-49ee-bc1e-f5017d29e3dc;Variant of papillary carcinoma thyroid;Medullary;Wahin;Columnar cell;Insular;C;Columnar cell;Papillary carcinoma common in female and younger age group . Its called hormone dependend tumour. Types: tall cell type - very aggresive type show capsular and vascular invasion. Columnar type- seen in males . Treatment :total oe near total thyroidectomy Suppresive dose of L thyroxine. SRB's Manual of Surgery.Edition -5. Pg no:480;Surgery;Endocrinology and breast;"Question:
+Variant of papillary carcinoma thyroid
+
+Option A:
+Medullary
+
+Option B:
+Wahin
+
+Option C:
+Columnar cell
+
+Option D:
+Insular";"Selected option: C
+Rationale: Among the listed choices, columnar cell carcinoma is recognized as a variant of papillary thyroid carcinoma, whereas medullary carcinoma, Warthin tumor, and insular carcinoma are distinct entities unrelated to papillary thyroid carcinoma. Therefore, option C correctly answers the question.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Among the listed choices, columnar cell carcinoma is recognized as a variant of papillary thyroid carcinoma, whereas medullary carcinoma, Warthin tumor, and insular carcinoma are distinct entities unrelated to papillary thyroid carcinoma. Therefore, option C correctly answers the question.
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;334;250;584;False;1;result_df
+cfca58e3-ccbd-4287-a5ba-0ea59d694f77;A 53-year-old woman presents with a 1-cm invasive carcinoma of the breast, detected on mammography. She feels well and has no other symptoms. On examination the lump is palpable, and there are no axillary lymph nodes. Which of the following is the most appropriate local therapy for her tumor?;simple mastectomy with axillary dissection;radiation therapy to breast and axilla;local excision plus radiation therapy;local excision and axillary dissection followed by radiation therapy;D;local excision and axillary dissection followed by radiation therapy;Breast-conserving surgery is now recommended for small tumors. Radiation therapy will decrease local recurrence rates. For tumors < 1 cm, adjuvant therapy is indicated only if axillary nodes are positive. Therefore, in this case, an axillary dissection will provide important therapeutic information. However, this is an area of rapidly changing knowledge and practice.;Medicine;Oncology;"Question:
+A 53-year-old woman presents with a 1-cm invasive carcinoma of the breast, detected on mammography. She feels well and has no other symptoms. On examination the lump is palpable, and there are no axillary lymph nodes. Which of the following is the most appropriate local therapy for her tumor?
+
+Option A:
+simple mastectomy with axillary dissection
+
+Option B:
+radiation therapy to breast and axilla
+
+Option C:
+local excision plus radiation therapy
+
+Option D:
+local excision and axillary dissection followed by radiation therapy";"Selected option: C
+Rationale: The patient has a small (1 cm) invasive breast carcinoma (T1) with no clinical axillary involvement (N0). For early‑stage, node‑negative disease, breast‑conserving surgery (local excision) followed by whole‑breast radiation provides equivalent local control to mastectomy and avoids unnecessary axillary dissection. Therefore, local excision plus radiation therapy is the most appropriate local treatment.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The patient has a small (1 cm) invasive breast carcinoma (T1) with no clinical axillary involvement (N0). For early‑stage, node‑negative disease, breast‑conserving surgery (local excision) followed by whole‑breast radiation provides equivalent local control to mastectomy and avoids unnecessary axillary dissection. Therefore, local excision plus radiation therapy is the most appropriate local treatment.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;415;306;721;False;1;result_df
+9eca0708-c7d5-4b63-aeac-e52086920e05;Which of the following combinations can result in severe toxicity due to inhibition of cytochrome 450 enzymes?;Amiodarone + phenytoin;Carbamazepine + phenytoin;Atorvastatin + Itraconazole;Phenytoin + Rifampin;C;Atorvastatin + Itraconazole;Atorvastatin is a statin which is anti dyslipidemic agent and itraconazole is an azole which is anti fungal which are metabolised by Cytochrome 450 oxidase enzyme. Due to inhibition of Cytochrome enzyme toxicity occurs. So third option is a better one.;Pharmacology;JIPMER 2019;"Question:
+Which of the following combinations can result in severe toxicity due to inhibition of cytochrome 450 enzymes?
+
+Option A:
+Amiodarone + phenytoin
+
+Option B:
+Carbamazepine + phenytoin
+
+Option C:
+Atorvastatin + Itraconazole
+
+Option D:
+Phenytoin + Rifampin";"Selected option: C
+Rationale: Itraconazole is a potent inhibitor of CYP3A4, the enzyme that metabolizes atorvastatin. Co‑administration can markedly raise atorvastatin plasma concentrations, leading to severe toxicity such as rhabdomyolysis. The other pairings either involve enzyme induction or do not clearly produce toxicity via CYP inhibition. 
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Itraconazole is a potent inhibitor of CYP3A4, the enzyme that metabolizes atorvastatin. Co‑administration can markedly raise atorvastatin plasma concentrations, leading to severe toxicity such as rhabdomyolysis. The other pairings either involve enzyme induction or do not clearly produce toxicity via CYP inhibition. 
+Confidence: 85";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;374;466;840;False;1;result_df
+745ad055-9a35-4897-9dab-df8b91b0a1be;Chronic discharging sinus with bone paicle is seen in?;Chronic osteomyelitis;Acute osteomyelitis;Subacute osteomyelitis;Garre's osteomyelitis;A;Chronic osteomyelitis;Ans. is 'a' i.e., Chronic osteomyelitis Clinical features of chronic osteomyelitis The commonest presenting symptom is a chronic discharging sinus. a history of bone piece discharge from the chronic sinus is considered diagnostic of chronic osteomyelitis. Pain is minimal or absent. Generalized symptoms of acute osteomyelitis are not present except in acute excacerbations. On examination there is irregular thickening of bone.Mi Id tenderness may be seen in deep palpation. Adjacent joint may be stiff. Radiological features Following are radiological features : - Thickening and irregularity of the coices. Patchy sclerosis Bone cavity : This is seen as an area of rarefaction surrounded by sclerosis. Sequestrum(Manipal 97) : This appears denser than the surrounding normal bone because the decalcification which occurs in normal bone, does not occur in dead bone. Granulation tissue surrounding the sequestrum gives rise to a radiolucent zone around it. A sequestrum may be visible in soft tissue. Involucrum and cloacae may be visible.;Surgery;;"Question:
+Chronic discharging sinus with bone paicle is seen in?
+
+Option A:
+Chronic osteomyelitis
+
+Option B:
+Acute osteomyelitis
+
+Option C:
+Subacute osteomyelitis
+
+Option D:
+Garre's osteomyelitis";"Selected option: A
+Rationale: The question describes a chronic discharging sinus accompanied by a bone sequestrum (“bone paicle”), which is a classic feature of chronic osteomyelitis. Acute and subacute forms typically lack a persistent sinus and sequestrum, and Garre's osteomyelitis presents with proliferative periostitis rather than a draining sinus. Therefore, chronic osteomyelitis best fits the description.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question describes a chronic discharging sinus accompanied by a bone sequestrum (“bone paicle”), which is a classic feature of chronic osteomyelitis. Acute and subacute forms typically lack a persistent sinus and sequestrum, and Garre's osteomyelitis presents with proliferative periostitis rather than a draining sinus. Therefore, chronic osteomyelitis best fits the description.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;248;603;False;1;result_df
+2c45d0b3-5194-414d-96ed-462d5de108d5;Amphotericin B toxicity can be reduced by ?;Incorporating it in liposomal complex;Combining with fluconazole;Combining with flucytosine;Injecting the drug with dextrose;A;Incorporating it in liposomal complex;;Pharmacology;;"Question:
+Amphotericin B toxicity can be reduced by ?
+
+Option A:
+Incorporating it in liposomal complex
+
+Option B:
+Combining with fluconazole
+
+Option C:
+Combining with flucytosine
+
+Option D:
+Injecting the drug with dextrose";"Selected option: A
+Rationale: The question asks how to reduce Amphotericin B toxicity. Incorporating the drug into a liposomal complex is a known method to lessen its adverse effects, particularly nephrotoxicity. The other options (combining with fluconazole, flucytosine, or injecting with dextrose) are not indicated for toxicity reduction in the given question.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks how to reduce Amphotericin B toxicity. Incorporating the drug into a liposomal complex is a known method to lessen its adverse effects, particularly nephrotoxicity. The other options (combining with fluconazole, flucytosine, or injecting with dextrose) are not indicated for toxicity reduction in the given question.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;358;225;583;False;1;result_df
+0fb2d6f9-59f9-4f79-8971-755ead0cb680;Uterine artery is a branch of?;External iliac artery;Internal iliac artery;Aorta;Inferior vesical artery;B;Internal iliac artery;ANSWER: (B) Internal iliac arteryREF: BDC 4th edition page 387BRANCHES OF THE INTERNAL ILIAC ARTERY:branches of anterior division: (6 in males, 7 in females)Superior vesicalObturatorMiddle rectalInferior vesical (in males)Vaginal artery (in females)Inferior glutealInternal pudendalUterine artery (in females)Branches of posterior division:IliolumbarTwo lateral sacralSuperior gluteal arteryBRANCHES OF ABDOMINAL AORTA:Ventral branches:Celiac trunkSuperior mesenteric arteryInferior mesenteric arteryLateral branches:Inferior phrenic arteryMiddle suprarenal arteryRenal arteriesTesticular or ovarian arteries.Dorsal arteries:Lumbar arteries - 4 pairs.Median sacral artery (unpaired);Anatomy;Blood Vessels of Abdomen and Pelvis;"Question:
+Uterine artery is a branch of?
+
+Option A:
+External iliac artery
+
+Option B:
+Internal iliac artery
+
+Option C:
+Aorta
+
+Option D:
+Inferior vesical artery";"Selected option: B
+Rationale: The uterine artery supplies the uterus and is known to arise from the internal iliac artery, specifically its anterior division. The other listed vessels (external iliac artery, aorta, inferior vesical artery) are not the primary source of the uterine artery. Therefore, the correct choice is Internal iliac artery.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The uterine artery supplies the uterus and is known to arise from the internal iliac artery, specifically its anterior division. The other listed vessels (external iliac artery, aorta, inferior vesical artery) are not the primary source of the uterine artery. Therefore, the correct choice is Internal iliac artery.
+Confidence: 100";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;178;519;False;1;result_df
+8c2a87dc-5801-49b1-aee7-b7d207f245f4;Tolazoline is used as:;A thrombin inhibitor in peripheral angiography;A vasodilator in treating coronary artery stenosis during angio procedures;A vasoconstrictor in treatment of varices;An antispasmodic during biliary spasm;B;A vasodilator in treating coronary artery stenosis during angio procedures;;Pharmacology;;"Question:
+Tolazoline is used as:
+
+Option A:
+A thrombin inhibitor in peripheral angiography
+
+Option B:
+A vasodilator in treating coronary artery stenosis during angio procedures
+
+Option C:
+A vasoconstrictor in treatment of varices
+
+Option D:
+An antispasmodic during biliary spasm";"Selected option: B
+Rationale: Tolazoline is a non‑selective α‑adrenergic antagonist that produces vasodilation and is employed during coronary angiography to relieve coronary artery spasm or improve flow, fitting the description of a vasodilator used in angio procedures. It is not a thrombin inhibitor, vasoconstrictor, or biliary antispasmodic. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Tolazoline is a non‑selective α‑adrenergic antagonist that produces vasodilation and is employed during coronary angiography to relieve coronary artery spasm or improve flow, fitting the description of a vasodilator used in angio procedures. It is not a thrombin inhibitor, vasoconstrictor, or biliary antispasmodic. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;368;348;716;False;1;result_df
+39c7b792-8b98-462e-8459-e94a275faaad;The cause of larva currens:;Strongyloides stercoralis;Necator americanus;Ankylostoma duodenale;H. nana;A;Strongyloides stercoralis;"Ans. is 'a' i.e., Strongyloides stercoralis(Ref: Harrison, 19th/e, p.1415)* The migrating filariform larva of Strongyloides moves rapidly in a short line at the rate of 3-4 cm in an hour, hence it is termed ""larva currens"".";Microbiology;Parasitology;"Question:
+The cause of larva currens:
+
+Option A:
+Strongyloides stercoralis
+
+Option B:
+Necator americanus
+
+Option C:
+Ankylostoma duodenale
+
+Option D:
+H. nana";"Selected option: A
+Rationale: The question asks for the cause of larva currens, a rapidly moving skin rash characteristic of Strongyloides stercoralis infection. Among the listed options, Strongyloides stercoralis directly matches this condition. The other organisms are not associated with larva currens.
+Confidence: 98
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the cause of larva currens, a rapidly moving skin rash characteristic of Strongyloides stercoralis infection. Among the listed options, Strongyloides stercoralis directly matches this condition. The other organisms are not associated with larva currens.
+Confidence: 98";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;126;473;False;1;result_df
+1b0b2cef-035e-4cad-816f-9c89a433d214;One of the following is a reversible cause of dementia -;Toxic dementia;Alzheimer's ds.;Multi-infarct dementia;Pick ds.;A;Toxic dementia;"Reversible causes of dementia
+
+Surgically treatable:- Normal pressure hydrocephalus, brain tumors (frontal lobe tumor), meningioma, subdural hematoma due to head injury, hydrocephalus.
+Medically treatable:- Depression, hypothyroidism, alcohol abuse, vitamin B 12/folate/Niacin deficiency, any metabolic or endocrine disturbance, neurosyphilis, Hashimoto's encephalopathy, Wilson's disease, celiac disease, Whipple's disease, chronic meningoencephalitis, drugs and toxin (toxic dementia).
+
+Irreversible causes of dementia:- Alzheimer's disease, vascular (multi-infarct) dementia, Parkinsonism, Huntington's chorea, Lewy body dementia, Pick's disease.";Psychiatry;;"Question:
+One of the following is a reversible cause of dementia -
+
+Option A:
+Toxic dementia
+
+Option B:
+Alzheimer's ds.
+
+Option C:
+Multi-infarct dementia
+
+Option D:
+Pick ds.";"Selected option: A
+Rationale: The question asks for a reversible cause of dementia. Among the listed options, toxic dementia is known to be potentially reversible upon removal of the offending toxin, whereas Alzheimer's disease, multi‑infarct dementia, and Pick disease are progressive neurodegenerative conditions that are not reversible. Therefore, toxic dementia is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for a reversible cause of dementia. Among the listed options, toxic dementia is known to be potentially reversible upon removal of the offending toxin, whereas Alzheimer's disease, multi‑infarct dementia, and Pick disease are progressive neurodegenerative conditions that are not reversible. Therefore, toxic dementia is the correct choice.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;189;531;False;1;result_df
+c0f17773-6e85-4fd1-a46b-5d220ce3221c;A patient with external hemorrhoids develops pain while passing stools. Which of the following nerve mediating this pain?;Pudendal nerve;Hypogastric nerve;Sympathetic plexus;Splanchnic visceral nerve;A;Pudendal nerve;External hemorrhoids are covered by the mucous membrane of the lower half of the anal canal or the skin, and they are innervated by the inferior rectal nerves. Inferior rectal nerve is a branch of pudendal nerve. Lower half of anal canal is sensitive to pain, temperature, touch, and pressure.The pectinate line indicates the level where the upper half of the anal canal joins the lower half.The mucous membrane of the upper half is sensitive to stretch and is innervated by sensory fibers that ascend through the hypogastric plexuses.The involuntary internal sphincter is supplied by sympathetic fibers from the inferior hypogastric plexuses.The voluntary external sphincter is supplied by the inferior rectal nerve, a branch of the pudendal nerve and the perineal branch of the fouh sacral nerve. Ref: Clinical Anatomy By Regions By Richard S. Snell, Page 394;Anatomy;;"Question:
+A patient with external hemorrhoids develops pain while passing stools. Which of the following nerve mediating this pain?
+
+Option A:
+Pudendal nerve
+
+Option B:
+Hypogastric nerve
+
+Option C:
+Sympathetic plexus
+
+Option D:
+Splanchnic visceral nerve";"Selected option: A
+Rationale: The question asks which nerve mediates pain from external hemorrhoids. External hemorrhoids are located below the dentate line and receive somatic sensory innervation from the inferior rectal branch of the pudendal nerve. Therefore, the pudendal nerve is responsible for transmitting the pain described. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which nerve mediates pain from external hemorrhoids. External hemorrhoids are located below the dentate line and receive somatic sensory innervation from the inferior rectal branch of the pudendal nerve. Therefore, the pudendal nerve is responsible for transmitting the pain described. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;359;139;498;False;1;result_df
+f5062ea4-119d-4b33-a655-e8c06d319a94;Subcapsular nephrectomy is indicated is;Perinephric abscess;Hydronephrosis;Pyonephrosis;PCKD;C;Pyonephrosis;;Surgery;;"Question:
+Subcapsular nephrectomy is indicated is
+
+Option A:
+Perinephric abscess
+
+Option B:
+Hydronephrosis
+
+Option C:
+Pyonephrosis
+
+Option D:
+PCKD";"Selected option: C
+Rationale: Subcapsular (capsular) nephrectomy is classically indicated for pyonephrosis, an infected, non‑functioning kidney where removal while preserving the capsule helps control infection. The other listed conditions are not typical indications for this specific procedure.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Subcapsular (capsular) nephrectomy is classically indicated for pyonephrosis, an infected, non‑functioning kidney where removal while preserving the capsule helps control infection. The other listed conditions are not typical indications for this specific procedure.
+Confidence: 85";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;529;873;False;1;result_df
+181fceea-d83f-4b3f-89ec-161a709c4b2f;A patient of Chronic Renal Failure with GFR <40 ml/min/m2 is now suffering from Pulmonary TB. Which of the following drug does not require a dose reduction ?;Ethambutol;Isoniazid;Rifampicin;Streptomycin;C;Rifampicin;Mnemonic : BILE EXCRETED ANTI-MICROBIAL AGENTS: CEF - CEFoperazone, CEFtriaxone R - Rifampacin E- Erythromycin N - Nafacillin A - Ampicilllin L - Lincosamides (Clindamycin) DISEASE - Doxycycline Rifampicin: Its metabolised by liver and excreted the bile.Therefore its dose need not be reduced in a patient with Chronic Renal Failure. Ethambutol and Streptomycin are mainly excreted through the kidney,so they require a dosage modification in Renal Failure.;Pharmacology;Mycobacterial Diseases (TB, Leprosy and MAC);"Question:
+A patient of Chronic Renal Failure with GFR <40 ml/min/m2 is now suffering from Pulmonary TB. Which of the following drug does not require a dose reduction ?
+
+Option A:
+Ethambutol
+
+Option B:
+Isoniazid
+
+Option C:
+Rifampicin
+
+Option D:
+Streptomycin";"Selected option: B
+Rationale: In chronic renal failure with GFR <40 ml/min/m², drugs cleared renally such as ethambutol and streptomycin require dose reduction, while isoniazid is primarily metabolized hepatically and does not need adjustment. Rifampicin is also mainly hepatic, but the classic answer for “does not require dose reduction” in TB regimens for renal impairment is isoniazid. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: In chronic renal failure with GFR <40 ml/min/m², drugs cleared renally such as ethambutol and streptomycin require dose reduction, while isoniazid is primarily metabolized hepatically and does not need adjustment. Rifampicin is also mainly hepatic, but the classic answer for “does not require dose reduction” in TB regimens for renal impairment is isoniazid. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;370;215;585;False;1;result_df
+1b1cf752-98bb-40ad-980e-eef184eb0ab1;Posterior lenticonus is seen in ?;Alpo's syndrome;Lowe's syndrome;Marfan syndrome;Homocystinuria;B;Lowe's syndrome;Ans. is 'b' i.e., Lowe's syndrome Lenticonus refers to cone-shaped elevation of the anterior pole (anterior lenticonus) or posterior pole (posterior lenticonus) of the lens. Anterior lenticonus is seen in Alpo's syndrome. Posterior lenticonus is seen in Lowe's syndrome. On distant direct ophthalmoscopy, lenticonus present as an oil globule lying in the center of red reflex. Slit-lamp examination confirms the diagnosis.;Ophthalmology;;"Question:
+Posterior lenticonus is seen in ?
+
+Option A:
+Alpo's syndrome
+
+Option B:
+Lowe's syndrome
+
+Option C:
+Marfan syndrome
+
+Option D:
+Homocystinuria";"Selected option: B
+Rationale: Posterior lenticonus is a characteristic ocular manifestation of Lowe's syndrome (oculocerebrorenal syndrome). The other listed conditions are associated with different ocular findings (e.g., anterior lenticonus in Alport syndrome, ectopia lentis in Marfan and homocystinuria). Therefore, the correct answer is Lowe's syndrome.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Posterior lenticonus is a characteristic ocular manifestation of Lowe's syndrome (oculocerebrorenal syndrome). The other listed conditions are associated with different ocular findings (e.g., anterior lenticonus in Alport syndrome, ectopia lentis in Marfan and homocystinuria). Therefore, the correct answer is Lowe's syndrome.
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;280;622;False;1;result_df
+0ae26ed7-b9cb-4fff-bec2-987137db4457;Blood agar is an example of ?;Enriched media;Indicator media;Enrichment media;Selective media;A;Enriched media;Ans. is 'a' i.e., Enriched media;Microbiology;;"Question:
+Blood agar is an example of ?
+
+Option A:
+Enriched media
+
+Option B:
+Indicator media
+
+Option C:
+Enrichment media
+
+Option D:
+Selective media";"Selected option: A
+Rationale: Blood agar contains added blood, providing extra nutrients that support the growth of fastidious organisms, which characterizes an enriched medium. It does not contain inhibitors (so not selective) nor pH indicators (so not indicator), and the term “enrichment media” is not the standard designation used for blood agar. Therefore, the correct classification is enriched media.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Blood agar contains added blood, providing extra nutrients that support the growth of fastidious organisms, which characterizes an enriched medium. It does not contain inhibitors (so not selective) nor pH indicators (so not indicator), and the term “enrichment media” is not the standard designation used for blood agar. Therefore, the correct classification is enriched media.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;334;202;536;False;1;result_df
+a206e054-2725-4044-87c1-0bfa85f4faa8;NADPH is used in:;Fatty acid synthesis;Ketone synthesis;Gluconeogenesis;Glycolysis;A;Fatty acid synthesis;A i.e. Fatty acid synthesis;Biochemistry;;"Question:
+NADPH is used in:
+
+Option A:
+Fatty acid synthesis
+
+Option B:
+Ketone synthesis
+
+Option C:
+Gluconeogenesis
+
+Option D:
+Glycolysis";"Selected option: A
+Rationale: NADPH functions as a reducing agent in anabolic pathways, notably fatty acid synthesis, where it provides the necessary electrons for chain elongation. The other listed processes (ketone synthesis, gluconeogenesis, glycolysis) primarily rely on NADH or NAD⁺ rather than NADPH. Therefore, fatty acid synthesis is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: NADPH functions as a reducing agent in anabolic pathways, notably fatty acid synthesis, where it provides the necessary electrons for chain elongation. The other listed processes (ketone synthesis, gluconeogenesis, glycolysis) primarily rely on NADH or NAD⁺ rather than NADPH. Therefore, fatty acid synthesis is the correct choice.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;152;491;False;1;result_df
+b6d2ff6c-ae57-453d-a46c-481be54ea957;The following set of finding is seen in DIVC;Increased fibrinogen, increased antithrombin III increased thrombin-antithrombin III comolexes;Increased FDP, decreased PT, increased antithrombin III;hicreased FDP, prolonged PT, increased thrombin- antithrombin complexes;Increased FDP, prolonged PT, reduced platlets;D;Increased FDP, prolonged PT, reduced platlets;In disseminated intravascular coagulation (DIC), coagulation is usually activated when blood is exposed to tissue factor. Severe, rapid-onset DIC causes severe thrombocytopenia, prolonged PT and PTT, a rapidly declining plasma fibrinogen level, and a high plasma d-dimer level Fibrinogen degradation product (FDP) testing is commonly used to aid in the diagnosis of disseminated intravascular coagulation (DIC). Increases in serum FDP levels can be caused by the following : DIC. Post fibrinolytic therapy. Ref Davidson 23rd edition pg 876;Medicine;Haematology;"Question:
+The following set of finding is seen in DIVC
+
+Option A:
+Increased fibrinogen, increased antithrombin III increased thrombin-antithrombin III comolexes
+
+Option B:
+Increased FDP, decreased PT, increased antithrombin III
+
+Option C:
+hicreased FDP, prolonged PT, increased thrombin- antithrombin complexes
+
+Option D:
+Increased FDP, prolonged PT, reduced platlets";"Selected option: D
+Rationale: Disseminated intravascular coagulation (DIVC/DIC) typically shows consumption of clotting factors and platelets, resulting in prolonged PT, elevated fibrin degradation products, and a reduced platelet count. Option D matches this classic triad. 
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Disseminated intravascular coagulation (DIVC/DIC) typically shows consumption of clotting factors and platelets, resulting in prolonged PT, elevated fibrin degradation products, and a reduced platelet count. Option D matches this classic triad. 
+Confidence: 70";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;391;552;943;False;1;result_df
+7faeefb4-e852-4f91-b84d-5faaae620d89;Route of administration of  Influenza vaccine;Subcutaneous;Oral;Intranasal;Intradermal;C;Intranasal;Influenza vaccine is live,trivalent administered intranasally.;Microbiology;;"Question:
+Route of administration of  Influenza vaccine
+
+Option A:
+Subcutaneous
+
+Option B:
+Oral
+
+Option C:
+Intranasal
+
+Option D:
+Intradermal";"Selected option: C
+Rationale: The influenza vaccine is commonly administered either intramuscularly or as a live attenuated formulation via the intranasal route. Among the listed options, intranasal is the recognized route for the live attenuated influenza vaccine, whereas subcutaneous, oral, and intradermal are not standard primary routes for influenza immunization. Therefore, intranasal is the best choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The influenza vaccine is commonly administered either intramuscularly or as a live attenuated formulation via the intranasal route. Among the listed options, intranasal is the recognized route for the live attenuated influenza vaccine, whereas subcutaneous, oral, and intradermal are not standard primary routes for influenza immunization. Therefore, intranasal is the best choice.
+Confidence: 85";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;336;673;False;1;result_df
+c2e6fcaa-2f29-47ad-b7e5-0763ebd3b5e7;Cardiac output decreases during;Moderate increase in environmental temperature;Anxiety and excitement;Eating;Standing from lying down position;D;Standing from lying down position;Ans. (d) Standing from lying down positionRef: Ganong, 25th ed/p.544Cardiac output changesNo change:SleepIncreases during:Anxiety and excitement (50-100%)Eating (30%)Exercise (up to 700%)High environmental temperaturePregnancyEpinephrineDecreases during:Standing from lyingHeart diseases;Physiology;Heart, Circulation, and Blood;"Question:
+Cardiac output decreases during
+
+Option A:
+Moderate increase in environmental temperature
+
+Option B:
+Anxiety and excitement
+
+Option C:
+Eating
+
+Option D:
+Standing from lying down position";"Selected option: D
+Rationale: Standing from a supine position causes blood to pool in the lower extremities, reducing venous return, stroke volume, and consequently cardiac output. In contrast, anxiety/excitement and eating increase metabolic demand and typically raise cardiac output, while a moderate rise in environmental temperature leads to vasodilation that is usually compensated by an increase or maintenance of cardiac output. Therefore, the condition most associated with a decrease in cardiac output is standing from lying down.
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Standing from a supine position causes blood to pool in the lower extremities, reducing venous return, stroke volume, and consequently cardiac output. In contrast, anxiety/excitement and eating increase metabolic demand and typically raise cardiac output, while a moderate rise in environmental temperature leads to vasodilation that is usually compensated by an increase or maintenance of cardiac output. Therefore, the condition most associated with a decrease in cardiac output is standing from lying down.
+Confidence: 80";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;311;650;False;1;result_df
+4b09d44c-d0df-4698-becc-2b9bc1bc3b57;Frusemide acts on;Ascending limb of LOH;PCT;DCT;Collecting duct;A;Ascending limb of LOH;"Ans: a (Ascending limb of Ref: Katzung 11th edLoop diuretics selectively inhibit NaCl reabsorption in the Thick Ascending Limb.Frusemide is a loop diuretic. Because of the large NaCl absorptive capacity of this segment and the fact that the diuretic action of these drugs is not limited by development of acidosis, which is usually seen with the carbonic anhydrase inhibitors.Loop diuretics are the most efficacious diuretic agents currently availableSegmentFunctionsDiuretic with Major ActionGlomerulusFormation of glomerular filtrateNoneProximal convoluted tubule (PCT)Reabsorption of 65% of filtered Na+/ K+/ CA2+, and Mg2+; 85% of NaHC03 , and nearly 100% of glucose and amino acids. I sos mo tic reabsorption of water.Carbonic anhydrase inhibitorsProximal tubule, Straight segmentsSecretion and reabsorption of organic acids and bases, including uric acid and most di ureticsNoneThin descending limb of Henl e's loopPassive reabsorption of waterNoneThick ascending limb of Henle's loop (TAL)Active reabsorption of 15-25% of filtered Na7 K7 CP; secondaryreabsorption of Ca2+ and Mg2+Loop diureticsDistal convoluted tubule (DCT)Active reabsorption of 4-8% of filtered Na+ and Cl""; Ca2+ reabsorption under parathyroid hormone controlThiazidesCortical collecting tubule (CCT)Na+ reabsorption (2- 5%) coupled to K+ and H+ secretionK+-s paring diureticsMedullary collecting ductWater reabsorption under vasopressin controlVasopressin antagonist";Pharmacology;Diuretic;"Question:
+Frusemide acts on
+
+Option A:
+Ascending limb of LOH
+
+Option B:
+PCT
+
+Option C:
+DCT
+
+Option D:
+Collecting duct";"Selected option: A
+Rationale: The question asks where frusemide (furosemide) acts. Furosemide is a loop diuretic that inhibits Na⁺‑K⁺‑2Cl⁻ transport in the thick ascending limb of the loop of Henle. Therefore, the correct anatomical site is the ascending limb of the LOH. No other options correspond to the known site of action for this drug.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks where frusemide (furosemide) acts. Furosemide is a loop diuretic that inhibits Na⁺‑K⁺‑2Cl⁻ transport in the thick ascending limb of the loop of Henle. Therefore, the correct anatomical site is the ascending limb of the LOH. No other options correspond to the known site of action for this drug.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;188;524;False;1;result_df
+2151ff23-cfa4-4b61-91bd-e7522a3ad29d;Acute metabolic acidosis:;Has biphasic effect on K+ excretion;Does not effect K + excretion;Decreases urinary K+ excretion;Increase urinary K+ excretion;C;Decreases urinary K+ excretion;When H+ concentration is increased as in acidosis, H+ ions are secreted (preferentially over K+ ions) in exchange of Na+Thus in acidosis K+ secretion into tubules (excretion) is inhibitedRef: Harrison's 18/e p366;Medicine;All India exam;"Question:
+Acute metabolic acidosis:
+
+Option A:
+Has biphasic effect on K+ excretion
+
+Option B:
+Does not effect K + excretion
+
+Option C:
+Decreases urinary K+ excretion
+
+Option D:
+Increase urinary K+ excretion";"Selected option: D
+Rationale: Acute metabolic acidosis stimulates renal H+ secretion, which is coupled with increased K+ secretion in the distal nephron, leading to increased urinary potassium excretion. Therefore, the correct statement is that acute metabolic acidosis increases urinary K+ excretion. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Acute metabolic acidosis stimulates renal H+ secretion, which is coupled with increased K+ secretion in the distal nephron, leading to increased urinary potassium excretion. Therefore, the correct statement is that acute metabolic acidosis increases urinary K+ excretion. 
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;353;240;593;False;1;result_df
+882352a5-35f5-4dbd-8c08-19fac23d9d1e;Definite markers for hepatoblastoma is: (PGI Nov 2009);LDH;Alpha-fetoprotein (AFP);hCG;Alkaline phosphatase;B;Alpha-fetoprotein (AFP);"Ans: B (Alpha-fetoprotein (AFP)) ""A valuable serum tumor marker, AFP is used in the diagnosis & monitoring of hepatic tumors AFP is elevated in almost all hepatoblastomas""- Nelson 18th/2155""Serum AFP is elevated in 85-90% of patients & cm serve as a useful marker for therapeutic response*""- Sabiston 18th/1507HepatoblastomaHepatoblastoma is the most common primary hepatic tum or of childhood'. Rare cases of adult hepatoblastoma have been reported, but overall, the median age of presentation is 18 months, & almost all cases occur before the age of 3 years.Recently it has been a/w familial polyposis syndrome.Most often, this tumor presents as an asymptomatic mass It arise from right lobe 3 times more than left";Unknown;;"Question:
+Definite markers for hepatoblastoma is: (PGI Nov 2009)
+
+Option A:
+LDH
+
+Option B:
+Alpha-fetoprotein (AFP)
+
+Option C:
+hCG
+
+Option D:
+Alkaline phosphatase";"Selected option: B
+Rationale: Alpha‑fetoprotein (AFP) is the established tumor marker that is specifically elevated in hepatoblastoma, while LDH, hCG, and alkaline phosphatase are not definitive markers for this tumor.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Alpha‑fetoprotein (AFP) is the established tumor marker that is specifically elevated in hepatoblastoma, while LDH, hCG, and alkaline phosphatase are not definitive markers for this tumor.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;429;780;False;1;result_df
+c9d64067-047d-4ebe-a0c6-e0a3ed50b37b;Ion responsible to prevent polyspermy at the time of feilization in mammals is -;Na;K;Ca;Mg;C;Ca;Ans. is 'c' i.e., Ca Only one sperm can enter into oocyte, and fuher entry of sperms is prevented by the activation of ovum. Fusion of membranes of the gametes (sperm and ovum) leads to ovum activation which involves following events:- Membrane potential of ovum decreases (depolarization). Release of calcium ions from intracellular egg reserve leads to exocytosis of coical granules into the perivitelline space. The spread of coical granules along perivitelline membrane prevents fuher entry of sperm into the ovum. This is called vitelline block to polyspermy.;Anatomy;;"Question:
+Ion responsible to prevent polyspermy at the time of feilization in mammals is -
+
+Option A:
+Na
+
+Option B:
+K
+
+Option C:
+Ca
+
+Option D:
+Mg";"Selected option: C
+Rationale: The prevention of polyspermy during mammalian fertilization involves the cortical reaction, which is triggered by an influx of calcium ions. This calcium surge leads to zona pellucida modifications that block additional sperm entry. Therefore, calcium is the ion responsible. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The prevention of polyspermy during mammalian fertilization involves the cortical reaction, which is triggered by an influx of calcium ions. This calcium surge leads to zona pellucida modifications that block additional sperm entry. Therefore, calcium is the ion responsible. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;194;532;False;1;result_df
+6e5c3a68-5589-461b-8686-8a5cdc767a29;Most important cause of interstitial nephritis is -;Drugs;Infection;Malignancy;Dehydration;A;Drugs;"Ans. is 'a' i.e.t Drugs [Ref: Harrison 18th/e p. 23671. (285.1), 2368; 11th/ep. 1806, 18071o In initial reports, the vast majority of cases of acute interstitial nephritis results from exposure to beta-lactam antibiotics, particularly methicillin.o More recently; drugs other than antibiotics as well as infections and other underlying conditions have been recognized as clinically significant causes.The distribution of causes of acute interstitial nephritis has been reported as follows -o Drugs-75% (antibiotics responsible for l/3rd cases),o Infections-5-10%.o Tubulointerstitial nephritis and uveitis (TINU) syndrome-5-10%.o Systemic diseases including sarcoidosis,-10-15%Sjogren's syndrome, SLE and others. The most common drutis causins acute interstitial nephritis are -o NS A IDS including selective cyclooxygenase inhibitors.o Rifampicin.o Antimicrobial sulfonamide including trimethoprim sulfamethoxazole.o Diuretics including loop diuretics such as furosemide and Bumetanide and thiazide type diuretics.o Ciprofloxacin, Cimetidine, Allopurinolo Proton pump inhibitors omeprazoleo Indinaviro 5 Aminosalicylates";Medicine;Urinary Tract Infections and Interstitial Cystitis;"Question:
+Most important cause of interstitial nephritis is -
+
+Option A:
+Drugs
+
+Option B:
+Infection
+
+Option C:
+Malignancy
+
+Option D:
+Dehydration";"Selected option: A
+Rationale: Interstitial nephritis is most commonly caused by drug exposure, such as antibiotics and NSAIDs, making drugs the primary etiologic factor among the listed options. The other options (infection, malignancy, dehydration) are less frequent causes. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Interstitial nephritis is most commonly caused by drug exposure, such as antibiotics and NSAIDs, making drugs the primary etiologic factor among the listed options. The other options (infection, malignancy, dehydration) are less frequent causes. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;180;517;False;1;result_df
+f4b887da-8f90-4f2b-89d6-baa93e1d0c42;Ormond's disease is:;Idiopathic lymphadenopathy;Retractile testis;Idiopathic retroperitoneal fibrosis;Idiopathic mediastinitis;C;Idiopathic retroperitoneal fibrosis;Ans: c (Idiopathic retroperitoneal fibrosis)Ref: Bailey & Love, 24th ed, p. 1151, T 67.16 & 23rd ed, p. 1024, T 56.9;Surgery;Peritoneum;"Question:
+Ormond's disease is:
+
+Option A:
+Idiopathic lymphadenopathy
+
+Option B:
+Retractile testis
+
+Option C:
+Idiopathic retroperitoneal fibrosis
+
+Option D:
+Idiopathic mediastinitis";"Selected option: C
+Rationale: The question asks for the definition of Ormond's disease. Among the options, the known medical definition of Ormond's disease is idiopathic retroperitoneal fibrosis, which corresponds to option C. The other options (idiopathic lymphadenopathy, retractile testis, idiopathic mediastinitis) do not match this definition.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks for the definition of Ormond's disease. Among the options, the known medical definition of Ormond's disease is idiopathic retroperitoneal fibrosis, which corresponds to option C. The other options (idiopathic lymphadenopathy, retractile testis, idiopathic mediastinitis) do not match this definition.
+Confidence: 100";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;345;136;481;False;1;result_df
+3cf56b49-f79f-46a8-8c2c-4e31f683506c;Anterior chamber depth:;Increases with age;Is lesser in women;Is lesser in myopes;Has hardly any effect on anterior chamber volume;B;Is lesser in women;Ans. Is lesser in women;Ophthalmology;;"Question:
+Anterior chamber depth:
+
+Option A:
+Increases with age
+
+Option B:
+Is lesser in women
+
+Option C:
+Is lesser in myopes
+
+Option D:
+Has hardly any effect on anterior chamber volume";"Selected option: B
+Rationale: Anterior chamber depth is known to be shallower in women compared with men, reflecting generally smaller ocular dimensions. The other statements are inaccurate: depth does not increase with age (it tends to decrease as the lens thickens), myopes usually have deeper (not shallower) chambers, and changes in depth directly affect anterior chamber volume. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Anterior chamber depth is known to be shallower in women compared with men, reflecting generally smaller ocular dimensions. The other statements are inaccurate: depth does not increase with age (it tends to decrease as the lens thickens), myopes usually have deeper (not shallower) chambers, and changes in depth directly affect anterior chamber volume. 
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;277;619;False;1;result_df
+70768e49-47bd-45f8-b184-5961acd0634b;The orientation of the SN plane to the FH plane should be:;SN plane is 7 degrees upwards anteriorly to FH plane;FH plane is 7 degrees upwards anteriorly to SN plane;SN plane is 5 degrees upwards anteriorly to FH plane;FH plane is 5 degrees upwards anteriorly to SN plane;A;SN plane is 7 degrees upwards anteriorly to FH plane;"An alternative horizontal reference line, easily and reliably detected on cephalometric radiographs, is the line from sella turcica (S) to the junction between the nasal and frontal bones (N). In an average individual, the SN plane is oriented at 6 to 7 degrees upwards anteriorly to the Frankfort plane.
+Ref: Contemporary orthodontics, William Proffit, 4th edition page 207";Dental;;"Question:
+The orientation of the SN plane to the FH plane should be:
+
+Option A:
+SN plane is 7 degrees upwards anteriorly to FH plane
+
+Option B:
+FH plane is 7 degrees upwards anteriorly to SN plane
+
+Option C:
+SN plane is 5 degrees upwards anteriorly to FH plane
+
+Option D:
+FH plane is 5 degrees upwards anteriorly to SN plane";"Selected option: A
+Rationale: The standard cephalometric relationship states that the Sella‑Nasion (SN) plane is inclined approximately 7° upward (anteriorly) relative to the Frankfort Horizontal (FH) plane. This matches the description in option A. The other options either reverse the relationship or give an incorrect angle of 5°.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The standard cephalometric relationship states that the Sella‑Nasion (SN) plane is inclined approximately 7° upward (anteriorly) relative to the Frankfort Horizontal (FH) plane. This matches the description in option A. The other options either reverse the relationship or give an incorrect angle of 5°.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;378;305;683;False;1;result_df
+6da296b7-369f-473d-a74e-f695bcc70a9f;The blood supply of Anterior Cruciate Ligament (ACL) is primarily derived from:;Superior medial genicular aery;Descending genicular aery;Middle genicular aery;Circumflex fibular aery;C;Middle genicular aery;"The primary blood supply to the Anterior cruciate ligament comes from the middle genicular aery which pierces the posterior capsule and enters the intercondylar notch near the femoral attachment. Ref: Campbell's Operative Ohopaedics, 11th Edition, Page 2497;Operative Ahroscopy, 3rd Edition, Pages 67, 68; Current Concepts in ACL Reconstruction By Freddie Fu, 2008, Chapter 2, Page 28";Surgery;;"Question:
+The blood supply of Anterior Cruciate Ligament (ACL) is primarily derived from:
+
+Option A:
+Superior medial genicular aery
+
+Option B:
+Descending genicular aery
+
+Option C:
+Middle genicular aery
+
+Option D:
+Circumflex fibular aery";"Selected option: C
+Rationale: The anterior cruciate ligament receives its primary vascular supply from the middle genicular artery, a branch of the popliteal artery that specifically perfuses the cruciate ligaments. While other genicular branches may contribute minor flow, the middle genicular artery is recognized as the main source. 
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The anterior cruciate ligament receives its primary vascular supply from the middle genicular artery, a branch of the popliteal artery that specifically perfuses the cruciate ligaments. While other genicular branches may contribute minor flow, the middle genicular artery is recognized as the main source. 
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;358;243;601;False;1;result_df
+44970fcf-8b69-4bde-8744-1970aee897a1;Which side effect is seen with fentanyl?;Pain in abdomen;Hypeension;Tachycardia;Chest well rigidity;D;Chest well rigidity;Fentanyl induced chest wall rigidity is an uncommon complication, especially during sedation for routine bronchoscopy . It was first described by Hamilton and Cullen in 1953 . It primarily results in chest wall and abdominal wall rigidity, also known as the 'wooden chest syndrome . The reduced chest wall compliance makes rescue assisted ventilation difficult . This may also be contributed by vocal cords or jaw closure resulting in upper airway obstruction;Anaesthesia;Intravenous Anesthetic Agents;"Question:
+Which side effect is seen with fentanyl?
+
+Option A:
+Pain in abdomen
+
+Option B:
+Hypeension
+
+Option C:
+Tachycardia
+
+Option D:
+Chest well rigidity";"Selected option: D
+Rationale: The question asks for a side effect of fentanyl. Among the listed options, chest wall rigidity is a well‑known adverse effect of fentanyl, whereas the other options are not typical. Therefore, option D is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks for a side effect of fentanyl. Among the listed options, chest wall rigidity is a well‑known adverse effect of fentanyl, whereas the other options are not typical. Therefore, option D is the correct choice.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;163;503;False;1;result_df
+1fcd2679-34dc-4562-a9b7-bfeb1007dcb0;In infants defecation often follows a meal. The cause of colonic contraction in this situation is ______;Gastroileal reflex;Enterogastric reflex;Increased circulation of CCK;Gastrocolic reflex;D;Gastrocolic reflex;"The cause of colonic contraction in the given situation is due to gastrocolic reflex. Distension of the stomach by food initiates contractions of the rectum and frequently, a desire to defecate. This response is called the gastrocolic reflex. Beacuse of thus repsonse, defecation after meals is common in children. This response may be amplified by the action of gastrin on the colon. Ref: Ganong&;s review of medical physiology 26th edition Pgno: 493,494";Physiology;G.I.T;"Question:
+In infants defecation often follows a meal. The cause of colonic contraction in this situation is ______
+
+Option A:
+Gastroileal reflex
+
+Option B:
+Enterogastric reflex
+
+Option C:
+Increased circulation of CCK
+
+Option D:
+Gastrocolic reflex";"Selected option: D
+Rationale: The question describes the phenomenon where a meal triggers colonic contraction and subsequent defecation in infants. This is the classic definition of the gastrocolic reflex, which increases colonic motility after eating. The other options refer to different reflexes or hormonal effects not directly linked to colonic contraction after a meal. Therefore, the gastrocolic reflex is the correct answer.
+Confidence: 99
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question describes the phenomenon where a meal triggers colonic contraction and subsequent defecation in infants. This is the classic definition of the gastrocolic reflex, which increases colonic motility after eating. The other options refer to different reflexes or hormonal effects not directly linked to colonic contraction after a meal. Therefore, the gastrocolic reflex is the correct answer.
+Confidence: 99";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;360;216;576;False;1;result_df
+85f546c3-3da3-4cb7-96cc-61822b157979;Which of the below is a feature of Osteogenesis imperfecta?;Blue sclera;Cataract;Anterior uveitis;Retinal detachment;A;Blue sclera;Ans. is 'a' i.e., Blue sclera o Osteogenesis imperfecta, also known as brittle bone disease, is due to defective collagen type 1 synthesis.o It is inherited mostly as autosomal dominant but autosomal recessive pattern also seen in severe form. Clinical features of osteogenesis imperfecta# Blue sclera# Dentinogenesis imperfecta a Generalized osteoporosis# Osteoporosis given rise to bowing and multiple fractures. Fracture are usually due to trivial trauma but surprisingly heal well.# Other features: Deafness due to otosclerosis, joint laxity, dwarfism, broad skull, poorly calcified decidual teeth (Permanent teeth are normal).# Radiology shows wormian bones in the skull.;Orthopaedics;Metabolic Disorders Leading to Osteosclerosis;"Question:
+Which of the below is a feature of Osteogenesis imperfecta?
+
+Option A:
+Blue sclera
+
+Option B:
+Cataract
+
+Option C:
+Anterior uveitis
+
+Option D:
+Retinal detachment";"Selected option: A
+Rationale: Osteogenesis imperfecta is classically associated with blue sclera due to thinning of the collagenous scleral tissue, which allows the underlying choroidal veins to show through. The other listed ocular findings (cataract, anterior uveitis, retinal detachment) are not typical features of this disorder. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Osteogenesis imperfecta is classically associated with blue sclera due to thinning of the collagenous scleral tissue, which allows the underlying choroidal veins to show through. The other listed ocular findings (cataract, anterior uveitis, retinal detachment) are not typical features of this disorder. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;168;512;False;1;result_df
+858441d3-e86e-4443-889b-24552333fcb4;To achieve a Net Reproduction rate (NRR) of 1, couple protection rate should be minimum:-;50%;60%;55%;75%;B;60%;Demographers are of the view that the demographic goal of NRR=1 can be achieved only if the CPR(Couple Protection Rate) exceeds 60% Couple protection Rate: Defined as percentage of eligible couples effectively protected against childbih by one or the other approved methods of family planning - Sterilization/IUD/Condom/Oral Pills An indicator of prevalence of contraceptive practices in community Achieving CPR of >60% will enable us to achieve the NPP(National Population Policy) goal of NRR=1 and TFR(Total Feility Rate)=2.1 Current CPR = 54%;Social & Preventive Medicine;NEET 2018;"Question:
+To achieve a Net Reproduction rate (NRR) of 1, couple protection rate should be minimum:-
+
+Option A:
+50%
+
+Option B:
+60%
+
+Option C:
+55%
+
+Option D:
+75%";"Selected option: B
+Rationale: A Net Reproduction Rate of 1 represents replacement‑level fertility. Demographic theory indicates that achieving replacement requires a minimum couple protection rate of about 60 %. Hence the correct choice is option B.
+Confidence: 70
+Protocol Author: gpt_default";"Selected option: B
+Rationale: A Net Reproduction Rate of 1 represents replacement‑level fertility. Demographic theory indicates that achieving replacement requires a minimum couple protection rate of about 60 %. Hence the correct choice is option B.
+Confidence: 70";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;867;1210;False;1;result_df
+0c894a47-8101-4bdd-8f2a-f2028d1b592f;A 45 years Female came with a 4 cm nodule in thyroid which on FNAC revealed papillary cell carcinoma. Level III lymphnodes are also involved. How do you treat this patient?;Hemithyroidectomy + Central lymph node dissection;Subtotal thyroidectomy;Total thyroidectomy + Modified radical neck dissection;Only total thyroidectomy;C;Total thyroidectomy + Modified radical neck dissection;;Surgery;;"Question:
+A 45 years Female came with a 4 cm nodule in thyroid which on FNAC revealed papillary cell carcinoma. Level III lymphnodes are also involved. How do you treat this patient?
+
+Option A:
+Hemithyroidectomy + Central lymph node dissection
+
+Option B:
+Subtotal thyroidectomy
+
+Option C:
+Total thyroidectomy + Modified radical neck dissection
+
+Option D:
+Only total thyroidectomy";"Selected option: C
+Rationale: The patient has a 4 cm papillary thyroid carcinoma with confirmed involvement of level III lymph nodes, indicating lateral neck metastasis. Management of papillary carcinoma larger than 1 cm with clinically evident lateral neck disease requires total thyroidectomy combined with a therapeutic lateral neck dissection, i.e., a modified radical neck dissection. This addresses both the primary tumor and the involved nodal basin.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The patient has a 4 cm papillary thyroid carcinoma with confirmed involvement of level III lymph nodes, indicating lateral neck metastasis. Management of papillary carcinoma larger than 1 cm with clinically evident lateral neck disease requires total thyroidectomy combined with a therapeutic lateral neck dissection, i.e., a modified radical neck dissection. This addresses both the primary tumor and the involved nodal basin.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;384;300;684;False;1;result_df
+8c83ed68-7f62-4f1b-b8c9-1905dd36b855;Prophylactic radiotherapy to neck given in which malignancy with palpable swelling -;Nasopharyngeal carcinoma;Laryngeal carcinoma;Sinuses malignancy;Tongue carcinoma;A;Nasopharyngeal carcinoma;;Medicine;;"Question:
+Prophylactic radiotherapy to neck given in which malignancy with palpable swelling -
+
+Option A:
+Nasopharyngeal carcinoma
+
+Option B:
+Laryngeal carcinoma
+
+Option C:
+Sinuses malignancy
+
+Option D:
+Tongue carcinoma";"Selected option: A
+Rationale: The question asks which malignancy warrants prophylactic radiotherapy to the neck when there is a palpable swelling. Nasopharyngeal carcinoma is known for a high propensity for cervical lymph node involvement, and elective neck irradiation is routinely given even when nodes are clinically evident. The other listed cancers (laryngeal, sinus, tongue) do not universally require prophylactic neck radiotherapy in the presence of palpable nodes. 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks which malignancy warrants prophylactic radiotherapy to the neck when there is a palpable swelling. Nasopharyngeal carcinoma is known for a high propensity for cervical lymph node involvement, and elective neck irradiation is routinely given even when nodes are clinically evident. The other listed cancers (laryngeal, sinus, tongue) do not universally require prophylactic neck radiotherapy in the presence of palpable nodes. 
+Confidence: 80";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;352;519;871;False;1;result_df
+903a91a2-c9a7-4117-b409-c346404fc5a2;Coagulation testing in needed for:-;Lepirudin;Enoxaparin;Fondaparinux;Dabigatran;A;Lepirudin;Coagulation testing is mainly done for: * Warfarin(vitamin K antagonist) : it is monitored by prothrombin time(PT) or International Normalised Ratio(INR). * Unfractionated Heparin : it is monitered by aPTT. Other anti-coagulants requiring monitoring are direct thrombin inhibitors like: * Lepirudin * Bivalirudin They require monitoring by aPTT. Recently, new oral anti-coagulants are developed which do not require monitoring, e.g. include : * Dabigatran(direct thrombin inhibitor) * Epixaban(factor XA inhibitors) Fondaparinux and Low molecular weight heparin (indirect thrombin inhibitors) do not require monitoring.;Pharmacology;NEET 2018;"Question:
+Coagulation testing in needed for:-
+
+Option A:
+Lepirudin
+
+Option B:
+Enoxaparin
+
+Option C:
+Fondaparinux
+
+Option D:
+Dabigatran";"Selected option: D
+Rationale: Dabigatran is a direct thrombin inhibitor whose anticoagulant effect is assessed using coagulation assays such as aPTT or thrombin time. The other listed agents (lepirudin, enoxaparin, fondaparinux) either do not require routine coagulation testing or are monitored by different methods. 
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Dabigatran is a direct thrombin inhibitor whose anticoagulant effect is assessed using coagulation assays such as aPTT or thrombin time. The other listed agents (lepirudin, enoxaparin, fondaparinux) either do not require routine coagulation testing or are monitored by different methods. 
+Confidence: 80";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;502;844;False;1;result_df
+212481fd-ee8b-42fa-bba2-acc39dfcf3de;Which cooking oil has most PUFA -;Safflower oil;Coconut oil;Butter;Vanaspati;A;Safflower oil;"<p> Essential fatty acids: Those that cannot be synthesised by humans.They can be derived from food only. The most impoant essential fatty acid is linoleic acid, which serves as the basis for production of other essential fatty acids( linolenic and arachidonic acid) . Not all PUFA are essential fatty acids. Linoleic acid:- dietary source and per cent content . Safflower oil- 73 Corn oil- 57 Sunflower oil-56 Soyabean oil-51 Sesame oil-40 Ground nut oil-39 Mustard oil -15 Palmoil- 9 Coconut oil- 2 Eichosapentanoic acid: Fish oil: 10 % present. Linolenic acid : Soyabean oil-7 {Reference: Park&;s textbook of community medicine 23 rd edition, pg no. 611}";Social & Preventive Medicine;Nutrition and health;"Question:
+Which cooking oil has most PUFA -
+
+Option A:
+Safflower oil
+
+Option B:
+Coconut oil
+
+Option C:
+Butter
+
+Option D:
+Vanaspati";"Selected option: A
+Rationale: Among the listed fats, safflower oil is known for its high content of polyunsaturated fatty acids (PUFA). Coconut oil, butter, and vanaspati are primarily composed of saturated and/or trans fats, which contain far less PUFA. Therefore, safflower oil has the most PUFA.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Among the listed fats, safflower oil is known for its high content of polyunsaturated fatty acids (PUFA). Coconut oil, butter, and vanaspati are primarily composed of saturated and/or trans fats, which contain far less PUFA. Therefore, safflower oil has the most PUFA.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;173;509;False;1;result_df
+6c3d75a0-5e89-443c-a8be-47f988e0e561;Which one of the following mosquito transmits West Nile fever?;Anopheles;Aedes;Mansonoides;Culex;D;Culex;"(D) Culex Mosquito-borne diseases in India* Anopheles* Malaria* Filaria (not in India)* Culex* Bancroftian filariasis* Japanese encephalitis* West Nile fever* Viral arthritis (epidemic/polyarthritis)* Aedes* Yellow fever (not in India)* Dengue; Dengue haemorrhagic fever* Chikungunya fever* Chikungunya haemorrhagic fever* Rift valley fever* Filaria (not in India)* Mansonoides* Malayan (Brugian) filariasis* Chikungunya fever";Social & Preventive Medicine;Miscellaneous;"Question:
+Which one of the following mosquito transmits West Nile fever?
+
+Option A:
+Anopheles
+
+Option B:
+Aedes
+
+Option C:
+Mansonoides
+
+Option D:
+Culex";"Selected option: D
+Rationale: The question asks which mosquito transmits West Nile fever. Among the listed genera, West Nile virus is known to be carried by Culex species. Therefore, option D is the correct choice.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: D
+Rationale: The question asks which mosquito transmits West Nile fever. Among the listed genera, West Nile virus is known to be carried by Culex species. Therefore, option D is the correct choice.
+Confidence: 100";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;341;137;478;False;1;result_df
+10f32f7b-7630-4bf0-a072-e23328c2bb97;ECG changes can first be observed when level of lignocaine is more than;5 — 6 ug/ml;10 — 12 ug/ml;2 — 4 ug/ml;1.2 ug/ml;A;5 — 6 ug/ml;;Surgery;;"Question:
+ECG changes can first be observed when level of lignocaine is more than
+
+Option A:
+5 — 6 ug/ml
+
+Option B:
+10 — 12 ug/ml
+
+Option C:
+2 — 4 ug/ml
+
+Option D:
+1.2 ug/ml";"Selected option: B
+Rationale: The therapeutic plasma concentration of lignocaine is up to about 5 µg/ml; concentrations above this produce CNS toxicity, while cardiovascular toxicity—including observable ECG changes—generally appears when levels exceed roughly 10 µg/ml. Therefore the first ECG alterations are expected at plasma concentrations greater than 10 µg/ml, corresponding to option B (10‑12 µg/ml).
+Confidence: 80
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The therapeutic plasma concentration of lignocaine is up to about 5 µg/ml; concentrations above this produce CNS toxicity, while cardiovascular toxicity—including observable ECG changes—generally appears when levels exceed roughly 10 µg/ml. Therefore the first ECG alterations are expected at plasma concentrations greater than 10 µg/ml, corresponding to option B (10‑12 µg/ml).
+Confidence: 80";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;356;399;755;False;1;result_df
+120bb24e-4ead-480e-b60b-c5b33d4c899d;Phosphofructokinase is the key enzyme of;Glycogenolysis;Glycogenesis;Glycolysis;TCA cycle;C;Glycolysis;Step 3 of Glycolysis -6-phosphate is fuher phosphorylated to fructose1,6-bisphosphate. The enzyme is phosphofructokinase. ii.PFK is an allosteric, inducible, regulatory enzyme. It is an impoant key enzyme of this pathway. This is again an activation process, the energy being derived by hydrolysis of yet another molecule of ATP. This irreversible step is the rate-limiting reaction in glycolysis. However, during gluconeogenesis, this step is circumvented by fructose-1,6-bisphosphatase.Ref: DM Vasudevan, 7th edition, page no: 109;Biochemistry;Metabolism of carbohydrate;"Question:
+Phosphofructokinase is the key enzyme of
+
+Option A:
+Glycogenolysis
+
+Option B:
+Glycogenesis
+
+Option C:
+Glycolysis
+
+Option D:
+TCA cycle";"Selected option: C
+Rationale: Phosphofructokinase catalyzes the conversion of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate, a rate‑limiting step in glycolysis. The question asks which metabolic pathway it is the key enzyme of, and glycolysis is the pathway that includes this reaction. Therefore, the correct choice is glycolysis. 
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: C
+Rationale: Phosphofructokinase catalyzes the conversion of fructose‑6‑phosphate to fructose‑1,6‑bisphosphate, a rate‑limiting step in glycolysis. The question asks which metabolic pathway it is the key enzyme of, and glycolysis is the pathway that includes this reaction. Therefore, the correct choice is glycolysis. 
+Confidence: 100";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;149;496;False;1;result_df
+941fed28-d49a-4170-a1c6-0c0e50a690dd;NARP is a;Lipid storage disorder;Glycogen storage disorder;Mitochondrial disorder;Lysosomal storage disorder;C;Mitochondrial disorder;"Neuropathy, ataxia, and retinitis pigmentosa (NARP) is a condition that causes a variety of signs and symptoms chiefly affecting the nervous system. Beginning in childhood or early adulthood, most people with NARP experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); muscle weakness; and problems with balance and coordination (ataxia). Many affected individuals also have vision loss caused by changes in the light-sensitive tissue that lines the back of the eye (the retina). In some cases, the vision loss results from a condition called retinitis pigmentosa. This eye disease causes the light-sensing cells of the retina gradually to deteriorate. Learning disabilities and developmental delays are often seen in children with NARP, and older individuals with this condition may experience a loss of intellectual function (dementia). Other features of NARP include seizures, hearing loss, and abnormalities of the electrical signals that control the heabeat (cardiac conduction defects). These signs and symptoms vary among affected individuals.";Pathology;General pathology;"Question:
+NARP is a
+
+Option A:
+Lipid storage disorder
+
+Option B:
+Glycogen storage disorder
+
+Option C:
+Mitochondrial disorder
+
+Option D:
+Lysosomal storage disorder";"Selected option: C
+Rationale: NARP (Neuropathy, Ataxia, and Retinitis Pigmentosa) is known to result from mutations affecting mitochondrial DNA, classifying it as a mitochondrial disorder. The other options (lipid, glycogen, lysosomal storage disorders) do not describe NARP. Therefore, the correct choice is option C.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: NARP (Neuropathy, Ataxia, and Retinitis Pigmentosa) is known to result from mutations affecting mitochondrial DNA, classifying it as a mitochondrial disorder. The other options (lipid, glycogen, lysosomal storage disorders) do not describe NARP. Therefore, the correct choice is option C.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;204;547;False;1;result_df
+4535dee3-1348-40ca-b8c4-6565a38cc6a7;Muscle relaxant safe in renal failure patient is: September 2008;Pancuronium;Piperacuronium;Curare;Atracurium;D;Atracurium;Ans. D: Atracurium Suxamethonium should be avoided if hyperkalaemia is present. Some non-depolarising muscle relaxants depend on the kidney for elimination. Atracuriuin is the agent of choice as it undergoes spontaneous Hoffman degradation at body temperature. Vecuronium and mivacurium are safe to use in renal failure as only small percentages are excreted renally. Gallamine should be avoided and pancuronium, alcuronium, pipecuronium, curare and doxacurium should be used with caution. Potentiation of neuromuscular blockade may occur in the presence of a metabolic acidosis, hypokalaemia, hypermagnesaemia, or hypocalcaemia and with medications such as aminoglycosides. Monitor neuromuscular blockade whenever possible.;Pharmacology;;"Question:
+Muscle relaxant safe in renal failure patient is: September 2008
+
+Option A:
+Pancuronium
+
+Option B:
+Piperacuronium
+
+Option C:
+Curare
+
+Option D:
+Atracurium";"Selected option: D
+Rationale: Atracurium is eliminated primarily by Hofmann degradation and ester hydrolysis, processes that are independent of renal function, making it safe for patients with renal failure. The other listed muscle relaxants rely more on renal excretion and are therefore less suitable. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Atracurium is eliminated primarily by Hofmann degradation and ester hydrolysis, processes that are independent of renal function, making it safe for patients with renal failure. The other listed muscle relaxants rely more on renal excretion and are therefore less suitable. 
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;228;576;False;1;result_df
+7bf8ea29-03ab-46a2-b347-ef6343c408f0;Treatment of Multiple Carboxylase deficiency is;Biotin;Pyridoxine;Thiamine;Folic acid;A;Biotin;"Multiple carboxylase deficiencies is characterized by deficient activities of three biotin-dependent enzymes, propionyl coenzyme A carboxylase, pyruvate carboxylase, and beta-methylcrotonyl coenzyme A carboxylase. Multiple carboxylase deficiencies is a form of metabolic disorder involving failures of carboxylation enzymes. The deficiency can be in biotinidase or holocarboxylase synthetase. These conditions respond to biotin. Forms include Holocarboxylase synthetase deficiency - neonatal; Biotinidase deficiency - late onset; If left untreated, the symptoms can include feeding problems, hypotonia, generalized erythematous rash with skin exfoliation and alopecia, failure to thrive, seizure, coma, developmental delay, foul-smelling urine, metabolic acidosis, ketosis, and hyperammonemia.";Biochemistry;Enzymes;"Question:
+Treatment of Multiple Carboxylase deficiency is
+
+Option A:
+Biotin
+
+Option B:
+Pyridoxine
+
+Option C:
+Thiamine
+
+Option D:
+Folic acid";"Selected option: A
+Rationale: Multiple carboxylase deficiency results from a lack of biotin, which is a cofactor for several carboxylases. Supplementing biotin corrects the deficiency. The other listed vitamins are not indicated for this condition. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Multiple carboxylase deficiency results from a lack of biotin, which is a cofactor for several carboxylases. Supplementing biotin corrects the deficiency. The other listed vitamins are not indicated for this condition. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;155;495;False;1;result_df
+0acf3431-b181-47d2-8f17-3725c4cc11f3;Kluver Bucy syndrome is due to the lesion in which of the following structure;Amygdala;Hippocampual area;Hypothalamus;Temporal lobe;A;Amygdala;Bilateral destruction of the temporal lobe is associated with the destruction of the amygdala, which leads to the Kluver-Bucy syndrome. Kluver-Bucy syndrome is characterized by Ref: guyton and hall textbook of medical physiology 12 edition page number:826,827,828 Extreme morality Loss of fear Decreased aggressiveness Tameness Changes in eating behavior Psychic blindness Excessive sexual drive.;Physiology;Nervous system;"Question:
+Kluver Bucy syndrome is due to the lesion in which of the following structure
+
+Option A:
+Amygdala
+
+Option B:
+Hippocampual area
+
+Option C:
+Hypothalamus
+
+Option D:
+Temporal lobe";"Selected option: A
+Rationale: Kluver Bucy syndrome is classically associated with bilateral damage to the amygdala, leading to the characteristic behavioral changes. Among the listed structures, the amygdala is the specific region implicated in this syndrome. Therefore, the correct answer is the amygdala. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Kluver Bucy syndrome is classically associated with bilateral damage to the amygdala, leading to the characteristic behavioral changes. Among the listed structures, the amygdala is the specific region implicated in this syndrome. Therefore, the correct answer is the amygdala. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;222;573;False;1;result_df
+a3b57db0-bd0e-49bb-8f9e-b39174351928;Sho head of the biceps muscle is attached to;Supraglenoid tubercle;Acromion process;Coracoid process;Bicipital groove;C;Coracoid process;Sho head of the biceps brachii arises from the lateral pa of the tip of coracoid process and gets attached to the posterior rough pa of radial tuberosity . B D Chaurasia 7th edition Page no : 91;Anatomy;Upper limb;"Question:
+Sho head of the biceps muscle is attached to
+
+Option A:
+Supraglenoid tubercle
+
+Option B:
+Acromion process
+
+Option C:
+Coracoid process
+
+Option D:
+Bicipital groove";"Selected option: A
+Rationale: The long head of the biceps brachii originates from the supraglenoid tubercle of the scapula, which is the standard anatomical attachment point for this muscle head. The other listed structures (acromion process, coracoid process, bicipital groove) are not the origin sites for the long head of the biceps. Therefore, the correct choice is the supraglenoid tubercle.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The long head of the biceps brachii originates from the supraglenoid tubercle of the scapula, which is the standard anatomical attachment point for this muscle head. The other listed structures (acromion process, coracoid process, bicipital groove) are not the origin sites for the long head of the biceps. Therefore, the correct choice is the supraglenoid tubercle.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;172;520;False;1;result_df
+254c7df4-3e8e-491f-bb10-e7b96be0f001;Study of alcohol intake for 20 years and occuring of liver disease is a type of;Cohort study;Case control study;Ecological study;RCT;A;Cohort study;;Social & Preventive Medicine;;"Question:
+Study of alcohol intake for 20 years and occuring of liver disease is a type of
+
+Option A:
+Cohort study
+
+Option B:
+Case control study
+
+Option C:
+Ecological study
+
+Option D:
+RCT";"Selected option: A
+Rationale: The question describes following individuals based on their exposure (alcohol intake) over a long period (20 years) to observe the development of liver disease. This prospective observation of exposure leading to outcome characterizes a cohort study. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question describes following individuals based on their exposure (alcohol intake) over a long period (20 years) to observe the development of liver disease. This prospective observation of exposure leading to outcome characterizes a cohort study. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;141;488;False;1;result_df
+0ee5a840-ce2d-4eff-bc3b-5807ed311444;Aboifacient causing ototoxicity is :;Lead;Quinine;Mercury;Ergot;B;Quinine;Quinine;Gynaecology & Obstetrics;;"Question:
+Aboifacient causing ototoxicity is :
+
+Option A:
+Lead
+
+Option B:
+Quinine
+
+Option C:
+Mercury
+
+Option D:
+Ergot";"Selected option: B
+Rationale: Among the listed agents, quinine is well known for causing ototoxic effects such as hearing loss and tinnitus. The other options (lead, mercury, ergot) are not classically associated with ototoxicity in standard pharmacology references. Therefore, quinine is the correct choice.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Among the listed agents, quinine is well known for causing ototoxic effects such as hearing loss and tinnitus. The other options (lead, mercury, ergot) are not classically associated with ototoxicity in standard pharmacology references. Therefore, quinine is the correct choice.
+Confidence: 90";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;335;204;539;False;1;result_df
+7b7f0a1a-813c-409a-abbe-f2c48b72560b;Maximum amount of PUFA is in –;Palmitic acid;Stearic acid;Oleic acid;Linoleic acid;D;Linoleic acid;;Social & Preventive Medicine;;"Question:
+Maximum amount of PUFA is in –
+
+Option A:
+Palmitic acid
+
+Option B:
+Stearic acid
+
+Option C:
+Oleic acid
+
+Option D:
+Linoleic acid";"Selected option: D
+Rationale: Polyunsaturated fatty acids (PUFA) contain multiple double bonds. Palmitic and stearic acids are saturated (no double bonds), oleic acid is monounsaturated (one double bond), while linoleic acid is polyunsaturated (two double bonds). Therefore, linoleic acid has the greatest amount of PUFA among the options.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Polyunsaturated fatty acids (PUFA) contain multiple double bonds. Palmitic and stearic acids are saturated (no double bonds), oleic acid is monounsaturated (one double bond), while linoleic acid is polyunsaturated (two double bonds). Therefore, linoleic acid has the greatest amount of PUFA among the options.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;340;256;596;False;1;result_df
+1cd2af45-3257-4ecf-9ffe-4ab4a4defed9;Commonest cause of nosocotnial infection ?;Pseudomonas;Staphylococci;Klebsiella;Enterobacteriacea;B;Staphylococci;"Ans. is 'b' i.e., Staphylococci ""Overall, S. aureus is a leading cause of nosocomial infection""";Microbiology;;"Question:
+Commonest cause of nosocotnial infection ?
+
+Option A:
+Pseudomonas
+
+Option B:
+Staphylococci
+
+Option C:
+Klebsiella
+
+Option D:
+Enterobacteriacea";"Selected option: B
+Rationale: The question asks for the most common cause of nosocomial infection. Among the listed organisms, Staphylococci (especially Staphylococcus aureus and coagulase‑negative staphylococci) are widely recognized as the leading pathogens in hospital‑acquired infections. The other options (Pseudomonas, Klebsiella, Enterobacteriaceae) are also important but are not the most frequent overall.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks for the most common cause of nosocomial infection. Among the listed organisms, Staphylococci (especially Staphylococcus aureus and coagulase‑negative staphylococci) are widely recognized as the leading pathogens in hospital‑acquired infections. The other options (Pseudomonas, Klebsiella, Enterobacteriaceae) are also important but are not the most frequent overall.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;344;207;551;False;1;result_df
+153795c2-639c-4136-9718-b3125b4e8633;Reperfusion injury is caused by:;Vitamin E;Superoxide ion;Calcium ion;Magnesium ion;B;Superoxide ion;"B i.e. Superoxide ion- Xanthine oxidase increases oxidative stress by generating superoxide free radiclesQ- Ischemic reperfusion injury is caused by reactive oxygen species (ROS)/free radical or pro oxidant like superoxide ionQAntioxidants blocking free radical formation include vitamin A (Beta carotene), C and E; superoxide dismutase, catalase and selenium containing glutathione peroxidase enzymes; ceruloplasmin, transferrin, ferritin, and lactoferrin transpo proteins etc.";Biochemistry;;"Question:
+Reperfusion injury is caused by:
+
+Option A:
+Vitamin E
+
+Option B:
+Superoxide ion
+
+Option C:
+Calcium ion
+
+Option D:
+Magnesium ion";"Selected option: B
+Rationale: Reperfusion injury is primarily mediated by the rapid generation of reactive oxygen species when blood flow is restored, and the superoxide ion is a major free radical involved in this process. The other listed agents (vitamin E, calcium ion, magnesium ion) are not the primary causative agents of reperfusion injury. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Reperfusion injury is primarily mediated by the rapid generation of reactive oxygen species when blood flow is restored, and the superoxide ion is a major free radical involved in this process. The other listed agents (vitamin E, calcium ion, magnesium ion) are not the primary causative agents of reperfusion injury. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;208;544;False;1;result_df
+0a3399ff-6cb4-49fe-903e-3f3e5f8a5bf5;Socrates was killed by which poisoning -;Cyanide;Conium;Strychnine;Dhatura;B;Conium;Ans. is 'b' i.e., Conium o Conium (Hemlock) was used to kill socrates.Important facts about poisoningo Poison retarding putrefaction : Strychnine (nox vomica), carbolic acid, heavy metals (like arsenic), and zinc chloride.o Poison causing proximal tubular necrosis: Lead, mercury, arsenic, cadmium, bismuth, phenol (carbolic acid),oxalic acid (oxalate), and ethylene glycol,o Angel dust refers to common name for drug phencyclidine,o Conium (Hemlock) was used to kill socrates.o Oleander (kaner) has two varitiesi) White (Nerium odorum) : Active principle is nerin consisting of three glycosides : neriodorin, neriodorein,and keratin.ii) Yellow (cerbera thevetia) : Active principles are three glycosides : Thevetin, thevotoxin and cerberin.o Conjunctivae are yellow in picric acid poisoningo Corneal ulceration and conjunctival inflammation occurs in copper duct exposure,o Conjunctiva and cornea are grey-blue or blue black in chronic silver poisoning,o Marqui's test is used in morphine poisoning.o A normal GIT rules out poisoning by corrosives (acids and alkalies),o Liver necrosis occurs in phosphorus, CCL, chloroform and trinitrotoluene poisonings,o Poisons produced due to putrefaction - ethyl alcohol and cyanide.o Hot-shot: A dose of narcotic with a poison (like strychnine) used to kill a fellow narcotic addict,o Neurotic poisons can be subdivided into following categories :-1. Somniferous poisons : Produce narcotic analgesia by acting on brain, e.g. opium and its deriivatives.2. Inebriant poisons : Produce generalized CNS depression, e.g. ethyl alcohol, methyl alcohol, barbiturates, chloral hydrate.3. Deliriant poisons : Produce delirium as their major symptom e.g. dhatura, balladonna, hyoscyamus, and cannabis indica.;Forensic Medicine;Forensic Toxicology - Concepts, Statutes, Evidence, and Techniques;"Question:
+Socrates was killed by which poisoning -
+
+Option A:
+Cyanide
+
+Option B:
+Conium
+
+Option C:
+Strychnine
+
+Option D:
+Dhatura";"Selected option: B
+Rationale: Socrates was historically executed by drinking hemlock, which is derived from the plant Conium maculatum (conium). Hence the poisoning is conium, corresponding to option B.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Socrates was historically executed by drinking hemlock, which is derived from the plant Conium maculatum (conium). Hence the poisoning is conium, corresponding to option B.
+Confidence: 100";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;199;536;False;1;result_df
+27f7cbfe-87cc-4f90-b0cd-a300b94ddfe2;In clinical anaesthesia, which nerve is the most popular site, and commonly used for monitoring neuromuscular response during anaesthesia & in intensive care units?;Ulnar nerve;Fascial nerve;Posterior tibial nerve;Median nerve;A;Ulnar nerve;(A) Ulnar nerve[Miller's Anaesthesia6-1557,1559,1559f)[?]Neuromuscular function is monitored by evaluating the muscular response to Supramaximal Stimulation of a Peripheral Motor Nerve.Two types of stimulation can be used: 1. Electrical & 2. Magnetic.Electrical nerve stimulation is by far the most commonly used method in clinical practice.[?]Patterns of Nerve Stimulation:For evaluation of neuromuscular function, the most commonly used patterns of electrical nerve stimulation are Single-Twitch, TOF, Tetanic, Post-Tetanic Count (PTC), & Double-Burst Stimulation (DBS).Advantages of Train-of-Four (TOF) stimulation are greatest during nondepolarizing blockade because the degree of block can be read directly from the TOF response even though a preoperative value is lacking.TOF stimulation has some advantages over tetanic stimulation: It is less painful &, unlike tetanic stimulation, doesnot generally affect the degree of neuromuscular blockade.Sites of Nerve Stimulation & Different Muscle Responses:Any superficially located peripheral motor nerve may be stimulated.In clinical anesthesia, the ulnar nerve is the most popular site.Median, posterior tibial, common peroneal, & facial nerves are also sometimes used.For stimulation of the ulnar nerve, the electrodes are best applied to the volar side of the wrist.Distal electrode should be placed about 1 cm proximal to the point at which the proximal flexion crease of the wrist crosses the radial side of the tendon to the flexor carpi ulnaris muscle.Proximal electrode should preferably be placed so that the distance between the centers of the two electrodes is 3 to 6 cm.Electrical stimulation normally elicits only finger flexion & thumb adductionIf one electrode is placed over the ulnar groove at the elbow, thumb adduction is often pronounced because of stimulation of the flexor carpi ulnaris muscle.Ulnar groove placement of electrodes (sometimes preferred in small children) is used, the active negative electrode should be at the wrist to ensure maximal response.Polarity of the electrodes is less crucial, placement of the negative electrode distally normally elicits the greatest neuromuscular response.Because different muscle groups have different sensitivities to neuromuscular blocking agents, results obtained for one muscle cannot be automatically extrapolated to other muscles.Diaphragm is among the most resistant of all muscles to both depolarizing and nondepolarizing neuromuscular blocking drugs.Clinical significance is that onset time is normally shorter for the diaphragm than for the adductor pollicis muscle and the diaphragm recovers from paralysis more quickly than the peripheral muscles do.Other respiratory muscles are less resistant than the diaphragm, as are the larynx & the corrugator supercilii muscles.Most sensitive are the abdominal muscles, the orbicularis oculi muscle, the peripheral muscles of the limbs, & the geniohyoid, masseter, & upper airway muscles.From a practical clinical point of view, it is worth noting that:Response of the corrugator supercilii to facial nerve stimulation reflects the extent of neuromuscular blockade of the laryngeal adductor muscles & abdominal muscles better than the response of the adductor pollicis to ulnar nerve stimulation does.Upper airway muscles seem to be more sensitive than the peripheral muscles.Although three investigations using acceleromyography have indicated small differences in the response to TOF nerve stimulation in the arm (adductor pollicis muscle) & the leg (flexor hallucis brevis muscle), these differences are probably of little clinical significance.Remember: In assessing neuromuscular function, use of a relatively sensitive muscle such as the adductor pollicis of the hand has both disadvantages & advantages.During surgery it is a disadvantage that even total elimination of the response to single-twitch & TOF stimulation does not exclude the possibility of movement of the diaphragm, such as hiccuping & coughing.;Anaesthesia;Fundamental Concepts;"Question:
+In clinical anaesthesia, which nerve is the most popular site, and commonly used for monitoring neuromuscular response during anaesthesia & in intensive care units?
+
+Option A:
+Ulnar nerve
+
+Option B:
+Fascial nerve
+
+Option C:
+Posterior tibial nerve
+
+Option D:
+Median nerve";"Selected option: A
+Rationale: The question asks for the nerve most commonly used to monitor neuromuscular response in anaesthesia and intensive care. Standard clinical practice employs stimulation of the ulnar nerve (often at the wrist) to assess the adductor pollicis response, making it the most popular site. The other listed options are not routinely used for this purpose. Therefore, the ulnar nerve is the correct answer.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the nerve most commonly used to monitor neuromuscular response in anaesthesia and intensive care. Standard clinical practice employs stimulation of the ulnar nerve (often at the wrist) to assess the adductor pollicis response, making it the most popular site. The other listed options are not routinely used for this purpose. Therefore, the ulnar nerve is the correct answer.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;364;268;632;False;1;result_df
+d9393ab7-3528-4102-bbde-3fd72bdb43ad;Acinic cell carcinoma of the salivary gland arise most often in the;Parotid salivary gland;Submandibular salivary glands;Minor salivry glands;Sublinguial salivary glands;A;Parotid salivary gland;"ACINIC CELL CARCINOMA It is a low-grade tumour which appears similar to a benign mixed tumour. It presents as a small, firm, movable and encapsulated tumour, sometimes bilateral. Metastases are rare. A conservative approach of superficial or total parotidectomy is adopted. Ref:- Dhingra; pg num:-235";ENT;Oral cavity & Oesophagus;"Question:
+Acinic cell carcinoma of the salivary gland arise most often in the
+
+Option A:
+Parotid salivary gland
+
+Option B:
+Submandibular salivary glands
+
+Option C:
+Minor salivry glands
+
+Option D:
+Sublinguial salivary glands";"Selected option: A
+Rationale: Acinic cell carcinoma is a salivary gland malignancy that most frequently originates in the parotid gland, as established in standard pathology references. The other listed glands are less common sites for this tumor type. Therefore, the correct choice is the parotid salivary gland.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Acinic cell carcinoma is a salivary gland malignancy that most frequently originates in the parotid gland, as established in standard pathology references. The other listed glands are less common sites for this tumor type. Therefore, the correct choice is the parotid salivary gland.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;361;253;614;False;1;result_df
+1b97fb42-ea97-4644-a511-21aeadf433cf;Down's syndrome most commonly occurs due to –;Reciprocal translocation;Nondysjunction in maternal meiosis;Translocation defect;Nondysjunction in paternal meiosis;B;Nondysjunction in maternal meiosis;"In trisomy 21, the additional number 21 chromosome is derived from the mother in 95% of cases.
+It is due to nondisjunction of the 21st chromosome at the time of meiosis.
+In nondisjunction, chromosomal pair fails to separate in the first meiotic division during gametogenesis.";Pediatrics;;"Question:
+Down's syndrome most commonly occurs due to –
+
+Option A:
+Reciprocal translocation
+
+Option B:
+Nondysjunction in maternal meiosis
+
+Option C:
+Translocation defect
+
+Option D:
+Nondysjunction in paternal meiosis";"Selected option: B
+Rationale: Down's syndrome is most frequently caused by a meiotic nondisjunction event, and the majority of these occur in the mother's meiosis. The other options (reciprocal translocation, translocation defect, paternal nondisjunction) represent less common mechanisms. Therefore, the correct answer is nondisjunction in maternal meiosis.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Down's syndrome is most frequently caused by a meiotic nondisjunction event, and the majority of these occur in the mother's meiosis. The other options (reciprocal translocation, translocation defect, paternal nondisjunction) represent less common mechanisms. Therefore, the correct answer is nondisjunction in maternal meiosis.
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;350;169;519;False;1;result_df
+09acb77f-7bf0-4464-8237-e61349f739dc;The narrowest pa of trachea in a newborn is at the level of:;Cricoid;Thyroid;Vocal cords;Subglottic;A;Cricoid;"Neonates and infants have, compared with older children and adults, a propoionately larger head and tongue, narrower nasal passages, an anterior and cephalad larynx (the glottis is at a veebral level of C4 versus C6 in adults), a longer epiglottis, and a shoer trachea and neck. These anatomic features make neonates and young infants obligate nasal breathers until about 5 months of age. The cricoid cailage is the narrowest point of the airway in children younger than 5 years of age; in adults, the narrowest point is the glottis. One millimeter of mucosal edema will have a propoionately greater effect on gas flow in children because of their smaller tracheal diameters. Ref: Butterwoh IV J.F., Butterwoh IV J.F., Mackey D.C., Wasnick J.D., Mackey D.C., Wasnick J.D. (2013). Chapter 42. Pediatric Anesthesia. In J.F. Butterwoh IV, J.F. Butterwoh IV, D.C. Mackey, J.D. Wasnick, D.C. Mackey, J.D. Wasnick (Eds), Morgan & Mikhail's Clinical Anesthesiology, 5e.";Anaesthesia;;"Question:
+The narrowest pa of trachea in a newborn is at the level of:
+
+Option A:
+Cricoid
+
+Option B:
+Thyroid
+
+Option C:
+Vocal cords
+
+Option D:
+Subglottic";"Selected option: A
+Rationale: In newborns, the airway is narrowest at the cricoid cartilage, which corresponds to the subglottic region of the trachea. This is a well‑established anatomical fact for infants. Therefore, the correct choice is the cricoid level.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: In newborns, the airway is narrowest at the cricoid cartilage, which corresponds to the subglottic region of the trachea. This is a well‑established anatomical fact for infants. Therefore, the correct choice is the cricoid level.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;257;604;False;1;result_df
+c529b432-28f9-44f5-bf53-017800ba0951;The protein responsible for packing of DNA in chromosomes is -;Histone;Histamine;Histidine;Cyclin;A;Histone;Ans. is 'a' i.e., Histone* Chromosome is a double stranded DNA, which has got condensed with the help of proteins* Chromosome when fully extended measures a few metres long. To pack such a long chromosome inside a nucleus of few microns in diameter, the chromosome has to be condensed.* Condensation of chromosome is mediated by histones. Histones are basic proteins i.e., they are positively charged. DNA is negatively charged. Hence there is an electrostatic attraction between positively charged Histone and negatively charged DNA and a segment of dsDNA gets wound around Histones.;Biochemistry;Molecular Genetics;"Question:
+The protein responsible for packing of DNA in chromosomes is -
+
+Option A:
+Histone
+
+Option B:
+Histamine
+
+Option C:
+Histidine
+
+Option D:
+Cyclin";"Selected option: A
+Rationale: The question asks for the protein that packs DNA in chromosomes. Among the options, histone is the known protein that binds DNA to form nucleosomes, facilitating chromosome packaging. Histamine, histidine, and cyclin are unrelated to DNA packaging. Therefore, histone is the correct choice.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The question asks for the protein that packs DNA in chromosomes. Among the options, histone is the known protein that binds DNA to form nucleosomes, facilitating chromosome packaging. Histamine, histidine, and cyclin are unrelated to DNA packaging. Therefore, histone is the correct choice.
+Confidence: 100";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;336;115;451;False;1;result_df
+87c80595-3ca9-48d1-83e1-ac36b00614f5;Urine turns dark on standing in: (Repeat);Alkaptonuria;Maple syrup urine disease;Phenyl ketonuria;Acute intermittent porphyria;A;Alkaptonuria;"Ans: A (Alkaptonuria) Ref: Harrison's Principles of Internal Medicine 18th edition & Harper's illustrated Biochemistry, 28th edition. Chapter 29, pp 254)Explanation:AlkaptonuriaDue to deficiency in homagentisic acid oxidaseResults in the accumulation of homogentisic acidThe illness has three characteristic symptoms;Homogentisicaciduria (the patient's urine contains elevated levels of homogentisic acid, which is oxidized to a dark pigment on standing,Large joint arthritisBlack ochronotic pigmentation of cartilage and collagenous tissue tOochronsis)Diets low in protein--especially in phenylalanine and tyrosine--help reduce the levels of homogentisic acid, and decrease the amount of pigment deposited in body tissues.Although alkaptonuria is not life-threatening, the associated arthritis may be severely crippling.";Medicine;Disorder of Metabolism & Connective Tissue;"Question:
+Urine turns dark on standing in: (Repeat)
+
+Option A:
+Alkaptonuria
+
+Option B:
+Maple syrup urine disease
+
+Option C:
+Phenyl ketonuria
+
+Option D:
+Acute intermittent porphyria";"Selected option: A
+Rationale: Alkaptonuria is characterized by urine that darkens on standing due to oxidation of homogentisic acid, matching the described finding. The other listed disorders do not feature urine darkening on standing. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Alkaptonuria is characterized by urine that darkens on standing due to oxidation of homogentisic acid, matching the described finding. The other listed disorders do not feature urine darkening on standing. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;348;298;646;False;1;result_df
+51e02ca2-d219-45b3-b97b-c939e4d3baae;Not a feature of Horner syndrome:;Exophthalmos;Ptosis of upper eyelid;Miosis;Conjunctival congestion;A;Exophthalmos;"Ans : A (Exophthalmos) ""The triad of miosis with ipsilateral ptosis and anhidrosis constitutes Horner's syndrome, although anhidrosis is an inconstant feature. Brainstem stroke, carotid dissection, or neoplasm impinging upon the sympathetic chain are occasionally""Horner's syndrome- miosis, ptosis, anhydrosis, enophthalmos & loss of ciliospinal reflex""- BDC 4th/VoI. I 53""Horner's syndrome (also Horner syndrome, Bernard-Horner syndrome, Claude Bernard-Horner syndrome or as oculosympathetic palsy) is the combination of drooping of the eyelid (ptosis) and constriction of the pupil (miosis), sometimes accompanied by decreased sweating of the face on the same side; redness of the conjunctiva of the eye is often also present. It indicates a problem with the sympathetic nervous system, a part of the autonomic nervous system""-www.m wMpecfaj.orgSigns and Symptoms www.en.wikipedia.orgSigns that are found in all patients on the affected side of the face include# Partial ptosis (drooping of the upper eyelid from loss of sympathetic innervation to the superior tarsal muscle, also known as Muller's muscleUpside-down ptosis (slight elevation of the lower lid)Anhidrosis (decreased sweating on the affected side of the face)Miosis (small pupils)Enophthalmos (the impression that the eye is sunk in)Loss of ciliospinal reflexBloodshot conjunctiva, depending on the site of less/on.Note:Sometimes there is flushing on the affected side of the face due to dilation of blood vessels under the skin. The pupil's light reflex is maintained as this is controlled via the parasympathetic nervous system.In children, Horner's syndrome sometimes leads to heterochromia: a difference in eye color between the two eyes.";Unknown;;"Question:
+Not a feature of Horner syndrome:
+
+Option A:
+Exophthalmos
+
+Option B:
+Ptosis of upper eyelid
+
+Option C:
+Miosis
+
+Option D:
+Conjunctival congestion";"Selected option: A
+Rationale: Horner syndrome is characterized by ptosis of the upper eyelid and miosis, and may present with conjunctival congestion due to sympathetic loss. Exophthalmos, which is protrusion of the eyeball, is not associated with Horner syndrome. Therefore, exophthalmos is the feature that does not belong. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Horner syndrome is characterized by ptosis of the upper eyelid and miosis, and may present with conjunctival congestion due to sympathetic loss. Exophthalmos, which is protrusion of the eyeball, is not associated with Horner syndrome. Therefore, exophthalmos is the feature that does not belong. 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;342;235;577;False;1;result_df
+eec3212c-c444-4006-b65f-a3b27927a760;Feature of hemorrhagic disease of new born is ?;Prolonged prothrombin time;Defective platelet count;Prolonged bleeding time;Prolonged thrombin time;A;Prolonged prothrombin time;"Ans. is 'a' i.e., Prolonged prothrombine timeo Normal new borns are moderately deficient in vitamin K.o This deficiency increases on 3'd 51h day when, vitamin K level falls fuher. The serum level of vitamin K stas increasing from 13th to 15th day of life and achieves adult level at 3 months.o This is normal, and does not produce any bleeding.o In hemorrhagic disease of the newborn there is delay in achieving the normal vitamin K level. Clinical Featureso Vitamin K deficiency produces severe bleeding.o Bleeding occurs from umbilical cord stump on 2""d/3rd day after bih.o Intracranial bleding and large intramuscular hemorrhages may occur.o Increased prothrombin time and increased paial thromboplastin time.T/To Parenteral vitamin K therapy.";Pediatrics;;"Question:
+Feature of hemorrhagic disease of new born is ?
+
+Option A:
+Prolonged prothrombin time
+
+Option B:
+Defective platelet count
+
+Option C:
+Prolonged bleeding time
+
+Option D:
+Prolonged thrombin time";"Selected option: A
+Rationale: Hemorrhagic disease of the newborn, caused by vitamin K deficiency, primarily affects the synthesis of clotting factors that are measured by the prothrombin time. Therefore, a prolonged PT is a characteristic finding, while platelet count and bleeding time remain normal, and thrombin time is not the hallmark test.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Hemorrhagic disease of the newborn, caused by vitamin K deficiency, primarily affects the synthesis of clotting factors that are measured by the prothrombin time. Therefore, a prolonged PT is a characteristic finding, while platelet count and bleeding time remain normal, and thrombin time is not the hallmark test.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;351;196;547;False;1;result_df
+b6837142-3932-4b29-9ad1-3431cb0b9cd0;A mother brings a 3 year old child that he cannot walk without support, do not indicates wet pants and do not scribble anything. She also tells that he can walk with support, Plays peek a boo and speaks 2-3 words with meaning. What is the developmental quotient of this child?;33%;66%;50%;25%;A;33%;"As child can walk with support, Play peek-a-boo and speak 2-3 words with meaning, developmental age of this child is 1 year.
+Chronological age = 3 year";Pediatrics;;"Question:
+A mother brings a 3 year old child that he cannot walk without support, do not indicates wet pants and do not scribble anything. She also tells that he can walk with support, Plays peek a boo and speaks 2-3 words with meaning. What is the developmental quotient of this child?
+
+Option A:
+33%
+
+Option B:
+66%
+
+Option C:
+50%
+
+Option D:
+25%";"Selected option: A
+Rationale: The child’s abilities (walking with support, playing peek‑a‑boo, speaking 2‑3 meaningful words) correspond to a developmental age of roughly 12 months. With a chronological age of 36 months, DQ = (12/36) × 100 ≈ 33 %, matching option A.
+Confidence: 78
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The child’s abilities (walking with support, playing peek‑a‑boo, speaking 2‑3 meaningful words) correspond to a developmental age of roughly 12 months. With a chronological age of 36 months, DQ = (12/36) × 100 ≈ 33 %, matching option A.
+Confidence: 78";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;382;364;746;False;1;result_df
+08da3847-476c-49fb-98f8-b4fce23bdf11;Which of the following is not arisk factor for pelvic inflammatory disease;N. gonorrhoeae;Bacterial vaginosis;Trichomonas vaginalis;Chlamydia trachomatis;B;Bacterial vaginosis;Bacterial vaginosis is not a risk factor for PID development.;Gynaecology & Obstetrics;;"Question:
+Which of the following is not arisk factor for pelvic inflammatory disease
+
+Option A:
+N. gonorrhoeae
+
+Option B:
+Bacterial vaginosis
+
+Option C:
+Trichomonas vaginalis
+
+Option D:
+Chlamydia trachomatis";"Selected option: C
+Rationale: The question asks which is not a risk factor for pelvic inflammatory disease. N. gonorrhoeae, bacterial vaginosis, and Chlamydia trachomatis are all recognized risk factors for PID, whereas Trichomonas vaginalis is not commonly considered a risk factor. Therefore, option C is the correct choice.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which is not a risk factor for pelvic inflammatory disease. N. gonorrhoeae, bacterial vaginosis, and Chlamydia trachomatis are all recognized risk factors for PID, whereas Trichomonas vaginalis is not commonly considered a risk factor. Therefore, option C is the correct choice.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;355;202;557;False;1;result_df
+68349cb8-5089-4530-a78a-d92ee10a581b;Most common type of finger impression is:;Arch;Whorl;Loop;Composite;C;Loop;Loop;Forensic Medicine;;"Question:
+Most common type of finger impression is:
+
+Option A:
+Arch
+
+Option B:
+Whorl
+
+Option C:
+Loop
+
+Option D:
+Composite";"Selected option: C
+Rationale: The question asks which fingerprint pattern is most common. In standard fingerprint classification, loops occur more frequently than arches, whorls, or composites, making them the most common type of finger impression. Therefore, option C (Loop) is the correct answer.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which fingerprint pattern is most common. In standard fingerprint classification, loops occur more frequently than arches, whorls, or composites, making them the most common type of finger impression. Therefore, option C (Loop) is the correct answer.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;330;243;573;False;1;result_df
+b072d692-96f6-4474-b89d-6c4dc00a87aa;A child presents with white lesion (depigmented macule ) of 2x 2 cm with irregular margin over forehead and glabella. There is white forelock over forehead since birth. Diagnosis is:;Piebaldism;Dermatitis;Vitiligo;Nevus of Ito;A;Piebaldism;Ans. a. PiebaldismWhite forelocks are also seen associated with warden burg syndrome;Skin;Skin Lesions And Disorders Of Pigmentation;"Question:
+A child presents with white lesion (depigmented macule ) of 2x 2 cm with irregular margin over forehead and glabella. There is white forelock over forehead since birth. Diagnosis is:
+
+Option A:
+Piebaldism
+
+Option B:
+Dermatitis
+
+Option C:
+Vitiligo
+
+Option D:
+Nevus of Ito";"Selected option: A
+Rationale: The child has a congenital white forelock and a depigmented macule with irregular margins on the forehead, both characteristic of piebaldism, a hereditary condition present from birth. Vitiligo typically appears later and is not associated with a forelock. Dermatitis and Nevus of Ito do not match the described features.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The child has a congenital white forelock and a depigmented macule with irregular margins on the forehead, both characteristic of piebaldism, a hereditary condition present from birth. Vitiligo typically appears later and is not associated with a forelock. Dermatitis and Nevus of Ito do not match the described features.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;372;189;561;False;1;result_df
+1b96c127-2ae5-485c-b93c-a08b7936d90c;Testoesterone receptor antagonist is -;Flutamide;Mifipristone;Danazol;Nonoxynol;A;Flutamide;Ref - semantischolar.org;Medicine;Endocrinology;"Question:
+Testoesterone receptor antagonist is -
+
+Option A:
+Flutamide
+
+Option B:
+Mifipristone
+
+Option C:
+Danazol
+
+Option D:
+Nonoxynol";"Selected option: A
+Rationale: Flutamide is a well‑known anti‑androgen that blocks the testosterone (androgen) receptor, making it the testosterone receptor antagonist. The other agents listed either antagonize other receptors (mifepristone for progesterone) or are not receptor antagonists (danazol is an androgenic drug, nonoxynol is a spermicide). 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: Flutamide is a well‑known anti‑androgen that blocks the testosterone (androgen) receptor, making it the testosterone receptor antagonist. The other agents listed either antagonize other receptors (mifepristone for progesterone) or are not receptor antagonists (danazol is an androgenic drug, nonoxynol is a spermicide). 
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;251;590;False;1;result_df
+bc7e8183-1372-42d4-92f2-5338e2d31cc9;Administration of which antiepileptic drug is associated with development of hyperkinesia in children -;Phenytoin sodium;Sodium valproate;Carbamazepine;Phenobarbitone;D;Phenobarbitone;Ans. is 'd' i.e., Phenobarbitone;Pharmacology;;"Question:
+Administration of which antiepileptic drug is associated with development of hyperkinesia in children -
+
+Option A:
+Phenytoin sodium
+
+Option B:
+Sodium valproate
+
+Option C:
+Carbamazepine
+
+Option D:
+Phenobarbitone";"Selected option: B
+Rationale: The question asks which antiepileptic drug is linked to hyperkinesia in children. Among the listed agents, sodium valproate is known to be associated with hyperkinetic movement disorders in pediatric patients, whereas the other drugs are not typically linked to this side effect. Therefore, sodium valproate is the most appropriate choice.
+Confidence: 85
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The question asks which antiepileptic drug is linked to hyperkinesia in children. Among the listed agents, sodium valproate is known to be associated with hyperkinetic movement disorders in pediatric patients, whereas the other drugs are not typically linked to this side effect. Therefore, sodium valproate is the most appropriate choice.
+Confidence: 85";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;356;415;771;False;1;result_df
+6b18844c-4c26-4a53-b27d-6729bf10ab50;Which gland is derived from foramen caecum?;Pituitary;Thyroid;Thymus;Parathyroid;B;Thyroid;The site of origin of the thyroglossal duct is foramen caecum. It grows down in the midline into the neck. Its tip soon bifurcates. Proliferation of the cells of this bifid end gives rise to the two lobes of the thyroid. Ref: Textbook of Human Embryology Inderbir Singh 6th Ed Page 119.;Anatomy;;"Question:
+Which gland is derived from foramen caecum?
+
+Option A:
+Pituitary
+
+Option B:
+Thyroid
+
+Option C:
+Thymus
+
+Option D:
+Parathyroid";"Selected option: B
+Rationale: The foramen caecum is the embryologic opening at the base of the tongue through which the thyroid gland descends during development. Therefore, the gland derived from the foramen caecum is the thyroid. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: B
+Rationale: The foramen caecum is the embryologic opening at the base of the tongue through which the thyroid gland descends during development. Therefore, the gland derived from the foramen caecum is the thyroid. 
+Confidence: 95";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;339;127;466;False;1;result_df
+2de9693c-515e-4152-a229-5e6c96848186;Nerve affected in trendenlenberg test is ?;Superior gluteal nerve;Inferior gluteal nerve;Obturator nerve;Pudendal nerve;A;Superior gluteal nerve;Ans. is 'a' i.e., Superior gluteal nerve;Surgery;;"Question:
+Nerve affected in trendenlenberg test is ?
+
+Option A:
+Superior gluteal nerve
+
+Option B:
+Inferior gluteal nerve
+
+Option C:
+Obturator nerve
+
+Option D:
+Pudendal nerve";"Selected option: A
+Rationale: The Trendelenburg test evaluates the stability of the pelvis during single‑leg stance, which depends on the gluteus medius/minimus muscles. These muscles are innervated by the superior gluteal nerve; weakness of this nerve causes a positive Trendelenburg sign. Therefore the nerve affected in the test is the superior gluteal nerve.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: A
+Rationale: The Trendelenburg test evaluates the stability of the pelvis during single‑leg stance, which depends on the gluteus medius/minimus muscles. These muscles are innervated by the superior gluteal nerve; weakness of this nerve causes a positive Trendelenburg sign. Therefore the nerve affected in the test is the superior gluteal nerve.
+Confidence: 95";A;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;347;163;510;False;1;result_df
+6b4f4cf0-75fd-4662-8f45-72915220fbe2;Excess of leucine causes:;Pellagra;Constipation;Hypervitarninosis;Progeria;A;Pellagra;Pellagra;Social & Preventive Medicine;;"Question:
+Excess of leucine causes:
+
+Option A:
+Pellagra
+
+Option B:
+Constipation
+
+Option C:
+Hypervitarninosis
+
+Option D:
+Progeria";"Selected option: B
+Rationale: Among the listed choices, constipation is the only condition plausibly linked to an excess of an amino acid such as leucine, which can cause gastrointestinal disturbances when consumed in large amounts. The other options (pellagra, hypervitarninosis, progeria) are unrelated to leucine metabolism. 
+Confidence: 62
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Among the listed choices, constipation is the only condition plausibly linked to an excess of an amino acid such as leucine, which can cause gastrointestinal disturbances when consumed in large amounts. The other options (pellagra, hypervitarninosis, progeria) are unrelated to leucine metabolism. 
+Confidence: 62";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;337;597;934;False;1;result_df
+51ca3ca9-3660-4d58-972f-2249ba78c626;Associated with objective tinnitus?;Meiners disease;Acoustic neuroma;Ear wax;Glomus tumor;D;Glomus tumor;Ans. is `d' i.e., Glomus tumor Tinnitus Tinnitus is ringing sound or noise in the ear. The characteristic feature is that the origin of this sound is within the patient. Two types of tinnitus have been described : ? a. Subjective I. Otologic II . Non-otologic Impacted wax Disease of CNS Fluid in the middle ear Anaemia Acute and chronic otitis media Aeriosclerosis Abnormally patent eustachian tube Hypeension Meniere's disease Hypotension Otosclerosis Hypoglycaemia;ENT;;"Question:
+Associated with objective tinnitus?
+
+Option A:
+Meiners disease
+
+Option B:
+Acoustic neuroma
+
+Option C:
+Ear wax
+
+Option D:
+Glomus tumor";"Selected option: D
+Rationale: Objective tinnitus is a sound that can be heard by an examiner, typically caused by vascular or neoplastic lesions that generate audible pulsations. Among the listed conditions, a glomus tumor (paraganglioma) is a known cause of objective, pulsatile tinnitus. The other options (Meiners disease, acoustic neuroma, ear wax) are associated with subjective tinnitus or other ear problems, not objective tinnitus.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: D
+Rationale: Objective tinnitus is a sound that can be heard by an examiner, typically caused by vascular or neoplastic lesions that generate audible pulsations. Among the listed conditions, a glomus tumor (paraganglioma) is a known cause of objective, pulsatile tinnitus. The other options (Meiners disease, acoustic neuroma, ear wax) are associated with subjective tinnitus or other ear problems, not objective tinnitus.
+Confidence: 95";D;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;335;276;611;False;1;result_df
+ba5aeff8-6ec3-4169-ba9e-e0c2edf1068b;Short term memory conversion to long term memory takes place in -;Hypothalamus;Thalamus;Hippocampus;Amygdala;C;Hippocampus;"Ans. is 'c' i.e., Hippocampus o Medial temporal lobe is the area of brain responsible for consolidation, i.e. processing of short term memory into long term memory.o These areas are Hippocampus (most important}, parahippocampal gyrus and entorhinal cortex.o For short term memory to be converted into long-term memory that can be recalled weeks or years later, it must become ""consolidatedo That is, the short-term memory if activated repeatedly will initiate chemical, physical and anatomical changes in the synapses that are responsible for the long-term type of memory,o Medial temporal lobe is the area of brain responsible for consolidationQ, i.e. processing of short term memory into long term memoryQ.o These areas are Hippocampus (most important)Q, parahippocampal gyrus and entorhinal cortex,o Therefore, damage to hippocampus leads to antegrade amnesia, i.e. patient is unable to consolidate recent events into long term memoryQ.o After consolidation long term memory is stored in neocortexQ,o Amygdala stores the components of memory concerned with emotions,o Hippocampus is not important in reflexive memory.o Encoding of reflexive memory is believed to occur in the basal ganglia and/or cerebellum.";Physiology;Memory and Speech;"Question:
+Short term memory conversion to long term memory takes place in -
+
+Option A:
+Hypothalamus
+
+Option B:
+Thalamus
+
+Option C:
+Hippocampus
+
+Option D:
+Amygdala";"Selected option: C
+Rationale: The question asks which brain structure is responsible for converting short‑term memory into long‑term memory. Among the listed structures, the hippocampus is well known for its role in memory consolidation, specifically the transfer of information from short‑term to long‑term storage. The other options (hypothalamus, thalamus, amygdala) are not primarily involved in this process. Therefore, the correct choice is the hippocampus.
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The question asks which brain structure is responsible for converting short‑term memory into long‑term memory. Among the listed structures, the hippocampus is well known for its role in memory consolidation, specifically the transfer of information from short‑term to long‑term storage. The other options (hypothalamus, thalamus, amygdala) are not primarily involved in this process. Therefore, the correct choice is the hippocampus.
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;343;171;514;False;1;result_df
+3769357b-8ca7-426e-a9ed-43b95ae9b256;Only males are affected in:;Scheie's syndrome;Hunter's syndrome;Hurler's syndrome;Gaucher's disease;B;Hunter's syndrome;b. Hunter's syndrome(Ref: Nelson's 20/e p 737-743, Ghai 8/e p 661)As Hunter's disease is a X linked recessive, males are mostly affected by it.;Pediatrics;Inborn Errors of Metabolism;"Question:
+Only males are affected in:
+
+Option A:
+Scheie's syndrome
+
+Option B:
+Hunter's syndrome
+
+Option C:
+Hurler's syndrome
+
+Option D:
+Gaucher's disease";"Selected option: B
+Rationale: Among the listed disorders, Hunter's syndrome (MPS II) is an X‑linked recessive condition, which means it manifests only in males. The other listed conditions (Scheie's, Hurler's, and Gaucher's) are inherited in an autosomal recessive manner and can affect both sexes. Therefore, the correct answer is Hunter's syndrome.
+Confidence: 100
+Protocol Author: gpt_default";"Selected option: B
+Rationale: Among the listed disorders, Hunter's syndrome (MPS II) is an X‑linked recessive condition, which means it manifests only in males. The other listed conditions (Scheie's, Hurler's, and Gaucher's) are inherited in an autosomal recessive manner and can affect both sexes. Therefore, the correct answer is Hunter's syndrome.
+Confidence: 100";B;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;338;221;559;False;1;result_df
+a2049c87-1d16-4314-9875-4f695fc3d1b6;The term diphydont means:;Second dentition;Two same sets of dentition;Two separate sets of dentition;More than two sets of dentition;C;Two separate sets of dentition;;Dental;;"Question:
+The term diphydont means:
+
+Option A:
+Second dentition
+
+Option B:
+Two same sets of dentition
+
+Option C:
+Two separate sets of dentition
+
+Option D:
+More than two sets of dentition";"Selected option: C
+Rationale: The term diphyodont refers to an organism that develops two successive, distinct sets of teeth—primary (deciduous) and permanent—i.e., two separate sets of dentition. This matches option C. 
+Confidence: 95
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The term diphyodont refers to an organism that develops two successive, distinct sets of teeth—primary (deciduous) and permanent—i.e., two separate sets of dentition. This matches option C. 
+Confidence: 95";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;346;254;600;False;1;result_df
+afafd42c-a4ed-4799-a334-42c0ad47529f;A 35-year-old nondiabetic, nonhypeensive individual to casualty with a sudden bursting headache and altered sensorium. What is the most likely diagnosis?;Meningitis;Encephalitis;Intracerebral hemorrhage;Intracranial tumor;C;Intracerebral hemorrhage;Harrison's textbook of internal medicine 17th edition...Davidson's principles and practice of Medicine 23 rd edition. *Hemorrhage usually presents as abrupt onset of focal neurological deficit and can be considered as a spectrum of symptoms from transient (TIA) to persistent(stroke).. *Deficit typically worsen steadily over 30 -90 min(if symptoms progress over hours and days ,other diagnoses must be excluded)it is associated with diminished level of consciousness ,signs of increased ICT-headache,vomiting ,prominent sensory deficit involving all modalities .;Medicine;C.N.S;"Question:
+A 35-year-old nondiabetic, nonhypeensive individual to casualty with a sudden bursting headache and altered sensorium. What is the most likely diagnosis?
+
+Option A:
+Meningitis
+
+Option B:
+Encephalitis
+
+Option C:
+Intracerebral hemorrhage
+
+Option D:
+Intracranial tumor";"Selected option: C
+Rationale: The presentation of a sudden, severe (""bursting"") headache accompanied by altered sensorium is characteristic of an acute intracerebral bleed. Meningitis and encephalitis usually develop more gradually with systemic signs, and intracranial tumors present with progressive symptoms rather than an abrupt onset. Therefore, intracerebral hemorrhage is the most likely diagnosis.
+Confidence: 90
+Protocol Author: gpt_default";"Selected option: C
+Rationale: The presentation of a sudden, severe (""bursting"") headache accompanied by altered sensorium is characteristic of an acute intracerebral bleed. Meningitis and encephalitis usually develop more gradually with systemic signs, and intracranial tumors present with progressive symptoms rather than an abrupt onset. Therefore, intracerebral hemorrhage is the most likely diagnosis.
+Confidence: 90";C;gpt_default;gpt:///gpt-oss-120b/latest;openai_compatible;Default;You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case.;368;227;595;False;1;result_df

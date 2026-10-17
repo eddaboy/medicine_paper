@@ -1,0 +1,26 @@
+﻿column_1,column_2,column_3,column_4,column_5
+System,Approach,Evaluation set; $n$,\textit{Accuracy (\,Source
+"\multicolumn{5}{l}{Published evaluations on the 4,183-question development set}",,,,
+GPT-4 + Medprompt,Prompting ensemble,"Development; 4,183",79.1,\citep{nori2023medprompt}
+MedGemma 27B,Medical LLM; test-time scaling,"Development; 4,183",74.2,\citep{sellergren2025}
+o3,Reasoning LLM,"Development; 4,183",83.3,\citep{sellergren2025}
+Kimi-K2 + CoT,Single-model reasoning,"MIRAGE; 4,183",72.08,\citep{huang-etal-2026-sema}
+Kimi-K2 + MedRAG,Retrieval framework,"MIRAGE; 4,183",73.20,\citep{huang-etal-2026-sema}
+Kimi-K2 + i-MedRAG,Iterative retrieval,"MIRAGE; 4,183",74.13,\citep{huang-etal-2026-sema}
+Kimi-K2 + SEMA-RAG,Multi-agent retrieval,"MIRAGE; 4,183",76.07,\citep{huang-etal-2026-sema}
+DeepSeek-V3.1 + SEMA-RAG,Multi-agent retrieval,"MIRAGE; 4,183",75.09,\citep{huang-etal-2026-sema}
+GoA$_{Max}$ (heterogeneous 7--8B pool),Graph-based collaboration,"Development; 4,183",60.04,\citep{yun2026graph}
+\multicolumn{5}{l}{Published evaluations on restricted samples},,,,
+DeepSeek-R1,Reasoning LLM,"Development, single-choice; 2,816",$82.2\pm2.4$,\citep{shao2026}
+GPT-3.5 + MedAgents,Multi-agent deliberation,Random subset; 300,59.3,\citep{tang2024medagents}
+GPT-4 + MedAgents,Multi-agent deliberation,Random subset; 300,74.8,\citep{tang2024medagents}
+GPT-4o + GoA$_{Max}$ (3 agents),Graph-based collaboration,Sampled development subset; 100,82.0,\citep{yun2026graph}
+Qwen2.5-7B + MARC,Specialist fusion and verification,Train/dev: 96/4; 100,50.0,\citep{martinez2026multi}
+Qwen2.5-7B + MARC,Specialist fusion and verification,Train/dev: 243/7; 250,44.0,\citep{martinez2026multi}
+GPT-3.5-Turbo + Med-RISE,Retrieval and verification,Random subset; 200,62.0,\citep{wang2025enhancing}
+GPT-4 + Med-RISE,Retrieval and verification,Random subset; 200,78.0,\citep{wang2025enhancing}
+Llama-3.1-8B + D$^2$-RAG,Adaptive retrieval and decoding,"Author-defined set; 5,000",71.30,\citep{zhang2026d2}
+\multicolumn{5}{l}{MedicalAgentsBench: difficulty-selected MedMCQA subset},,,,
+o3-mini,Reasoning LLM,Hard subset; 100,$24.1\pm0.6$,\citep{shao2026}
+o3-mini + MedAgents,Multi-agent deliberation,Hard subset; 100,$26.3\pm2.5$,\citep{shao2026}
+o3-mini + MDAgents,Adaptive collaboration,Hard subset; 100,$29.9\pm2.2$,\citep{shao2026}

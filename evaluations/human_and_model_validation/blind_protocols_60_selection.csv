@@ -1,0 +1,61 @@
+﻿n;case_id;corpus_pos;Genealogy;Type;specialty;age_group;diagnosis;len_delphi;len_deepseekv4;len_gpt;len_qwen;delphi_run;allocation_mode;selection_seed;weight_Genealogy;weight_Type
+1;951a7c6bbb;6;msd;Requires non-emergent care;Pulmonology;middle age (45-60);Asthma;3254;2622;2658;2010;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+2;6f3d2f1324;15;msd;Requires emergent care;Urology;young age (25-44);Acute pyelonephritis in pregnancy;3681;2869;2395;2638;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+3;7dad308ea3;23;msd;Requires non-emergent care;Cardiology;middle age (45-60);Atrial fibrillation;3764;3402;2467;2650;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+4;2c86ec530c;29;AI;Self-care appropriate;Infectious Disease;children (<15);Hand-foot-mouth disease (mild);3001;2178;1900;1895;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+5;c53edcd50e;30;msd;Requires non-emergent care;Endocrinology;elderly age (>60);Hashimoto thyroiditis;5185;3001;4032;2942;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+6;f66e9f4021;31;checker;Self-care appropriate;Pulmonology;elderly age (>60);Acute bronchitis;2702;1434;1685;1528;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+7;2ff2aa1c2c;34;AI;Requires emergent care;General Surgery;elderly age (>60);Small bowel obstruction;3647;2348;2253;2202;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.1
+8;e5c9eb68f4;42;AI;Requires emergent care;Emergency;children (<15);Severe burns (2nd/3rd degree);4162;2479;3123;2786;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.1
+9;adc0a13ca6;52;AI;Self-care appropriate;Dermatology;children (<15);Mosquito bites (no allergy);2756;2497;1516;1744;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+10;8d5fe4b395;54;checker;Requires non-emergent care;Dermatology;elderly age (>60);Shingles;2772;1862;2239;1983;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.061
+11;9fef4015fa;55;AI;Requires emergent care;Neurology;young age (25-44);Status epilepticus;4627;2956;3161;2657;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.1
+12;6fd1aa7d07;63;AI;Self-care appropriate;Otolaryngology (ENT);young age (25-44);Post-nasal drip;3226;1589;1655;1699;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+13;65468824e4;68;AI;Self-care appropriate;Dermatology;young age (25-44);Eczema;2804;2154;1644;1678;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+14;e2eef4b864;69;AI;Self-care appropriate;Gastroenterology;young age (25-44);Mild viral gastroenteritis;3524;1626;1924;1904;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+15;374557b89c;71;AI;Requires non-emergent care;Orthopedics;young age (25-44);De Quervain tenosynovitis;3818;2665;2002;1804;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.061
+16;3c841edc31;77;AI;Self-care appropriate;General Medicine;young age (25-44);Common cold;2854;1955;1811;1751;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+17;015b681cda;81;checker;Self-care appropriate;Pulmonology;young age (25-44);Acute bronchitis;3283;1817;1685;1785;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+18;f5ac3569b5;83;msd;Requires non-emergent care;Endocrinology;middle age (45-60);Type 2 diabetes;4563;2884;3589;3401;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+19;e80b933e81;90;AI;Requires non-emergent care;Gastroenterology;young age (25-44);Irritable bowel syndrome;3334;2046;2117;2129;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.061
+20;f12b37555c;92;checker;Self-care appropriate;Otolaryngology (ENT);youth (15-24);Allergic rhinitis;3984;1843;1899;1638;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+21;f4a6e8339f;93;checker;Requires non-emergent care;Infectious Disease;young age (25-44);Influenza;3017;2044;1909;2037;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.061
+22;7c147ec370;97;AI;Requires non-emergent care;Otolaryngology (ENT);youth (15-24);Otitis externa;2847;2174;2028;1827;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.061
+23;6cf524b379;102;checker;Self-care appropriate;Orthopedics;young age (25-44);Low back pain;3382;2216;1953;1930;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+24;1a269d09c9;103;AI;Self-care appropriate;Gastroenterology;middle age (45-60);Constipation;2807;2036;1824;1806;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+25;eb5b19e66f;106;AI;Requires emergent care;Pulmonology;youth (15-24);Tension pneumothorax;3089;2925;2476;2092;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.1
+26;530098231c;108;checker;Requires emergent care;Nephrology;children (<15);Hemolytic uremic syndrome;3616;2169;2655;2204;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+27;1ea9e96bf6;111;checker;Requires emergent care;Gastroenterology;middle age (45-60);Acute liver failure;4219;2855;2714;2526;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+28;42309e03fd;116;msd;Requires non-emergent care;Neurology;youth (15-24);Multiple sclerosis;4489;2963;3257;3051;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+29;878acf5160;119;checker;Requires non-emergent care;Otolaryngology (ENT);young age (25-44);Acute sinusitis;2744;2228;1644;1868;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.061
+30;df407bcae3;121;msd;Requires emergent care;Endocrinology;young age (25-44);Pheochromocytoma;5083;2410;3420;2729;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+31;40380e6f63;124;checker;Requires emergent care;Urology;middle age (45-60);Kidney stones;4088;2740;2009;1990;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+32;6c1b55fd83;125;msd;Requires non-emergent care;Endocrinology;middle age (45-60);Cushing syndrome (CS);4076;3830;2655;2876;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+33;be8e1187a9;128;AI;Requires emergent care;Gastroenterology;young age (25-44);Acute pancreatitis;3725;2246;2307;2156;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.1
+34;4d7bbea843;133;AI;Self-care appropriate;Gastroenterology;youth (15-24);Lactose intolerance symptoms;3088;2000;1648;1984;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+35;aeb7676f54;134;msd;Requires emergent care;Urology;youth (15-24);Testicular torsion;2450;2250;1799;2210;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+36;b7ee066a9d;138;checker;Self-care appropriate;Ophthalmology;young age (25-44);Stye;3588;1633;1794;1945;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+37;34d29c3fdc;146;checker;Self-care appropriate;Otolaryngology (ENT);young age (25-44);Acute pharyngitis;3013;1855;1713;1715;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+38;c0edc895c0;148;msd;Requires non-emergent care;Urology;children (<15);Acute scrotal pain;2306;2734;2033;2274;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+39;64aa63adb0;150;checker;Requires non-emergent care;Pulmonology;elderly age (>60);Pneumonia;4268;2566;2109;1746;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.061
+40;b48a166754;159;msd;Requires non-emergent care;Urology;middle age (45-60);Ureteral stone;3939;3035;2567;2762;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+41;1642bb5251;161;msd;Requires emergent care;Endocrinology;young age (25-44);Primary hyperparathyroidism due to PTH-sec;4365;3173;3233;2608;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+42;c3b0b413cf;170;msd;Requires emergent care;General Surgery;elderly age (>60);Acute cellulitis of the leg;4046;2514;2607;2491;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+43;d13bd3bca8;171;checker;Self-care appropriate;Ophthalmology;children (<15);Acute conjunctivitis;3205;2494;1749;1714;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+44;5cab22bbb4;173;checker;Requires emergent care;Infectious Disease;youth (15-24);Meningitis;3724;1919;1783;2022;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+45;2c9816a40a;174;checker;Self-care appropriate;Obstetrics and Gynecology;young age (25-44);Candidal yeast infection;3077;2022;1782;1598;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+46;1e7dbbbf35;183;msd;Requires emergent care;Cardiology;elderly age (>60);Hemorrhagic cardiac tamponade;4043;2117;2198;2883;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+47;6c73219451;194;AI;Self-care appropriate;Dermatology;children (<15);Mild diaper rash;2672;1943;1619;2159;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+48;9ca63e3b72;195;checker;Self-care appropriate;General Medicine;middle age (45-60);Viral upper respiratory;2326;2064;1733;1513;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;0.838
+49;ced46883ef;196;checker;Requires emergent care;Emergency;elderly age (>60);Deep vein thrombosis;3918;1753;1743;2011;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+50;394bb2bf1b;200;msd;Requires non-emergent care;Endocrinology;young age (25-44);Graves disease;3972;2554;2686;1969;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+51;8de93cfccf;206;msd;Requires non-emergent care;Urology;young age (25-44);Painless scrotal masses;2940;1584;2034;2052;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+52;63cf3e93ca;209;checker;Requires emergent care;Neurology;elderly age (>60);Stroke;4876;2333;2303;2205;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.1
+53;e29cba9e4e;210;AI;Self-care appropriate;Dermatology;young age (25-44);Contact dermatitis (mild);2621;2056;1771;1623;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+54;a103802f30;216;msd;Requires emergent care;Pulmonology;youth (15-24);Primary spontaneous pneumothorax;2732;1831;1861;2093;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+55;0f9eacf690;218;msd;Requires non-emergent care;Urology;elderly age (>60);Benign prostatic hyperplasia (BPH);3785;3788;2368;2414;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.061
+56;c52f9c880b;219;msd;Requires emergent care;Emergency;elderly age (>60);Accidental and intentional poisoning;4841;4359;3207;3186;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+57;f4cde8d6c7;221;msd;Requires emergent care;Obstetrics and Gynecology;young age (25-44);Abruptio placentae;3787;2781;3597;3183;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.459;1.1
+58;642392f454;224;checker;Requires non-emergent care;Pulmonology;young age (25-44);Asthma;3879;2326;3303;2596;heterogeneous_gpt120_organizer_complete;balanced;20260831;0.563;1.061
+59;2b62520272;226;AI;Self-care appropriate;Dermatology;children (<15);Cradle cap;3306;1912;1695;1615;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;0.838
+60;28a88f9137;227;AI;Requires non-emergent care;Infectious Disease;young age (25-44);Influenza;3864;3064;1626;2165;heterogeneous_gpt120_organizer_complete;balanced;20260831;1.978;1.061

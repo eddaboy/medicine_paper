@@ -1,0 +1,11 @@
+﻿column_1,column_2,column_3,column_4
+System,Approach,Evaluation set; $n$,\textit{Accuracy (\
+DH-D (D $\times$ 3),Delphi framework,"Training subset; 1,000",89.3
+"DE-7G (G, Q, D)",Delphi framework,"Training subset; 1,000",88.1
+"DE-5G (G, Q, Q3.6)",Delphi framework,"Training subset; 1,000",87.6
+"DE-6G (G, Q, A)",Delphi framework,"Training subset; 1,000",86.2
+deepseek-v4-flash,Single-model baseline,"Training subset; 1,000",87.9
+qwen3.6-35b-a3b,Single-model baseline,"Training subset; 1,000",85.0
+aliceai-llm,Single-model baseline,"Training subset; 1,000",81.6
+qwen3-235b,Single-model baseline,"Training subset; 1,000",81.4
+gpt-oss-120b,Single-model baseline,"Training subset; 1,000",81.3

@@ -1,0 +1,8 @@
+﻿column_1,column_2,column_3,column_4,column_5
+Predictor,Scored protocols,Levels,\textit{R-\allowbreak{}squared},\textit{Adjusted R-\allowbreak{}squared}
+source,4113,3,0.0194,0.0189
+urgency,4113,3,0.0070,0.0065
+specialty,4113,20,0.0238,0.0193
+age,4113,6,0.0110,0.0098
+system,4113,18,0.3209,0.3180
+case,4113,229,0.3461,0.3078

@@ -1,0 +1,109 @@
+﻿family,arm,contrast,full,non,значим только non,значим только full
+A. когорты FIN−R1,fix_original,FIN−R1 @C2+C3,0.027006178404999557,0.027006178404999557,False,False
+A. когорты FIN−R1,fix_original,FIN−R1 @C3,0.3408819179593692,0.3408819179593692,False,False
+A. когорты FIN−R1,homog_deepseekv4,FIN−R1 @C2+C3,0.08575446022099466,0.00044790253145726326,True,False
+A. когорты FIN−R1,homog_deepseekv4,FIN−R1 @C3,0.07446183141740546,0.11176874513967607,False,False
+A. когорты FIN−R1,homog_gemini,FIN−R1 @C2+C3,0.943053770411126,0.943053770411126,False,False
+A. когорты FIN−R1,homog_gemini,FIN−R1 @C3,0.6001794871405538,0.6001794871405538,False,False
+A. когорты FIN−R1,homog_gpt,FIN−R1 @C2+C3,0.9278747945354018,0.9278747945354018,False,False
+A. когорты FIN−R1,homog_gpt,FIN−R1 @C3,0.5076243443095237,0.5076243443095237,False,False
+A. когорты FIN−R1,nofix_original,FIN−R1 @C2+C3,0.4001745204390209,0.021920443420954047,True,False
+A. когорты FIN−R1,nofix_original,FIN−R1 @C3,0.8824498718782464,0.030856753570821408,True,False
+A. когорты FIN−R1,pmixed,FIN−R1 @C2+C3,0.2211593824154201,0.2211593824154201,False,False
+A. когорты FIN−R1,pmixed,FIN−R1 @C3,0.7915606850617201,0.7915606850617201,False,False
+A. когорты FIN−R1,pstrong,FIN−R1 @C2+C3,0.4273189686748028,0.4273189686748028,False,False
+A. когорты FIN−R1,pstrong,FIN−R1 @C3,0.0024517937044666012,0.0024517937044666012,False,False
+A. когорты FIN−R1,pweak,FIN−R1 @C2+C3,0.8347728652617179,0.8347728652617179,False,False
+A. когорты FIN−R1,pweak,FIN−R1 @C3,0.25792439244833565,0.25792439244833565,False,False
+B. шаги внутри C3,fix_original,R1→R2 @C3,0.013336151128891924,0.013336151128891924,False,False
+B. шаги внутри C3,fix_original,R2→R3 @C3,0.33269855756008127,0.33269855756008127,False,False
+B. шаги внутри C3,homog_deepseekv4,R1→R2 @C3,0.25997449371051173,0.1386406338132186,False,False
+B. шаги внутри C3,homog_deepseekv4,R2→R3 @C3,0.23672357063785732,0.38235208985751545,False,False
+B. шаги внутри C3,homog_gemini,R1→R2 @C3,0.8657723749926214,0.8657723749926214,False,False
+B. шаги внутри C3,homog_gemini,R2→R3 @C3,0.5001842570707944,0.5001842570707944,False,False
+B. шаги внутри C3,homog_gpt,R1→R2 @C3,0.8784817434328712,0.8784817434328712,False,False
+B. шаги внутри C3,homog_gpt,R2→R3 @C3,0.36680119939501743,0.36680119939501743,False,False
+B. шаги внутри C3,nofix_original,R1→R2 @C3,0.0121273121665715,0.2604118031824044,False,True
+B. шаги внутри C3,nofix_original,R2→R3 @C3,0.02733048372748792,0.5110890641174397,False,True
+B. шаги внутри C3,pmixed,R1→R2 @C3,0.06360024068372601,0.06360024068372601,False,False
+B. шаги внутри C3,pmixed,R2→R3 @C3,0.011483595636288289,0.011483595636288289,False,False
+B. шаги внутри C3,pstrong,R1→R2 @C3,0.7409757802492207,0.7409757802492207,False,False
+B. шаги внутри C3,pstrong,R2→R3 @C3,0.0016753664597188398,0.0016753664597188398,False,False
+B. шаги внутри C3,pweak,R1→R2 @C3,0.07864666027410343,0.07864666027410343,False,False
+B. шаги внутри C3,pweak,R2→R3 @C3,0.6026046655065338,0.6026046655065338,False,False
+C. механизм: неполнота R1,homog_deepseekv4,R1 полное vs неполное голосование,0.07852816471359474,0.5223260447407909,False,False
+C. механизм: неполнота R1,homog_gpt,R1 полное vs неполное голосование,0.4089092129110299,0.4089092129110299,False,False
+C. механизм: неполнота R1,nofix_original,R1 полное vs неполное голосование,0.11251622751822911,,False,False
+C. механизм: неполнота R1,pmixed,R1 полное vs неполное голосование,0.10059727410334862,0.10059727410334862,False,False
+D. Type-подгруппы @C2+C3,fix_original,FIN−R1 | Requires emergent care,0.02687559167118386,0.02687559167118386,False,False
+D. Type-подгруппы @C2+C3,fix_original,FIN−R1 | Requires non-emergent care,0.02977040515042219,0.02977040515042219,False,False
+D. Type-подгруппы @C2+C3,fix_original,FIN−R1 | Self-care appropriate,1.0,1.0,False,False
+D. Type-подгруппы @C2+C3,homog_deepseekv4,FIN−R1 | Requires emergent care,0.24081567902619183,0.00010202944863870715,True,False
+D. Type-подгруппы @C2+C3,homog_deepseekv4,FIN−R1 | Requires non-emergent care,0.8784817434328712,0.1474161990774467,False,False
+D. Type-подгруппы @C2+C3,homog_deepseekv4,FIN−R1 | Self-care appropriate,0.05553298081594267,0.1688069535565081,False,False
+D. Type-подгруппы @C2+C3,homog_gemini,FIN−R1 | Requires emergent care,0.8886378608950078,0.8886378608950078,False,False
+D. Type-подгруппы @C2+C3,homog_gemini,FIN−R1 | Requires non-emergent care,0.9187600955117996,0.9187600955117996,False,False
+D. Type-подгруппы @C2+C3,homog_gemini,FIN−R1 | Self-care appropriate,0.916511907863894,0.916511907863894,False,False
+D. Type-подгруппы @C2+C3,homog_gpt,FIN−R1 | Requires emergent care,0.9773400784168154,0.9773400784168154,False,False
+D. Type-подгруппы @C2+C3,homog_gpt,FIN−R1 | Requires non-emergent care,0.49896229860376107,0.49896229860376107,False,False
+D. Type-подгруппы @C2+C3,homog_gpt,FIN−R1 | Self-care appropriate,0.7764250047999479,0.7764250047999479,False,False
+D. Type-подгруппы @C2+C3,nofix_original,FIN−R1 | Requires emergent care,0.06786533759908721,0.02276874371892181,True,False
+D. Type-подгруппы @C2+C3,nofix_original,FIN−R1 | Requires non-emergent care,0.573632939085727,0.021943664659377984,True,False
+D. Type-подгруппы @C2+C3,nofix_original,FIN−R1 | Self-care appropriate,0.5609241861506711,0.9886014552848512,False,False
+D. Type-подгруппы @C2+C3,pmixed,FIN−R1 | Requires emergent care,0.27674040239822784,0.27674040239822784,False,False
+D. Type-подгруппы @C2+C3,pmixed,FIN−R1 | Requires non-emergent care,0.15563546075803855,0.15563546075803855,False,False
+D. Type-подгруппы @C2+C3,pmixed,FIN−R1 | Self-care appropriate,0.756994844196247,0.756994844196247,False,False
+D. Type-подгруппы @C2+C3,pstrong,FIN−R1 | Requires emergent care,0.07753697663151893,0.07753697663151893,False,False
+D. Type-подгруппы @C2+C3,pstrong,FIN−R1 | Requires non-emergent care,0.8202800980995039,0.8202800980995039,False,False
+D. Type-подгруппы @C2+C3,pstrong,FIN−R1 | Self-care appropriate,0.7271800055035531,0.7271800055035531,False,False
+D. Type-подгруппы @C2+C3,pweak,FIN−R1 | Requires emergent care,0.5614366368759534,0.5614366368759534,False,False
+D. Type-подгруппы @C2+C3,pweak,FIN−R1 | Requires non-emergent care,0.48514125601357583,0.48514125601357583,False,False
+D. Type-подгруппы @C2+C3,pweak,FIN−R1 | Self-care appropriate,0.7775428401502809,0.7775428401502809,False,False
+E. Kruskal-Wallis по Type,fix_original,разброс FIN−R1 по Type,0.20431437561023746,0.20431437561023746,False,False
+E. Kruskal-Wallis по Type,homog_deepseekv4,разброс FIN−R1 по Type,0.7535233907042286,0.00010302071043412589,True,False
+E. Kruskal-Wallis по Type,homog_gemini,разброс FIN−R1 по Type,0.9814612911152653,0.9814612911152653,False,False
+E. Kruskal-Wallis по Type,homog_gpt,разброс FIN−R1 по Type,0.7104418461585809,0.7104418461585809,False,False
+E. Kruskal-Wallis по Type,nofix_original,разброс FIN−R1 по Type,0.18942368533986864,0.2852102005747731,False,False
+E. Kruskal-Wallis по Type,pmixed,разброс FIN−R1 по Type,0.4565623667689267,0.4565623667689267,False,False
+E. Kruskal-Wallis по Type,pstrong,разброс FIN−R1 по Type,0.2564089156221906,0.2564089156221906,False,False
+E. Kruskal-Wallis по Type,pweak,разброс FIN−R1 по Type,0.4406202845736731,0.4406202845736731,False,False
+F. регрессия к середине,fix_original,"corr(R1, FIN−R1) @C2+C3",6.272754546076631e-09,6.272754546076631e-09,False,False
+F. регрессия к середине,homog_deepseekv4,"corr(R1, FIN−R1) @C2+C3",0.04809484496974204,7.110801577778348e-05,False,False
+F. регрессия к середине,homog_gemini,"corr(R1, FIN−R1) @C2+C3",0.050005066709886935,0.050005066709886935,False,False
+F. регрессия к середине,homog_gpt,"corr(R1, FIN−R1) @C2+C3",0.00486677622369558,0.00486677622369558,False,False
+F. регрессия к середине,nofix_original,"corr(R1, FIN−R1) @C2+C3",1.4919888228301354e-07,7.685524998284133e-06,False,False
+F. регрессия к середине,pmixed,"corr(R1, FIN−R1) @C2+C3",0.0875022138319052,0.0875022138319052,False,False
+F. регрессия к середине,pstrong,"corr(R1, FIN−R1) @C2+C3",2.364138451739991e-06,2.364138451739991e-06,False,False
+F. регрессия к середине,pweak,"corr(R1, FIN−R1) @C2+C3",2.1082588965254156e-06,2.1082588965254156e-06,False,False
+G. стадия против одиночной,fix_original,FIN − max(single) @C2+C3,0.020523177487450684,0.020523177487450684,False,False
+G. стадия против одиночной,fix_original,R1 − max(single) @C2+C3,0.8478912753449647,0.8478912753449647,False,False
+G. стадия против одиночной,homog_deepseekv4,FIN − max(single) @C2+C3,7.751023818890167e-09,0.0029645602010122327,False,False
+G. стадия против одиночной,homog_deepseekv4,R1 − max(single) @C2+C3,1.2441536401276798e-09,0.1133837785240884,False,True
+G. стадия против одиночной,homog_gemini,FIN − max(single) @C2+C3,1.6795621714783797e-07,1.6795621714783797e-07,False,False
+G. стадия против одиночной,homog_gemini,R1 − max(single) @C2+C3,7.275957614183426e-11,7.275957614183426e-11,False,False
+G. стадия против одиночной,homog_gpt,FIN − max(single) @C2+C3,4.749210597627387e-07,4.749210597627387e-07,False,False
+G. стадия против одиночной,homog_gpt,R1 − max(single) @C2+C3,8.249409156611353e-07,8.249409156611353e-07,False,False
+G. стадия против одиночной,nofix_original,FIN − max(single) @C2+C3,1.3649399766659225e-10,5.861025627787863e-07,False,False
+G. стадия против одиночной,nofix_original,R1 − max(single) @C2+C3,5.72453894838193e-07,2.7513839995473632e-05,False,False
+G. стадия против одиночной,pmixed,FIN − max(single) @C2+C3,1.1285766564173459e-07,1.1285766564173459e-07,False,False
+G. стадия против одиночной,pmixed,R1 − max(single) @C2+C3,5.938227439501918e-11,5.938227439501918e-11,False,False
+G. стадия против одиночной,pstrong,FIN − max(single) @C2+C3,2.311394604701358e-08,2.311394604701358e-08,False,False
+G. стадия против одиночной,pstrong,R1 − max(single) @C2+C3,1.8040228335461902e-09,1.8040228335461902e-09,False,False
+G. стадия против одиночной,pweak,FIN − max(single) @C2+C3,3.9259213770712783e-13,3.9259213770712783e-13,False,False
+G. стадия против одиночной,pweak,R1 − max(single) @C2+C3,4.681404831231174e-13,4.681404831231174e-13,False,False
+H. объединённая модель,все 8 плеч,взаимодействие стадия x плечо (LR-тест),0.43970224996880736,0.00023564150376762863,True,False
+H. объединённая модель,все 8 плеч,общий эффект стадии FIN vs R1 @C2+C3,0.42288883225808294,0.004932745842951805,True,False
+H3. медиация через голоса,homog_deepseekv4,"corr(потеряно голосов, FIN−R1) @C2+C3",,3.954442580067557e-05,True,False
+H3. медиация через голоса,homog_gpt,"corr(потеряно голосов, FIN−R1) @C2+C3",0.2238809915586787,0.2238809915586787,False,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось accuracy,0.09238885661268335,0.03350068958208174,True,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось communication_quality,0.2578990352923395,0.10247043485974937,False,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось completeness,0.32411679150980166,0.0009666779466929492,True,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось reasoning,0.7854947471183542,0.5463901522927614,False,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось uncertainty,0.9155825203905921,0.05232710364252342,False,False
+I. оси рубрики @C2+C3,homog_deepseekv4,FIN−R1 | ось urgency,0.17971249487899976,0.10752849102617883,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось accuracy,0.9095312825191832,0.43276758066778476,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось communication_quality,0.935353907955952,0.3370504429623773,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось completeness,0.09252458779769501,0.20021707321061566,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось reasoning,0.6720517686591893,0.25066607181324785,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось uncertainty,0.8639725317960746,0.4395177932795684,False,False
+I. оси рубрики @C2+C3,nofix_original,FIN−R1 | ось urgency,0.3474267008880606,0.41347947649731565,False,False

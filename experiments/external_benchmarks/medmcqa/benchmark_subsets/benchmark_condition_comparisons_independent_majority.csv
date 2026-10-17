@@ -1,0 +1,7 @@
+﻿subset,comparator,n,accuracy_a,accuracy_b,difference_pp,a_only_correct,b_only_correct,p_exact,p_holm_six_subsets
+random_dev300,independent baseline majority (GPT breaks ties),300,0.77,0.78,-1.0000000000000009,21,24,0.765991824244793,1.0
+shao_hard100,independent baseline majority (GPT breaks ties),100,0.26,0.31,-4.999999999999999,8,13,0.38331031799316406,1.0
+goa100,independent baseline majority (GPT breaks ties),100,0.85,0.82,3.0000000000000027,5,2,0.453125,1.0
+marc100,independent baseline majority (GPT breaks ties),100,0.86,0.82,4.0000000000000036,6,2,0.2890625,1.0
+marc250,independent baseline majority (GPT breaks ties),250,0.836,0.8,3.599999999999992,14,5,0.063568115234375,0.317840576171875
+dev4183,independent baseline majority (GPT breaks ties),4183,0.7788668419794406,0.7683480755438681,1.051876643557248,244,200,0.04116095528037651,0.24696573168225908

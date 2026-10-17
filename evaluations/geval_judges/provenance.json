@@ -1,0 +1,22 @@
+{
+  "cohort": "Historical 230-case corpus",
+  "purpose": "Preserve the original input protocol chain for the imported G-Eval evaluations.",
+  "relationship_to_main_experiments": "This cohort predates the curated 229-case gold corpus. Evaluation inputs remain in source_protocols rather than being substituted with the later experiments.",
+  "arms": [
+    "delphi",
+    "baseline_gpt",
+    "baseline_qwen",
+    "baseline_deepseekv4"
+  ],
+  "source_matching": {
+    "cases_per_arm": 230,
+    "matched_words_per_arm": 230,
+    "comparison": "Saved G-Eval protocol word counts match the selected historical source protocols in every case."
+  },
+  "generation_order": [
+    "source_protocols/<arm>/*framework.ipynb",
+    "source_protocols/<arm>/llm_as_judge/llmfmed_external_judge.ipynb",
+    "<G-Eval variant>/<G-Eval variant>.ipynb"
+  ],
+  "network_requirement": "Generation and judging notebooks require new API credentials. The saved evaluations and their summaries can be inspected offline."
+}

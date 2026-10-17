@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Completeness of Required Fields",
+    "definition": "This metric evaluates whether the protocol includes all the specified fields (Age, Sex, Complaint, Analysis, Required diagnostic equipment/tests, Conclusion, Emergency type, Subclinical specialization, Recommendations, Notes) in the correct order. It does NOT assess the quality or accuracy of the content within each field, only their presence and order.",
+    "steps": "1. Verify that all ten fields are present in the protocol text.\n2. Check that the fields appear in the exact order specified.\n3. Confirm that each field is clearly labeled and separated from others.\n4. Ensure no extra fields are included beyond the specified ones."
+  },
+  {
+    "name": "Accuracy and Relevance of Content",
+    "definition": "This metric assesses whether the information within each field accurately reflects the clinical case details and is relevant to the field's purpose. It does NOT evaluate the writing style, grammar, or formatting.",
+    "steps": "1. Compare the Age and Sex fields with the clinical case data for correctness.\n2. Check that the Complaint field summarizes the main patient complaint accurately.\n3. Evaluate if the Analysis reflects a logical interpretation of the clinical information.\n4. Verify that the Required diagnostic equipment/tests are appropriate and relevant to the case.\n5. Confirm that the Conclusion logically follows from the Analysis and test results."
+  },
+  {
+    "name": "Clarity and Plain Language Use",
+    "definition": "This metric measures how clearly and understandably the protocol is written using plain language suitable for clinical use. It does NOT judge medical accuracy or completeness.",
+    "steps": "1. Assess whether medical jargon is minimized or explained clearly.\n2. Check if sentences are concise and avoid ambiguity.\n3. Determine if the protocol can be understood by a clinician without requiring additional interpretation.\n4. Verify that each field's content is self-contained and clearly communicates its intended information."
+  },
+  {
+    "name": "Consistency and Logical Flow",
+    "definition": "This metric evaluates the internal consistency of information across fields and the logical progression from one field to the next. It does NOT assess the factual correctness of individual data points.",
+    "steps": "1. Check that the Analysis is consistent with the Complaint and physical examination details.\n2. Verify that the Required diagnostic equipment/tests logically support the Analysis and Conclusion.\n3. Ensure the Conclusion aligns with the Emergency type and Subclinical specialization.\n4. Confirm that Recommendations follow logically from the Conclusion."
+  },
+  {
+    "name": "Appropriateness of Emergency Type and Subclinical Specialization",
+    "definition": "This metric assesses whether the assigned Emergency type and Subclinical specialization are appropriate given the clinical case and protocol content. It does NOT evaluate other fields or overall protocol completeness.",
+    "steps": "1. Identify the clinical urgency indicated by the case and check if the Emergency type matches this urgency.\n2. Verify that the Subclinical specialization corresponds to the clinical domain relevant to the case.\n3. Confirm that both fields are explicitly stated and unambiguous."
+  },
+  {
+    "name": "Practicality and Usefulness of Recommendations",
+    "definition": "This metric evaluates whether the Recommendations are actionable, specific, and useful for clinical management. It does NOT assess the correctness of diagnostic conclusions or emergency classification.",
+    "steps": "1. Check if the Recommendations provide clear next steps or interventions.\n2. Verify that the Recommendations are feasible given the clinical context.\n3. Ensure that the Recommendations do not contradict the Conclusion or Analysis.\n4. Confirm that the Recommendations avoid vague or generic advice."
+  },
+  {
+    "name": "Presence and Relevance of Notes",
+    "definition": "This metric measures whether the Notes field contains relevant additional information or clarifications that support the protocol without redundancy. It does NOT assess other fields or overall protocol structure.",
+    "steps": "1. Check that the Notes field is present and labeled correctly.\n2. Verify that the content adds meaningful context or caveats related to the case.\n3. Ensure the Notes do not repeat information already covered in other fields.\n4. Confirm that the Notes are concise and relevant."
+  }
+]

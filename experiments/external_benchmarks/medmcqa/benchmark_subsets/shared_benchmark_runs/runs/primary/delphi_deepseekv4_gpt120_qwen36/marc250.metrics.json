@@ -1,0 +1,68 @@
+{
+  "system_id": "delphi_deepseekv4_gpt120_qwen36",
+  "subset_id": "marc250",
+  "n": 250,
+  "correct": 208,
+  "invalid_answers": 0,
+  "accuracy": 0.832,
+  "accuracy_wilson_95ci": [
+    0.7807100422284562,
+    0.8732414469065685
+  ],
+  "split": "train/dev mixture",
+  "source_url": "https://raw.githubusercontent.com/jraymartinez/marc-medical-calibration/44e0364c77125571f429b4404075b77413a853fa/data/filtered/medmcqa_250q_high_disagreement.json",
+  "configuration_signature": "6c6e8d2379ae18ad5c9c0ec5b6f67cd02a971b8ffbdc3b9701fd7defac4bf8e4",
+  "configuration": {
+    "system": "delphi_deepseekv4_gpt120_qwen36",
+    "source_sha256": "06c54117679c01e76945565f6a9d9364a19a0f5915cbf355064af50c64870e5e",
+    "participants": [
+      {
+        "id": "deepseekv4_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///deepseek-v4-flash/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "gpt120b_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///gpt-oss-120b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      },
+      {
+        "id": "qwen36_default",
+        "provider": "openai_compatible",
+        "model_uri": "gpt:///qwen3.6-35b-a3b/latest",
+        "role_name": "Default",
+        "role_description": "You are a careful expert assistant. Follow the requested format exactly. Do not use information not grounded in the provided case."
+      }
+    ],
+    "organizer": "deepseekv4_default",
+    "max_rounds": 3,
+    "early_stop": true,
+    "temperatures": [
+      0.3,
+      0.3,
+      0.3,
+      0.3,
+      0.3
+    ],
+    "model_output_limits": {
+      "gpt-oss-120b": 10000,
+      "qwen3.6-35b-a3b": 10000,
+      "deepseek-v4-flash": 10000
+    },
+    "reasoning_mode": "provider_default",
+    "variant_source_sha256": "c56b5ba22ae87dcfa3e642bca9c0a6c1d4bad8cd722e0b742bedfa2c49d49104",
+    "cache_policy": "original_request_key"
+  },
+  "input_sha256": "07451521272f15906c850f8bbb9c54ac4b4dd869c4987486c9724edee0191867",
+  "output_sha256": "f1f9ce26e5d58bebeb6608355c25cd0ad80cf430ab82f3ccdcc932632a4818c3",
+  "billed_prompt_tokens": 2158366,
+  "billed_completion_tokens": 2551402,
+  "recorded_cost_rub": 1515.8490000000002,
+  "length_limited_calls": 0,
+  "price_source": "https://aistudio.yandex.ru/ru/docs/ai-studio/pricing",
+  "cache_policy": "persist during the subset; clear responses after successful final write"
+}

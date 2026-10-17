@@ -1,0 +1,30 @@
+﻿column_1,column_2,column_3,column_4,column_5,column_6
+panel,rule,rule mean,synthesis,delta,p
+D-\allowbreak{}1G,majority,0.619,0.789,0.171,2.2e-\allowbreak{}34
+D-\allowbreak{}1G,union (oracle),0.766,0.789,0.024,0.002
+D-\allowbreak{}1G,intersection,0.442,0.789,0.347,3.8e-\allowbreak{}39
+D-\allowbreak{}1G,best member (per case),0.701,0.789,0.088,8.4e-\allowbreak{}21
+D-\allowbreak{}3Q,majority,0.521,0.745,0.224,5.2e-\allowbreak{}37
+D-\allowbreak{}3Q,union (oracle),0.680,0.745,0.065,1.2e-\allowbreak{}10
+D-\allowbreak{}3Q,intersection,0.346,0.745,0.400,2.5e-\allowbreak{}39
+D-\allowbreak{}3Q,best member (per case),0.627,0.745,0.118,1.1e-\allowbreak{}22
+D-\allowbreak{}4D,majority,0.558,0.786,0.227,4.3e-\allowbreak{}36
+D-\allowbreak{}4D,union (oracle),0.723,0.786,0.063,4.4e-\allowbreak{}09
+D-\allowbreak{}4D,intersection,0.368,0.786,0.417,5.9e-\allowbreak{}39
+D-\allowbreak{}4D,best member (per case),0.683,0.786,0.103,1.2e-\allowbreak{}18
+D-\allowbreak{}2D,majority,0.621,0.805,0.184,3.0e-\allowbreak{}31
+D-\allowbreak{}2D,union (oracle),0.772,0.805,0.033,3.0e-\allowbreak{}04
+D-\allowbreak{}2D,intersection,0.458,0.805,0.347,8.2e-\allowbreak{}39
+D-\allowbreak{}2D,best member (per case),0.710,0.805,0.095,8.3e-\allowbreak{}18
+D-\allowbreak{}1D,majority,0.619,0.810,0.192,8.7e-\allowbreak{}36
+D-\allowbreak{}1D,union (oracle),0.766,0.810,0.045,3.4e-\allowbreak{}07
+D-\allowbreak{}1D,intersection,0.442,0.810,0.368,5.7e-\allowbreak{}39
+D-\allowbreak{}1D,best member (per case),0.701,0.810,0.109,1.5e-\allowbreak{}23
+D-\allowbreak{}1Q,majority,0.619,0.758,0.140,5.6e-\allowbreak{}32
+D-\allowbreak{}1Q,union (oracle),0.766,0.758,-0.007,0.321
+D-\allowbreak{}1Q,intersection,0.442,0.758,0.316,4.4e-\allowbreak{}39
+D-\allowbreak{}1Q,best member (per case),0.701,0.758,0.057,2.4e-\allowbreak{}12
+D-\allowbreak{}1Ge,majority,0.619,0.799,0.180,3.7e-\allowbreak{}35
+D-\allowbreak{}1Ge,union (oracle),0.766,0.799,0.033,6.2e-\allowbreak{}06
+D-\allowbreak{}1Ge,intersection,0.442,0.799,0.357,3.7e-\allowbreak{}39
+D-\allowbreak{}1Ge,best member (per case),0.701,0.799,0.098,3.5e-\allowbreak{}22

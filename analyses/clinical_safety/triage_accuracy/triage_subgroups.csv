@@ -1,0 +1,232 @@
+arm,level,n,under,dim
+baseline_dsv4,children (<15),35,0.0286,Age Group
+baseline_dsv4,elderly age (>60),37,0.0,Age Group
+baseline_dsv4,middle age (45-60),44,0.0227,Age Group
+baseline_dsv4,young age (25-44),78,0.0256,Age Group
+baseline_dsv4,youth (15-24),33,0.0303,Age Group
+baseline_gemini,children (<15),36,0.0278,Age Group
+baseline_gemini,elderly age (>60),37,0.027,Age Group
+baseline_gemini,middle age (45-60),44,0.0,Age Group
+baseline_gemini,young age (25-44),78,0.0,Age Group
+baseline_gemini,youth (15-24),33,0.0303,Age Group
+baseline_glm,children (<15),36,0.0,Age Group
+baseline_glm,elderly age (>60),37,0.027,Age Group
+baseline_glm,middle age (45-60),43,0.0,Age Group
+baseline_glm,young age (25-44),78,0.0,Age Group
+baseline_glm,youth (15-24),33,0.0303,Age Group
+baseline_gpt,children (<15),36,0.0833,Age Group
+baseline_gpt,elderly age (>60),37,0.0811,Age Group
+baseline_gpt,middle age (45-60),44,0.0,Age Group
+baseline_gpt,young age (25-44),78,0.0385,Age Group
+baseline_gpt,youth (15-24),33,0.0606,Age Group
+baseline_qwen,children (<15),36,0.0278,Age Group
+baseline_qwen,elderly age (>60),37,0.027,Age Group
+baseline_qwen,middle age (45-60),44,0.0227,Age Group
+baseline_qwen,young age (25-44),78,0.0256,Age Group
+baseline_qwen,youth (15-24),33,0.0,Age Group
+delphi_base,children (<15),36,0.0,Age Group
+delphi_base,elderly age (>60),37,0.027,Age Group
+delphi_base,middle age (45-60),44,0.0,Age Group
+delphi_base,young age (25-44),78,0.0128,Age Group
+delphi_base,youth (15-24),33,0.0303,Age Group
+delphi_pstrong,children (<15),36,0.0278,Age Group
+delphi_pstrong,elderly age (>60),37,0.0,Age Group
+delphi_pstrong,middle age (45-60),44,0.0,Age Group
+delphi_pstrong,young age (25-44),78,0.0128,Age Group
+delphi_pstrong,youth (15-24),33,0.0303,Age Group
+delphi_pweak,children (<15),36,0.0,Age Group
+delphi_pweak,elderly age (>60),37,0.0,Age Group
+delphi_pweak,middle age (45-60),44,0.0,Age Group
+delphi_pweak,young age (25-44),78,0.0,Age Group
+delphi_pweak,youth (15-24),33,0.0303,Age Group
+homog_gpt_x3,children (<15),36,0.0833,Age Group
+homog_gpt_x3,elderly age (>60),37,0.027,Age Group
+homog_gpt_x3,middle age (45-60),44,0.0,Age Group
+homog_gpt_x3,young age (25-44),78,0.0385,Age Group
+homog_gpt_x3,youth (15-24),33,0.0303,Age Group
+usc_gpt_k3,children (<15),36,0.0833,Age Group
+usc_gpt_k3,elderly age (>60),37,0.1081,Age Group
+usc_gpt_k3,middle age (45-60),44,0.0,Age Group
+usc_gpt_k3,young age (25-44),78,0.0513,Age Group
+usc_gpt_k3,youth (15-24),33,0.0303,Age Group
+usc_gpt_k7,children (<15),36,0.0833,Age Group
+usc_gpt_k7,elderly age (>60),37,0.1081,Age Group
+usc_gpt_k7,middle age (45-60),44,0.0,Age Group
+usc_gpt_k7,young age (25-44),78,0.0513,Age Group
+usc_gpt_k7,youth (15-24),33,0.0606,Age Group
+baseline_dsv4,Cardiology,9,0.0,Sub Clinical Specialties
+baseline_dsv4,Dermatology,30,0.0,Sub Clinical Specialties
+baseline_dsv4,Emergency,18,0.0,Sub Clinical Specialties
+baseline_dsv4,Endocrinology,14,0.0,Sub Clinical Specialties
+baseline_dsv4,Gastroenterology,15,0.0,Sub Clinical Specialties
+baseline_dsv4,General Medicine,9,0.0,Sub Clinical Specialties
+baseline_dsv4,General Surgery,13,0.0,Sub Clinical Specialties
+baseline_dsv4,Infectious Disease,14,0.1429,Sub Clinical Specialties
+baseline_dsv4,Neurology,10,0.0,Sub Clinical Specialties
+baseline_dsv4,Orthopedics,19,0.1053,Sub Clinical Specialties
+baseline_dsv4,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+baseline_dsv4,Pulmonology,18,0.0,Sub Clinical Specialties
+baseline_dsv4,Urology,13,0.0769,Sub Clinical Specialties
+baseline_gemini,Cardiology,9,0.1111,Sub Clinical Specialties
+baseline_gemini,Dermatology,30,0.0,Sub Clinical Specialties
+baseline_gemini,Emergency,18,0.0,Sub Clinical Specialties
+baseline_gemini,Endocrinology,14,0.0,Sub Clinical Specialties
+baseline_gemini,Gastroenterology,15,0.0,Sub Clinical Specialties
+baseline_gemini,General Medicine,9,0.0,Sub Clinical Specialties
+baseline_gemini,General Surgery,13,0.0,Sub Clinical Specialties
+baseline_gemini,Infectious Disease,14,0.0714,Sub Clinical Specialties
+baseline_gemini,Neurology,10,0.0,Sub Clinical Specialties
+baseline_gemini,Orthopedics,20,0.0,Sub Clinical Specialties
+baseline_gemini,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+baseline_gemini,Pulmonology,18,0.0,Sub Clinical Specialties
+baseline_gemini,Urology,13,0.0769,Sub Clinical Specialties
+baseline_glm,Cardiology,9,0.1111,Sub Clinical Specialties
+baseline_glm,Dermatology,30,0.0,Sub Clinical Specialties
+baseline_glm,Emergency,18,0.0,Sub Clinical Specialties
+baseline_glm,Endocrinology,14,0.0,Sub Clinical Specialties
+baseline_glm,Gastroenterology,15,0.0,Sub Clinical Specialties
+baseline_glm,General Medicine,9,0.0,Sub Clinical Specialties
+baseline_glm,General Surgery,12,0.0,Sub Clinical Specialties
+baseline_glm,Infectious Disease,14,0.0,Sub Clinical Specialties
+baseline_glm,Neurology,10,0.0,Sub Clinical Specialties
+baseline_glm,Orthopedics,20,0.0,Sub Clinical Specialties
+baseline_glm,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+baseline_glm,Pulmonology,18,0.0,Sub Clinical Specialties
+baseline_glm,Urology,13,0.0769,Sub Clinical Specialties
+baseline_gpt,Cardiology,9,0.1111,Sub Clinical Specialties
+baseline_gpt,Dermatology,30,0.0,Sub Clinical Specialties
+baseline_gpt,Emergency,18,0.0556,Sub Clinical Specialties
+baseline_gpt,Endocrinology,14,0.0714,Sub Clinical Specialties
+baseline_gpt,Gastroenterology,15,0.0,Sub Clinical Specialties
+baseline_gpt,General Medicine,9,0.0,Sub Clinical Specialties
+baseline_gpt,General Surgery,13,0.0,Sub Clinical Specialties
+baseline_gpt,Infectious Disease,14,0.1429,Sub Clinical Specialties
+baseline_gpt,Neurology,10,0.0,Sub Clinical Specialties
+baseline_gpt,Orthopedics,20,0.05,Sub Clinical Specialties
+baseline_gpt,Otolaryngology (ENT),18,0.0556,Sub Clinical Specialties
+baseline_gpt,Pulmonology,18,0.1111,Sub Clinical Specialties
+baseline_gpt,Urology,13,0.0769,Sub Clinical Specialties
+baseline_qwen,Cardiology,9,0.1111,Sub Clinical Specialties
+baseline_qwen,Dermatology,30,0.0333,Sub Clinical Specialties
+baseline_qwen,Emergency,18,0.0,Sub Clinical Specialties
+baseline_qwen,Endocrinology,14,0.0,Sub Clinical Specialties
+baseline_qwen,Gastroenterology,15,0.0,Sub Clinical Specialties
+baseline_qwen,General Medicine,9,0.0,Sub Clinical Specialties
+baseline_qwen,General Surgery,13,0.0,Sub Clinical Specialties
+baseline_qwen,Infectious Disease,14,0.0714,Sub Clinical Specialties
+baseline_qwen,Neurology,10,0.0,Sub Clinical Specialties
+baseline_qwen,Orthopedics,20,0.1,Sub Clinical Specialties
+baseline_qwen,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+baseline_qwen,Pulmonology,18,0.0,Sub Clinical Specialties
+baseline_qwen,Urology,13,0.0,Sub Clinical Specialties
+delphi_base,Cardiology,9,0.0,Sub Clinical Specialties
+delphi_base,Dermatology,30,0.0,Sub Clinical Specialties
+delphi_base,Emergency,18,0.0556,Sub Clinical Specialties
+delphi_base,Endocrinology,14,0.0,Sub Clinical Specialties
+delphi_base,Gastroenterology,15,0.0,Sub Clinical Specialties
+delphi_base,General Medicine,9,0.0,Sub Clinical Specialties
+delphi_base,General Surgery,13,0.0769,Sub Clinical Specialties
+delphi_base,Infectious Disease,14,0.0,Sub Clinical Specialties
+delphi_base,Neurology,10,0.0,Sub Clinical Specialties
+delphi_base,Orthopedics,20,0.0,Sub Clinical Specialties
+delphi_base,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+delphi_base,Pulmonology,18,0.0,Sub Clinical Specialties
+delphi_base,Urology,13,0.0769,Sub Clinical Specialties
+delphi_pstrong,Cardiology,9,0.0,Sub Clinical Specialties
+delphi_pstrong,Dermatology,30,0.0,Sub Clinical Specialties
+delphi_pstrong,Emergency,18,0.0,Sub Clinical Specialties
+delphi_pstrong,Endocrinology,14,0.0714,Sub Clinical Specialties
+delphi_pstrong,Gastroenterology,15,0.0,Sub Clinical Specialties
+delphi_pstrong,General Medicine,9,0.0,Sub Clinical Specialties
+delphi_pstrong,General Surgery,13,0.0,Sub Clinical Specialties
+delphi_pstrong,Infectious Disease,14,0.0714,Sub Clinical Specialties
+delphi_pstrong,Neurology,10,0.0,Sub Clinical Specialties
+delphi_pstrong,Orthopedics,20,0.0,Sub Clinical Specialties
+delphi_pstrong,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+delphi_pstrong,Pulmonology,18,0.0,Sub Clinical Specialties
+delphi_pstrong,Urology,13,0.0769,Sub Clinical Specialties
+delphi_pweak,Cardiology,9,0.0,Sub Clinical Specialties
+delphi_pweak,Dermatology,30,0.0,Sub Clinical Specialties
+delphi_pweak,Emergency,18,0.0,Sub Clinical Specialties
+delphi_pweak,Endocrinology,14,0.0,Sub Clinical Specialties
+delphi_pweak,Gastroenterology,15,0.0,Sub Clinical Specialties
+delphi_pweak,General Medicine,9,0.0,Sub Clinical Specialties
+delphi_pweak,General Surgery,13,0.0,Sub Clinical Specialties
+delphi_pweak,Infectious Disease,14,0.0,Sub Clinical Specialties
+delphi_pweak,Neurology,10,0.0,Sub Clinical Specialties
+delphi_pweak,Orthopedics,20,0.0,Sub Clinical Specialties
+delphi_pweak,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+delphi_pweak,Pulmonology,18,0.0,Sub Clinical Specialties
+delphi_pweak,Urology,13,0.0769,Sub Clinical Specialties
+homog_gpt_x3,Cardiology,9,0.0,Sub Clinical Specialties
+homog_gpt_x3,Dermatology,30,0.0,Sub Clinical Specialties
+homog_gpt_x3,Emergency,18,0.0,Sub Clinical Specialties
+homog_gpt_x3,Endocrinology,14,0.0,Sub Clinical Specialties
+homog_gpt_x3,Gastroenterology,15,0.0,Sub Clinical Specialties
+homog_gpt_x3,General Medicine,9,0.0,Sub Clinical Specialties
+homog_gpt_x3,General Surgery,13,0.1538,Sub Clinical Specialties
+homog_gpt_x3,Infectious Disease,14,0.0714,Sub Clinical Specialties
+homog_gpt_x3,Neurology,10,0.0,Sub Clinical Specialties
+homog_gpt_x3,Orthopedics,20,0.05,Sub Clinical Specialties
+homog_gpt_x3,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+homog_gpt_x3,Pulmonology,18,0.1111,Sub Clinical Specialties
+homog_gpt_x3,Urology,13,0.0769,Sub Clinical Specialties
+usc_gpt_k3,Cardiology,9,0.1111,Sub Clinical Specialties
+usc_gpt_k3,Dermatology,30,0.0,Sub Clinical Specialties
+usc_gpt_k3,Emergency,18,0.0556,Sub Clinical Specialties
+usc_gpt_k3,Endocrinology,14,0.0714,Sub Clinical Specialties
+usc_gpt_k3,Gastroenterology,15,0.0,Sub Clinical Specialties
+usc_gpt_k3,General Medicine,9,0.0,Sub Clinical Specialties
+usc_gpt_k3,General Surgery,13,0.0769,Sub Clinical Specialties
+usc_gpt_k3,Infectious Disease,14,0.1429,Sub Clinical Specialties
+usc_gpt_k3,Neurology,10,0.1,Sub Clinical Specialties
+usc_gpt_k3,Orthopedics,20,0.05,Sub Clinical Specialties
+usc_gpt_k3,Otolaryngology (ENT),18,0.0,Sub Clinical Specialties
+usc_gpt_k3,Pulmonology,18,0.1111,Sub Clinical Specialties
+usc_gpt_k3,Urology,13,0.0769,Sub Clinical Specialties
+usc_gpt_k7,Cardiology,9,0.1111,Sub Clinical Specialties
+usc_gpt_k7,Dermatology,30,0.0,Sub Clinical Specialties
+usc_gpt_k7,Emergency,18,0.0556,Sub Clinical Specialties
+usc_gpt_k7,Endocrinology,14,0.0714,Sub Clinical Specialties
+usc_gpt_k7,Gastroenterology,15,0.0,Sub Clinical Specialties
+usc_gpt_k7,General Medicine,9,0.0,Sub Clinical Specialties
+usc_gpt_k7,General Surgery,13,0.0769,Sub Clinical Specialties
+usc_gpt_k7,Infectious Disease,14,0.1429,Sub Clinical Specialties
+usc_gpt_k7,Neurology,10,0.1,Sub Clinical Specialties
+usc_gpt_k7,Orthopedics,20,0.05,Sub Clinical Specialties
+usc_gpt_k7,Otolaryngology (ENT),18,0.0556,Sub Clinical Specialties
+usc_gpt_k7,Pulmonology,18,0.1111,Sub Clinical Specialties
+usc_gpt_k7,Urology,13,0.0769,Sub Clinical Specialties
+baseline_dsv4,Requires emergent care,84,0.0238,Type
+baseline_dsv4,Requires non-emergent care,80,0.0375,Type
+baseline_dsv4,Self-care appropriate,64,0.0,Type
+baseline_gemini,Requires emergent care,84,0.0238,Type
+baseline_gemini,Requires non-emergent care,81,0.0123,Type
+baseline_gemini,Self-care appropriate,64,0.0,Type
+baseline_glm,Requires emergent care,84,0.0238,Type
+baseline_glm,Requires non-emergent care,80,0.0,Type
+baseline_glm,Self-care appropriate,64,0.0,Type
+baseline_gpt,Requires emergent care,84,0.119,Type
+baseline_gpt,Requires non-emergent care,81,0.0123,Type
+baseline_gpt,Self-care appropriate,64,0.0,Type
+baseline_qwen,Requires emergent care,84,0.0119,Type
+baseline_qwen,Requires non-emergent care,81,0.0494,Type
+baseline_qwen,Self-care appropriate,64,0.0,Type
+delphi_base,Requires emergent care,84,0.0357,Type
+delphi_base,Requires non-emergent care,81,0.0,Type
+delphi_base,Self-care appropriate,64,0.0,Type
+delphi_pstrong,Requires emergent care,84,0.0238,Type
+delphi_pstrong,Requires non-emergent care,81,0.0123,Type
+delphi_pstrong,Self-care appropriate,64,0.0,Type
+delphi_pweak,Requires emergent care,84,0.0119,Type
+delphi_pweak,Requires non-emergent care,81,0.0,Type
+delphi_pweak,Self-care appropriate,64,0.0,Type
+homog_gpt_x3,Requires emergent care,84,0.0952,Type
+homog_gpt_x3,Requires non-emergent care,81,0.0,Type
+homog_gpt_x3,Self-care appropriate,64,0.0,Type
+usc_gpt_k3,Requires emergent care,84,0.131,Type
+usc_gpt_k3,Requires non-emergent care,81,0.0123,Type
+usc_gpt_k3,Self-care appropriate,64,0.0,Type
+usc_gpt_k7,Requires emergent care,84,0.1429,Type
+usc_gpt_k7,Requires non-emergent care,81,0.0123,Type
+usc_gpt_k7,Self-care appropriate,64,0.0,Type

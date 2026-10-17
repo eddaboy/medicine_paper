@@ -1,0 +1,6 @@
+﻿system_id;subset_id;n;correct;invalid_answers;accuracy;recorded_cost_rub;length_limited_calls
+delphi_deepseekv4_trio;random_dev300;300;229;0;0.7633333333333333;1381.7963;4
+delphi_deepseekv4_trio;shao_hard100;100;35;0;0.35;527.8298;2
+delphi_deepseekv4_trio;goa100;100;82;0;0.82;424.23659999999995;0
+delphi_deepseekv4_trio;marc100;100;75;0;0.75;430.2033;1
+delphi_deepseekv4_trio;marc250;250;201;0;0.804;1097.3786999999998;1

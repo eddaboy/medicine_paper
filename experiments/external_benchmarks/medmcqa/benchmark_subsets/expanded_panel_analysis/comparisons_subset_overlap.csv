@@ -1,0 +1,11 @@
+﻿subset_a,subset_b,shared_ids
+random_dev300,shao_hard100,8
+random_dev300,goa100,8
+random_dev300,marc100,0
+random_dev300,marc250,0
+shao_hard100,goa100,0
+shao_hard100,marc100,0
+shao_hard100,marc250,0
+goa100,marc100,0
+goa100,marc250,0
+marc100,marc250,100

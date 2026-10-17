@@ -1,0 +1,45 @@
+﻿column_1,column_2,column_3,column_4,column_5
+Name,Type,Experts,Organizer,Experiments
+\multicolumn{5}{l}{Single open-weight models (baselines)},,,,
+gpt-oss-120b,Single model,,,"M, R, L, S, T, B, G, A, Q, Qr, Qx"
+qwen3-235b-a22b (FP8),Single model,,,"M, R, L, S, T, B, G, A, Q, Qr"
+deepseek-v4-flash,Single model,,,"M, R, L, S, T, B, G, A, Q, Qr, Qx"
+deepseek-v4-pro,Single model,,,"M, R, X"
+gemini-3.7-flash,Single model,,,"M, R, X"
+glm-5.2,Single model,,,"M, R, X"
+kimi-k2.6,Single model,,,"M, R, X"
+qwen3.6-35b-a3b,Single model,,,"Q, Qx"
+aliceai-llm,Single model,,,Q
+"\multicolumn{5}{l}{Delphi panels, clinical benchmark}",,,,
+D-1G,Heterogeneous,"gpt-oss-120b, qwen3-235b, deepseek-v4-flash",gpt-oss-120b (member),"M, R, L, S, T, B, G, A, O, D, I, H"
+D-1D,Heterogeneous,"gpt-oss-120b, qwen3-235b, deepseek-v4-flash",deepseek-v4-flash (member),"M, O, D"
+D-1Q,Heterogeneous,"gpt-oss-120b, qwen3-235b, deepseek-v4-flash",qwen3-235b (member),"M, O, D"
+D-1Ge,Heterogeneous,"gpt-oss-120b, qwen3-235b, deepseek-v4-flash","gemini-3.7-flash (outside the panel, no vote)","M, O, D"
+D-2D,Heterogeneous,"deepseek-v4-flash, glm-5.2, gpt-oss-120b",deepseek-v4-flash (member),"M, D, I"
+D-3Q,Heterogeneous,"qwen3-235b, gemini-3.7-flash, deepseek-v4-pro",qwen3-235b (member),"M, D, I"
+D-4D,Heterogeneous,"deepseek-v4-flash, gemini-3.7-flash, glm-5.2",deepseek-v4-flash (member),"M, D, I"
+DH-G,Homogeneous,gpt-oss-120b $\times$3,one instance,"M, D, I, Qx5"
+DH-Q,Homogeneous,qwen3-235b $\times$3,one instance,"M, D"
+DH-D,Homogeneous,deepseek-v4-flash $\times$3,one instance,"M, D, I, Q, Qx5"
+DH-Ge,Homogeneous,gemini-3.7-flash $\times$3,one instance,"M, D, I"
+"\multicolumn{5}{l}{Delphi panels, MedMCQA only}",,,,
+DE-5G,Heterogeneous,"gpt-oss-120b, qwen3-235b, qwen3.6-35b-a3b",gpt-oss-120b (member),Q
+DE-6G,Heterogeneous,"gpt-oss-120b, qwen3-235b, aliceai-llm",gpt-oss-120b (member),Q
+DE-7G,Heterogeneous,"gpt-oss-120b, qwen3-235b, deepseek-v4-flash",gpt-oss-120b (member),"Q, Qr"
+DE-8G,Heterogeneous,"gpt-oss-120b, qwen3.6-35b-a3b, deepseek-v4-flash",gpt-oss-120b (member),Qx
+DE-8Q36,Heterogeneous,"qwen3.6-35b-a3b, gpt-oss-120b, deepseek-v4-flash",qwen3.6-35b-a3b (member),Qx5
+DE-8D,Heterogeneous,"deepseek-v4-flash, gpt-oss-120b, qwen3.6-35b-a3b",deepseek-v4-flash (member),Qx5
+DH-Q36,Homogeneous,qwen3.6-35b-a3b $\times$3,one instance,Qx5
+"\multicolumn{5}{l}{Panel-size sweep (60 vignettes, earlier framework version)$^\dagger$}",,,,
+k = 4,Heterogeneous,D-1G members + gpt-oss-20b,gpt-oss-120b (member),K
+k = 5 (a),Heterogeneous,"D-1G members + gpt-oss-20b, aliceai-llm",gpt-oss-120b (member),K
+k = 5 (b),Heterogeneous,"D-1G members + gpt-oss-20b, qwen3.6-35b",gpt-oss-120b (member),K
+k = 5 (c),Heterogeneous,"aliceai-llm, aliceai-llm-flash, yandexgpt-5-lite, yandexgpt-5-pro, yandexgpt-5.1",aliceai-llm (member),K
+k = 6,Heterogeneous,"D-1G members + gpt-oss-20b, aliceai-llm, qwen3.6-35b",gpt-oss-120b (member),K
+k = 7,Heterogeneous,"D-1G members + gpt-oss-20b, aliceai-llm, aliceai-llm-flash, qwen3.6-35b",gpt-oss-120b (member),K
+k = 10,Heterogeneous,"D-1G members + gpt-oss-20b, aliceai-llm, aliceai-llm-flash, qwen3.6-35b, yandexgpt-5-lite, yandexgpt-5-pro, yandexgpt-5.1",gpt-oss-120b (member),K
+"\multicolumn{5}{p{16.20cm}}{Note: Experiments: M, main clinical benchmark (229 vignettes, default prompts; rubric score and triage); R, randomly assigned clinician roles; L, protocols fixed at 400--500 words; S, abbreviated vignettes; T, five re-runs on 60 vignettes; B, blinded set scored by a second judge; G, G-Eval; A, aggregation rules and oracles built from the single-model runs; X, held-out models used to grade item difficulty; O, organizer comparison with the members fixed; D, round-level analyses; I, protocols synthesised from round-1 and round-2 material; H, hyperparameter sweeps and adaptive versus forced rounds (60 vignettes, earlier framework version); K, panel-size sweep; Q, MedMCQA (1,000 questions, with round-level analyses for panels); Qr, MedMCQA re-runs (5 $\times$ 100 questions); Qx, additional MedMCQA suite (random test 300, hard 100,
+GoA 100, MARC 100/250 and full test 4,183, with round-level
+analyses); Qx5, the same five restricted samples without full
+test (with round-level analyses). The organizer is listed first
+for DE-8G, DE-8Q36 and DE-8D.}",,,,

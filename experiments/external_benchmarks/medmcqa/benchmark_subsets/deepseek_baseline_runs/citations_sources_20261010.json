@@ -1,0 +1,80 @@
+{
+  "yun2026graphofagentsgraphbasedframeworkmultiagent": {
+    "primary_url": "https://arxiv.org/abs/2604.17148",
+    "bibtex_url": "https://arxiv.org/bibtex/2604.17148",
+    "metadata_provider": "arXiv",
+    "retrieved_date": "2026-10-10"
+  },
+  "martinez2026multiagentreasoningconsistencyverification": {
+    "primary_url": "https://arxiv.org/abs/2603.24481",
+    "bibtex_url": "https://arxiv.org/bibtex/2603.24481",
+    "metadata_provider": "arXiv",
+    "retrieved_date": "2026-10-10"
+  },
+  "shi2026emrselfevolvingmedicalmultiagent": {
+    "primary_url": "https://arxiv.org/abs/2609.15161",
+    "bibtex_url": "https://arxiv.org/bibtex/2609.15161",
+    "metadata_provider": "arXiv",
+    "retrieved_date": "2026-10-10"
+  },
+  "murugesan2026adaptivememoryreflectionmultiagent": {
+    "primary_url": "https://arxiv.org/abs/2608.19029",
+    "bibtex_url": "https://arxiv.org/bibtex/2608.19029",
+    "metadata_provider": "arXiv",
+    "retrieved_date": "2026-10-10"
+  },
+  "wang-etal-2026-deepmed": {
+    "primary_url": "https://aclanthology.org/2026.findings-acl.904/",
+    "bibtex_url": "https://aclanthology.org/2026.findings-acl.904.bib",
+    "metadata_provider": "ACL Anthology",
+    "retrieved_date": "2026-10-10"
+  },
+  "zhang-etal-2026-d2": {
+    "primary_url": "https://aclanthology.org/2026.findings-acl.754/",
+    "bibtex_url": "https://aclanthology.org/2026.findings-acl.754.bib",
+    "metadata_provider": "ACL Anthology",
+    "retrieved_date": "2026-10-10"
+  },
+  "frisoni-etal-2024-generate": {
+    "primary_url": "https://aclanthology.org/2024.acl-long.533/",
+    "bibtex_url": "https://aclanthology.org/2024.acl-long.533.bib",
+    "metadata_provider": "ACL Anthology",
+    "retrieved_date": "2026-10-10"
+  },
+  "Xiao_2025_ICCV": {
+    "primary_url": "https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Xiao_A_Dynamic_Agent_Framework_for_Large_Language_Model_Reasoning_for_ICCVW_2025_paper.html",
+    "bibtex_url": "https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Xiao_A_Dynamic_Agent_Framework_for_Large_Language_Model_Reasoning_for_ICCVW_2025_paper.html",
+    "metadata_provider": "CVF",
+    "retrieved_date": "2026-10-10"
+  },
+  "yang2025llmsynergy": {
+    "primary_url": "https://www.jmir.org/2025/1/e70080/",
+    "bibtex_url": "https://api.crossref.org/works/10.2196/70080/transform/application/x-bibtex",
+    "metadata_provider": "Crossref",
+    "retrieved_date": "2026-10-10"
+  },
+  "wang2025medrise": {
+    "primary_url": "https://mededu.jmir.org/2025/1/e70190",
+    "bibtex_url": "https://api.crossref.org/works/10.2196/70190/transform/application/x-bibtex",
+    "metadata_provider": "Crossref",
+    "retrieved_date": "2026-10-10"
+  },
+  "shi2026ermedrag": {
+    "primary_url": "https://link.springer.com/article/10.1007/s44443-026-00825-0",
+    "bibtex_url": "https://api.crossref.org/works/10.1007/s44443-026-00825-0/transform/application/x-bibtex",
+    "metadata_provider": "Crossref",
+    "retrieved_date": "2026-10-10"
+  },
+  "liu2026evomdt": {
+    "primary_url": "https://www.nature.com/articles/s41746-025-02304-8",
+    "bibtex_url": "https://api.crossref.org/works/10.1038/s41746-025-02304-8/transform/application/x-bibtex",
+    "metadata_provider": "Crossref",
+    "retrieved_date": "2026-10-10"
+  },
+  "sun2026mcc": {
+    "primary_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12866169/",
+    "bibtex_url": "https://api.crossref.org/works/10.1016/j.xcrm.2025.102547/transform/application/x-bibtex",
+    "metadata_provider": "Crossref",
+    "retrieved_date": "2026-10-10"
+  }
+}

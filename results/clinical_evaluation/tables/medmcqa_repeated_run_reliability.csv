@@ -1,0 +1,5 @@
+﻿system;questions;mean_acc;sd_acc;min;max;same_questions_as_first100
+AC-DeepSeek;100;0.9040000000000001;0.015165750888103114;0.88;0.92;True
+gpt-oss-120b;100;0.874;0.005477225575051666;0.87;0.88;True
+qwen3-235b;100;0.9;0.0;0.9;0.9;True
+deepseek-v4-flash;100;0.898;0.01483239697419134;0.88;0.92;True

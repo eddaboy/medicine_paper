@@ -1,0 +1,116 @@
+[
+  {
+    "source_cell": 4,
+    "meta_examples": 120,
+    "recorded_output": "[META] aliceai-llm/latest -> score=0.670635, tokens=211832",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 5,
+    "meta_examples": 120,
+    "recorded_output": "[META] yandexgpt-lite/latest -> score=0.594788, tokens=207352",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 6,
+    "meta_examples": 120,
+    "recorded_output": "[META] yandexgpt/latest -> score=0.588783, tokens=208046",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 8,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-oss-20b/latest -> score=0.647011, tokens=272884",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 9,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-oss-120b/latest -> score=0.686423, tokens=240457",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 10,
+    "meta_examples": 120,
+    "recorded_output": "[META] gemma-3-27b-it/latest -> score=0.636400, tokens=201100",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 11,
+    "meta_examples": 120,
+    "recorded_output": "[META] qwen3-235b-a22b-fp8/latest -> score=0.647341, tokens=244127",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 12,
+    "meta_examples": 120,
+    "recorded_output": "[META] deepseek-v32/latest -> score=0.649155, tokens=453216",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 13,
+    "meta_examples": 120,
+    "recorded_output": "[META] qwen3.5-35b-a3b-fp8/latest -> score=0.683492, tokens=207589",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 15,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4.1-mini -> score=0.672161, tokens=198482",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 16,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4.1-nano-2025-04-14 -> score=0.553226, tokens=195959",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 17,
+    "meta_examples": 500,
+    "recorded_output": "[META] gpt-4.1-nano-2025-04-14 -> score=0.559807, tokens=802791",
+    "included_in_article": false
+  },
+  {
+    "source_cell": 18,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4o-2024-08-06 -> score=0.649953, tokens=197368",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 19,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4.1-2025-04-14 -> score=0.681469, tokens=199018",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 20,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4.1-mini-2025-04-14 -> score=0.651586, tokens=198659",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 21,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-4o-mini-2024-07-18 -> score=0.602699, tokens=196447",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 23,
+    "meta_examples": 120,
+    "recorded_output": "[META] o4-mini-2025-04-16 -> score=0.685322, tokens=241857",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 24,
+    "meta_examples": 120,
+    "recorded_output": "[META] o4-mini -> score=0.667112, tokens=243515",
+    "included_in_article": true
+  },
+  {
+    "source_cell": 26,
+    "meta_examples": 120,
+    "recorded_output": "[META] gpt-5-nano-2025-08-07 -> score=0.583320, tokens=332212",
+    "included_in_article": true
+  }
+]

@@ -1,0 +1,9 @@
+arm_a,arm_b,n_paired,under_a,under_b,fixed_by_a,broken_by_a,both_under,neither_under,mcnemar_p,crit_under_a,crit_under_b,acc_a,acc_b,p_holm
+delphi_base,baseline_gpt,229,0.0131,0.048,9,1,2,217,0.02148438,0.0357,0.119,0.786,0.8166,0.15039066
+delphi_base,baseline_qwen,229,0.0131,0.0218,5,3,0,221,0.7265625,0.0357,0.0119,0.786,0.8952,1.0
+delphi_base,baseline_dsv4,228,0.0132,0.0219,4,2,1,221,0.6875,0.0357,0.0238,0.7851,0.886,1.0
+delphi_base,baseline_gemini,229,0.0131,0.0131,2,2,1,224,1.0,0.0357,0.0238,0.786,0.8603,1.0
+delphi_base,usc_gpt_k7,229,0.0131,0.0568,10,0,3,216,0.00195312,0.0357,0.1429,0.786,0.8035,0.01562496
+delphi_base,homog_gpt_x3,229,0.0131,0.0349,6,1,2,220,0.125,0.0357,0.0952,0.786,0.7162,0.75
+delphi_pstrong,baseline_dsv4,228,0.0132,0.0219,3,1,2,222,0.625,0.0238,0.0238,0.8246,0.886,1.0
+delphi_pweak,baseline_dsv4,228,0.0044,0.0219,4,0,1,223,0.125,0.0119,0.0238,0.807,0.886,0.75
