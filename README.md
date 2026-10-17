@@ -1,8 +1,6 @@
 # Clinical multi-model Delphi experiments
 
-This repository contains the data, completed language-model runs, Jupyter notebooks, statistical results and figures for a study of clinical protocol generation by multi-model Delphi panels. The analyses compare panel synthesis with individual models and budget controls, examine agreement and criterion recovery across discussion rounds, and evaluate clinical safety and transfer to MedMCQA and PubMedQA.
-
-The notebooks contain their analytical logic inline. Saved model responses and anonymized expert ratings provide the empirical inputs for reproducing the results.
+This repository contains the data, completed language-model runs, Jupyter notebooks, statistical results and figures for a study of clinical protocol generation by multi-model Delphi panels. The analyses compare panel synthesis with individual models and budget controls, examine agreement and criterion recovery across discussion rounds, and evaluate clinical safety and transfer to MedMCQA.
 
 ## Contents
 
