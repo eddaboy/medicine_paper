@@ -1,4 +1,4 @@
-# Clinical multi-model Delphi experiments
+# Delphi Framework for AI-assisted Medical Diagnostics
 
 This repository contains the data, completed language-model runs, Jupyter notebooks, statistical results and figures for a study of clinical protocol generation by multi-model Delphi panels. The analyses compare panel synthesis with individual models and budget controls, examine agreement and criterion recovery across discussion rounds, and evaluate clinical safety and transfer to MedMCQA.
 
