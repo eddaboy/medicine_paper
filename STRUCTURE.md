@@ -4,7 +4,6 @@
 data/
   external_benchmark_sources/
     medmcqa/
-    pubmedqa/
   *.csv
 experiments/
   clinical_protocols/
@@ -18,7 +17,6 @@ experiments/
   external_benchmarks/
     initial_runs/
     medmcqa/
-    pubmedqa/
 evaluations/
   blind_protocol_selection/
     russian_translation/
@@ -53,7 +51,7 @@ results/
 
 ## Data and experiments
 
-`data/` holds the shared clinical corpus, rubrics and benchmark source files. Experiment directories contain generation notebooks and completed responses. Clinical protocols distinguish single-model baselines from Delphi panels; separate control directories vary protocol length, panel homogeneity, parameters, output format and token budgets. External benchmark experiments cover MedMCQA and PubMedQA, including common subsets and expanded panel comparisons.
+`data/` holds the shared clinical corpus, rubrics and benchmark source files. Experiment directories contain generation notebooks and completed responses. Clinical protocols distinguish single-model baselines from Delphi panels; separate control directories vary protocol length, panel homogeneity, parameters, output format and token budgets. External benchmark experiments cover MedMCQA, including common subsets and expanded panel comparisons.
 
 `evaluations/` contains criterion-level judging, G-Eval scores, blind-sample selection, anonymized expert workbooks and judge validation. Translation prompts are stored as structured JSONL records. Human ratings and saved model responses are empirical observations; analysis notebooks do not recreate them.
 
@@ -91,6 +89,6 @@ The main sequence writes to `results/clinical_evaluation/`. `results/archived_ar
 | `clinical_safety/` | Triage accuracy, error costs and net benefit |
 | `evaluation_robustness/` | Truncation, protocol length, judge verbosity, rubric ceilings and failure categories |
 | `budget_efficiency/` | Generation and aggregation costs under comparable budgets |
-| `benchmark_transfer/` | Transfer of mechanisms to MedMCQA and PubMedQA |
+| `benchmark_transfer/` | Transfer of mechanisms to MedMCQA |
 
 These notebooks use completed experiment files and save tables to their topic directories. See [README.md](README.md) for installation, optional model generation and the limits of the available human-rating, USC-draft and HealthBench evidence.
